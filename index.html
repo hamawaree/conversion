@@ -1,12 +1,32 @@
 <!DOCTYPE html>
 <html lang="ja">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <title>変換ソフトをつくる</title>
-  </head>
-  <body>
+</head>
+
+<body>
     <p>
-      HTML5でWebページを記述する上で最小の構成は次のようなものです。
+        HTML5でWebページを記述する上で最小の構成は次のようなものです。
     </p>
-  </body>
+    <textarea id="text">きょう,の,てんき</textarea>
+    <input type="button" value="変換" onclick="buttonClick()"><br>
+    <textarea id="result"></textarea>
+    <script>
+        function buttonClick() {
+            let text = document.getElementById("text").value;
+            let URL = 'http://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + text;
+            fetch(URL)
+                .then(response => response.text())
+                .then(data => {
+                    // ここにURLのデータを取得した時の処理
+                    console.log(data);
+                    document.getElementById("result").value = data;
+                });
+            console.log(text);
+        }
+    </script>
+</body>
+
 </html>
