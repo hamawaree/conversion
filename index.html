@@ -15,11 +15,14 @@
     <textarea id="text">きょう,の,てんき</textarea>
     <input type="button" value="変換" onclick="buttonClick()"><br>
     <textarea id="result"></textarea>
+    
+    <script src="https://cdn.jsdelivr.net/npm/@koozaki/romaji-conv@2.0.18/dist/romaji-conv.js"></script>
     <script>
 
         function romanToHiragana() {
-            let text = document.getElementById("roman").value;
-            
+            let romaji = romajiConv(document.getElementById("roman").value);
+            romaji = romaji.toHiragana();
+            document.getElementById("text").value = romaji;
         }
 
         function buttonClick() {
