@@ -10,10 +10,18 @@
     <p>
         HTML5でWebページを記述する上で最小の構成は次のようなものです。
     </p>
+    <textarea id="roman"></textarea>
+    <input type="button" value="変換" onclick="romanToHiragana()"><br>
     <textarea id="text">きょう,の,てんき</textarea>
     <input type="button" value="変換" onclick="buttonClick()"><br>
     <textarea id="result"></textarea>
     <script>
+
+        function romanToHiragana() {
+            let text = document.getElementById("roman").value;
+            
+        }
+
         function buttonClick() {
             let text = document.getElementById("text").value;
             let URL = 'http://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + text;
