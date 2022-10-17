@@ -3,17 +3,25 @@
 
 <head>
     <meta charset="utf-8">
-    <title>変換ソフトをつくる</title>
+    <title>変換サイトをつくる</title>
 </head>
+
+<style>
+
+    textarea {
+        width:500px;
+        height:200px;
+    }
+</style>
 
 <body>
     <p>
-        HTML5でWebページを記述する上で最小の構成は次のようなものです。
+        ローマ字で入力した文章をかな漢字変換
     </p>
-    <textarea id="roman"></textarea>
-    <input type="button" value="変換" onclick="romanToHiragana()"><br>
-    <textarea id="text">きょう,の,てんき</textarea>
-    <input type="button" value="変換" onclick="buttonClick()"><br>
+    <textarea id="roman">kyou no tenki ha hare desu.</textarea>
+    <input type="button" value="roman→かな変換" onclick="romanToHiragana()"><br>
+    <textarea id="text"></textarea>
+    <input type="button" value="かな→漢字変換" onclick="kanaToKanji()"><br>
     <textarea id="result"></textarea>
     
     <script src="https://cdn.jsdelivr.net/npm/@koozaki/romaji-conv@2.0.18/dist/romaji-conv.js"></script>
@@ -21,11 +29,14 @@
 
         function romanToHiragana() {
             let romaji = romajiConv(document.getElementById("roman").value);
-            romaji = romaji.toHiragana();
-            document.getElementById("text").value = romaji;
+            // ローマ字をひらがなに変換
+            let kana = romaji.toHiragana();
+            // ひらがな文に含まれる空白にカンマを追加
+            let kana_comma = kana.replace(/\s+/g, ", ");
+            document.getElementById("text").value = kana_comma;
         }
 
-        function buttonClick() {
+        function kanaToKanji() {
             let text = document.getElementById("text").value;
             let URL = 'http://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + text;
             fetch(URL)
@@ -33,7 +44,19 @@
                 .then(data => {
                     // ここにURLのデータを取得した時の処理
                     console.log(data);
-                    document.getElementById("result").value = data;
+
+                    // dataをパースして変換結果の第1候補のみを表示
+                    let json = JSON.parse(data);
+                    let result="";
+                    for (let item in json){
+                        result += json[item][1][0];
+                    }
+                    
+                    // スペースを削除
+                    result = result.replace(/\s+/g, "");
+
+                    // 結果を表示
+                    document.getElementById("result").value = result;
                 });
             console.log(text);
         }
