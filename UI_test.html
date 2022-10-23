@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    <script src="https://unpkg.com/vue@next"></script>
+    <title>変換サイトをつくる</title>
+</head>
+
+<style>
+    ul {
+        color: red;
+
+        /* 左の点と字下げをなくす */
+        list-style: none;
+        margin-left: 0;
+        padding-left: 0;
+
+        /* 子要素の大きさに合わせたボックスを作る */
+        border: 1px solid rgba(0,0,0,.1);
+        width: fit-content;
+    }
+    li {
+        /* 区切り線 */
+        border-bottom: 1px solid rgba(0,0,0,.1);
+        
+        /* 左右の余白 */
+        padding-left: 5px;
+        padding-right: 5px;
+
+        /* カーソルを指マークで示す */
+        cursor: pointer;
+        cursor: hand;
+
+    }
+
+    li:hover {
+        /* カーソルがある要素を示す */
+        background-color: aliceblue;
+    }
+
+    span {
+        cursor: text;
+    }
+
+    span:hover {
+        /* カーソルがある要素を示す */
+        background-color: aqua;
+    }
+
+    .hide{
+        display: none;
+    }
+
+    .convWindow {
+        color:black;
+        transform: translate(29px, 120px);
+    }
+
+</style>
+
+<body>
+    <!-- <div id="textarea">
+        <div v-for="(num,index) in 5">
+            <span v-on:mouseover="mouseOverAction(index)" v-on:mouseleave="mouseLeaveAction(index)">{{message}}</span>
+            <p v-show="hoverFlag && index === hoverIndex ">hoverされました</p>
+        </div>
+    </div> -->
+
+    
+    
+    <div id="app">
+
+        <span v-for="(num,index) in 3">
+            <span v-on:mouseover="mouseOverAction(index)"
+            v-on:mouseleave="mouseLeaveAction(index)"
+            >{{message}}</span>
+        </span>
+
+
+        <div class="convWindow" v-show="hoverFlag">
+            <ul>
+                <li>aaaaaaaaaaaaaaaaaa</li>
+                <li>bbbb</li>
+                <li>cccc</li>
+                <li>dddd</li>
+            </ul>
+            hoverIndex: {{ hoverIndex }}
+        </div>
+    </div>
+</body>
+
+<script>
+    const list = ['One', 'Two', 'Three']
+    const appdata = {
+        data() {
+            return{
+                message: 'hoverしてください',
+                hoverFlag: false,
+                hoverIndex: null,
+            }
+        },
+        methods: {
+            mouseOverAction(index){
+                this.hoverFlag = true
+                this.hoverIndex = index
+            },
+            mouseLeaveAction(){
+                this.hoverFlag = false
+            }
+        }
+    }
+   
+    let app = Vue.createApp(appdata)
+    app.mount('#app')
+</script>
+
+<!-- <script>
+    const textareadata = {
+      data() {
+        return {
+            message: 'hoverしてください',
+            hoverFlag: false,
+            hoverIndex: null
+        }
+    },
+    methods: {
+        mouseOverAction(index){
+            this.hoverFlag = true
+            this.hoverIndex = index
+        },
+        mouseLeaveAction(){
+            this.hoverFlag = false
+        }
+    }
+    }
+
+    let textarea = Vue.createApp(textareadata)
+    app.mount('#textarea')
+</script> -->
+
+</html>
