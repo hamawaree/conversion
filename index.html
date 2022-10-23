@@ -39,7 +39,7 @@
 
         function kanaToKanji() {
             let text = document.getElementById("text").value;
-            let URL = 'http://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + text;
+            let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + text;
             fetch(URL)
                 .then(response => response.text())
                 .then(data => {
