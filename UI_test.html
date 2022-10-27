@@ -7,6 +7,10 @@
 </head>
 
 <style>
+    body {
+        background-color: dimgray;
+    }
+
     ul {
         color: red;
 
@@ -53,7 +57,7 @@
 
     .convWindow {
         color:black;
-        transform: translate(29px, 120px);
+        /* transform: translate(29px, 120px); */
     }
 
 </style>
@@ -71,15 +75,15 @@
     <div id="app">
 
         <span v-for="(num,index) in 3">
-            <span v-on:mouseover="mouseOverAction(index)"
-            v-on:mouseleave="mouseLeaveAction(index)"
-            >{{message}}</span>
+            <span v-on:mouseover="mouseOverAction(index)" v-bind:id="`target${index}`">target{{index}}</span>
         </span>
 
+        <button v-on:click="release();">選択解除</button>
 
-        <div class="convWindow" v-show="hoverFlag">
+
+        <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate('+ px  + 'px, -20px')" >
             <ul>
-                <li>aaaaaaaaaaaaaaaaaa</li>
+                <li @click="convert()">aaaaaaaaaaaaaaaaaa</li>
                 <li>bbbb</li>
                 <li>cccc</li>
                 <li>dddd</li>
@@ -97,15 +101,35 @@
                 message: 'hoverしてください',
                 hoverFlag: false,
                 hoverIndex: null,
+                px: 0,
+                py: 0
             }
         },
         methods: {
             mouseOverAction(index){
                 this.hoverFlag = true
                 this.hoverIndex = index
+
+
+                // ホバーしたアイテムの座標を取得
+                var target_id = "target" + index;
+                console.log(target_id);
+                var element = document.getElementById(target_id);
+                var clientRect = element.getBoundingClientRect();
+                // ページの左端から、要素の左端までの距離
+                this.px = window.pageXOffset + clientRect.left -10;
+                // ページの上端から、要素の上端までの距離
+                this.py = window.pageYOffset + clientRect.top;
+                // alert(px,py)
+                console.log(this.px,this.py);
+                
             },
-            mouseLeaveAction(){
+            release(){
                 this.hoverFlag = false
+            },
+            convert(){
+                alert("へんかん！");
+
             }
         }
     }
