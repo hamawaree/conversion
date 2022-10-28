@@ -62,20 +62,11 @@
 
 </style>
 
-<body>
-    <!-- <div id="textarea">
-        <div v-for="(num,index) in 5">
-            <span v-on:mouseover="mouseOverAction(index)" v-on:mouseleave="mouseLeaveAction(index)">{{message}}</span>
-            <p v-show="hoverFlag && index === hoverIndex ">hoverされました</p>
-        </div>
-    </div> -->
-
-    
-    
+<body>    
     <div id="app">
 
-        <span v-for="(num,index) in 3">
-            <span v-on:mouseover="mouseOverAction(index)" v-bind:id="`target${index}`">target{{index}}</span>
+        <span v-for="(num,index) in conv_result.length" v-on:mouseover="mouseOverAction(index)" v-bind:id="`target${index}`">
+            {{conv_result[index][1][0]}}
         </span>
 
         <button v-on:click="release();">選択解除</button>
@@ -83,10 +74,8 @@
 
         <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate('+ px  + 'px, -20px')" >
             <ul>
-                <li @click="convert()">aaaaaaaaaaaaaaaaaa</li>
-                <li>bbbb</li>
-                <li>cccc</li>
-                <li>dddd</li>
+                <!-- <li v-for="(num,index) in 5" @click="convert()">{{conv_result[`${hoverIndex}`][1][index]}}</li> -->
+                <li v-for="(num,index) in 5" @click="convert()">{{conv_result[hoverIndex][1][index]}}</li>
             </ul>
             hoverIndex: {{ hoverIndex }}
         </div>
@@ -94,21 +83,26 @@
 </body>
 
 <script>
-    const list = ['One', 'Two', 'Three']
+    let data = '[["きょう",["今日","きょう","教","強","凶"]],[" の",[" の","の"," ノ"," ﾉ"]],[" てんき",[" 天気","天気"," てんき"," テンキ"," ﾃﾝｷ"]],[" は",[" は","は"," ハ"," ﾊ"]],[" はれ",[" 晴れ","晴れ"," はれ"," ハレ"," ﾊﾚ"]],[" です。",[" です。","です。"," デス。"," ﾃﾞｽ｡"]]]'
+    let json = JSON.parse(data);
     const appdata = {
         data() {
             return{
                 message: 'hoverしてください',
                 hoverFlag: false,
-                hoverIndex: null,
+                hoverIndex: 0,
                 px: 0,
-                py: 0
+                py: 0,
+                conv_result: json
             }
         },
         methods: {
             mouseOverAction(index){
                 this.hoverFlag = true
                 this.hoverIndex = index
+                // this.conv_result = result
+
+                console.log("length: " + this.conv_result.length);
 
 
                 // ホバーしたアイテムの座標を取得
@@ -120,16 +114,15 @@
                 this.px = window.pageXOffset + clientRect.left -10;
                 // ページの上端から、要素の上端までの距離
                 this.py = window.pageYOffset + clientRect.top;
-                // alert(px,py)
-                console.log(this.px,this.py);
+                // コンソール(px, py)
+                // console.log(this.px,this.py);
                 
             },
             release(){
                 this.hoverFlag = false
             },
             convert(){
-                alert("へんかん！");
-
+                
             }
         }
     }
@@ -137,29 +130,5 @@
     let app = Vue.createApp(appdata)
     app.mount('#app')
 </script>
-
-<!-- <script>
-    const textareadata = {
-      data() {
-        return {
-            message: 'hoverしてください',
-            hoverFlag: false,
-            hoverIndex: null
-        }
-    },
-    methods: {
-        mouseOverAction(index){
-            this.hoverFlag = true
-            this.hoverIndex = index
-        },
-        mouseLeaveAction(){
-            this.hoverFlag = false
-        }
-    }
-    }
-
-    let textarea = Vue.createApp(textareadata)
-    app.mount('#textarea')
-</script> -->
 
 </html>

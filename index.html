@@ -4,9 +4,65 @@
 <head>
     <meta charset="utf-8">
     <title>変換サイトをつくる</title>
+    <script src="https://unpkg.com/vue@next"></script>
 </head>
 
 <style>
+    /* body全体 */
+    body {
+        background-color: dimgray;
+    }
+
+    /* 変換窓 */
+    .convWindow {
+        color:black;
+        /* transform: translate(29px, 120px); */
+    }
+
+    ul {
+        color: red;
+
+        /* 左の点と字下げをなくす */
+        list-style: none;
+        margin-left: 0;
+        padding-left: 0;
+
+        /* 子要素の大きさに合わせたボックスを作る */
+        border: 1px solid rgba(0,0,0,.1);
+        width: fit-content;
+    }
+    li {
+        /* 区切り線 */
+        border-bottom: 1px solid rgba(0,0,0,.1);
+        
+        /* 左右の余白 */
+        padding-left: 5px;
+        padding-right: 5px;
+
+        /* カーソルを指マークで示す */
+        cursor: pointer;
+        cursor: hand;
+
+    }
+    li:hover {
+        /* カーソルがある要素を示す */
+        background-color: aliceblue;
+    }
+
+    span {
+        cursor: text;
+    }
+
+    span:hover {
+        /* カーソルがある要素を示す */
+        background-color: aqua;
+    }
+
+    .hide{
+        display: none;
+    }
+
+
 
     textarea {
         width:500px;
@@ -25,43 +81,111 @@
     <textarea id="result"></textarea><br>
     <a href="UI_test.html">UIのテスト</a>
     
-    <script src="https://cdn.jsdelivr.net/npm/@koozaki/romaji-conv@2.0.18/dist/romaji-conv.js"></script>
-    <script>
 
-        function romanToHiragana() {
-            let romaji = romajiConv(document.getElementById("roman").value);
-            // ローマ字をひらがなに変換
-            let kana = romaji.toHiragana();
-            // ひらがな文に含まれる空白にカンマを追加
-            let kana_comma = kana.replace(/\s+/g, ", ");
-            document.getElementById("text").value = kana_comma;
-        }
+    <div id="app">
 
-        function kanaToKanji() {
-            let text = document.getElementById("text").value;
-            let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + text;
-            fetch(URL)
-                .then(response => response.text())
-                .then(data => {
-                    // ここにURLのデータを取得した時の処理
-                    console.log(data);
+        <span v-for="(num,index) in 5">
+            <span v-on:mouseover="mouseOverAction(index)" v-bind:id="`target${index}`">target{{index}}
+            </span>
+        </span>
 
-                    // dataをパースして変換結果の第1候補のみを表示
-                    let json = JSON.parse(data);
-                    let result="";
-                    for (let item in json){
-                        result += json[item][1][0];
-                    }
-                    
-                    // スペースを削除
-                    result = result.replace(/\s+/g, "");
+        <button v-on:click="release();">選択解除</button>
 
-                    // 結果を表示
-                    document.getElementById("result").value = result;
-                });
-            console.log(text);
-        }
-    </script>
+
+        <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate('+ px  + 'px, -20px')" >
+            <ul>
+                <li @click="convert()">aaaaaaaaaaaaaaaaaa</li>
+                <li>bbbb</li>
+                <li>cccc</li>
+                <li>dddd</li>
+            </ul>
+            hoverIndex: {{ hoverIndex }}
+        </div>
+    </div>
 </body>
+
+<script src="https://cdn.jsdelivr.net/npm/@koozaki/romaji-conv@2.0.18/dist/romaji-conv.js"></script>
+<script>
+    let json;
+
+    function romanToHiragana() {
+        let romaji = romajiConv(document.getElementById("roman").value);
+        // ローマ字をひらがなに変換
+        let kana = romaji.toHiragana();
+        // ひらがな文に含まれる空白にカンマを追加
+        let kana_comma = kana.replace(/\s+/g, ", ");
+        document.getElementById("text").value = kana_comma;
+    }
+
+    function kanaToKanji() {
+        let text = document.getElementById("text").value;
+        let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + text;
+        fetch(URL)
+            .then(response => response.text())
+            .then(data => {
+                // ここにURLのデータを取得した時の処理
+                console.log(data);
+
+                // dataをパースして変換結果の第1候補のみを表示
+                json = JSON.parse(data);
+                let result="";
+                for (let item in json){
+                    result += json[item][1][0];
+                }
+                
+                // スペースを削除
+                result = result.replace(/\s+/g, "");
+
+                // 結果を表示
+                document.getElementById("result").value = result;
+            });
+        console.log(text);
+    }
+</script>
+
+<script>
+    let list = ['One', 'Two', 'Three']
+    const appdata = {
+        data() {
+            return{
+                message: 'hoverしてください',
+                hoverFlag: false,
+                hoverIndex: null,
+                px: 0,
+                py: 0,
+            }
+        },
+        methods: {
+            mouseOverAction(index){
+                this.hoverFlag = true
+                this.hoverIndex = index
+
+
+                // ホバーしたアイテムの座標を取得
+                var target_id = "target" + index;
+                console.log(target_id);
+                var element = document.getElementById(target_id);
+                var clientRect = element.getBoundingClientRect();
+                // ページの左端から、要素の左端までの距離
+                this.px = window.pageXOffset + clientRect.left -10;
+                // ページの上端から、要素の上端までの距離
+                this.py = window.pageYOffset + clientRect.top;
+                // alert(px,py)
+                console.log(this.px,this.py);
+                
+            },
+            release(){
+                this.hoverFlag = false
+            },
+            convert(){
+                alert(list[0]);
+
+            }
+        }
+    }
+   
+    let app = Vue.createApp(appdata)
+    app.mount('#app')
+</script>
 
 </html>
