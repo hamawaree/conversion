@@ -8,7 +8,7 @@
 
 <style>
     body {
-        background-color: dimgray;
+        /* background-color: dimgray; */
     }
 
     ul {
@@ -65,19 +65,19 @@
 <body>    
     <div id="app">
 
+        <!-- APIの結果の一番上のやつをとりあえず表示 -->
         <span v-for="(num,index) in conv_result.length" v-on:mouseover="mouseOverAction(index)" v-bind:id="`target${index}`">
-            {{conv_result[index][1][0]}}
+            {{conv_result[index][1][conv_index]}}
         </span>
 
         <button v-on:click="release();">選択解除</button>
 
 
+        <!-- hoverされている時に表示する変換窓 -->
         <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate('+ px  + 'px, -20px')" >
             <ul>
-                <!-- <li v-for="(num,index) in 5" @click="convert()">{{conv_result[`${hoverIndex}`][1][index]}}</li> -->
-                <li v-for="(num,index) in 5" @click="convert()">{{conv_result[hoverIndex][1][index]}}</li>
+                <li v-for="(num,index) in 5" @click="change(index)">{{conv_result[hoverIndex][1][index]}}</li>
             </ul>
-            hoverIndex: {{ hoverIndex }}
         </div>
     </div>
 </body>
@@ -93,7 +93,8 @@
                 hoverIndex: 0,
                 px: 0,
                 py: 0,
-                conv_result: json
+                conv_result: json,
+                conv_index: 0
             }
         },
         methods: {
@@ -121,7 +122,7 @@
             release(){
                 this.hoverFlag = false
             },
-            convert(){
+            change(index){
                 
             }
         }
