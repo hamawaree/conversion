@@ -3,88 +3,56 @@
 <head>
     <meta charset="utf-8">
     <script src="https://unpkg.com/vue@next"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@koozaki/romaji-conv@2.0.18/dist/romaji-conv.js"></script>
     <title>変換サイトをつくる</title>
+    <link href="style.css" rel="stylesheet">
 </head>
 
-<style>
-    body {
-        /* background-color: dimgray; */
-    }
 
-    ul {
-        color: red;
 
-        /* 左の点と字下げをなくす */
-        list-style: none;
-        margin-left: 0;
-        padding-left: 0;
-
-        /* 子要素の大きさに合わせたボックスを作る */
-        border: 1px solid rgba(0,0,0,.1);
-        width: fit-content;
-    }
-    li {
-        /* 区切り線 */
-        border-bottom: 1px solid rgba(0,0,0,.1);
-        
-        /* 左右の余白 */
-        padding-left: 5px;
-        padding-right: 5px;
-
-        /* カーソルを指マークで示す */
-        cursor: pointer;
-        cursor: hand;
-
-    }
-
-    li:hover {
-        /* カーソルがある要素を示す */
-        background-color: aliceblue;
-    }
-
-    span {
-        cursor: text;
-    }
-
-    span:hover {
-        /* カーソルがある要素を示す */
-        background-color: aqua;
-    }
-
-    .hide{
-        display: none;
-    }
-
-    .convWindow {
-        color:black;
-        /* transform: translate(29px, 120px); */
-    }
-
-</style>
-
-<body>    
+<body >    
     <div id="app">
+        <div v-on:click="release();">
+            <p>
+                ローマ字で入力した文章をかな漢字変換
+            </p>
 
-        <!-- APIの結果の一番上のやつをとりあえず表示 -->
-        <span v-for="(num,index) in conv_result.length" v-on:mouseover="mouseOverAction(index)" v-bind:id="`target${index}`">
-            {{conv_result[index][1][conv_index]}}
-        </span>
+            <!-- 結果の一番上のやつをとりあえず表示 -->
+            <span v-for="(num,index) in convResult.length" v-on:mouseover="displayConvWindow(index)" v-bind:id="`target${index}`">
+                {{convResult[index][1][convIndex[index]]}}
+            </span>
 
-        <button v-on:click="release();">選択解除</button>
+            <button v-on:click="release();">選択解除ボタン</button>
 
 
-        <!-- hoverされている時に表示する変換窓 -->
-        <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate('+ px  + 'px, -20px')" >
-            <ul>
-                <li v-for="(num,index) in 5" @click="change(index)">{{conv_result[hoverIndex][1][index]}}</li>
-            </ul>
+            <!-- hoverされている時に表示する変換窓 -->
+            <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate('+ px  + 'px, -20px')" >
+                <ul>
+                    <li v-for="(num,index) in 5" @click="change(hoverIndex,index)">{{convResult[hoverIndex][1][index]}}</li>
+                </ul>
+            </div>
+
+            <br>
+
+
+            <textarea id="roman">kyou no tenki ha hare desu.</textarea>
+            <input type="button" value="初期化" @click="init()"><br>
         </div>
     </div>
 </body>
 
 <script>
-    let data = '[["きょう",["今日","きょう","教","強","凶"]],[" の",[" の","の"," ノ"," ﾉ"]],[" てんき",[" 天気","天気"," てんき"," テンキ"," ﾃﾝｷ"]],[" は",[" は","は"," ハ"," ﾊ"]],[" はれ",[" 晴れ","晴れ"," はれ"," ハレ"," ﾊﾚ"]],[" です。",[" です。","です。"," デス。"," ﾃﾞｽ｡"]]]'
-    let json = JSON.parse(data);
+    let data = '[["きょう",["今日","きょう","教","強","凶"]],["の",["の","の","ノ","ﾉ"]],["てんき",["天気","天気","てんき","テンキ","ﾃﾝｷ"]],["は",["は","は","ハ","ﾊ"]],["はれ",["晴れ","晴れ","はれ","ハレ","ﾊﾚ"]],["です。",["です。","です。","デス。","ﾃﾞｽ｡"]]]'
+    let json = JSON.parse(data)
+
+    // 変換結果を管理する配列
+    // arr[0] = 3 → 0番目のデータの変換結果は3番目
+    let arr = [];
+    for (let i = 0; i < json.length; i++){
+        // 0 で初期化(一番最初の変換候補をとりあえず表示)
+        arr[i] = 0; 
+    }
+
     const appdata = {
         data() {
             return{
@@ -93,17 +61,17 @@
                 hoverIndex: 0,
                 px: 0,
                 py: 0,
-                conv_result: json,
-                conv_index: 0
+                convResult: json,
+                convIndex: arr
             }
         },
         methods: {
-            mouseOverAction(index){
+            // 変換窓を表示(マウスオーバーで呼び出し)
+            displayConvWindow(index){
                 this.hoverFlag = true
                 this.hoverIndex = index
-                // this.conv_result = result
 
-                console.log("length: " + this.conv_result.length);
+                console.log("length: " + this.convResult.length);
 
 
                 // ホバーしたアイテムの座標を取得
@@ -111,19 +79,48 @@
                 console.log(target_id);
                 var element = document.getElementById(target_id);
                 var clientRect = element.getBoundingClientRect();
+
                 // ページの左端から、要素の左端までの距離
                 this.px = window.pageXOffset + clientRect.left -10;
+                
                 // ページの上端から、要素の上端までの距離
                 this.py = window.pageYOffset + clientRect.top;
-                // コンソール(px, py)
-                // console.log(this.px,this.py);
                 
             },
             release(){
                 this.hoverFlag = false
             },
-            change(index){
-                
+            change(hoverIndex, index){
+                this.convIndex[hoverIndex] = index
+            },
+
+            // init テスト
+            init(){
+                let romaji = romajiConv(document.getElementById("roman").value);
+
+                //入力欄の文字を消す
+                document.getElementById("roman").value = ""
+
+                // ローマ字をひらがなに変換
+                let kana = romaji.toHiragana();
+
+                // ひらがな文に含まれる空白にカンマを追加
+                let kana_comma = kana.replace(/\s+/g, ",");
+
+                let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + kana_comma;
+
+                fetch(URL)
+                    .then(response => response.text())
+                    .then(data => {
+                        // ここにURLのデータを取得した時の処理
+                        json = JSON.parse(data)
+
+                        this.convResult = [...this.convResult, ...json]
+                        for (let i = 0; i < this.convResult.length; i++){
+                            // 0 で初期化(一番最初の変換候補をとりあえず表示)
+                            this.convIndex[i] = 0; 
+                        }
+                    });
             }
         }
     }
