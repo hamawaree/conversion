@@ -26,7 +26,7 @@
 
 
             <!-- hoverされている時に表示する変換窓 -->
-            <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate('+ px  + 'px, -20px')" >
+            <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate(' + convWindowPositionX  + 'px, ' + convWindowPositionY + 'px')">
                 <ul>
                     <li v-for="(num,index) in 5" @click="change(hoverIndex,index)">{{convResult[hoverIndex][1][index]}}</li>
                 </ul>
@@ -59,8 +59,8 @@
                 message: 'hoverしてください',
                 hoverFlag: false,
                 hoverIndex: 0,
-                px: 0,
-                py: 0,
+                convWindowPositionX: 0,
+                convWindowPositionY: 0,
                 convResult: json,
                 convIndex: arr
             }
@@ -81,10 +81,10 @@
                 var clientRect = element.getBoundingClientRect();
 
                 // ページの左端から、要素の左端までの距離
-                this.px = window.pageXOffset + clientRect.left -10;
+                this.convWindowPositionX = window.pageXOffset + clientRect.left -10;
                 
                 // ページの上端から、要素の上端までの距離
-                this.py = window.pageYOffset + clientRect.top;
+                this.convWindowPositionY = window.pageYOffset + clientRect.top;
                 
             },
             release(){

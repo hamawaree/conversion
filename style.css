@@ -4,6 +4,9 @@ body {
 
 ul {
     color: red;
+    /* 上下のマージンをなくす */
+    margin-top: 0;
+    margin-bottom: 0;
 
     /* 左の点と字下げをなくす */
     list-style: none;
@@ -49,7 +52,8 @@ span:hover {
 
 .convWindow {
     color:black;
-    /* transform: translate(29px, 120px); */
+    z-index: 1;
+    position: absolute;
 }
 
 
