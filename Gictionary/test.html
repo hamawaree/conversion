@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <title>File Input Test</title>
+    <script>
+      function fileChanged(input) {
+        console.log(input);
+        for (let i = 0; i < input.files.length; i++) {
+          console.log(input.files[i]);
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <input type="file" onchange="fileChanged(this)" multiple/>
+  </body>
+</html>
