@@ -1,4 +1,5 @@
 const fs = require('fs');
+const hiragana2romaji = require("./hiragana2romaji.js").default;
 
 const jsonObject = JSON.parse(fs.readFileSync('./Gictionary.json', 'utf8'));
 const result = [];
@@ -25,6 +26,12 @@ jsonObject.pages.forEach((obj) => {
     obj.kana = obj.kana.filter((element, index) => obj.kana.indexOf(element) === index);
 
     delete obj.lines;
+
+    // romanを作る
+    obj.roman = JSON.parse(JSON.stringify(obj.kana));
+    for(i = 0 ; i < obj.roman.length ; i++ ){
+        obj.roman[i] = hiragana2romaji(obj.roman[i]);
+    }
 
     result.push(obj);
 });
