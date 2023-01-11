@@ -9,24 +9,18 @@ window.addEventListener('load', () => {
         },
         methods: {
             search(){
-
-                // let filtered = dictionary.filter(word => word.title.length > 10);
                 let regex = new RegExp(this.textInput);
-                let filteredRoman
 
                 dictionary.forEach((obj)=>{
                     obj.roman_found = obj.roman.find(arr => arr.match(regex))
-                    if(obj.roman_found){
-                        console.log(obj);
-                    }
                 });
 
                 let filtered = dictionary.filter(obj => obj.roman_found);
-                // let filtered = fiter_befor.filter(word => word.roman.match(regex));
-                // let filtered = dictionary.filter(word => word.title.match(regex));
 
-                console.log(filtered);
+                // 前の検索結果を削除
+                this.result.splice(0)
 
+                // 検索結果を格納
                 if (filtered.length <= 10){
                     for(i=0;i<filtered.length;i++){
                         this.result[i] = filtered[i].title;
