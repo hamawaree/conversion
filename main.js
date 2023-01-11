@@ -51,8 +51,8 @@ window.addEventListener('load', () => {
                 this.convIndex[hoverIndex] = index
             },
 
-            // init テスト
-            init(){
+            // 
+            convert(){
                 let romaji = romajiConv(document.getElementById("roman").value);
 
                 //入力欄の文字を消す
