@@ -3,13 +3,18 @@ window.addEventListener('load', () => {
     const appdata = {
         data() {
             return{
-                textInput: ""
+                textInput: "",
+                result:[]
             }
         },
         methods: {
             search(){
-                alert(this.textInput);
-                console.log(this.textInput);
+                // alert(dictionary[1].title);
+
+                for(i=0;i<5;i++){
+                    this.result[i] = dictionary[i].title;
+                }
+                console.log(this.result);
             }
         }
     }
