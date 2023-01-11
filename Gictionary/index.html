@@ -6,10 +6,15 @@
     <script src="https://unpkg.com/vue@next"></script>
     <script src="dictionary.js"></script>
     <script src="main.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <!-- <link rel="stylesheet" href="style.css"> -->
   </head>
   <body>
-    <input type="serch" id="serch">
-    <input type="button" value="検索">
+    <div id="app">
+
+      <!-- v-modelで双方向バインディング -->
+      <input type="serch" v-model="textInput">
+      <input type="button" value="検索" v-on:click="search();">
+      <p>{{ textInput }}</p>
+    </div>
   </body>
 </html>
