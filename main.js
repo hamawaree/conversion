@@ -11,7 +11,7 @@ window.addEventListener('load', () => {
 
 
     // 変換結果を管理する配列
-    // arr[0] = 3 → 0番目のデータの変換結果は3番目
+    // 例: 'arr[0] = 3'は0番目のデータの変換結果は3番目ということを表す
     let arr = [];
     for (let i = 0; i < json.length; i++){
         // 0 で初期化(一番最初の変換候補をとりあえず表示)
@@ -21,7 +21,6 @@ window.addEventListener('load', () => {
     const appdata = {
         data() {
             return{
-                message: 'hoverしてください',
                 hoverFlag: false,
                 hoverIndex: 0,
                 convWindowPositionX: 0,
@@ -80,9 +79,12 @@ window.addEventListener('load', () => {
                     .then(response => response.text())
                     .then(data => {
                         // ここにURLのデータを取得した時の処理
+
                         json = JSON.parse(data)
 
+                        // 変換結果として得られた配列jsonをこれまでの変換結果と結合する
                         this.convResult = [...this.convResult, ...json]
+
                         for (let i = this.prevLength; i < this.convResult.length; i++){
                             // 0 で初期化(一番最初の変換候補をとりあえず表示)
                             this.convIndex[i] = 0; 

@@ -12,10 +12,11 @@
   <body>
     <div id="app">
       <!-- v-modelで双方向バインディング -->
-      <input type="serch" v-model="textInput" v-on:input="search();">
+      <input type="serch" v-model="textInput" v-on:input="search();dlTest();">
       <input type="button" value="検索" v-on:click="dlTest();">
-      <p>{{ textInput }}</p>
+      <h4>①一致するローマ字を含むものを検索</h4>
       <p>{{ result }}</p>
+      <h4>②ダメラウ・レーベンシュタイン距離が1以下のものを検索</h4>
       <p>{{ dl_result }}</p>
     </div>
   </body>
