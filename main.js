@@ -21,12 +21,13 @@ window.addEventListener('load', () => {
     const appdata = {
         data() {
             return{
-                hoverFlag: false,
+                displayConvWindowFlg: false,
                 hoverIndex: 0,
                 convWindowPositionX: 0,
                 convWindowPositionY: 0,
-                convResult: json,
+                convResultArray: json,
                 convIndex: arr,
+
                 // 前回の変換の文字数
                 prevLength: 0
             }
@@ -34,7 +35,7 @@ window.addEventListener('load', () => {
         methods: {
             // 変換窓を表示(マウスオーバーで呼び出し)
             displayConvWindow(index){
-                this.hoverFlag = true
+                this.displayConvWindowFlg = true
                 this.hoverIndex = index
 
 
@@ -51,7 +52,7 @@ window.addEventListener('load', () => {
                 
             },
             release(){
-                this.hoverFlag = false
+                this.displayConvWindowFlg = false
             },
             change(hoverIndex, index){
                 this.convIndex[hoverIndex] = index
@@ -73,7 +74,7 @@ window.addEventListener('load', () => {
                 let kana_comma = kana.replace(/\s+/g, ",");
 
                 let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + kana_comma;
-                this.prevLength = this.convResult.length;
+                this.prevLength = this.convResultArrayArray.length;
 
                 fetch(URL)
                     .then(response => response.text())
@@ -83,9 +84,9 @@ window.addEventListener('load', () => {
                         json = JSON.parse(data)
 
                         // 変換結果として得られた配列jsonをこれまでの変換結果と結合する
-                        this.convResult = [...this.convResult, ...json]
+                        this.convResultArray = [...this.convResultArray, ...json]
 
-                        for (let i = this.prevLength; i < this.convResult.length; i++){
+                        for (let i = this.prevLength; i < this.convResultArray.length; i++){
                             // 0 で初期化(一番最初の変換候補をとりあえず表示)
                             this.convIndex[i] = 0; 
                         }

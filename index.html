@@ -12,24 +12,22 @@
 
 
 <body >    
-    <div id="app">
+    <div id="app" class="app">
         <div v-on:click="release();">
-            <p>
-                ローマ字で入力した文章をかな漢字変換
-            </p>
+            <p>ローマ字で入力した文章をかな漢字変換</p>
 
             <!-- 結果の一番上のやつをとりあえず表示 -->
-            <span v-for="(num,index) in convResult.length" v-on:mouseover="displayConvWindow(index)" v-bind:id="`target${index}`">
-                {{convResult[index][1][convIndex[index]]}}
+            <span v-for="(num,index) in convResultArray.length" v-on:mouseover="displayConvWindow(index)" v-bind:id="`target${index}`">
+                {{convResultArray[index][1][convIndex[index]]}}
             </span>
 
             <button v-on:click="release();">選択解除ボタン</button>
 
 
             <!-- hoverされている時に表示する変換窓 -->
-            <div class="convWindow" v-show="hoverFlag" v-bind:style="('transform: translate(' + convWindowPositionX  + 'px, ' + convWindowPositionY + 'px')">
+            <div class="convWindow" v-show="displayConvWindowFlg" v-bind:style="('transform: translate(' + convWindowPositionX  + 'px, ' + convWindowPositionY + 'px')">
                 <ul>
-                    <li v-for="(num,index) in 5" @click="change(hoverIndex,index)">{{convResult[hoverIndex][1][index]}}</li>
+                    <li v-for="(num,index) in 5" @click="change(hoverIndex,index)">{{convResultArray[hoverIndex][1][index]}}</li>
                 </ul>
             </div>
 
