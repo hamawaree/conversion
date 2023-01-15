@@ -14,12 +14,17 @@ jsonObject.pages.forEach((obj) => {
     const regex = new RegExp("^[ぁ-ん]");
     obj.kana = obj.lines.filter((value) => regex.test(value));
     
-    // スペース以降を削除
+    
     for(i = 0 ; i < obj.kana.length ; i++ ){
+        // 空白を削除
         if(obj.kana[i]==""){
             obj.kana.splice(i,1);
         }
-        obj.kana[i] = obj.kana[i].slice(0,obj.kana[i].indexOf(' '))
+
+        // スペースがあった場合、スペースの位置以降を削除
+        if(obj.kana[i].indexOf(' ') !== -1){
+            obj.kana[i] = obj.kana[i].slice(0,obj.kana[i].indexOf(' '))
+        }
     }
 
     // 重複を削除
