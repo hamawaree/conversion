@@ -18,10 +18,6 @@
                 ローマ字で入力した文章をかな漢字変換
             </p>
 
-            <p>辞書インポート</p>
-            <input type="file" id="file1"/>
-            <pre id="pre1"></pre>
-
             <!-- 結果の一番上のやつをとりあえず表示 -->
             <span v-for="(num,index) in convResult.length" v-on:mouseover="displayConvWindow(index)" v-bind:id="`target${index}`">
                 {{convResult[index][1][convIndex[index]]}}
@@ -40,8 +36,8 @@
             <br>
 
 
-            <textarea id="roman">kyou no tenki ha hare desu.</textarea>
-            <input type="button" value="初期化" @click="init()"><br>
+            <textarea id="textInput">kyou no tenki ha hare desu.</textarea>
+            <input type="button" value="変換" @click="convert()"><br>
         </div>
     </div>
 </body>

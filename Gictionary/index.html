@@ -4,13 +4,19 @@
     <meta charset="utf-8">
     <title>変換サイトをつくる</title>
     <script src="https://unpkg.com/vue@next"></script>
+    <script src="https://cdn.jsdelivr.net/npm/damerau-levenshtein-js@1.1.8/app.min.js"></script>
+    <script src="dictionary.js"></script>
     <script src="main.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <!-- <link rel="stylesheet" href="style.css"> -->
   </head>
   <body>
-    <form name="test">
-      <input type="file" id="selfile"><br>
-      <textarea name="txt" rows="10" cols="40" readonly></textarea>
-    </form>
+    <div id="app">
+      <!-- v-modelで双方向バインディング -->
+      <input type="serch" v-model="textInput" v-on:input="search();">
+      <input type="button" value="検索" v-on:click="dlTest();">
+      <p>{{ textInput }}</p>
+      <p>{{ result }}</p>
+      <p>{{ dl_result }}</p>
+    </div>
   </body>
 </html>
