@@ -66,10 +66,17 @@ window.addEventListener('load', () => {
 
                 let filtered = dictionary.filter(obj => obj.sokki_found);
                 
+                // 速記結果をダメラウレーベンシュタイン距離で並び替え
+                filtered.forEach((obj)=>{
+                    obj.dl = distance(this.textInput, obj.sokki_found);
+                });
+                filtered.sort((obj1,obj2) => obj1.dl - obj2.dl);
+
+
                 // 前の検索結果を削除
                 this.sokki_result.splice(0);
 
-                // レーベンシュタインの結果を格納
+                // 速記の結果を格納
                 for(i=0;i<filtered.length;i++){
                     this.sokki_result[i] = filtered[i].title;
                 }
