@@ -53,10 +53,10 @@ window.addEventListener('load', () => {
 
             // 
             convert(){
-                let romaji = romajiConv(document.getElementById("roman").value);
+                let romaji = romajiConv(document.getElementById("textInput").value);
 
                 //入力欄の文字を消す
-                document.getElementById("roman").value = ""
+                document.getElementById("textInput").value = ""
 
                 // ローマ字をひらがなに変換
                 let kana = romaji.toHiragana();
