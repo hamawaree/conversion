@@ -1,6 +1,6 @@
 window.addEventListener('load', () => {
     let data = '[["きょう",["今日","きょう","教","強","凶"]],["の",["の","の","ノ","ﾉ"]],["てんき",["天気","天気","てんき","テンキ","ﾃﾝｷ"]],["は",["は","は","ハ","ﾊ"]],["はれ",["晴れ","晴れ","はれ","ハレ","ﾊﾚ"]],["です。",["です。","です。","デス。","ﾃﾞｽ｡"]]]'
-    let json = JSON.parse(data)
+    let json = data;
 
     // 変換結果を管理する配列
     // arr[0] = 3 → 0番目のデータの変換結果は3番目
@@ -19,7 +19,9 @@ window.addEventListener('load', () => {
                 convWindowPositionX: 0,
                 convWindowPositionY: 0,
                 convResult: json,
-                convIndex: arr
+                convIndex: arr,
+                // 前回の変換の文字数
+                prevLength: 0
             }
         },
         methods: {
@@ -28,12 +30,9 @@ window.addEventListener('load', () => {
                 this.hoverFlag = true
                 this.hoverIndex = index
 
-                console.log("length: " + this.convResult.length);
-
 
                 // ホバーしたアイテムの座標を取得
                 var target_id = "target" + index;
-                console.log(target_id);
                 var element = document.getElementById(target_id);
                 var clientRect = element.getBoundingClientRect();
 
@@ -41,7 +40,7 @@ window.addEventListener('load', () => {
                 this.convWindowPositionX = window.pageXOffset + clientRect.left -10;
                 
                 // ページの上端から、要素の上端までの距離
-                this.convWindowPositionY = window.pageYOffset + clientRect.top;
+                this.convWindowPositionY = window.pageYOffset + clientRect.top - 65;
                 
             },
             release(){
@@ -53,18 +52,21 @@ window.addEventListener('load', () => {
 
             // 
             convert(){
-                let romaji = romajiConv(document.getElementById("textInput").value);
+                var toHiragana = romajiConv.toHiragana;
+                let textInput = document.getElementById("textInput");
+                let romaji = textInput.value;
 
                 //入力欄の文字を消す
-                document.getElementById("textInput").value = ""
+                textInput.value = "";
 
                 // ローマ字をひらがなに変換
-                let kana = romaji.toHiragana();
+                let kana = toHiragana(romaji);
 
                 // ひらがな文に含まれる空白にカンマを追加
                 let kana_comma = kana.replace(/\s+/g, ",");
 
                 let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + kana_comma;
+                this.prevLength = this.convResult.length;
 
                 fetch(URL)
                     .then(response => response.text())
@@ -73,7 +75,7 @@ window.addEventListener('load', () => {
                         json = JSON.parse(data)
 
                         this.convResult = [...this.convResult, ...json]
-                        for (let i = 0; i < this.convResult.length; i++){
+                        for (let i = this.prevLength; i < this.convResult.length; i++){
                             // 0 で初期化(一番最初の変換候補をとりあえず表示)
                             this.convIndex[i] = 0; 
                         }
