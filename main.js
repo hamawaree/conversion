@@ -111,8 +111,6 @@ window.addEventListener('load', () => {
                     .then(data => {
                         // ここにURLのデータを取得した時の処理
 
-                        console.log(this.convResultArray);
-
                         json = JSON.parse(data)
                         for (let i = 0; i<json.length; i++){
                             json[i][0] = romaji_arr[i];
