@@ -22,9 +22,11 @@ window.addEventListener('load', () => {
     const appdata = {
         data() {
             return{
+                // 対象の文節の位置を管理
+                selectedTargetIndex: 0,
+
                 // 変換窓関係
                 displayConvWindowFlg: false,
-                selectedTargetIndex: 0,
                 convWindowPositionX: 0,
                 convWindowPositionY: 0,
                 convResultArray: json,
@@ -32,7 +34,6 @@ window.addEventListener('load', () => {
 
                 // 修正窓関係
                 displayFixWindowFlg: false,
-                // fixSelectIndex: 0,
                 fixWindowPositionX: 0,
                 fixWindowPositionY: 0,
                 fixCandidateArray:[],
