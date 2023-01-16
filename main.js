@@ -20,6 +20,7 @@ window.addEventListener('load', () => {
     const appdata = {
         data() {
             return{
+                // 変換窓関係
                 displayConvWindowFlg: false,
                 hoverIndex: 0,
                 convWindowPositionX: 0,
