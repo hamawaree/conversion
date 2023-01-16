@@ -24,7 +24,7 @@ window.addEventListener('load', () => {
             return{
                 // 変換窓関係
                 displayConvWindowFlg: false,
-                hoverIndex: 0,
+                selectedTargetIndex: 0,
                 convWindowPositionX: 0,
                 convWindowPositionY: 0,
                 convResultArray: json,
@@ -32,6 +32,7 @@ window.addEventListener('load', () => {
 
                 // 修正窓関係
                 displayFixWindowFlg: false,
+                // fixSelectIndex: 0,
                 fixWindowPositionX: 0,
                 fixWindowPositionY: 0,
                 fixCandidateArray:[],
@@ -45,7 +46,7 @@ window.addEventListener('load', () => {
             displayConvWindow(index){
                 this.displayConvWindowFlg = true;
                 this.displayFixWindowFlg = false;
-                this.hoverIndex = index;
+                this.selectedTargetIndex = index;
 
 
                 // ホバーしたアイテムの座標を取得
@@ -65,7 +66,7 @@ window.addEventListener('load', () => {
             displayFixWindow(index){
                 this.displayFixWindowFlg = true;
                 this.displayConvWindowFlg = false;
-                this.hoverIndex = index;
+                this.selectedTargetIndex = index;
 
                 // テスト用の修正候補の配列
                 this.fixCandidateArray = ["候補1","候補2","候補3","候補4"]
@@ -87,8 +88,8 @@ window.addEventListener('load', () => {
                 this.displayConvWindowFlg = false;
                 this.displayFixWindowFlg = false;
             },
-            change(hoverIndex, index){
-                this.convIndex[hoverIndex] = index;
+            change(selectedTargetIndex, index){
+                this.convIndex[selectedTargetIndex] = index;
             },
 
             // 「変換」ボタンを押したとき呼び出し
