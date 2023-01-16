@@ -22,12 +22,16 @@ window.addEventListener('load', () => {
         data() {
             return{
                 displayConvWindowFlg: false,
-                displayFixWindowFlg: false,
                 hoverIndex: 0,
                 convWindowPositionX: 0,
                 convWindowPositionY: 0,
                 convResultArray: json,
                 convIndex: arr,
+
+                // 修正窓関係
+                displayFixWindowFlg: false,
+                fixWindowPositionX: 0,
+                fixWindowPositionY: 0,
 
                 // 前回の変換の文字数
                 prevLength: 0
@@ -67,10 +71,10 @@ window.addEventListener('load', () => {
                 var clientRect = element.getBoundingClientRect();
 
                 // ページの左端から、要素の左端までの距離
-                this.convWindowPositionX = window.pageXOffset + clientRect.left -10;
+                this.fixWindowPositionX = window.pageXOffset + clientRect.left -10;
                 
                 // ページの上端から、要素の上端までの距離
-                this.convWindowPositionY = window.pageYOffset + clientRect.top - 65;
+                this.fixWindowPositionY = window.pageYOffset + clientRect.top - 65;
                 
             },
 

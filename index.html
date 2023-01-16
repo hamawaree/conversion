@@ -34,10 +34,9 @@
 
             <!-- clickされた時に表示する修正窓 -->
             <div class="fixWindow" v-show="displayFixWindowFlg" v-bind:style="('transform: translate(' + convWindowPositionX  + 'px, ' + convWindowPositionY + 'px')">
-                <!-- <ul>
-                    <li v-for="(num,index) in 5" @click="change(hoverIndex,index)">{{convResultArray[hoverIndex][1][index]}}</li>
-                </ul> -->
-                <ul><li>clicked!</li></ul>
+                <ul>
+                    <li v-for="(num,index) in 5">clicked!</li>
+                </ul>
             </div>
 
             <br>
