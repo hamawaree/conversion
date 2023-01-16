@@ -17,6 +17,11 @@ window.addEventListener('load', () => {
         arr[i] = 0; 
     }
 
+    function dl_search(text){
+        let return_arr = [text+" searched1",text+" searched2",text+" searched3"];
+        return return_arr;
+    }
+
 
     const appdata = {
         data() {
@@ -74,7 +79,7 @@ window.addEventListener('load', () => {
                 // dl_serchにわたす値を出す
                 console.log(this.convResultArray[index][0]);
                 let fixTargetRoman = this.convResultArray[index][0];
-                this.fixCandidateArray = this.dl_search(fixTargetRoman)
+                this.fixCandidateArray = dl_search(fixTargetRoman);
 
 
                 // ホバーしたアイテムの座標を取得
@@ -88,11 +93,6 @@ window.addEventListener('load', () => {
                 // ページの上端から、要素の上端までの距離
                 this.fixWindowPositionY = window.pageYOffset + clientRect.top - 65;
                 
-            },
-
-            dl_search(text){
-                let return_arr = [text+" searched1",text+" searched2",text+" searched3"]
-                return return_arr
             },
 
             release(){
