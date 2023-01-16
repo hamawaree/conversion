@@ -22,6 +22,7 @@ window.addEventListener('load', () => {
         data() {
             return{
                 displayConvWindowFlg: false,
+                displayFixWindowFlg: false,
                 hoverIndex: 0,
                 convWindowPositionX: 0,
                 convWindowPositionY: 0,
@@ -35,8 +36,9 @@ window.addEventListener('load', () => {
         methods: {
             // 変換窓を表示(マウスオーバーで呼び出し)
             displayConvWindow(index){
-                this.displayConvWindowFlg = true
-                this.hoverIndex = index
+                this.displayConvWindowFlg = true;
+                this.displayFixWindowFlg = false;
+                this.hoverIndex = index;
 
 
                 // ホバーしたアイテムの座標を取得
@@ -51,11 +53,33 @@ window.addEventListener('load', () => {
                 this.convWindowPositionY = window.pageYOffset + clientRect.top - 65;
                 
             },
+
+            // 打ち間違い修正窓を表示(クリックで呼び出し)
+            displayFixWindow(index){
+                this.displayFixWindowFlg = true;
+                this.displayConvWindowFlg = false;
+                this.hoverIndex = index;
+
+
+                // ホバーしたアイテムの座標を取得
+                var target_id = "target" + index;
+                var element = document.getElementById(target_id);
+                var clientRect = element.getBoundingClientRect();
+
+                // ページの左端から、要素の左端までの距離
+                this.convWindowPositionX = window.pageXOffset + clientRect.left -10;
+                
+                // ページの上端から、要素の上端までの距離
+                this.convWindowPositionY = window.pageYOffset + clientRect.top - 65;
+                
+            },
+
             release(){
-                this.displayConvWindowFlg = false
+                this.displayConvWindowFlg = false;
+                this.displayFixWindowFlg = false;
             },
             change(hoverIndex, index){
-                this.convIndex[hoverIndex] = index
+                this.convIndex[hoverIndex] = index;
             },
 
             // 

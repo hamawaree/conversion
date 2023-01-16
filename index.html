@@ -13,11 +13,12 @@
 
 <body >    
     <div id="app" class="app">
-        <div v-on:click="release();">
+        <!-- releaseのためのdivだけどfixWindowと競合するので一旦v-on.clickを削除 -->
+        <div>
             <p>ローマ字で入力した文章をかな漢字変換</p>
 
             <!-- 結果の一番上のやつをとりあえず表示 -->
-            <span v-for="(num,index) in convResultArray.length" v-on:mouseover="displayConvWindow(index)" v-bind:id="`target${index}`">
+            <span v-for="(num,index) in convResultArray.length" v-on:mouseover="displayConvWindow(index)" @click="displayFixWindow(index)" v-bind:id="`target${index}`">
                 {{convResultArray[index][1][convIndex[index]]}}
             </span>
 
@@ -29,6 +30,14 @@
                 <ul>
                     <li v-for="(num,index) in 5" @click="change(hoverIndex,index)">{{convResultArray[hoverIndex][1][index]}}</li>
                 </ul>
+            </div>
+
+            <!-- clickされた時に表示する修正窓 -->
+            <div class="fixWindow" v-show="displayFixWindowFlg" v-bind:style="('transform: translate(' + convWindowPositionX  + 'px, ' + convWindowPositionY + 'px')">
+                <!-- <ul>
+                    <li v-for="(num,index) in 5" @click="change(hoverIndex,index)">{{convResultArray[hoverIndex][1][index]}}</li>
+                </ul> -->
+                <ul><li>clicked!</li></ul>
             </div>
 
             <br>
