@@ -18,7 +18,6 @@ window.addEventListener('load', () => {
     }
 
 
-
     const appdata = {
         data() {
             return{
@@ -72,6 +71,12 @@ window.addEventListener('load', () => {
                 // テスト用の修正候補の配列
                 this.fixCandidateArray = ["候補1","候補2","候補3","候補4"]
 
+                // dl_serchにわたす値を出す
+                console.log(this.convResultArray[index][0]);
+                let fixTargetRoman = this.convResultArray[index][0];
+                this.fixCandidateArray = this.dl_search(fixTargetRoman)
+
+
                 // ホバーしたアイテムの座標を取得
                 var target_id = "target" + index;
                 var element = document.getElementById(target_id);
@@ -83,6 +88,11 @@ window.addEventListener('load', () => {
                 // ページの上端から、要素の上端までの距離
                 this.fixWindowPositionY = window.pageYOffset + clientRect.top - 65;
                 
+            },
+
+            dl_search(text){
+                let return_arr = [text+" searched1",text+" searched2",text+" searched3"]
+                return return_arr
             },
 
             release(){
