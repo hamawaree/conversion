@@ -99,7 +99,7 @@ window.addEventListener('load', () => {
                 this.displayConvWindowFlg = false;
                 this.displayFixWindowFlg = false;
             },
-            change(selectedTargetIndex, index){
+            changeConv(selectedTargetIndex, index){
                 this.convIndex[selectedTargetIndex] = index;
             },
 

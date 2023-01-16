@@ -30,7 +30,7 @@
             <!-- hoverされている時に表示する変換窓 -->
             <div class="convWindow" v-show="displayConvWindowFlg" v-bind:style="('transform: translate(' + convWindowPositionX  + 'px, ' + convWindowPositionY + 'px')">
                 <ul>
-                    <li v-for="(num,index) in 5" @click="change(selectedTargetIndex,index)">{{convResultArray[selectedTargetIndex][1][index]}}</li>
+                    <li v-for="(num,index) in 5" @click="changeConv(selectedTargetIndex,index)">{{convResultArray[selectedTargetIndex][1][index]}}</li>
                 </ul>
             </div>
 
