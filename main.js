@@ -17,6 +17,8 @@ window.addEventListener('load', () => {
         arr[i] = 0; 
     }
 
+
+
     const appdata = {
         data() {
             return{
@@ -32,6 +34,7 @@ window.addEventListener('load', () => {
                 displayFixWindowFlg: false,
                 fixWindowPositionX: 0,
                 fixWindowPositionY: 0,
+                fixCandidateArray:[],
 
                 // 前回の変換の文字数
                 prevLength: 0
@@ -64,6 +67,8 @@ window.addEventListener('load', () => {
                 this.displayConvWindowFlg = false;
                 this.hoverIndex = index;
 
+                // テスト用の修正候補の配列
+                this.fixCandidateArray = ["候補1","候補2","候補3","候補4"]
 
                 // ホバーしたアイテムの座標を取得
                 var target_id = "target" + index;
