@@ -29,6 +29,10 @@ li {
 
 }
 
+.fixWindow li {
+    background-color: bisque;
+}
+
 li:hover {
     /* カーソルがある要素を示す */
     background-color: aliceblue;
@@ -48,6 +52,12 @@ span:hover {
 }
 
 .convWindow {
+    color:black;
+    z-index: 1;
+    position: absolute;
+}
+
+.fixWindow {
     color:black;
     z-index: 1;
     position: absolute;

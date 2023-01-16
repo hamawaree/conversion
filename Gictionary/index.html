@@ -12,11 +12,15 @@
   <body>
     <div id="app">
       <!-- v-modelで双方向バインディング -->
-      <input type="serch" v-model="textInput" v-on:input="search();">
-      <input type="button" value="検索" v-on:click="dlTest();">
-      <p>{{ textInput }}</p>
+      <input type="serch" v-model="textInput" v-on:input="search();dlTest();sokkiSearch();">
+      <!-- <input type="button" value="検索" v-on:click="sokkiSearch();"> -->
+      <h4>①一致するローマ字を含むものを検索</h4>
       <p>{{ result }}</p>
+      <h4>②ダメラウ・レーベンシュタイン距離が1のものを検索</h4>
       <p>{{ dl_result }}</p>
+      <h4>③速記記法に対応</h4>
+      <p>正規表現→ {{regex_trace}}</p>
+      <p>{{ sokki_result }}</p>
     </div>
   </body>
 </html>

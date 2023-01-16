@@ -402,11 +402,9 @@ const dictionary = [
   {
     "title": "まどか",
     "kana": [
-      "まど",
       "まどか"
     ],
     "roman": [
-      "mado",
       "madoka"
     ]
   },
@@ -631,11 +629,11 @@ const dictionary = [
   {
     "title": "たこ焼き",
     "kana": [
-      "たこ焼",
+      "たこ焼き",
       "たこやき"
     ],
     "roman": [
-      "tako焼",
+      "tako焼ki",
       "takoyaki"
     ]
   },
@@ -673,12 +671,12 @@ const dictionary = [
     "kana": [
       "うべな",
       "だく",
-      "いかにももっともだと思って承知する。また、肯定する"
+      "いかにももっともだと思って承知する。また、肯定する。"
     ],
     "roman": [
       "ubena",
       "daku",
-      "ikanimomottomodato思tte承知suru.mata,肯定suru"
+      "ikanimomottomodato思tte承知suru.mata,肯定suru."
     ]
   },
   {
@@ -788,11 +786,11 @@ const dictionary = [
     "title": "籌",
     "kana": [
       "ちゅう",
-      "わずかに劣る、一歩遅れをとってい"
+      "わずかに劣る、一歩遅れをとっている"
     ],
     "roman": [
       "chuu",
-      "wazukani劣ru,一歩遅rewotottei"
+      "wazukani劣ru,一歩遅rewototteiru"
     ]
   },
   {
@@ -1701,11 +1699,9 @@ const dictionary = [
   {
     "title": "られ",
     "kana": [
-      "ら",
       "られ"
     ],
     "roman": [
-      "ra",
       "rare"
     ]
   },
@@ -1739,11 +1735,9 @@ const dictionary = [
   {
     "title": "ひ",
     "kana": [
-      "",
       "ひ"
     ],
     "roman": [
-      "",
       "hi"
     ]
   },
@@ -1836,22 +1830,22 @@ const dictionary = [
     "title": "驕気",
     "kana": [
       "きょうき",
-      "おごりたかぶった気持"
+      "おごりたかぶった気持ち"
     ],
     "roman": [
       "kyouki",
-      "ogoritakabutta気持"
+      "ogoritakabutta気持chi"
     ]
   },
   {
     "title": "陥穽",
     "kana": [
       "かんせい",
-      "おとしあ"
+      "おとしあな"
     ],
     "roman": [
       "kansei",
-      "otoshia"
+      "otoshiana"
     ]
   },
   {
@@ -1906,11 +1900,9 @@ const dictionary = [
   {
     "title": "く",
     "kana": [
-      "",
       "く"
     ],
     "roman": [
-      "",
       "ku"
     ]
   },
@@ -1936,22 +1928,22 @@ const dictionary = [
     "title": "惻隠",
     "kana": [
       "そくいん",
-      "かわいそうに思うこ"
+      "かわいそうに思うこと"
     ],
     "roman": [
       "sokuin",
-      "kawaisouni思uko"
+      "kawaisouni思ukoto"
     ]
   },
   {
     "title": "峻拒",
     "kana": [
       "しゅんきょ",
-      "きっぱり断るこ"
+      "きっぱり断ること"
     ],
     "roman": [
       "shunkyo",
-      "kippari断ruko"
+      "kippari断rukoto"
     ]
   },
   {
@@ -2157,11 +2149,9 @@ const dictionary = [
   {
     "title": "にく",
     "kana": [
-      "に",
       "にく"
     ],
     "roman": [
-      "ni",
       "niku"
     ]
   },
@@ -2330,22 +2320,18 @@ const dictionary = [
   {
     "title": "しがらみ",
     "kana": [
-      "しがら",
       "しがらみ"
     ],
     "roman": [
-      "shigara",
       "shigarami"
     ]
   },
   {
     "title": "ふて",
     "kana": [
-      "ふ",
       "ふて"
     ],
     "roman": [
-      "fu",
       "fute"
     ]
   },
@@ -2379,11 +2365,9 @@ const dictionary = [
   {
     "title": "ささ",
     "kana": [
-      "さ",
       "ささ"
     ],
     "roman": [
-      "sa",
       "sasa"
     ]
   },
@@ -2399,22 +2383,18 @@ const dictionary = [
   {
     "title": "じゃれ",
     "kana": [
-      "じゃ",
       "じゃれ"
     ],
     "roman": [
-      "ja",
       "jare"
     ]
   },
   {
     "title": "ぐるぐる",
     "kana": [
-      "ぐるぐ",
       "ぐるぐる"
     ],
     "roman": [
-      "gurugu",
       "guruguru"
     ]
   },
@@ -2691,11 +2671,9 @@ const dictionary = [
   {
     "title": "たまゆら",
     "kana": [
-      "たまゆ",
       "たまゆら"
     ],
     "roman": [
-      "tamayu",
       "tamayura"
     ]
   },
@@ -2785,11 +2763,9 @@ const dictionary = [
   {
     "title": "ふてくされ",
     "kana": [
-      "ふてくさ",
       "ふてくされ"
     ],
     "roman": [
-      "futekusa",
       "futekusare"
     ]
   },
@@ -2915,11 +2891,9 @@ const dictionary = [
   {
     "title": "やけに",
     "kana": [
-      "やけ",
       "やけに"
     ],
     "roman": [
-      "yake",
       "yakeni"
     ]
   },
@@ -2935,11 +2909,9 @@ const dictionary = [
   {
     "title": "くぐも",
     "kana": [
-      "くぐ",
       "くぐも"
     ],
     "roman": [
-      "kugu",
       "kugumo"
     ]
   },
@@ -2973,11 +2945,9 @@ const dictionary = [
   {
     "title": "ちょろ",
     "kana": [
-      "ちょ",
       "ちょろ"
     ],
     "roman": [
-      "cho",
       "choro"
     ]
   },
@@ -3029,11 +2999,9 @@ const dictionary = [
   {
     "title": "ぼーっと",
     "kana": [
-      "ぼーっ",
       "ぼーっと"
     ],
     "roman": [
-      "bo-xtsu",
       "bo-tto"
     ]
   },
@@ -3238,11 +3206,9 @@ const dictionary = [
   {
     "title": "すがりつ",
     "kana": [
-      "すがり",
       "すがりつ"
     ],
     "roman": [
-      "sugari",
       "sugaritsu"
     ]
   },
@@ -3303,11 +3269,9 @@ const dictionary = [
   {
     "title": "おんぶ",
     "kana": [
-      "おん",
       "おんぶ"
     ],
     "roman": [
-      "on",
       "onbu"
     ]
   },
@@ -3413,11 +3377,9 @@ const dictionary = [
   {
     "title": "ぐっすり",
     "kana": [
-      "ぐっす",
       "ぐっすり"
     ],
     "roman": [
-      "gussu",
       "gussuri"
     ]
   },
@@ -3570,11 +3532,9 @@ const dictionary = [
   {
     "title": "そちら",
     "kana": [
-      "そち",
       "そちら"
     ],
     "roman": [
-      "sochi",
       "sochira"
     ]
   },
@@ -3644,11 +3604,9 @@ const dictionary = [
   {
     "title": "あまり",
     "kana": [
-      "あま",
       "あまり"
     ],
     "roman": [
-      "ama",
       "amari"
     ]
   },
@@ -3747,11 +3705,9 @@ const dictionary = [
   {
     "title": "るり",
     "kana": [
-      "る",
       "るり"
     ],
     "roman": [
-      "ru",
       "ruri"
     ]
   },
@@ -3956,11 +3912,9 @@ const dictionary = [
   {
     "title": "づくり",
     "kana": [
-      "づく",
       "づくり"
     ],
     "roman": [
-      "duku",
       "dukuri"
     ]
   },
@@ -4012,11 +3966,9 @@ const dictionary = [
   {
     "title": "する",
     "kana": [
-      "す",
       "する"
     ],
     "roman": [
-      "su",
       "suru"
     ]
   },
@@ -4041,11 +3993,9 @@ const dictionary = [
   {
     "title": "なの",
     "kana": [
-      "な",
       "なの"
     ],
     "roman": [
-      "na",
       "nano"
     ]
   },
@@ -4106,11 +4056,9 @@ const dictionary = [
   {
     "title": "ほほ",
     "kana": [
-      "ほ",
       "ほほ"
     ],
     "roman": [
-      "ho",
       "hoho"
     ]
   },
@@ -4126,11 +4074,9 @@ const dictionary = [
   {
     "title": "うな",
     "kana": [
-      "う",
       "うな"
     ],
     "roman": [
-      "u",
       "una"
     ]
   },
@@ -4200,11 +4146,9 @@ const dictionary = [
   {
     "title": "かれこれ",
     "kana": [
-      "かれこ",
       "かれこれ"
     ],
     "roman": [
-      "kareko",
       "karekore"
     ]
   },
@@ -4256,11 +4200,9 @@ const dictionary = [
   {
     "title": "らん",
     "kana": [
-      "ら",
       "らん"
     ],
     "roman": [
-      "ra",
       "ran"
     ]
   },
@@ -4366,11 +4308,9 @@ const dictionary = [
   {
     "title": "のろ",
     "kana": [
-      "の",
       "のろ"
     ],
     "roman": [
-      "no",
       "noro"
     ]
   },
@@ -4458,11 +4398,9 @@ const dictionary = [
   {
     "title": "らせん",
     "kana": [
-      "らせ",
       "らせん"
     ],
     "roman": [
-      "rase",
       "rasen"
     ]
   },
@@ -4514,11 +4452,9 @@ const dictionary = [
   {
     "title": "づけ",
     "kana": [
-      "づ",
       "づけ"
     ],
     "roman": [
-      "du",
       "duke"
     ]
   },
@@ -4579,11 +4515,9 @@ const dictionary = [
   {
     "title": "なんとなく",
     "kana": [
-      "なんとな",
       "なんとなく"
     ],
     "roman": [
-      "nantona",
       "nantonaku"
     ]
   },
@@ -4784,11 +4718,9 @@ const dictionary = [
   {
     "title": "あき",
     "kana": [
-      "あ",
       "あき"
     ],
     "roman": [
-      "a",
       "aki"
     ]
   },
@@ -4858,11 +4790,9 @@ const dictionary = [
   {
     "title": "ぐるり",
     "kana": [
-      "ぐる",
       "ぐるり"
     ],
     "roman": [
-      "guru",
       "gururi"
     ]
   },
@@ -4970,11 +4900,9 @@ const dictionary = [
   {
     "title": "ぶすっと",
     "kana": [
-      "ぶすっ",
       "ぶすっと"
     ],
     "roman": [
-      "busuxtsu",
       "busutto"
     ]
   },
@@ -5138,11 +5066,9 @@ const dictionary = [
   {
     "title": "かしげ",
     "kana": [
-      "かし",
       "かしげ"
     ],
     "roman": [
-      "kashi",
       "kashige"
     ]
   },
@@ -5176,11 +5102,9 @@ const dictionary = [
   {
     "title": "すっかり",
     "kana": [
-      "すっか",
       "すっかり"
     ],
     "roman": [
-      "sukka",
       "sukkari"
     ]
   },
@@ -5360,11 +5284,9 @@ const dictionary = [
   {
     "title": "にて",
     "kana": [
-      "に",
       "にて"
     ],
     "roman": [
-      "ni",
       "nite"
     ]
   },
@@ -5407,11 +5329,9 @@ const dictionary = [
   {
     "title": "あえて",
     "kana": [
-      "あえ",
       "あえて"
     ],
     "roman": [
-      "ae",
       "aete"
     ]
   },
@@ -5483,11 +5403,9 @@ const dictionary = [
   {
     "title": "らしい",
     "kana": [
-      "らし",
       "らしい"
     ],
     "roman": [
-      "rashi",
       "rashii"
     ]
   },
@@ -5604,11 +5522,9 @@ const dictionary = [
   {
     "title": "またもや",
     "kana": [
-      "またも",
       "またもや"
     ],
     "roman": [
-      "matamo",
       "matamoya"
     ]
   },
@@ -5669,11 +5585,9 @@ const dictionary = [
   {
     "title": "つら",
     "kana": [
-      "つ",
       "つら"
     ],
     "roman": [
-      "tsu",
       "tsura"
     ]
   },
@@ -5689,11 +5603,9 @@ const dictionary = [
   {
     "title": "ふる",
     "kana": [
-      "ふ",
       "ふる"
     ],
     "roman": [
-      "fu",
       "furu"
     ]
   },
@@ -5709,11 +5621,9 @@ const dictionary = [
   {
     "title": "ふっと",
     "kana": [
-      "ふっ",
       "ふっと"
     ],
     "roman": [
-      "fuxtsu",
       "futto"
     ]
   },
@@ -5794,11 +5704,9 @@ const dictionary = [
   {
     "title": "たって",
     "kana": [
-      "たっ",
       "たって"
     ],
     "roman": [
-      "taxtsu",
       "tatte"
     ]
   },
@@ -5832,11 +5740,9 @@ const dictionary = [
   {
     "title": "すが",
     "kana": [
-      "す",
       "すが"
     ],
     "roman": [
-      "su",
       "suga"
     ]
   },
@@ -5861,11 +5767,9 @@ const dictionary = [
   {
     "title": "ふりがな",
     "kana": [
-      "ふりが",
       "ふりがな"
     ],
     "roman": [
-      "furiga",
       "furigana"
     ]
   },
@@ -5890,11 +5794,9 @@ const dictionary = [
   {
     "title": "じみ",
     "kana": [
-      "じ",
       "じみ"
     ],
     "roman": [
-      "ji",
       "jimi"
     ]
   },
@@ -5982,11 +5884,9 @@ const dictionary = [
   {
     "title": "ぶんぶん",
     "kana": [
-      "ぶんぶ",
       "ぶんぶん"
     ],
     "roman": [
-      "bunbu",
       "bunbun"
     ]
   },
@@ -6191,11 +6091,9 @@ const dictionary = [
   {
     "title": "りん",
     "kana": [
-      "り",
       "りん"
     ],
     "roman": [
-      "ri",
       "rin"
     ]
   },
@@ -6211,11 +6109,11 @@ const dictionary = [
   {
     "title": "お許し",
     "kana": [
-      "お許",
+      "お許し",
       "おゆるし"
     ],
     "roman": [
-      "o許",
+      "o許shi",
       "oyurushi"
     ]
   },
@@ -6269,9 +6167,11 @@ const dictionary = [
   {
     "title": "お*",
     "kana": [
+      "お*",
       "お"
     ],
     "roman": [
+      "o*",
       "o"
     ]
   },
@@ -6449,22 +6349,18 @@ const dictionary = [
   {
     "title": "わな",
     "kana": [
-      "わ",
       "わな"
     ],
     "roman": [
-      "wa",
       "wana"
     ]
   },
   {
     "title": "まっすぐ",
     "kana": [
-      "まっす",
       "まっすぐ"
     ],
     "roman": [
-      "massu",
       "massugu"
     ]
   },
@@ -6655,20 +6551,20 @@ const dictionary = [
   {
     "title": "くり",
     "kana": [
-      "く",
       "くり"
     ],
     "roman": [
-      "ku",
       "kuri"
     ]
   },
   {
     "title": "し*",
     "kana": [
+      "し*",
       "し"
     ],
     "roman": [
+      "shi*",
       "shi"
     ]
   },
@@ -6693,22 +6589,20 @@ const dictionary = [
   {
     "title": "すれ違",
     "kana": [
-      "すれ",
+      "すれ違",
       "すれちが"
     ],
     "roman": [
-      "sure",
+      "sure違",
       "surechiga"
     ]
   },
   {
     "title": "たちまち",
     "kana": [
-      "たちま",
       "たちまち"
     ],
     "roman": [
-      "tachima",
       "tachimachi"
     ]
   },
@@ -6760,22 +6654,18 @@ const dictionary = [
   {
     "title": "あざと",
     "kana": [
-      "あざ",
       "あざと"
     ],
     "roman": [
-      "aza",
       "azato"
     ]
   },
   {
     "title": "あっと",
     "kana": [
-      "あっ",
       "あっと"
     ],
     "roman": [
-      "axtsu",
       "atto"
     ]
   },
@@ -6899,11 +6789,9 @@ const dictionary = [
   {
     "title": "あら",
     "kana": [
-      "あ",
       "あら"
     ],
     "roman": [
-      "a",
       "ara"
     ]
   },
@@ -7020,11 +6908,9 @@ const dictionary = [
   {
     "title": "おとなし",
     "kana": [
-      "おとな",
       "おとなし"
     ],
     "roman": [
-      "otona",
       "otonashi"
     ]
   },
@@ -7130,11 +7016,9 @@ const dictionary = [
   {
     "title": "を",
     "kana": [
-      "",
       "を"
     ],
     "roman": [
-      "",
       "wo"
     ]
   },
@@ -7168,11 +7052,9 @@ const dictionary = [
   {
     "title": "いざ",
     "kana": [
-      "い",
       "いざ"
     ],
     "roman": [
-      "i",
       "iza"
     ]
   },
@@ -7197,11 +7079,9 @@ const dictionary = [
   {
     "title": "くれば",
     "kana": [
-      "くれ",
       "くれば"
     ],
     "roman": [
-      "kure",
       "kureba"
     ]
   },
@@ -7334,9 +7214,11 @@ const dictionary = [
   {
     "title": "ほし*",
     "kana": [
+      "ほし*",
       "ほし"
     ],
     "roman": [
+      "hoshi*",
       "hoshi"
     ]
   },
@@ -7379,11 +7261,9 @@ const dictionary = [
   {
     "title": "うらめし",
     "kana": [
-      "うらめ",
       "うらめし"
     ],
     "roman": [
-      "urame",
       "urameshi"
     ]
   },
@@ -7399,11 +7279,9 @@ const dictionary = [
   {
     "title": "うれし",
     "kana": [
-      "うれ",
       "うれし"
     ],
     "roman": [
-      "ure",
       "ureshi"
     ]
   },
@@ -7572,22 +7450,18 @@ const dictionary = [
   {
     "title": "いとこ",
     "kana": [
-      "いと",
       "いとこ"
     ],
     "roman": [
-      "ito",
       "itoko"
     ]
   },
   {
     "title": "なかでも",
     "kana": [
-      "なかで",
       "なかでも"
     ],
     "roman": [
-      "nakade",
       "nakademo"
     ]
   },
@@ -7612,11 +7486,9 @@ const dictionary = [
   {
     "title": "とたんに",
     "kana": [
-      "とたん",
       "とたんに"
     ],
     "roman": [
-      "totan",
       "totanni"
     ]
   },
@@ -7641,11 +7513,9 @@ const dictionary = [
   {
     "title": "わだかま",
     "kana": [
-      "わだか",
       "わだかま"
     ],
     "roman": [
-      "wadaka",
       "wadakama"
     ]
   },
@@ -7735,11 +7605,9 @@ const dictionary = [
   {
     "title": "めまぐるし",
     "kana": [
-      "めまぐる",
       "めまぐるし"
     ],
     "roman": [
-      "memaguru",
       "memagurushi"
     ]
   },
@@ -7773,11 +7641,9 @@ const dictionary = [
   {
     "title": "どちら",
     "kana": [
-      "どち",
       "どちら"
     ],
     "roman": [
-      "dochi",
       "dochira"
     ]
   },
@@ -7849,22 +7715,18 @@ const dictionary = [
   {
     "title": "しまう",
     "kana": [
-      "しま",
       "しまう"
     ],
     "roman": [
-      "shima",
       "shimau"
     ]
   },
   {
     "title": "ごっこ",
     "kana": [
-      "ごっ",
       "ごっこ"
     ],
     "roman": [
-      "goxtsu",
       "gokko"
     ]
   },
@@ -7900,11 +7762,9 @@ const dictionary = [
   {
     "title": "じりじり",
     "kana": [
-      "じりじ",
       "じりじり"
     ],
     "roman": [
-      "jiriji",
       "jirijiri"
     ]
   },
@@ -7920,11 +7780,9 @@ const dictionary = [
   {
     "title": "おしゃれ",
     "kana": [
-      "おしゃ",
       "おしゃれ"
     ],
     "roman": [
-      "osha",
       "oshare"
     ]
   },
@@ -8120,11 +7978,9 @@ const dictionary = [
   {
     "title": "すくなくとも",
     "kana": [
-      "すくなくと",
       "すくなくとも"
     ],
     "roman": [
-      "sukunakuto",
       "sukunakutomo"
     ]
   },
@@ -8167,11 +8023,9 @@ const dictionary = [
   {
     "title": "さわがし",
     "kana": [
-      "さわが",
       "さわがし"
     ],
     "roman": [
-      "sawaga",
       "sawagashi"
     ]
   },
@@ -8432,11 +8286,9 @@ const dictionary = [
   {
     "title": "はずかし",
     "kana": [
-      "はずか",
       "はずかし"
     ],
     "roman": [
-      "hazuka",
       "hazukashi"
     ]
   },
@@ -8479,11 +8331,9 @@ const dictionary = [
   {
     "title": "きわど",
     "kana": [
-      "きわ",
       "きわど"
     ],
     "roman": [
-      "kiwa",
       "kiwado"
     ]
   },
@@ -8508,11 +8358,9 @@ const dictionary = [
   {
     "title": "そろ",
     "kana": [
-      "そ",
       "そろ"
     ],
     "roman": [
-      "so",
       "soro"
     ]
   },
@@ -8555,11 +8403,9 @@ const dictionary = [
   {
     "title": "やすっぽ",
     "kana": [
-      "やすっ",
       "やすっぽ"
     ],
     "roman": [
-      "yasuxtsu",
       "yasuppo"
     ]
   },
@@ -8640,33 +8486,27 @@ const dictionary = [
   {
     "title": "もしも",
     "kana": [
-      "もし",
       "もしも"
     ],
     "roman": [
-      "moshi",
       "moshimo"
     ]
   },
   {
     "title": "ひざ",
     "kana": [
-      "ひ",
       "ひざ"
     ],
     "roman": [
-      "hi",
       "hiza"
     ]
   },
   {
     "title": "にんまり",
     "kana": [
-      "にんま",
       "にんまり"
     ],
     "roman": [
-      "ninma",
       "ninmari"
     ]
   },
@@ -8808,11 +8648,9 @@ const dictionary = [
   {
     "title": "すがすがし",
     "kana": [
-      "すがすが",
       "すがすがし"
     ],
     "roman": [
-      "sugasuga",
       "sugasugashi"
     ]
   },
@@ -8828,11 +8666,9 @@ const dictionary = [
   {
     "title": "あらためて",
     "kana": [
-      "あらため",
       "あらためて"
     ],
     "roman": [
-      "aratame",
       "aratamete"
     ]
   },
@@ -8902,11 +8738,9 @@ const dictionary = [
   {
     "title": "せっかち",
     "kana": [
-      "せっか",
       "せっかち"
     ],
     "roman": [
-      "sekka",
       "sekkachi"
     ]
   },
@@ -8949,11 +8783,9 @@ const dictionary = [
   {
     "title": "ふわり",
     "kana": [
-      "ふわ",
       "ふわり"
     ],
     "roman": [
-      "fuwa",
       "fuwari"
     ]
   },
@@ -9014,11 +8846,9 @@ const dictionary = [
   {
     "title": "まんざら",
     "kana": [
-      "まんざ",
       "まんざら"
     ],
     "roman": [
-      "manza",
       "manzara"
     ]
   },
@@ -9169,11 +8999,9 @@ const dictionary = [
   {
     "title": "ゆる",
     "kana": [
-      "ゆ",
       "ゆる"
     ],
     "roman": [
-      "yu",
       "yuru"
     ]
   },
@@ -9225,11 +9053,9 @@ const dictionary = [
   {
     "title": "ぐったり",
     "kana": [
-      "ぐった",
       "ぐったり"
     ],
     "roman": [
-      "gutta",
       "guttari"
     ]
   },
@@ -9402,11 +9228,9 @@ const dictionary = [
   {
     "title": "いうなれば",
     "kana": [
-      "いうなれ",
       "いうなれば"
     ],
     "roman": [
-      "iunare",
       "iunareba"
     ]
   },
@@ -9442,11 +9266,9 @@ const dictionary = [
   {
     "title": "まく",
     "kana": [
-      "ま",
       "まく"
     ],
     "roman": [
-      "ma",
       "maku"
     ]
   },
@@ -9498,11 +9320,9 @@ const dictionary = [
   {
     "title": "たいてい",
     "kana": [
-      "たいて",
       "たいてい"
     ],
     "roman": [
-      "taite",
       "taitei"
     ]
   },
@@ -9601,11 +9421,9 @@ const dictionary = [
   {
     "title": "のり",
     "kana": [
-      "の",
       "のり"
     ],
     "roman": [
-      "no",
       "nori"
     ]
   },
@@ -9704,9 +9522,11 @@ const dictionary = [
   {
     "title": "いて*",
     "kana": [
+      "いて*",
       "いて"
     ],
     "roman": [
+      "ite*",
       "ite"
     ]
   },
@@ -9731,22 +9551,18 @@ const dictionary = [
   {
     "title": "ほん",
     "kana": [
-      "ほ",
       "ほん"
     ],
     "roman": [
-      "ho",
       "hon"
     ]
   },
   {
     "title": "いっそ",
     "kana": [
-      "いっ",
       "いっそ"
     ],
     "roman": [
-      "ixtsu",
       "isso"
     ]
   },
@@ -9771,11 +9587,9 @@ const dictionary = [
   {
     "title": "もはや",
     "kana": [
-      "もは",
       "もはや"
     ],
     "roman": [
-      "moha",
       "mohaya"
     ]
   },
@@ -9890,11 +9704,9 @@ const dictionary = [
   {
     "title": "ときめき",
     "kana": [
-      "ときめ",
       "ときめき"
     ],
     "roman": [
-      "tokime",
       "tokimeki"
     ]
   },
@@ -9919,11 +9731,9 @@ const dictionary = [
   {
     "title": "めんど",
     "kana": [
-      "めん",
       "めんど"
     ],
     "roman": [
-      "men",
       "mendo"
     ]
   },
@@ -10204,11 +10014,9 @@ const dictionary = [
   {
     "title": "おしゃべり",
     "kana": [
-      "おしゃべ",
       "おしゃべり"
     ],
     "roman": [
-      "oshabe",
       "oshaberi"
     ]
   },
@@ -10352,11 +10160,9 @@ const dictionary = [
   {
     "title": "しっぽ",
     "kana": [
-      "しっ",
       "しっぽ"
     ],
     "roman": [
-      "shixtsu",
       "shippo"
     ]
   },
@@ -10426,11 +10232,9 @@ const dictionary = [
   {
     "title": "ひとつひとつ",
     "kana": [
-      "ひとつひと",
       "ひとつひとつ"
     ],
     "roman": [
-      "hitotsuhito",
       "hitotsuhitotsu"
     ]
   },
@@ -10509,11 +10313,9 @@ const dictionary = [
   {
     "title": "かきあげ",
     "kana": [
-      "かきあ",
       "かきあげ"
     ],
     "roman": [
-      "kakia",
       "kakiage"
     ]
   },
@@ -10574,11 +10376,9 @@ const dictionary = [
   {
     "title": "すぐさま",
     "kana": [
-      "すぐさ",
       "すぐさま"
     ],
     "roman": [
-      "sugusa",
       "sugusama"
     ]
   },
@@ -10630,11 +10430,9 @@ const dictionary = [
   {
     "title": "どかどか",
     "kana": [
-      "どかど",
       "どかどか"
     ],
     "roman": [
-      "dokado",
       "dokadoka"
     ]
   },
@@ -10688,11 +10486,9 @@ const dictionary = [
   {
     "title": "ふく",
     "kana": [
-      "ふ",
       "ふく"
     ],
     "roman": [
-      "fu",
       "fuku"
     ]
   },
@@ -10996,22 +10792,18 @@ const dictionary = [
   {
     "title": "ちょくちょく",
     "kana": [
-      "ちょくちょ",
       "ちょくちょく"
     ],
     "roman": [
-      "chokucho",
       "chokuchoku"
     ]
   },
   {
     "title": "ぶらぶら",
     "kana": [
-      "ぶらぶ",
       "ぶらぶら"
     ],
     "roman": [
-      "burabu",
       "burabura"
     ]
   },
@@ -11090,11 +10882,9 @@ const dictionary = [
   {
     "title": "どけ",
     "kana": [
-      "ど",
       "どけ"
     ],
     "roman": [
-      "do",
       "doke"
     ]
   },
@@ -11200,11 +10990,9 @@ const dictionary = [
   {
     "title": "なれなれし",
     "kana": [
-      "なれなれ",
       "なれなれし"
     ],
     "roman": [
-      "narenare",
       "narenareshi"
     ]
   },
@@ -11229,11 +11017,9 @@ const dictionary = [
   {
     "title": "あと",
     "kana": [
-      "あ",
       "あと"
     ],
     "roman": [
-      "a",
       "ato"
     ]
   },
@@ -11420,11 +11206,9 @@ const dictionary = [
   {
     "title": "どうやら",
     "kana": [
-      "どうや",
       "どうやら"
     ],
     "roman": [
-      "douya",
       "douyara"
     ]
   },
@@ -11449,22 +11233,20 @@ const dictionary = [
   {
     "title": "お母様",
     "kana": [
-      "お母",
+      "お母様",
       "おかあさま"
     ],
     "roman": [
-      "o母",
+      "o母様",
       "okaasama"
     ]
   },
   {
     "title": "せき",
     "kana": [
-      "せ",
       "せき"
     ],
     "roman": [
-      "se",
       "seki"
     ]
   },
@@ -11480,11 +11262,9 @@ const dictionary = [
   {
     "title": "ふため",
     "kana": [
-      "ふた",
       "ふため"
     ],
     "roman": [
-      "futa",
       "futame"
     ]
   },
@@ -11527,11 +11307,9 @@ const dictionary = [
   {
     "title": "おこな",
     "kana": [
-      "おこ",
       "おこな"
     ],
     "roman": [
-      "oko",
       "okona"
     ]
   },
@@ -11594,11 +11372,9 @@ const dictionary = [
   {
     "title": "ばれ",
     "kana": [
-      "ば",
       "ばれ"
     ],
     "roman": [
-      "ba",
       "bare"
     ]
   },
@@ -11794,11 +11570,9 @@ const dictionary = [
   {
     "title": "うどん",
     "kana": [
-      "うど",
       "うどん"
     ],
     "roman": [
-      "udo",
       "udon"
     ]
   },
@@ -11814,11 +11588,11 @@ const dictionary = [
   {
     "title": "から口",
     "kana": [
-      "から",
+      "から口",
       "からくち"
     ],
     "roman": [
-      "kara",
+      "kara口",
       "karakuchi"
     ]
   },
@@ -11888,11 +11662,9 @@ const dictionary = [
   {
     "title": "ふじつ",
     "kana": [
-      "ふじ",
       "ふじつ"
     ],
     "roman": [
-      "fuji",
       "fujitsu"
     ]
   },
@@ -12119,22 +11891,20 @@ const dictionary = [
   {
     "title": "ぶぶ漬け",
     "kana": [
-      "ぶぶ漬",
+      "ぶぶ漬け",
       "ぶぶづけ"
     ],
     "roman": [
-      "bubu漬",
+      "bubu漬ke",
       "bubuduke"
     ]
   },
   {
     "title": "いっそう",
     "kana": [
-      "いっそ",
       "いっそう"
     ],
     "roman": [
-      "isso",
       "issou"
     ]
   },
@@ -12204,22 +11974,18 @@ const dictionary = [
   {
     "title": "また",
     "kana": [
-      "ま",
       "また"
     ],
     "roman": [
-      "ma",
       "mata"
     ]
   },
   {
     "title": "みすぼらし",
     "kana": [
-      "みすぼら",
       "みすぼらし"
     ],
     "roman": [
-      "misubora",
       "misuborashi"
     ]
   },
@@ -12302,22 +12068,20 @@ const dictionary = [
   {
     "title": "さみし",
     "kana": [
-      "さみ",
       "さみし"
     ],
     "roman": [
-      "sami",
       "samishi"
     ]
   },
   {
     "title": "おとぎ話",
     "kana": [
-      "おとぎ",
+      "おとぎ話",
       "おとぎばなし"
     ],
     "roman": [
-      "otogi",
+      "otogi話",
       "otogibanashi"
     ]
   },
@@ -12360,11 +12124,9 @@ const dictionary = [
   {
     "title": "たった",
     "kana": [
-      "たっ",
       "たった"
     ],
     "roman": [
-      "taxtsu",
       "tatta"
     ]
   },
@@ -12452,33 +12214,27 @@ const dictionary = [
   {
     "title": "もち",
     "kana": [
-      "も",
       "もち"
     ],
     "roman": [
-      "mo",
       "mochi"
     ]
   },
   {
     "title": "ずるずる",
     "kana": [
-      "ずるず",
       "ずるずる"
     ],
     "roman": [
-      "zuruzu",
       "zuruzuru"
     ]
   },
   {
     "title": "がっくり",
     "kana": [
-      "がっく",
       "がっくり"
     ],
     "roman": [
-      "gakku",
       "gakkuri"
     ]
   },
@@ -12539,11 +12295,9 @@ const dictionary = [
   {
     "title": "こまか",
     "kana": [
-      "こま",
       "こまか"
     ],
     "roman": [
-      "koma",
       "komaka"
     ]
   },
@@ -12716,11 +12470,9 @@ const dictionary = [
   {
     "title": "ざっと",
     "kana": [
-      "ざっ",
       "ざっと"
     ],
     "roman": [
-      "zaxtsu",
       "zatto"
     ]
   },
@@ -12980,11 +12732,9 @@ const dictionary = [
   {
     "title": "ごらん",
     "kana": [
-      "ごら",
       "ごらん"
     ],
     "roman": [
-      "gora",
       "goran"
     ]
   },
@@ -13018,11 +12768,9 @@ const dictionary = [
   {
     "title": "ほどけ",
     "kana": [
-      "ほど",
       "ほどけ"
     ],
     "roman": [
-      "hodo",
       "hodoke"
     ]
   },
@@ -13065,22 +12813,18 @@ const dictionary = [
   {
     "title": "そこそこ",
     "kana": [
-      "そこそ",
       "そこそこ"
     ],
     "roman": [
-      "sokoso",
       "sokosoko"
     ]
   },
   {
     "title": "よく",
     "kana": [
-      "よ",
       "よく"
     ],
     "roman": [
-      "yo",
       "yoku"
     ]
   },
@@ -13249,11 +12993,9 @@ const dictionary = [
   {
     "title": "ちか",
     "kana": [
-      "ち",
       "ちか"
     ],
     "roman": [
-      "chi",
       "chika"
     ]
   },
@@ -13296,11 +13038,9 @@ const dictionary = [
   {
     "title": "いちじるし",
     "kana": [
-      "いちじる",
       "いちじるし"
     ],
     "roman": [
-      "ichijiru",
       "ichijirushi"
     ]
   },
@@ -13448,22 +13188,18 @@ const dictionary = [
   {
     "title": "でっか",
     "kana": [
-      "でっ",
       "でっか"
     ],
     "roman": [
-      "dextsu",
       "dekka"
     ]
   },
   {
     "title": "しら",
     "kana": [
-      "し",
       "しら"
     ],
     "roman": [
-      "shi",
       "shira"
     ]
   },
@@ -13670,11 +13406,9 @@ const dictionary = [
   {
     "title": "ぶり",
     "kana": [
-      "ぶ",
       "ぶり"
     ],
     "roman": [
-      "bu",
       "buri"
     ]
   },
@@ -13699,11 +13433,9 @@ const dictionary = [
   {
     "title": "よみがえ",
     "kana": [
-      "よみが",
       "よみがえ"
     ],
     "roman": [
-      "yomiga",
       "yomigae"
     ]
   },
@@ -13719,11 +13451,11 @@ const dictionary = [
   {
     "title": "たどり着",
     "kana": [
-      "たどり",
+      "たどり着",
       "たどりつ"
     ],
     "roman": [
-      "tadori",
+      "tadori着",
       "tadoritsu"
     ]
   },
@@ -13739,11 +13471,9 @@ const dictionary = [
   {
     "title": "たり",
     "kana": [
-      "た",
       "たり"
     ],
     "roman": [
-      "ta",
       "tari"
     ]
   },
@@ -13842,11 +13572,9 @@ const dictionary = [
   {
     "title": "さ",
     "kana": [
-      "",
       "さ"
     ],
     "roman": [
-      "",
       "sa"
     ]
   },
@@ -13873,11 +13601,9 @@ const dictionary = [
   {
     "title": "ずーっと",
     "kana": [
-      "ずーっ",
       "ずーっと"
     ],
     "roman": [
-      "zu-xtsu",
       "zu-tto"
     ]
   },
@@ -13902,11 +13628,9 @@ const dictionary = [
   {
     "title": "まどろ",
     "kana": [
-      "まど",
       "まどろ"
     ],
     "roman": [
-      "mado",
       "madoro"
     ]
   },
@@ -14003,11 +13727,9 @@ const dictionary = [
   {
     "title": "による",
     "kana": [
-      "によ",
       "による"
     ],
     "roman": [
-      "niyo",
       "niyoru"
     ]
   },
@@ -14043,11 +13765,9 @@ const dictionary = [
   {
     "title": "ねばっこ",
     "kana": [
-      "ねばっ",
       "ねばっこ"
     ],
     "roman": [
-      "nebaxtsu",
       "nebakko"
     ]
   },
@@ -14171,11 +13891,9 @@ const dictionary = [
   {
     "title": "なんら",
     "kana": [
-      "なん",
       "なんら"
     ],
     "roman": [
-      "nan",
       "nanra"
     ]
   },
@@ -14236,22 +13954,18 @@ const dictionary = [
   {
     "title": "なにか",
     "kana": [
-      "なに",
       "なにか"
     ],
     "roman": [
-      "nani",
       "nanika"
     ]
   },
   {
     "title": "びっくり",
     "kana": [
-      "びっく",
       "びっくり"
     ],
     "roman": [
-      "bikku",
       "bikkuri"
     ]
   },
@@ -14267,11 +13981,9 @@ const dictionary = [
   {
     "title": "ちらり",
     "kana": [
-      "ちら",
       "ちらり"
     ],
     "roman": [
-      "chira",
       "chirari"
     ]
   },
@@ -14287,11 +13999,11 @@ const dictionary = [
   {
     "title": "お互い",
     "kana": [
-      "お互",
+      "お互い",
       "おたがい"
     ],
     "roman": [
-      "o互",
+      "o互i",
       "otagai"
     ]
   },
@@ -14388,11 +14100,11 @@ const dictionary = [
   {
     "title": "お金",
     "kana": [
-      "お",
+      "お金",
       "おかね"
     ],
     "roman": [
-      "o",
+      "o金",
       "okane"
     ]
   },
@@ -14426,11 +14138,11 @@ const dictionary = [
   {
     "title": "お鍋",
     "kana": [
-      "お",
+      "お鍋",
       "おなべ"
     ],
     "roman": [
-      "o",
+      "o鍋",
       "onabe"
     ]
   },
@@ -14482,11 +14194,9 @@ const dictionary = [
   {
     "title": "しき",
     "kana": [
-      "し",
       "しき"
     ],
     "roman": [
-      "shi",
       "shiki"
     ]
   },
@@ -14558,11 +14268,9 @@ const dictionary = [
   {
     "title": "しつこ",
     "kana": [
-      "しつ",
       "しつこ"
     ],
     "roman": [
-      "shitsu",
       "shitsuko"
     ]
   },
@@ -14915,11 +14623,9 @@ const dictionary = [
   {
     "title": "あるいは",
     "kana": [
-      "あるい",
       "あるいは"
     ],
     "roman": [
-      "arui",
       "aruiha"
     ]
   },
@@ -15029,11 +14735,9 @@ const dictionary = [
   {
     "title": "おはよう",
     "kana": [
-      "おはよ",
       "おはよう"
     ],
     "roman": [
-      "ohayo",
       "ohayou"
     ]
   },
@@ -15049,11 +14753,9 @@ const dictionary = [
   {
     "title": "でき",
     "kana": [
-      "で",
       "でき"
     ],
     "roman": [
-      "de",
       "deki"
     ]
   },
@@ -15096,33 +14798,27 @@ const dictionary = [
   {
     "title": "がっちり",
     "kana": [
-      "がっち",
       "がっちり"
     ],
     "roman": [
-      "gatchi",
       "gatchiri"
     ]
   },
   {
     "title": "あぶな",
     "kana": [
-      "あぶ",
       "あぶな"
     ],
     "roman": [
-      "abu",
       "abuna"
     ]
   },
   {
     "title": "めでた",
     "kana": [
-      "めで",
       "めでた"
     ],
     "roman": [
-      "mede",
       "medeta"
     ]
   },
@@ -15239,11 +14935,9 @@ const dictionary = [
   {
     "title": "まじな",
     "kana": [
-      "まじ",
       "まじな"
     ],
     "roman": [
-      "maji",
       "majina"
     ]
   },
@@ -15259,23 +14953,21 @@ const dictionary = [
   {
     "title": "ゆるり",
     "kana": [
-      "ゆる",
       "ゆるり"
     ],
     "roman": [
-      "yuru",
       "yururi"
     ]
   },
   {
     "title": "かける",
     "kana": [
-      "かけ",
+      "かける",
       "かけよ",
       "かけれ"
     ],
     "roman": [
-      "kake",
+      "kakeru",
       "kakeyo",
       "kakere"
     ]
@@ -15283,11 +14975,9 @@ const dictionary = [
   {
     "title": "つまんな",
     "kana": [
-      "つまん",
       "つまんな"
     ],
     "roman": [
-      "tsuman",
       "tsumanna"
     ]
   },
@@ -15303,11 +14993,9 @@ const dictionary = [
   {
     "title": "しばらく",
     "kana": [
-      "しばら",
       "しばらく"
     ],
     "roman": [
-      "shibara",
       "shibaraku"
     ]
   },
@@ -15422,11 +15110,9 @@ const dictionary = [
   {
     "title": "もっぱら",
     "kana": [
-      "もっぱ",
       "もっぱら"
     ],
     "roman": [
-      "moppa",
       "moppara"
     ]
   },
@@ -15460,22 +15146,18 @@ const dictionary = [
   {
     "title": "いじけ",
     "kana": [
-      "いじ",
       "いじけ"
     ],
     "roman": [
-      "iji",
       "ijike"
     ]
   },
   {
     "title": "ずいぶん",
     "kana": [
-      "ずいぶ",
       "ずいぶん"
     ],
     "roman": [
-      "zuibu",
       "zuibun"
     ]
   },
@@ -15500,11 +15182,9 @@ const dictionary = [
   {
     "title": "いたして",
     "kana": [
-      "いたし",
       "いたして"
     ],
     "roman": [
-      "itashi",
       "itashite"
     ]
   },
@@ -15529,11 +15209,11 @@ const dictionary = [
   {
     "title": "かき消",
     "kana": [
-      "かき",
+      "かき消",
       "かきけ"
     ],
     "roman": [
-      "kaki",
+      "kaki消",
       "kakike"
     ]
   },
@@ -15591,11 +15271,11 @@ const dictionary = [
   {
     "title": "お婆さん",
     "kana": [
-      "お婆さ",
+      "お婆さん",
       "おばあさん"
     ],
     "roman": [
-      "o婆sa",
+      "o婆san",
       "obaasan"
     ]
   },
@@ -15640,22 +15320,18 @@ const dictionary = [
   {
     "title": "いたく",
     "kana": [
-      "いた",
       "いたく"
     ],
     "roman": [
-      "ita",
       "itaku"
     ]
   },
   {
     "title": "おろおろ",
     "kana": [
-      "おろお",
       "おろおろ"
     ],
     "roman": [
-      "oroo",
       "orooro"
     ]
   },
@@ -15725,11 +15401,9 @@ const dictionary = [
   {
     "title": "なら",
     "kana": [
-      "な",
       "なら"
     ],
     "roman": [
-      "na",
       "nara"
     ]
   },
@@ -15772,11 +15446,9 @@ const dictionary = [
   {
     "title": "わざとらし",
     "kana": [
-      "わざとら",
       "わざとらし"
     ],
     "roman": [
-      "wazatora",
       "wazatorashi"
     ]
   },
@@ -15819,11 +15491,9 @@ const dictionary = [
   {
     "title": "き",
     "kana": [
-      "",
       "き"
     ],
     "roman": [
-      "",
       "ki"
     ]
   },
@@ -15839,22 +15509,18 @@ const dictionary = [
   {
     "title": "のそのそ",
     "kana": [
-      "のその",
       "のそのそ"
     ],
     "roman": [
-      "nosono",
       "nosonoso"
     ]
   },
   {
     "title": "どの",
     "kana": [
-      "ど",
       "どの"
     ],
     "roman": [
-      "do",
       "dono"
     ]
   },
@@ -16023,11 +15689,9 @@ const dictionary = [
   {
     "title": "もと",
     "kana": [
-      "も",
       "もと"
     ],
     "roman": [
-      "mo",
       "moto"
     ]
   },
@@ -16124,11 +15788,9 @@ const dictionary = [
   {
     "title": "によって",
     "kana": [
-      "によっ",
       "によって"
     ],
     "roman": [
-      "niyoxtsu",
       "niyotte"
     ]
   },
@@ -16162,11 +15824,9 @@ const dictionary = [
   {
     "title": "さりげ",
     "kana": [
-      "さり",
       "さりげ"
     ],
     "roman": [
-      "sari",
       "sarige"
     ]
   },
@@ -16373,11 +16033,9 @@ const dictionary = [
   {
     "title": "ほう",
     "kana": [
-      "ほ",
       "ほう"
     ],
     "roman": [
-      "ho",
       "hou"
     ]
   },
@@ -16620,11 +16278,9 @@ const dictionary = [
   {
     "title": "とぼけ",
     "kana": [
-      "とぼ",
       "とぼけ"
     ],
     "roman": [
-      "tobo",
       "toboke"
     ]
   },
@@ -16730,11 +16386,9 @@ const dictionary = [
   {
     "title": "りゅう",
     "kana": [
-      "りゅ",
       "りゅう"
     ],
     "roman": [
-      "ryu",
       "ryuu"
     ]
   },
@@ -16777,11 +16431,9 @@ const dictionary = [
   {
     "title": "えらく",
     "kana": [
-      "えら",
       "えらく"
     ],
     "roman": [
-      "era",
       "eraku"
     ]
   },
@@ -16815,11 +16467,11 @@ const dictionary = [
   {
     "title": "っ子",
     "kana": [
-      "っ",
+      "っ子",
       "っこ"
     ],
     "roman": [
-      "xtsu",
+      "xtsu子",
       "kko"
     ]
   },
@@ -16934,11 +16586,9 @@ const dictionary = [
   {
     "title": "まとも",
     "kana": [
-      "まと",
       "まとも"
     ],
     "roman": [
-      "mato",
       "matomo"
     ]
   },
@@ -16972,22 +16622,18 @@ const dictionary = [
   {
     "title": "はにか",
     "kana": [
-      "はに",
       "はにか"
     ],
     "roman": [
-      "hani",
       "hanika"
     ]
   },
   {
     "title": "ふんわり",
     "kana": [
-      "ふんわ",
       "ふんわり"
     ],
     "roman": [
-      "funwa",
       "funwari"
     ]
   },
@@ -17059,11 +16705,11 @@ const dictionary = [
   {
     "title": "ふざける",
     "kana": [
-      "ふざけ",
+      "ふざける",
       "ふざけん"
     ],
     "roman": [
-      "fuzake",
+      "fuzakeru",
       "fuzaken"
     ]
   },
@@ -17079,11 +16725,9 @@ const dictionary = [
   {
     "title": "じろりと",
     "kana": [
-      "じろり",
       "じろりと"
     ],
     "roman": [
-      "jirori",
       "jirorito"
     ]
   },
@@ -17225,22 +16869,18 @@ const dictionary = [
   {
     "title": "すくすく",
     "kana": [
-      "すくす",
       "すくすく"
     ],
     "roman": [
-      "sukusu",
       "sukusuku"
     ]
   },
   {
     "title": "ます",
     "kana": [
-      "ま",
       "ます"
     ],
     "roman": [
-      "ma",
       "masu"
     ]
   },
@@ -17258,11 +16898,11 @@ const dictionary = [
   {
     "title": "たった今",
     "kana": [
-      "たった",
+      "たった今",
       "たったいま"
     ],
     "roman": [
-      "tatta",
+      "tatta今",
       "tattaima"
     ]
   },
@@ -17287,22 +16927,18 @@ const dictionary = [
   {
     "title": "ふさが",
     "kana": [
-      "ふさ",
       "ふさが"
     ],
     "roman": [
-      "fusa",
       "fusaga"
     ]
   },
   {
     "title": "ひっくるめ",
     "kana": [
-      "ひっくる",
       "ひっくるめ"
     ],
     "roman": [
-      "hikkuru",
       "hikkurume"
     ]
   },
@@ -17327,11 +16963,9 @@ const dictionary = [
   {
     "title": "がりがり",
     "kana": [
-      "がりが",
       "がりがり"
     ],
     "roman": [
-      "gariga",
       "garigari"
     ]
   },
@@ -17421,11 +17055,11 @@ const dictionary = [
   {
     "title": "ご飯",
     "kana": [
-      "ご",
+      "ご飯",
       "ごはん"
     ],
     "roman": [
-      "go",
+      "go飯",
       "gohan"
     ]
   },
@@ -17486,11 +17120,9 @@ const dictionary = [
   {
     "title": "わか",
     "kana": [
-      "わ",
       "わか"
     ],
     "roman": [
-      "wa",
       "waka"
     ]
   },
@@ -17506,22 +17138,18 @@ const dictionary = [
   {
     "title": "ぱちぱち",
     "kana": [
-      "ぱちぱ",
       "ぱちぱち"
     ],
     "roman": [
-      "pachipa",
       "pachipachi"
     ]
   },
   {
     "title": "げ",
     "kana": [
-      "",
       "げ"
     ],
     "roman": [
-      "",
       "ge"
     ]
   },
@@ -17600,11 +17228,9 @@ const dictionary = [
   {
     "title": "しました",
     "kana": [
-      "しまし",
       "しました"
     ],
     "roman": [
-      "shimashi",
       "shimashita"
     ]
   },
@@ -17620,11 +17246,9 @@ const dictionary = [
   {
     "title": "だいじょうぶ",
     "kana": [
-      "だいじょう",
       "だいじょうぶ"
     ],
     "roman": [
-      "daijou",
       "daijoubu"
     ]
   },
@@ -17640,11 +17264,9 @@ const dictionary = [
   {
     "title": "じわっ",
     "kana": [
-      "じわ",
       "じわっ"
     ],
     "roman": [
-      "jiwa",
       "jiwaxtsu"
     ]
   },
@@ -17687,11 +17309,11 @@ const dictionary = [
   {
     "title": "したり顔",
     "kana": [
-      "したり",
+      "したり顔",
       "したりがお"
     ],
     "roman": [
-      "shitari",
+      "shitari顔",
       "shitarigao"
     ]
   },
@@ -17707,11 +17329,9 @@ const dictionary = [
   {
     "title": "つけ",
     "kana": [
-      "つ",
       "つけ"
     ],
     "roman": [
-      "tsu",
       "tsuke"
     ]
   },
@@ -17781,11 +17401,9 @@ const dictionary = [
   {
     "title": "いつも",
     "kana": [
-      "いつ",
       "いつも"
     ],
     "roman": [
-      "itsu",
       "itsumo"
     ]
   },
@@ -18073,11 +17691,9 @@ const dictionary = [
   {
     "title": "おり",
     "kana": [
-      "お",
       "おり"
     ],
     "roman": [
-      "o",
       "ori"
     ]
   },
@@ -18120,22 +17736,18 @@ const dictionary = [
   {
     "title": "なおかつ",
     "kana": [
-      "なおか",
       "なおかつ"
     ],
     "roman": [
-      "naoka",
       "naokatsu"
     ]
   },
   {
     "title": "たど",
     "kana": [
-      "た",
       "たど"
     ],
     "roman": [
-      "ta",
       "tado"
     ]
   },
@@ -18151,11 +17763,9 @@ const dictionary = [
   {
     "title": "かわゆ",
     "kana": [
-      "かわ",
       "かわゆ"
     ],
     "roman": [
-      "kawa",
       "kawayu"
     ]
   },
@@ -18243,11 +17853,9 @@ const dictionary = [
   {
     "title": "つながり",
     "kana": [
-      "つなが",
       "つながり"
     ],
     "roman": [
-      "tsunaga",
       "tsunagari"
     ]
   },
@@ -18272,11 +17880,9 @@ const dictionary = [
   {
     "title": "きました",
     "kana": [
-      "きまし",
       "きました"
     ],
     "roman": [
-      "kimashi",
       "kimashita"
     ]
   },
@@ -18292,11 +17898,9 @@ const dictionary = [
   {
     "title": "まだまだ",
     "kana": [
-      "まだま",
       "まだまだ"
     ],
     "roman": [
-      "madama",
       "madamada"
     ]
   },
@@ -18321,11 +17925,9 @@ const dictionary = [
   {
     "title": "きりきり",
     "kana": [
-      "きりき",
       "きりきり"
     ],
     "roman": [
-      "kiriki",
       "kirikiri"
     ]
   },
@@ -18341,11 +17943,9 @@ const dictionary = [
   {
     "title": "どー",
     "kana": [
-      "ど",
       "どー"
     ],
     "roman": [
-      "do",
       "do-"
     ]
   },
@@ -18397,22 +17997,18 @@ const dictionary = [
   {
     "title": "まるまる",
     "kana": [
-      "まるま",
       "まるまる"
     ],
     "roman": [
-      "maruma",
       "marumaru"
     ]
   },
   {
     "title": "らっしゃ",
     "kana": [
-      "らっし",
       "らっしゃ"
     ],
     "roman": [
-      "rasshi",
       "rassha"
     ]
   },
@@ -18572,11 +18168,9 @@ const dictionary = [
   {
     "title": "いけない",
     "kana": [
-      "いけな",
       "いけない"
     ],
     "roman": [
-      "ikena",
       "ikenai"
     ]
   },
@@ -18621,11 +18215,9 @@ const dictionary = [
   {
     "title": "たやす",
     "kana": [
-      "たや",
       "たやす"
     ],
     "roman": [
-      "taya",
       "tayasu"
     ]
   },
@@ -18650,11 +18242,9 @@ const dictionary = [
   {
     "title": "かっこい",
     "kana": [
-      "かっこ",
       "かっこい"
     ],
     "roman": [
-      "kakko",
       "kakkoi"
     ]
   },
@@ -18872,11 +18462,9 @@ const dictionary = [
   {
     "title": "でも",
     "kana": [
-      "で",
       "でも"
     ],
     "roman": [
-      "de",
       "demo"
     ]
   },
@@ -18919,11 +18507,9 @@ const dictionary = [
   {
     "title": "らくらく",
     "kana": [
-      "らくら",
       "らくらく"
     ],
     "roman": [
-      "rakura",
       "rakuraku"
     ]
   },
@@ -19083,11 +18669,9 @@ const dictionary = [
   {
     "title": "みっちり",
     "kana": [
-      "みっち",
       "みっちり"
     ],
     "roman": [
-      "mitchi",
       "mitchiri"
     ]
   },
@@ -19247,11 +18831,9 @@ const dictionary = [
   {
     "title": "おふくろ",
     "kana": [
-      "おふく",
       "おふくろ"
     ],
     "roman": [
-      "ofuku",
       "ofukuro"
     ]
   },
@@ -19314,11 +18896,9 @@ const dictionary = [
   {
     "title": "しいて",
     "kana": [
-      "しい",
       "しいて"
     ],
     "roman": [
-      "shii",
       "shiite"
     ]
   },
@@ -19442,11 +19022,9 @@ const dictionary = [
   {
     "title": "どっち",
     "kana": [
-      "どっ",
       "どっち"
     ],
     "roman": [
-      "doxtsu",
       "dotchi"
     ]
   },
@@ -19471,11 +19049,11 @@ const dictionary = [
   {
     "title": "お前",
     "kana": [
-      "お",
+      "お前",
       "おまえ"
     ],
     "roman": [
-      "o",
+      "o前",
       "omae"
     ]
   },
@@ -19554,11 +19132,9 @@ const dictionary = [
   {
     "title": "もしもし",
     "kana": [
-      "もしも",
       "もしもし"
     ],
     "roman": [
-      "moshimo",
       "moshimoshi"
     ]
   },
@@ -19637,11 +19213,9 @@ const dictionary = [
   {
     "title": "どうし",
     "kana": [
-      "どう",
       "どうし"
     ],
     "roman": [
-      "dou",
       "doushi"
     ]
   },
@@ -19657,11 +19231,11 @@ const dictionary = [
   {
     "title": "かけ離れ",
     "kana": [
-      "かけ離",
+      "かけ離れ",
       "かけはなれ"
     ],
     "roman": [
-      "kake離",
+      "kake離re",
       "kakehanare"
     ]
   },
@@ -19677,11 +19251,9 @@ const dictionary = [
   {
     "title": "まる",
     "kana": [
-      "ま",
       "まる"
     ],
     "roman": [
-      "ma",
       "maru"
     ]
   },
@@ -19715,9 +19287,11 @@ const dictionary = [
   {
     "title": "さ*",
     "kana": [
+      "さ*",
       "さ"
     ],
     "roman": [
+      "sa*",
       "sa"
     ]
   },
@@ -19886,11 +19460,9 @@ const dictionary = [
   {
     "title": "いやいや",
     "kana": [
-      "いやい",
       "いやいや"
     ],
     "roman": [
-      "iyai",
       "iyaiya"
     ]
   },
@@ -19933,11 +19505,9 @@ const dictionary = [
   {
     "title": "そうとう",
     "kana": [
-      "そうと",
       "そうとう"
     ],
     "roman": [
-      "souto",
       "soutou"
     ]
   },
@@ -19953,11 +19523,9 @@ const dictionary = [
   {
     "title": "いただ",
     "kana": [
-      "いた",
       "いただ"
     ],
     "roman": [
-      "ita",
       "itada"
     ]
   },
@@ -20029,11 +19597,11 @@ const dictionary = [
   {
     "title": "ごった返",
     "kana": [
-      "ごった",
+      "ごった返",
       "ごったがえ"
     ],
     "roman": [
-      "gotta",
+      "gotta返",
       "gottagae"
     ]
   },
@@ -20314,11 +19882,9 @@ const dictionary = [
   {
     "title": "うけ",
     "kana": [
-      "う",
       "うけ"
     ],
     "roman": [
-      "u",
       "uke"
     ]
   },
@@ -20370,11 +19936,9 @@ const dictionary = [
   {
     "title": "ずかずか",
     "kana": [
-      "ずかず",
       "ずかずか"
     ],
     "roman": [
-      "zukazu",
       "zukazuka"
     ]
   },
@@ -20390,11 +19954,9 @@ const dictionary = [
   {
     "title": "よう",
     "kana": [
-      "よ",
       "よう"
     ],
     "roman": [
-      "yo",
       "you"
     ]
   },
@@ -20446,11 +20008,11 @@ const dictionary = [
   {
     "title": "お手数",
     "kana": [
-      "お手",
+      "お手数",
       "おてすう"
     ],
     "roman": [
-      "o手",
+      "o手数",
       "otesuu"
     ]
   },
@@ -20475,11 +20037,9 @@ const dictionary = [
   {
     "title": "おばさん",
     "kana": [
-      "おばさ",
       "おばさん"
     ],
     "roman": [
-      "obasa",
       "obasan"
     ]
   },
@@ -20522,11 +20082,9 @@ const dictionary = [
   {
     "title": "かや",
     "kana": [
-      "か",
       "かや"
     ],
     "roman": [
-      "ka",
       "kaya"
     ]
   },
@@ -20569,9 +20127,11 @@ const dictionary = [
   {
     "title": "の*",
     "kana": [
+      "の*",
       "の"
     ],
     "roman": [
+      "no*",
       "no"
     ]
   },
@@ -20614,11 +20174,9 @@ const dictionary = [
   {
     "title": "わざと",
     "kana": [
-      "わざ",
       "わざと"
     ],
     "roman": [
-      "waza",
       "wazato"
     ]
   },
@@ -20661,11 +20219,9 @@ const dictionary = [
   {
     "title": "われ",
     "kana": [
-      "わ",
       "われ"
     ],
     "roman": [
-      "wa",
       "ware"
     ]
   },
@@ -20699,11 +20255,9 @@ const dictionary = [
   {
     "title": "ちっとも",
     "kana": [
-      "ちっと",
       "ちっとも"
     ],
     "roman": [
-      "chitto",
       "chittomo"
     ]
   },
@@ -20800,22 +20354,18 @@ const dictionary = [
   {
     "title": "おなじみ",
     "kana": [
-      "おなじ",
       "おなじみ"
     ],
     "roman": [
-      "onaji",
       "onajimi"
     ]
   },
   {
     "title": "ばい",
     "kana": [
-      "ば",
       "ばい"
     ],
     "roman": [
-      "ba",
       "bai"
     ]
   },
@@ -20840,11 +20390,9 @@ const dictionary = [
   {
     "title": "ぽかんと",
     "kana": [
-      "ぽかん",
       "ぽかんと"
     ],
     "roman": [
-      "pokan",
       "pokanto"
     ]
   },
@@ -20860,11 +20408,11 @@ const dictionary = [
   {
     "title": "ぶら下げ",
     "kana": [
-      "ぶら下",
+      "ぶら下げ",
       "ぶらさげ"
     ],
     "roman": [
-      "bura下",
+      "bura下ge",
       "burasage"
     ]
   },
@@ -20898,11 +20446,9 @@ const dictionary = [
   {
     "title": "いらっしゃい",
     "kana": [
-      "いらっしゃ",
       "いらっしゃい"
     ],
     "roman": [
-      "irassha",
       "irasshai"
     ]
   },
@@ -21008,11 +20554,11 @@ const dictionary = [
   {
     "title": "お待ち",
     "kana": [
-      "お待",
+      "お待ち",
       "おまち"
     ],
     "roman": [
-      "o待",
+      "o待chi",
       "omachi"
     ]
   },
@@ -21028,11 +20574,9 @@ const dictionary = [
   {
     "title": "ぬけ",
     "kana": [
-      "ぬ",
       "ぬけ"
     ],
     "roman": [
-      "nu",
       "nuke"
     ]
   },
@@ -21066,22 +20610,20 @@ const dictionary = [
   {
     "title": "お昼",
     "kana": [
-      "お",
+      "お昼",
       "おひる"
     ],
     "roman": [
-      "o",
+      "o昼",
       "ohiru"
     ]
   },
   {
     "title": "のち",
     "kana": [
-      "の",
       "のち"
     ],
     "roman": [
-      "no",
       "nochi"
     ]
   },
@@ -21243,11 +20785,9 @@ const dictionary = [
   {
     "title": "ばん",
     "kana": [
-      "ば",
       "ばん"
     ],
     "roman": [
-      "ba",
       "ban"
     ]
   },
@@ -21429,11 +20969,9 @@ const dictionary = [
   {
     "title": "まぶし",
     "kana": [
-      "まぶ",
       "まぶし"
     ],
     "roman": [
-      "mabu",
       "mabushi"
     ]
   },
@@ -21496,11 +21034,9 @@ const dictionary = [
   {
     "title": "あまねく",
     "kana": [
-      "あまね",
       "あまねく"
     ],
     "roman": [
-      "amane",
       "amaneku"
     ]
   },
@@ -21516,11 +21052,9 @@ const dictionary = [
   {
     "title": "やや",
     "kana": [
-      "や",
       "やや"
     ],
     "roman": [
-      "ya",
       "yaya"
     ]
   },
@@ -21583,11 +21117,9 @@ const dictionary = [
   {
     "title": "かかえ",
     "kana": [
-      "かか",
       "かかえ"
     ],
     "roman": [
-      "kaka",
       "kakae"
     ]
   },
@@ -21639,22 +21171,20 @@ const dictionary = [
   {
     "title": "ど",
     "kana": [
-      "",
       "ど"
     ],
     "roman": [
-      "",
       "do"
     ]
   },
   {
     "title": "いつの間に",
     "kana": [
-      "いつの間",
+      "いつの間に",
       "いつのまに"
     ],
     "roman": [
-      "itsuno間",
+      "itsuno間ni",
       "itsunomani"
     ]
   },
@@ -21715,11 +21245,9 @@ const dictionary = [
   {
     "title": "きっぱり",
     "kana": [
-      "きっぱ",
       "きっぱり"
     ],
     "roman": [
-      "kippa",
       "kippari"
     ]
   },
@@ -21753,11 +21281,9 @@ const dictionary = [
   {
     "title": "げん",
     "kana": [
-      "げ",
       "げん"
     ],
     "roman": [
-      "ge",
       "gen"
     ]
   },
@@ -21800,11 +21326,9 @@ const dictionary = [
   {
     "title": "つく",
     "kana": [
-      "つ",
       "つく"
     ],
     "roman": [
-      "tsu",
       "tsuku"
     ]
   },
@@ -21847,11 +21371,9 @@ const dictionary = [
   {
     "title": "きちっと",
     "kana": [
-      "きちっ",
       "きちっと"
     ],
     "roman": [
-      "kichixtsu",
       "kichitto"
     ]
   },
@@ -21894,11 +21416,11 @@ const dictionary = [
   {
     "title": "お先に",
     "kana": [
-      "お先",
+      "お先に",
       "おさきに"
     ],
     "roman": [
-      "o先",
+      "o先ni",
       "osakini"
     ]
   },
@@ -21914,11 +21436,9 @@ const dictionary = [
   {
     "title": "ことし",
     "kana": [
-      "こと",
       "ことし"
     ],
     "roman": [
-      "koto",
       "kotoshi"
     ]
   },
@@ -21979,11 +21499,9 @@ const dictionary = [
   {
     "title": "まずまず",
     "kana": [
-      "まずま",
       "まずまず"
     ],
     "roman": [
-      "mazuma",
       "mazumazu"
     ]
   },
@@ -22008,11 +21526,9 @@ const dictionary = [
   {
     "title": "いたします",
     "kana": [
-      "いたしま",
       "いたします"
     ],
     "roman": [
-      "itashima",
       "itashimasu"
     ]
   },
@@ -22046,11 +21562,9 @@ const dictionary = [
   {
     "title": "ところどころ",
     "kana": [
-      "ところどこ",
       "ところどころ"
     ],
     "roman": [
-      "tokorodoko",
       "tokorodokoro"
     ]
   },
@@ -22093,11 +21607,9 @@ const dictionary = [
   {
     "title": "なみ",
     "kana": [
-      "な",
       "なみ"
     ],
     "roman": [
-      "na",
       "nami"
     ]
   },
@@ -22288,11 +21800,9 @@ const dictionary = [
   {
     "title": "そっ",
     "kana": [
-      "そ",
       "そっ"
     ],
     "roman": [
-      "so",
       "soxtsu"
     ]
   },
@@ -22308,11 +21818,9 @@ const dictionary = [
   {
     "title": "おじ",
     "kana": [
-      "お",
       "おじ"
     ],
     "roman": [
-      "o",
       "oji"
     ]
   },
@@ -22384,11 +21892,9 @@ const dictionary = [
   {
     "title": "いろいろ",
     "kana": [
-      "いろい",
       "いろいろ"
     ],
     "roman": [
-      "iroi",
       "iroiro"
     ]
   },
@@ -22413,22 +21919,18 @@ const dictionary = [
   {
     "title": "いれば",
     "kana": [
-      "いれ",
       "いれば"
     ],
     "roman": [
-      "ire",
       "ireba"
     ]
   },
   {
     "title": "とびきり",
     "kana": [
-      "とびき",
       "とびきり"
     ],
     "roman": [
-      "tobiki",
       "tobikiri"
     ]
   },
@@ -22806,11 +22308,9 @@ const dictionary = [
   {
     "title": "いか",
     "kana": [
-      "い",
       "いか"
     ],
     "roman": [
-      "i",
       "ika"
     ]
   },
@@ -22979,11 +22479,9 @@ const dictionary = [
   {
     "title": "たか",
     "kana": [
-      "た",
       "たか"
     ],
     "roman": [
-      "ta",
       "taka"
     ]
   },
@@ -23031,11 +22529,11 @@ const dictionary = [
   {
     "title": "お礼",
     "kana": [
-      "お",
+      "お礼",
       "おれい"
     ],
     "roman": [
-      "o",
+      "o礼",
       "orei"
     ]
   },
@@ -23060,22 +22558,18 @@ const dictionary = [
   {
     "title": "なんとか",
     "kana": [
-      "なんと",
       "なんとか"
     ],
     "roman": [
-      "nanto",
       "nantoka"
     ]
   },
   {
     "title": "そろりと",
     "kana": [
-      "そろり",
       "そろりと"
     ],
     "roman": [
-      "sorori",
       "sororito"
     ]
   },
@@ -23163,11 +22657,9 @@ const dictionary = [
   {
     "title": "そそ",
     "kana": [
-      "そ",
       "そそ"
     ],
     "roman": [
-      "so",
       "soso"
     ]
   },
@@ -23210,11 +22702,9 @@ const dictionary = [
   {
     "title": "てい",
     "kana": [
-      "て",
       "てい"
     ],
     "roman": [
-      "te",
       "tei"
     ]
   },
@@ -23511,11 +23001,9 @@ const dictionary = [
   {
     "title": "いも",
     "kana": [
-      "い",
       "いも"
     ],
     "roman": [
-      "i",
       "imo"
     ]
   },
@@ -23540,11 +23028,9 @@ const dictionary = [
   {
     "title": "つぐ",
     "kana": [
-      "つ",
       "つぐ"
     ],
     "roman": [
-      "tsu",
       "tsugu"
     ]
   },
@@ -23670,11 +23156,9 @@ const dictionary = [
   {
     "title": "みつか",
     "kana": [
-      "みつ",
       "みつか"
     ],
     "roman": [
-      "mitsu",
       "mitsuka"
     ]
   },
@@ -23690,11 +23174,9 @@ const dictionary = [
   {
     "title": "のしかか",
     "kana": [
-      "のしか",
       "のしかか"
     ],
     "roman": [
-      "noshika",
       "noshikaka"
     ]
   },
@@ -23728,11 +23210,9 @@ const dictionary = [
   {
     "title": "っぽ",
     "kana": [
-      "っ",
       "っぽ"
     ],
     "roman": [
-      "xtsu",
       "ppo"
     ]
   },
@@ -23761,11 +23241,9 @@ const dictionary = [
   {
     "title": "びくつ",
     "kana": [
-      "びく",
       "びくつ"
     ],
     "roman": [
-      "biku",
       "bikutsu"
     ]
   },
@@ -23799,11 +23277,9 @@ const dictionary = [
   {
     "title": "わる",
     "kana": [
-      "わ",
       "わる"
     ],
     "roman": [
-      "wa",
       "waru"
     ]
   },
@@ -23893,11 +23369,9 @@ const dictionary = [
   {
     "title": "ぽ",
     "kana": [
-      "",
       "ぽ"
     ],
     "roman": [
-      "",
       "po"
     ]
   },
@@ -23940,11 +23414,9 @@ const dictionary = [
   {
     "title": "まじ",
     "kana": [
-      "ま",
       "まじ"
     ],
     "roman": [
-      "ma",
       "maji"
     ]
   },
@@ -23987,11 +23459,9 @@ const dictionary = [
   {
     "title": "わし",
     "kana": [
-      "わ",
       "わし"
     ],
     "roman": [
-      "wa",
       "washi"
     ]
   },
@@ -24151,11 +23621,9 @@ const dictionary = [
   {
     "title": "おにぎり",
     "kana": [
-      "おにぎ",
       "おにぎり"
     ],
     "roman": [
-      "onigi",
       "onigiri"
     ]
   },
@@ -24227,9 +23695,11 @@ const dictionary = [
   {
     "title": "くれ*",
     "kana": [
+      "くれ*",
       "くれ"
     ],
     "roman": [
+      "kure*",
       "kure"
     ]
   },
@@ -24335,11 +23805,9 @@ const dictionary = [
   {
     "title": "うろたえ",
     "kana": [
-      "うろた",
       "うろたえ"
     ],
     "roman": [
-      "urota",
       "urotae"
     ]
   },
@@ -24418,11 +23886,9 @@ const dictionary = [
   {
     "title": "しん",
     "kana": [
-      "し",
       "しん"
     ],
     "roman": [
-      "shi",
       "shin"
     ]
   },
@@ -24458,11 +23924,9 @@ const dictionary = [
   {
     "title": "やっぱ",
     "kana": [
-      "やっ",
       "やっぱ"
     ],
     "roman": [
-      "yaxtsu",
       "yappa"
     ]
   },
@@ -24687,11 +24151,9 @@ const dictionary = [
   {
     "title": "からか",
     "kana": [
-      "から",
       "からか"
     ],
     "roman": [
-      "kara",
       "karaka"
     ]
   },
@@ -24770,11 +24232,9 @@ const dictionary = [
   {
     "title": "びく",
     "kana": [
-      "び",
       "びく"
     ],
     "roman": [
-      "bi",
       "biku"
     ]
   },
@@ -24952,11 +24412,9 @@ const dictionary = [
   {
     "title": "たら",
     "kana": [
-      "た",
       "たら"
     ],
     "roman": [
-      "ta",
       "tara"
     ]
   },
@@ -25154,11 +24612,9 @@ const dictionary = [
   {
     "title": "ものたりな",
     "kana": [
-      "ものたり",
       "ものたりな"
     ],
     "roman": [
-      "monotari",
       "monotarina"
     ]
   },
@@ -25300,22 +24756,18 @@ const dictionary = [
   {
     "title": "いく",
     "kana": [
-      "い",
       "いく"
     ],
     "roman": [
-      "i",
       "iku"
     ]
   },
   {
     "title": "するために",
     "kana": [
-      "するため",
       "するために"
     ],
     "roman": [
-      "surutame",
       "surutameni"
     ]
   },
@@ -25515,11 +24967,11 @@ const dictionary = [
   {
     "title": "ついて行",
     "kana": [
-      "ついて",
+      "ついて行",
       "ついてい"
     ],
     "roman": [
-      "tsuite",
+      "tsuite行",
       "tsuitei"
     ]
   },
@@ -25571,11 +25023,9 @@ const dictionary = [
   {
     "title": "たれ",
     "kana": [
-      "た",
       "たれ"
     ],
     "roman": [
-      "ta",
       "tare"
     ]
   },
@@ -25609,11 +25059,9 @@ const dictionary = [
   {
     "title": "たしかに",
     "kana": [
-      "たしか",
       "たしかに"
     ],
     "roman": [
-      "tashika",
       "tashikani"
     ]
   },
@@ -25757,11 +25205,9 @@ const dictionary = [
   {
     "title": "おせっかい",
     "kana": [
-      "おせっか",
       "おせっかい"
     ],
     "roman": [
-      "osekka",
       "osekkai"
     ]
   },
@@ -25851,11 +25297,9 @@ const dictionary = [
   {
     "title": "とら",
     "kana": [
-      "と",
       "とら"
     ],
     "roman": [
-      "to",
       "tora"
     ]
   },
@@ -25882,11 +25326,9 @@ const dictionary = [
   {
     "title": "さらさら",
     "kana": [
-      "さらさ",
       "さらさら"
     ],
     "roman": [
-      "sarasa",
       "sarasara"
     ]
   },
@@ -25956,11 +25398,9 @@ const dictionary = [
   {
     "title": "かったる",
     "kana": [
-      "かった",
       "かったる"
     ],
     "roman": [
-      "katta",
       "kattaru"
     ]
   },
@@ -26021,11 +25461,9 @@ const dictionary = [
   {
     "title": "ゆ",
     "kana": [
-      "",
       "ゆ"
     ],
     "roman": [
-      "",
       "yu"
     ]
   },
@@ -26097,11 +25535,9 @@ const dictionary = [
   {
     "title": "おととい",
     "kana": [
-      "おとと",
       "おととい"
     ],
     "roman": [
-      "ototo",
       "ototoi"
     ]
   },
@@ -26144,11 +25580,9 @@ const dictionary = [
   {
     "title": "ばあちゃん",
     "kana": [
-      "ばあちゃ",
       "ばあちゃん"
     ],
     "roman": [
-      "baacha",
       "baachan"
     ]
   },
@@ -26164,11 +25598,9 @@ const dictionary = [
   {
     "title": "した",
     "kana": [
-      "し",
       "した"
     ],
     "roman": [
-      "shi",
       "shita"
     ]
   },
@@ -26193,11 +25625,9 @@ const dictionary = [
   {
     "title": "いまだに",
     "kana": [
-      "いまだ",
       "いまだに"
     ],
     "roman": [
-      "imada",
       "imadani"
     ]
   },
@@ -26350,11 +25780,9 @@ const dictionary = [
   {
     "title": "よくも",
     "kana": [
-      "よく",
       "よくも"
     ],
     "roman": [
-      "yoku",
       "yokumo"
     ]
   },
@@ -26406,11 +25834,9 @@ const dictionary = [
   {
     "title": "なおも",
     "kana": [
-      "なお",
       "なおも"
     ],
     "roman": [
-      "nao",
       "naomo"
     ]
   },
@@ -26426,11 +25852,9 @@ const dictionary = [
   {
     "title": "てつ",
     "kana": [
-      "て",
       "てつ"
     ],
     "roman": [
-      "te",
       "tetsu"
     ]
   },
@@ -26455,11 +25879,9 @@ const dictionary = [
   {
     "title": "しません",
     "kana": [
-      "しませ",
       "しません"
     ],
     "roman": [
-      "shimase",
       "shimasen"
     ]
   },
@@ -26502,11 +25924,9 @@ const dictionary = [
   {
     "title": "うん",
     "kana": [
-      "う",
       "うん"
     ],
     "roman": [
-      "u",
       "un"
     ]
   },
@@ -26688,11 +26108,9 @@ const dictionary = [
   {
     "title": "なんて",
     "kana": [
-      "なん",
       "なんて"
     ],
     "roman": [
-      "nan",
       "nante"
     ]
   },
@@ -26780,11 +26198,9 @@ const dictionary = [
   {
     "title": "あわただし",
     "kana": [
-      "あわただ",
       "あわただし"
     ],
     "roman": [
-      "awatada",
       "awatadashi"
     ]
   },
@@ -26836,11 +26252,9 @@ const dictionary = [
   {
     "title": "あっさり",
     "kana": [
-      "あっさ",
       "あっさり"
     ],
     "roman": [
-      "assa",
       "assari"
     ]
   },
@@ -26865,11 +26279,9 @@ const dictionary = [
   {
     "title": "にとって",
     "kana": [
-      "にとっ",
       "にとって"
     ],
     "roman": [
-      "nitoxtsu",
       "nitotte"
     ]
   },
@@ -26903,11 +26315,9 @@ const dictionary = [
   {
     "title": "ちび",
     "kana": [
-      "ち",
       "ちび"
     ],
     "roman": [
-      "chi",
       "chibi"
     ]
   },
@@ -26950,11 +26360,9 @@ const dictionary = [
   {
     "title": "もとより",
     "kana": [
-      "もとよ",
       "もとより"
     ],
     "roman": [
-      "motoyo",
       "motoyori"
     ]
   },
@@ -27024,11 +26432,9 @@ const dictionary = [
   {
     "title": "どくどく",
     "kana": [
-      "どくど",
       "どくどく"
     ],
     "roman": [
-      "dokudo",
       "dokudoku"
     ]
   },
@@ -27098,11 +26504,9 @@ const dictionary = [
   {
     "title": "かく",
     "kana": [
-      "か",
       "かく"
     ],
     "roman": [
-      "ka",
       "kaku"
     ]
   },
@@ -27174,22 +26578,20 @@ const dictionary = [
   {
     "title": "くせ",
     "kana": [
-      "く",
       "くせ"
     ],
     "roman": [
-      "ku",
       "kuse"
     ]
   },
   {
     "title": "お幸せ",
     "kana": [
-      "お幸",
+      "お幸せ",
       "おしあわせ"
     ],
     "roman": [
-      "o幸",
+      "o幸se",
       "oshiawase"
     ]
   },
@@ -27333,11 +26735,11 @@ const dictionary = [
   {
     "title": "つま先",
     "kana": [
-      "つま",
+      "つま先",
       "つまさき"
     ],
     "roman": [
-      "tsuma",
+      "tsuma先",
       "tsumasaki"
     ]
   },
@@ -27470,11 +26872,9 @@ const dictionary = [
   {
     "title": "かんじ",
     "kana": [
-      "かん",
       "かんじ"
     ],
     "roman": [
-      "kan",
       "kanji"
     ]
   },
@@ -27508,13 +26908,11 @@ const dictionary = [
   {
     "title": "られる",
     "kana": [
-      "られ",
       "られる",
       "られれ",
       "られん"
     ],
     "roman": [
-      "rare",
       "rareru",
       "rarere",
       "raren"
@@ -27550,11 +26948,9 @@ const dictionary = [
   {
     "title": "おそらくは",
     "kana": [
-      "おそらく",
       "おそらくは"
     ],
     "roman": [
-      "osoraku",
       "osorakuha"
     ]
   },
@@ -27597,11 +26993,9 @@ const dictionary = [
   {
     "title": "すっと",
     "kana": [
-      "すっ",
       "すっと"
     ],
     "roman": [
-      "suxtsu",
       "sutto"
     ]
   },
@@ -27653,9 +27047,11 @@ const dictionary = [
   {
     "title": "いやす*",
     "kana": [
+      "いやす*",
       "いやす"
     ],
     "roman": [
+      "iyasu*",
       "iyasu"
     ]
   },
@@ -27680,11 +27076,11 @@ const dictionary = [
   {
     "title": "お洒落",
     "kana": [
-      "お洒",
+      "お洒落",
       "おしゃれ"
     ],
     "roman": [
-      "o洒",
+      "o洒落",
       "oshare"
     ]
   },
@@ -27700,11 +27096,9 @@ const dictionary = [
   {
     "title": "じん",
     "kana": [
-      "じ",
       "じん"
     ],
     "roman": [
-      "ji",
       "jin"
     ]
   },
@@ -27785,11 +27179,9 @@ const dictionary = [
   {
     "title": "いさぎよ",
     "kana": [
-      "いさぎ",
       "いさぎよ"
     ],
     "roman": [
-      "isagi",
       "isagiyo"
     ]
   },
@@ -27805,11 +27197,9 @@ const dictionary = [
   {
     "title": "ぼ",
     "kana": [
-      "",
       "ぼ"
     ],
     "roman": [
-      "",
       "bo"
     ]
   },
@@ -27847,11 +27237,9 @@ const dictionary = [
   {
     "title": "づら",
     "kana": [
-      "づ",
       "づら"
     ],
     "roman": [
-      "du",
       "dura"
     ]
   },
@@ -27896,11 +27284,9 @@ const dictionary = [
   {
     "title": "にっこり",
     "kana": [
-      "にっこ",
       "にっこり"
     ],
     "roman": [
-      "nikko",
       "nikkori"
     ]
   },
@@ -28107,11 +27493,9 @@ const dictionary = [
   {
     "title": "せが",
     "kana": [
-      "せ",
       "せが"
     ],
     "roman": [
-      "se",
       "sega"
     ]
   },
@@ -28203,11 +27587,9 @@ const dictionary = [
   {
     "title": "もし",
     "kana": [
-      "も",
       "もし"
     ],
     "roman": [
-      "mo",
       "moshi"
     ]
   },
@@ -28277,11 +27659,11 @@ const dictionary = [
   {
     "title": "お菓子",
     "kana": [
-      "お菓",
+      "お菓子",
       "おかし"
     ],
     "roman": [
-      "o菓",
+      "o菓子",
       "okashi"
     ]
   },
@@ -28315,11 +27697,9 @@ const dictionary = [
   {
     "title": "にら",
     "kana": [
-      "に",
       "にら"
     ],
     "roman": [
-      "ni",
       "nira"
     ]
   },
@@ -28353,11 +27733,9 @@ const dictionary = [
   {
     "title": "はたして",
     "kana": [
-      "はたし",
       "はたして"
     ],
     "roman": [
-      "hatashi",
       "hatashite"
     ]
   },
@@ -28391,11 +27769,9 @@ const dictionary = [
   {
     "title": "こう",
     "kana": [
-      "こ",
       "こう"
     ],
     "roman": [
-      "ko",
       "kou"
     ]
   },
@@ -28474,11 +27850,9 @@ const dictionary = [
   {
     "title": "かわいらし",
     "kana": [
-      "かわいら",
       "かわいらし"
     ],
     "roman": [
-      "kawaira",
       "kawairashi"
     ]
   },
@@ -28503,22 +27877,18 @@ const dictionary = [
   {
     "title": "すったもんだ",
     "kana": [
-      "すったもん",
       "すったもんだ"
     ],
     "roman": [
-      "suttamon",
       "suttamonda"
     ]
   },
   {
     "title": "やめ",
     "kana": [
-      "や",
       "やめ"
     ],
     "roman": [
-      "ya",
       "yame"
     ]
   },
@@ -28534,22 +27904,18 @@ const dictionary = [
   {
     "title": "おち",
     "kana": [
-      "お",
       "おち"
     ],
     "roman": [
-      "o",
       "ochi"
     ]
   },
   {
     "title": "ぐでんぐでん",
     "kana": [
-      "ぐでんぐで",
       "ぐでんぐでん"
     ],
     "roman": [
-      "gudengude",
       "gudenguden"
     ]
   },
@@ -28565,11 +27931,9 @@ const dictionary = [
   {
     "title": "いまいち",
     "kana": [
-      "いまい",
       "いまいち"
     ],
     "roman": [
-      "imai",
       "imaichi"
     ]
   },
@@ -28648,11 +28012,9 @@ const dictionary = [
   {
     "title": "しばしば",
     "kana": [
-      "しばし",
       "しばしば"
     ],
     "roman": [
-      "shibashi",
       "shibashiba"
     ]
   },
@@ -28751,11 +28113,9 @@ const dictionary = [
   {
     "title": "ふかふか",
     "kana": [
-      "ふかふ",
       "ふかふか"
     ],
     "roman": [
-      "fukafu",
       "fukafuka"
     ]
   },
@@ -28861,11 +28221,9 @@ const dictionary = [
   {
     "title": "すっぱ",
     "kana": [
-      "すっ",
       "すっぱ"
     ],
     "roman": [
-      "suxtsu",
       "suppa"
     ]
   },
@@ -28881,11 +28239,11 @@ const dictionary = [
   {
     "title": "ご覧",
     "kana": [
-      "ご",
+      "ご覧",
       "ごらん"
     ],
     "roman": [
-      "go",
+      "go覧",
       "goran"
     ]
   },
@@ -28901,11 +28259,9 @@ const dictionary = [
   {
     "title": "ぎ",
     "kana": [
-      "",
       "ぎ"
     ],
     "roman": [
-      "",
       "gi"
     ]
   },
@@ -29002,11 +28358,9 @@ const dictionary = [
   {
     "title": "どうせ",
     "kana": [
-      "どう",
       "どうせ"
     ],
     "roman": [
-      "dou",
       "douse"
     ]
   },
@@ -29105,11 +28459,9 @@ const dictionary = [
   {
     "title": "ぐっと",
     "kana": [
-      "ぐっ",
       "ぐっと"
     ],
     "roman": [
-      "guxtsu",
       "gutto"
     ]
   },
@@ -29192,11 +28544,9 @@ const dictionary = [
   {
     "title": "そこら",
     "kana": [
-      "そこ",
       "そこら"
     ],
     "roman": [
-      "soko",
       "sokora"
     ]
   },
@@ -29230,22 +28580,18 @@ const dictionary = [
   {
     "title": "すなわち",
     "kana": [
-      "すなわ",
       "すなわち"
     ],
     "roman": [
-      "sunawa",
       "sunawachi"
     ]
   },
   {
     "title": "くぐ",
     "kana": [
-      "く",
       "くぐ"
     ],
     "roman": [
-      "ku",
       "kugu"
     ]
   },
@@ -29405,22 +28751,20 @@ const dictionary = [
   {
     "title": "ぴったり",
     "kana": [
-      "ぴった",
       "ぴったり"
     ],
     "roman": [
-      "pitta",
       "pittari"
     ]
   },
   {
     "title": "はれる",
     "kana": [
-      "はれ",
+      "はれる",
       "はれん"
     ],
     "roman": [
-      "hare",
+      "hareru",
       "haren"
     ]
   },
@@ -29499,9 +28843,11 @@ const dictionary = [
   {
     "title": "され*",
     "kana": [
+      "され*",
       "され"
     ],
     "roman": [
+      "sare*",
       "sare"
     ]
   },
@@ -29598,11 +28944,9 @@ const dictionary = [
   {
     "title": "まだしも",
     "kana": [
-      "まだし",
       "まだしも"
     ],
     "roman": [
-      "madashi",
       "madashimo"
     ]
   },
@@ -29708,11 +29052,9 @@ const dictionary = [
   {
     "title": "かぶせ",
     "kana": [
-      "かぶ",
       "かぶせ"
     ],
     "roman": [
-      "kabu",
       "kabuse"
     ]
   },
@@ -29746,11 +29088,9 @@ const dictionary = [
   {
     "title": "かつ",
     "kana": [
-      "か",
       "かつ"
     ],
     "roman": [
-      "ka",
       "katsu"
     ]
   },
@@ -29775,11 +29115,9 @@ const dictionary = [
   {
     "title": "だろ",
     "kana": [
-      "だ",
       "だろ"
     ],
     "roman": [
-      "da",
       "daro"
     ]
   },
@@ -29858,11 +29196,9 @@ const dictionary = [
   {
     "title": "おまけ",
     "kana": [
-      "おま",
       "おまけ"
     ],
     "roman": [
-      "oma",
       "omake"
     ]
   },
@@ -30035,11 +29371,9 @@ const dictionary = [
   {
     "title": "ひっつ",
     "kana": [
-      "ひっ",
       "ひっつ"
     ],
     "roman": [
-      "hixtsu",
       "hittsu"
     ]
   },
@@ -30104,11 +29438,9 @@ const dictionary = [
   {
     "title": "あったか",
     "kana": [
-      "あった",
       "あったか"
     ],
     "roman": [
-      "atta",
       "attaka"
     ]
   },
@@ -30133,11 +29465,9 @@ const dictionary = [
   {
     "title": "じーっと",
     "kana": [
-      "じーっ",
       "じーっと"
     ],
     "roman": [
-      "ji-xtsu",
       "ji-tto"
     ]
   },
@@ -30173,11 +29503,11 @@ const dictionary = [
   {
     "title": "ぶっ飛ば",
     "kana": [
-      "ぶっ飛",
+      "ぶっ飛ば",
       "ぶっとば"
     ],
     "roman": [
-      "buxtsu飛",
+      "buxtsu飛ba",
       "buttoba"
     ]
   },
@@ -30355,11 +29685,9 @@ const dictionary = [
   {
     "title": "あまりに",
     "kana": [
-      "あまり",
       "あまりに"
     ],
     "roman": [
-      "amari",
       "amarini"
     ]
   },
@@ -30402,11 +29730,9 @@ const dictionary = [
   {
     "title": "ほころばせ",
     "kana": [
-      "ほころば",
       "ほころばせ"
     ],
     "roman": [
-      "hokoroba",
       "hokorobase"
     ]
   },
@@ -30476,11 +29802,9 @@ const dictionary = [
   {
     "title": "めっぽう",
     "kana": [
-      "めっぽ",
       "めっぽう"
     ],
     "roman": [
-      "meppo",
       "meppou"
     ]
   },
@@ -30514,11 +29838,9 @@ const dictionary = [
   {
     "title": "どころ",
     "kana": [
-      "どこ",
       "どころ"
     ],
     "roman": [
-      "doko",
       "dokoro"
     ]
   },
@@ -30563,11 +29885,11 @@ const dictionary = [
   {
     "title": "やる気",
     "kana": [
-      "やる",
+      "やる気",
       "やるき"
     ],
     "roman": [
-      "yaru",
+      "yaru気",
       "yaruki"
     ]
   },
@@ -30637,11 +29959,9 @@ const dictionary = [
   {
     "title": "とびとび",
     "kana": [
-      "とびと",
       "とびとび"
     ],
     "roman": [
-      "tobito",
       "tobitobi"
     ]
   },
@@ -30693,11 +30013,9 @@ const dictionary = [
   {
     "title": "べつに",
     "kana": [
-      "べつ",
       "べつに"
     ],
     "roman": [
-      "betsu",
       "betsuni"
     ]
   },
@@ -30713,22 +30031,18 @@ const dictionary = [
   {
     "title": "うっすら",
     "kana": [
-      "うっす",
       "うっすら"
     ],
     "roman": [
-      "ussu",
       "ussura"
     ]
   },
   {
     "title": "かすめ",
     "kana": [
-      "かす",
       "かすめ"
     ],
     "roman": [
-      "kasu",
       "kasume"
     ]
   },
@@ -30870,22 +30184,18 @@ const dictionary = [
   {
     "title": "おぼろ",
     "kana": [
-      "おぼ",
       "おぼろ"
     ],
     "roman": [
-      "obo",
       "oboro"
     ]
   },
   {
     "title": "かめ",
     "kana": [
-      "か",
       "かめ"
     ],
     "roman": [
-      "ka",
       "kame"
     ]
   },
@@ -30901,11 +30211,9 @@ const dictionary = [
   {
     "title": "めざ",
     "kana": [
-      "め",
       "めざ"
     ],
     "roman": [
-      "me",
       "meza"
     ]
   },
@@ -30948,11 +30256,9 @@ const dictionary = [
   {
     "title": "ひやりと",
     "kana": [
-      "ひやり",
       "ひやりと"
     ],
     "roman": [
-      "hiyari",
       "hiyarito"
     ]
   },
@@ -30977,11 +30283,9 @@ const dictionary = [
   {
     "title": "さき",
     "kana": [
-      "さ",
       "さき"
     ],
     "roman": [
-      "sa",
       "saki"
     ]
   },
@@ -31141,22 +30445,18 @@ const dictionary = [
   {
     "title": "てんき",
     "kana": [
-      "てん",
       "てんき"
     ],
     "roman": [
-      "ten",
       "tenki"
     ]
   },
   {
     "title": "きん",
     "kana": [
-      "き",
       "きん"
     ],
     "roman": [
-      "ki",
       "kin"
     ]
   },
@@ -31190,11 +30490,9 @@ const dictionary = [
   {
     "title": "てめぇ",
     "kana": [
-      "てめ",
       "てめぇ"
     ],
     "roman": [
-      "teme",
       "temexe"
     ]
   },
@@ -31479,11 +30777,9 @@ const dictionary = [
   {
     "title": "つつ",
     "kana": [
-      "つ",
       "つつ"
     ],
     "roman": [
-      "tsu",
       "tsutsu"
     ]
   },
@@ -31706,11 +31002,9 @@ const dictionary = [
   {
     "title": "まい",
     "kana": [
-      "ま",
       "まい"
     ],
     "roman": [
-      "ma",
       "mai"
     ]
   },
@@ -31744,11 +31038,11 @@ const dictionary = [
   {
     "title": "お話",
     "kana": [
-      "お",
+      "お話",
       "おはなし"
     ],
     "roman": [
-      "o",
+      "o話",
       "ohanashi"
     ]
   },
@@ -31800,11 +31094,9 @@ const dictionary = [
   {
     "title": "おばあさん",
     "kana": [
-      "おばあさ",
       "おばあさん"
     ],
     "roman": [
-      "obaasa",
       "obaasan"
     ]
   },
@@ -31829,11 +31121,9 @@ const dictionary = [
   {
     "title": "ざった",
     "kana": [
-      "ざっ",
       "ざった"
     ],
     "roman": [
-      "zaxtsu",
       "zatta"
     ]
   },
@@ -31930,11 +31220,9 @@ const dictionary = [
   {
     "title": "えげつな",
     "kana": [
-      "えげつ",
       "えげつな"
     ],
     "roman": [
-      "egetsu",
       "egetsuna"
     ]
   },
@@ -32015,11 +31303,9 @@ const dictionary = [
   {
     "title": "はなはだ",
     "kana": [
-      "はなは",
       "はなはだ"
     ],
     "roman": [
-      "hanaha",
       "hanahada"
     ]
   },
@@ -32071,11 +31357,9 @@ const dictionary = [
   {
     "title": "くに",
     "kana": [
-      "く",
       "くに"
     ],
     "roman": [
-      "ku",
       "kuni"
     ]
   },
@@ -32100,11 +31384,9 @@ const dictionary = [
   {
     "title": "さす",
     "kana": [
-      "さ",
       "さす"
     ],
     "roman": [
-      "sa",
       "sasu"
     ]
   },
@@ -32120,11 +31402,9 @@ const dictionary = [
   {
     "title": "ぼろ",
     "kana": [
-      "ぼ",
       "ぼろ"
     ],
     "roman": [
-      "bo",
       "boro"
     ]
   },
@@ -32149,11 +31429,9 @@ const dictionary = [
   {
     "title": "および",
     "kana": [
-      "およ",
       "および"
     ],
     "roman": [
-      "oyo",
       "oyobi"
     ]
   },
@@ -32178,11 +31456,9 @@ const dictionary = [
   {
     "title": "しどろもどろ",
     "kana": [
-      "しどろもど",
       "しどろもどろ"
     ],
     "roman": [
-      "shidoromodo",
       "shidoromodoro"
     ]
   },
@@ -32324,11 +31600,9 @@ const dictionary = [
   {
     "title": "ここ",
     "kana": [
-      "こ",
       "ここ"
     ],
     "roman": [
-      "ko",
       "koko"
     ]
   },
@@ -32398,11 +31672,11 @@ const dictionary = [
   {
     "title": "びしょ濡れ",
     "kana": [
-      "びしょ濡",
+      "びしょ濡れ",
       "びしょぬれ"
     ],
     "roman": [
-      "bisho濡",
+      "bisho濡re",
       "bishonure"
     ]
   },
@@ -32418,11 +31692,11 @@ const dictionary = [
   {
     "title": "ほろ苦",
     "kana": [
-      "ほろ",
+      "ほろ苦",
       "ほろにが"
     ],
     "roman": [
-      "horo",
+      "horo苦",
       "horoniga"
     ]
   },
@@ -32438,11 +31712,9 @@ const dictionary = [
   {
     "title": "いってん",
     "kana": [
-      "いって",
       "いってん"
     ],
     "roman": [
-      "itte",
       "itten"
     ]
   },
@@ -32503,11 +31775,9 @@ const dictionary = [
   {
     "title": "かも",
     "kana": [
-      "か",
       "かも"
     ],
     "roman": [
-      "ka",
       "kamo"
     ]
   },
@@ -32555,11 +31825,9 @@ const dictionary = [
   {
     "title": "そえ",
     "kana": [
-      "そ",
       "そえ"
     ],
     "roman": [
-      "so",
       "soe"
     ]
   },
@@ -32694,11 +31962,9 @@ const dictionary = [
   {
     "title": "もたら",
     "kana": [
-      "もた",
       "もたら"
     ],
     "roman": [
-      "mota",
       "motara"
     ]
   },
@@ -32714,11 +31980,9 @@ const dictionary = [
   {
     "title": "つよ",
     "kana": [
-      "つ",
       "つよ"
     ],
     "roman": [
-      "tsu",
       "tsuyo"
     ]
   },
@@ -32842,11 +32106,9 @@ const dictionary = [
   {
     "title": "いとおし",
     "kana": [
-      "いとお",
       "いとおし"
     ],
     "roman": [
-      "itoo",
       "itooshi"
     ]
   },
@@ -32871,11 +32133,9 @@ const dictionary = [
   {
     "title": "とれ",
     "kana": [
-      "と",
       "とれ"
     ],
     "roman": [
-      "to",
       "tore"
     ]
   },
@@ -32963,11 +32223,9 @@ const dictionary = [
   {
     "title": "いっつも",
     "kana": [
-      "いっつ",
       "いっつも"
     ],
     "roman": [
-      "ittsu",
       "ittsumo"
     ]
   },
@@ -33037,11 +32295,9 @@ const dictionary = [
   {
     "title": "ほど",
     "kana": [
-      "ほ",
       "ほど"
     ],
     "roman": [
-      "ho",
       "hodo"
     ]
   },
@@ -33215,11 +32471,9 @@ const dictionary = [
   {
     "title": "きりん",
     "kana": [
-      "きり",
       "きりん"
     ],
     "roman": [
-      "kiri",
       "kirin"
     ]
   },
@@ -33453,11 +32707,9 @@ const dictionary = [
   {
     "title": "ざま",
     "kana": [
-      "ざ",
       "ざま"
     ],
     "roman": [
-      "za",
       "zama"
     ]
   },
@@ -33518,11 +32770,9 @@ const dictionary = [
   {
     "title": "さっそく",
     "kana": [
-      "さっそ",
       "さっそく"
     ],
     "roman": [
-      "sasso",
       "sassoku"
     ]
   },
@@ -33592,11 +32842,9 @@ const dictionary = [
   {
     "title": "もしくは",
     "kana": [
-      "もしく",
       "もしくは"
     ],
     "roman": [
-      "moshiku",
       "moshikuha"
     ]
   },
@@ -33630,11 +32878,9 @@ const dictionary = [
   {
     "title": "とっくに",
     "kana": [
-      "とっく",
       "とっくに"
     ],
     "roman": [
-      "tokku",
       "tokkuni"
     ]
   },
@@ -33686,22 +32932,20 @@ const dictionary = [
   {
     "title": "お正月",
     "kana": [
-      "お正",
+      "お正月",
       "おしょうがつ"
     ],
     "roman": [
-      "o正",
+      "o正月",
       "oshougatsu"
     ]
   },
   {
     "title": "とい",
     "kana": [
-      "と",
       "とい"
     ],
     "roman": [
-      "to",
       "toi"
     ]
   },
@@ -33717,11 +32961,9 @@ const dictionary = [
   {
     "title": "せせこまし",
     "kana": [
-      "せせこま",
       "せせこまし"
     ],
     "roman": [
-      "sesekoma",
       "sesekomashi"
     ]
   },
@@ -33748,11 +32990,9 @@ const dictionary = [
   {
     "title": "ぎゅっと",
     "kana": [
-      "ぎゅっ",
       "ぎゅっと"
     ],
     "roman": [
-      "gyuxtsu",
       "gyutto"
     ]
   },
@@ -33813,11 +33053,9 @@ const dictionary = [
   {
     "title": "しびれ",
     "kana": [
-      "しび",
       "しびれ"
     ],
     "roman": [
-      "shibi",
       "shibire"
     ]
   },
@@ -33869,11 +33107,9 @@ const dictionary = [
   {
     "title": "ついて",
     "kana": [
-      "つい",
       "ついて"
     ],
     "roman": [
-      "tsui",
       "tsuite"
     ]
   },
@@ -34145,11 +33381,9 @@ const dictionary = [
   {
     "title": "ゆとり",
     "kana": [
-      "ゆと",
       "ゆとり"
     ],
     "roman": [
-      "yuto",
       "yutori"
     ]
   },
@@ -34421,11 +33655,11 @@ const dictionary = [
   {
     "title": "かき氷",
     "kana": [
-      "かき",
+      "かき氷",
       "かきごおり"
     ],
     "roman": [
-      "kaki",
+      "kaki氷",
       "kakigoori"
     ]
   },
@@ -34495,22 +33729,18 @@ const dictionary = [
   {
     "title": "しんど",
     "kana": [
-      "しん",
       "しんど"
     ],
     "roman": [
-      "shin",
       "shindo"
     ]
   },
   {
     "title": "くるくる",
     "kana": [
-      "くるく",
       "くるくる"
     ],
     "roman": [
-      "kuruku",
       "kurukuru"
     ]
   },
@@ -34607,11 +33837,11 @@ const dictionary = [
   {
     "title": "ほうれん草",
     "kana": [
-      "ほうれん",
+      "ほうれん草",
       "ほうれんそう"
     ],
     "roman": [
-      "houren",
+      "houren草",
       "hourensou"
     ]
   },
@@ -34672,11 +33902,9 @@ const dictionary = [
   {
     "title": "ちょう",
     "kana": [
-      "ちょ",
       "ちょう"
     ],
     "roman": [
-      "cho",
       "chou"
     ]
   },
@@ -34746,11 +33974,9 @@ const dictionary = [
   {
     "title": "ようやく",
     "kana": [
-      "ようや",
       "ようやく"
     ],
     "roman": [
-      "youya",
       "youyaku"
     ]
   },
@@ -34775,11 +34001,9 @@ const dictionary = [
   {
     "title": "ふらつ",
     "kana": [
-      "ふら",
       "ふらつ"
     ],
     "roman": [
-      "fura",
       "furatsu"
     ]
   },
@@ -34804,11 +34028,9 @@ const dictionary = [
   {
     "title": "つかつか",
     "kana": [
-      "つかつ",
       "つかつか"
     ],
     "roman": [
-      "tsukatsu",
       "tsukatsuka"
     ]
   },
@@ -34842,11 +34064,9 @@ const dictionary = [
   {
     "title": "とりあえず",
     "kana": [
-      "とりあえ",
       "とりあえず"
     ],
     "roman": [
-      "toriae",
       "toriaezu"
     ]
   },
@@ -35082,11 +34302,9 @@ const dictionary = [
   {
     "title": "いちご",
     "kana": [
-      "いち",
       "いちご"
     ],
     "roman": [
-      "ichi",
       "ichigo"
     ]
   },
@@ -35237,11 +34455,9 @@ const dictionary = [
   {
     "title": "いたずら",
     "kana": [
-      "いたず",
       "いたずら"
     ],
     "roman": [
-      "itazu",
       "itazura"
     ]
   },
@@ -35257,11 +34473,9 @@ const dictionary = [
   {
     "title": "かんかん",
     "kana": [
-      "かんか",
       "かんかん"
     ],
     "roman": [
-      "kanka",
       "kankan"
     ]
   },
@@ -35277,11 +34491,9 @@ const dictionary = [
   {
     "title": "きらきら",
     "kana": [
-      "きらき",
       "きらきら"
     ],
     "roman": [
-      "kiraki",
       "kirakira"
     ]
   },
@@ -35407,22 +34619,20 @@ const dictionary = [
   {
     "title": "お手伝い",
     "kana": [
-      "お手伝",
+      "お手伝い",
       "おてつだい"
     ],
     "roman": [
-      "o手伝",
+      "o手伝i",
       "otetsudai"
     ]
   },
   {
     "title": "たえず",
     "kana": [
-      "たえ",
       "たえず"
     ],
     "roman": [
-      "tae",
       "taezu"
     ]
   },
@@ -35474,11 +34684,9 @@ const dictionary = [
   {
     "title": "すご",
     "kana": [
-      "す",
       "すご"
     ],
     "roman": [
-      "su",
       "sugo"
     ]
   },
@@ -35494,11 +34702,9 @@ const dictionary = [
   {
     "title": "ぐちゃぐちゃ",
     "kana": [
-      "ぐちゃぐち",
       "ぐちゃぐちゃ"
     ],
     "roman": [
-      "guchaguchi",
       "guchagucha"
     ]
   },
@@ -35552,33 +34758,27 @@ const dictionary = [
   {
     "title": "しゃにむに",
     "kana": [
-      "しゃにむ",
       "しゃにむに"
     ],
     "roman": [
-      "shanimu",
       "shanimuni"
     ]
   },
   {
     "title": "だり",
     "kana": [
-      "だ",
       "だり"
     ],
     "roman": [
-      "da",
       "dari"
     ]
   },
   {
     "title": "まっしぐら",
     "kana": [
-      "まっしぐ",
       "まっしぐら"
     ],
     "roman": [
-      "masshigu",
       "masshigura"
     ]
   },
@@ -35666,9 +34866,11 @@ const dictionary = [
   {
     "title": "にく*",
     "kana": [
+      "にく*",
       "にく"
     ],
     "roman": [
+      "niku*",
       "niku"
     ]
   },
@@ -35738,11 +34940,9 @@ const dictionary = [
   {
     "title": "えて",
     "kana": [
-      "え",
       "えて"
     ],
     "roman": [
-      "e",
       "ete"
     ]
   },
@@ -35969,22 +35169,18 @@ const dictionary = [
   {
     "title": "くつ",
     "kana": [
-      "く",
       "くつ"
     ],
     "roman": [
-      "ku",
       "kutsu"
     ]
   },
   {
     "title": "だいぶ",
     "kana": [
-      "だい",
       "だいぶ"
     ],
     "roman": [
-      "dai",
       "daibu"
     ]
   },
@@ -36063,11 +35259,9 @@ const dictionary = [
   {
     "title": "あったま",
     "kana": [
-      "あった",
       "あったま"
     ],
     "roman": [
-      "atta",
       "attama"
     ]
   },
@@ -36119,11 +35313,9 @@ const dictionary = [
   {
     "title": "ちっぽけ",
     "kana": [
-      "ちっぽ",
       "ちっぽけ"
     ],
     "roman": [
-      "chippo",
       "chippoke"
     ]
   },
@@ -36148,11 +35340,9 @@ const dictionary = [
   {
     "title": "なんで",
     "kana": [
-      "なん",
       "なんで"
     ],
     "roman": [
-      "nan",
       "nande"
     ]
   },
@@ -36278,11 +35468,9 @@ const dictionary = [
   {
     "title": "まじまじ",
     "kana": [
-      "まじま",
       "まじまじ"
     ],
     "roman": [
-      "majima",
       "majimaji"
     ]
   },
@@ -36498,11 +35686,9 @@ const dictionary = [
   {
     "title": "まさか",
     "kana": [
-      "まさ",
       "まさか"
     ],
     "roman": [
-      "masa",
       "masaka"
     ]
   },
@@ -36545,11 +35731,9 @@ const dictionary = [
   {
     "title": "ゆめ",
     "kana": [
-      "ゆ",
       "ゆめ"
     ],
     "roman": [
-      "yu",
       "yume"
     ]
   },
@@ -36565,11 +35749,9 @@ const dictionary = [
   {
     "title": "ぶつけ",
     "kana": [
-      "ぶつ",
       "ぶつけ"
     ],
     "roman": [
-      "butsu",
       "butsuke"
     ]
   },
@@ -36731,11 +35913,9 @@ const dictionary = [
   {
     "title": "もって",
     "kana": [
-      "もっ",
       "もって"
     ],
     "roman": [
-      "moxtsu",
       "motte"
     ]
   },
@@ -36861,22 +36041,18 @@ const dictionary = [
   {
     "title": "だが",
     "kana": [
-      "だ",
       "だが"
     ],
     "roman": [
-      "da",
       "daga"
     ]
   },
   {
     "title": "またせ",
     "kana": [
-      "また",
       "またせ"
     ],
     "roman": [
-      "mata",
       "matase"
     ]
   },
@@ -36919,11 +36095,9 @@ const dictionary = [
   {
     "title": "あきらめ",
     "kana": [
-      "あきら",
       "あきらめ"
     ],
     "roman": [
-      "akira",
       "akirame"
     ]
   },
@@ -37110,11 +36284,9 @@ const dictionary = [
   {
     "title": "ずい",
     "kana": [
-      "ず",
       "ずい"
     ],
     "roman": [
-      "zu",
       "zui"
     ]
   },
@@ -37130,22 +36302,18 @@ const dictionary = [
   {
     "title": "するりと",
     "kana": [
-      "するり",
       "するりと"
     ],
     "roman": [
-      "sururi",
       "sururito"
     ]
   },
   {
     "title": "おずおず",
     "kana": [
-      "おずお",
       "おずおず"
     ],
     "roman": [
-      "ozuo",
       "ozuozu"
     ]
   },
@@ -37368,11 +36536,9 @@ const dictionary = [
   {
     "title": "ぞっと",
     "kana": [
-      "ぞっ",
       "ぞっと"
     ],
     "roman": [
-      "zoxtsu",
       "zotto"
     ]
   },
@@ -37424,22 +36590,20 @@ const dictionary = [
   {
     "title": "この上な",
     "kana": [
-      "この上",
+      "この上な",
       "このうえな"
     ],
     "roman": [
-      "kono上",
+      "kono上na",
       "konouena"
     ]
   },
   {
     "title": "べたべた",
     "kana": [
-      "べたべ",
       "べたべた"
     ],
     "roman": [
-      "betabe",
       "betabeta"
     ]
   },
@@ -37520,11 +36684,9 @@ const dictionary = [
   {
     "title": "いま",
     "kana": [
-      "い",
       "いま"
     ],
     "roman": [
-      "i",
       "ima"
     ]
   },
@@ -37558,11 +36720,9 @@ const dictionary = [
   {
     "title": "もっとも",
     "kana": [
-      "もっと",
       "もっとも"
     ],
     "roman": [
-      "motto",
       "mottomo"
     ]
   },
@@ -37769,11 +36929,11 @@ const dictionary = [
   {
     "title": "かき回",
     "kana": [
-      "かき",
+      "かき回",
       "かきまわ"
     ],
     "roman": [
-      "kaki",
+      "kaki回",
       "kakimawa"
     ]
   },
@@ -37852,22 +37012,18 @@ const dictionary = [
   {
     "title": "ひばり",
     "kana": [
-      "ひば",
       "ひばり"
     ],
     "roman": [
-      "hiba",
       "hibari"
     ]
   },
   {
     "title": "こ",
     "kana": [
-      "",
       "こ"
     ],
     "roman": [
-      "",
       "ko"
     ]
   },
@@ -38459,11 +37615,9 @@ const dictionary = [
   {
     "title": "えり",
     "kana": [
-      "え",
       "えり"
     ],
     "roman": [
-      "e",
       "eri"
     ]
   },
@@ -38645,11 +37799,9 @@ const dictionary = [
   {
     "title": "ぼちぼち",
     "kana": [
-      "ぼちぼ",
       "ぼちぼち"
     ],
     "roman": [
-      "bochibo",
       "bochibochi"
     ]
   },
@@ -38674,11 +37826,9 @@ const dictionary = [
   {
     "title": "じわりと",
     "kana": [
-      "じわり",
       "じわりと"
     ],
     "roman": [
-      "jiwari",
       "jiwarito"
     ]
   },
@@ -38912,11 +38062,9 @@ const dictionary = [
   {
     "title": "しゃべ",
     "kana": [
-      "しゃ",
       "しゃべ"
     ],
     "roman": [
-      "sha",
       "shabe"
     ]
   },
@@ -38932,11 +38080,9 @@ const dictionary = [
   {
     "title": "はじめ",
     "kana": [
-      "はじ",
       "はじめ"
     ],
     "roman": [
-      "haji",
       "hajime"
     ]
   },
@@ -38988,11 +38134,9 @@ const dictionary = [
   {
     "title": "のんき",
     "kana": [
-      "のん",
       "のんき"
     ],
     "roman": [
-      "non",
       "nonki"
     ]
   },
@@ -39064,33 +38208,27 @@ const dictionary = [
   {
     "title": "およそ",
     "kana": [
-      "およ",
       "およそ"
     ],
     "roman": [
-      "oyo",
       "oyoso"
     ]
   },
   {
     "title": "そりゃ",
     "kana": [
-      "そり",
       "そりゃ"
     ],
     "roman": [
-      "sori",
       "sorya"
     ]
   },
   {
     "title": "ものです",
     "kana": [
-      "もので",
       "ものです"
     ],
     "roman": [
-      "monode",
       "monodesu"
     ]
   },
@@ -39187,11 +38325,9 @@ const dictionary = [
   {
     "title": "たらふく",
     "kana": [
-      "たらふ",
       "たらふく"
     ],
     "roman": [
-      "tarafu",
       "tarafuku"
     ]
   },
@@ -39387,22 +38523,20 @@ const dictionary = [
   {
     "title": "やり過ご",
     "kana": [
-      "やり過",
+      "やり過ご",
       "やりすご"
     ],
     "roman": [
-      "yari過",
+      "yari過go",
       "yarisugo"
     ]
   },
   {
     "title": "てくてく",
     "kana": [
-      "てくて",
       "てくてく"
     ],
     "roman": [
-      "tekute",
       "tekuteku"
     ]
   },
@@ -39418,11 +38552,9 @@ const dictionary = [
   {
     "title": "くすぐった",
     "kana": [
-      "くすぐっ",
       "くすぐった"
     ],
     "roman": [
-      "kusuguxtsu",
       "kusugutta"
     ]
   },
@@ -39438,11 +38570,9 @@ const dictionary = [
   {
     "title": "つれ",
     "kana": [
-      "つ",
       "つれ"
     ],
     "roman": [
-      "tsu",
       "tsure"
     ]
   },
@@ -39658,11 +38788,9 @@ const dictionary = [
   {
     "title": "つたな",
     "kana": [
-      "つた",
       "つたな"
     ],
     "roman": [
-      "tsuta",
       "tsutana"
     ]
   },
@@ -39732,11 +38860,11 @@ const dictionary = [
   {
     "title": "お喋り",
     "kana": [
-      "お喋",
+      "お喋り",
       "おしゃべり"
     ],
     "roman": [
-      "o喋",
+      "o喋ri",
       "oshaberi"
     ]
   },
@@ -39797,22 +38925,20 @@ const dictionary = [
   {
     "title": "ずり落ち",
     "kana": [
-      "ずり落",
+      "ずり落ち",
       "ずりおち"
     ],
     "roman": [
-      "zuri落",
+      "zuri落chi",
       "zuriochi"
     ]
   },
   {
     "title": "しょう",
     "kana": [
-      "しょ",
       "しょう"
     ],
     "roman": [
-      "sho",
       "shou"
     ]
   },
@@ -39882,11 +39008,11 @@ const dictionary = [
   {
     "title": "ひと月",
     "kana": [
-      "ひと",
+      "ひと月",
       "ひとつき"
     ],
     "roman": [
-      "hito",
+      "hito月",
       "hitotsuki"
     ]
   },
@@ -39904,11 +39030,11 @@ const dictionary = [
   {
     "title": "この間",
     "kana": [
-      "この",
+      "この間",
       "このかん"
     ],
     "roman": [
-      "kono",
+      "kono間",
       "konokan"
     ]
   },
@@ -39933,11 +39059,9 @@ const dictionary = [
   {
     "title": "めぐ",
     "kana": [
-      "め",
       "めぐ"
     ],
     "roman": [
-      "me",
       "megu"
     ]
   },
@@ -39998,11 +39122,9 @@ const dictionary = [
   {
     "title": "しっかり",
     "kana": [
-      "しっか",
       "しっかり"
     ],
     "roman": [
-      "shikka",
       "shikkari"
     ]
   },
@@ -40072,11 +39194,9 @@ const dictionary = [
   {
     "title": "ぴくり",
     "kana": [
-      "ぴく",
       "ぴくり"
     ],
     "roman": [
-      "piku",
       "pikuri"
     ]
   },
@@ -40218,11 +39338,9 @@ const dictionary = [
   {
     "title": "のみ",
     "kana": [
-      "の",
       "のみ"
     ],
     "roman": [
-      "no",
       "nomi"
     ]
   },
@@ -40321,11 +39439,9 @@ const dictionary = [
   {
     "title": "どんより",
     "kana": [
-      "どんよ",
       "どんより"
     ],
     "roman": [
-      "donyo",
       "donyori"
     ]
   },
@@ -40368,9 +39484,11 @@ const dictionary = [
   {
     "title": "いま*",
     "kana": [
+      "いま*",
       "いま"
     ],
     "roman": [
+      "ima*",
       "ima"
     ]
   },
@@ -40440,11 +39558,9 @@ const dictionary = [
   {
     "title": "こす",
     "kana": [
-      "こ",
       "こす"
     ],
     "roman": [
-      "ko",
       "kosu"
     ]
   },
@@ -40550,11 +39666,9 @@ const dictionary = [
   {
     "title": "ひとつ",
     "kana": [
-      "ひと",
       "ひとつ"
     ],
     "roman": [
-      "hito",
       "hitotsu"
     ]
   },
@@ -40570,11 +39684,9 @@ const dictionary = [
   {
     "title": "げた",
     "kana": [
-      "げ",
       "げた"
     ],
     "roman": [
-      "ge",
       "geta"
     ]
   },
@@ -40590,11 +39702,9 @@ const dictionary = [
   {
     "title": "きちんと",
     "kana": [
-      "きちん",
       "きちんと"
     ],
     "roman": [
-      "kichin",
       "kichinto"
     ]
   },
@@ -40646,11 +39756,9 @@ const dictionary = [
   {
     "title": "はるばる",
     "kana": [
-      "はるば",
       "はるばる"
     ],
     "roman": [
-      "haruba",
       "harubaru"
     ]
   },
@@ -40666,11 +39774,9 @@ const dictionary = [
   {
     "title": "ためら",
     "kana": [
-      "ため",
       "ためら"
     ],
     "roman": [
-      "tame",
       "tamera"
     ]
   },
@@ -40686,11 +39792,9 @@ const dictionary = [
   {
     "title": "がたん",
     "kana": [
-      "がた",
       "がたん"
     ],
     "roman": [
-      "gata",
       "gatan"
     ]
   },
@@ -40787,11 +39891,9 @@ const dictionary = [
   {
     "title": "てっぺん",
     "kana": [
-      "てっぺ",
       "てっぺん"
     ],
     "roman": [
-      "teppe",
       "teppen"
     ]
   },
@@ -40834,22 +39936,18 @@ const dictionary = [
   {
     "title": "いっせいに",
     "kana": [
-      "いっせい",
       "いっせいに"
     ],
     "roman": [
-      "issei",
       "isseini"
     ]
   },
   {
     "title": "じわじわ",
     "kana": [
-      "じわじ",
       "じわじわ"
     ],
     "roman": [
-      "jiwaji",
       "jiwajiwa"
     ]
   },
@@ -40910,11 +40008,9 @@ const dictionary = [
   {
     "title": "いわば",
     "kana": [
-      "いわ",
       "いわば"
     ],
     "roman": [
-      "iwa",
       "iwaba"
     ]
   },
@@ -40939,11 +40035,9 @@ const dictionary = [
   {
     "title": "とうてい",
     "kana": [
-      "とうて",
       "とうてい"
     ],
     "roman": [
-      "toute",
       "toutei"
     ]
   },
@@ -41114,22 +40208,18 @@ const dictionary = [
   {
     "title": "とくに",
     "kana": [
-      "とく",
       "とくに"
     ],
     "roman": [
-      "toku",
       "tokuni"
     ]
   },
   {
     "title": "ままならな",
     "kana": [
-      "ままなら",
       "ままならな"
     ],
     "roman": [
-      "mamanara",
       "mamanarana"
     ]
   },
@@ -41273,11 +40363,9 @@ const dictionary = [
   {
     "title": "かわいそう",
     "kana": [
-      "かわいそ",
       "かわいそう"
     ],
     "roman": [
-      "kawaiso",
       "kawaisou"
     ]
   },
@@ -41365,11 +40453,9 @@ const dictionary = [
   {
     "title": "いきなり",
     "kana": [
-      "いきな",
       "いきなり"
     ],
     "roman": [
-      "ikina",
       "ikinari"
     ]
   },
@@ -41430,11 +40516,9 @@ const dictionary = [
   {
     "title": "まなざし",
     "kana": [
-      "まなざ",
       "まなざし"
     ],
     "roman": [
-      "manaza",
       "manazashi"
     ]
   },
@@ -41450,11 +40534,9 @@ const dictionary = [
   {
     "title": "ごまか",
     "kana": [
-      "ごま",
       "ごまか"
     ],
     "roman": [
-      "goma",
       "gomaka"
     ]
   },
@@ -41488,11 +40570,9 @@ const dictionary = [
   {
     "title": "まさに",
     "kana": [
-      "まさ",
       "まさに"
     ],
     "roman": [
-      "masa",
       "masani"
     ]
   },
@@ -41517,11 +40597,9 @@ const dictionary = [
   {
     "title": "うらやまし",
     "kana": [
-      "うらやま",
       "うらやまし"
     ],
     "roman": [
-      "urayama",
       "urayamashi"
     ]
   },
@@ -41676,11 +40754,9 @@ const dictionary = [
   {
     "title": "え",
     "kana": [
-      "",
       "え"
     ],
     "roman": [
-      "",
       "e"
     ]
   },
@@ -41732,11 +40808,9 @@ const dictionary = [
   {
     "title": "まき",
     "kana": [
-      "ま",
       "まき"
     ],
     "roman": [
-      "ma",
       "maki"
     ]
   },
@@ -41792,11 +40866,9 @@ const dictionary = [
   {
     "title": "こよう",
     "kana": [
-      "こよ",
       "こよう"
     ],
     "roman": [
-      "koyo",
       "koyou"
     ]
   },
@@ -41821,11 +40893,9 @@ const dictionary = [
   {
     "title": "じゅんじ",
     "kana": [
-      "じゅん",
       "じゅんじ"
     ],
     "roman": [
-      "jun",
       "junji"
     ]
   },
@@ -41913,11 +40983,9 @@ const dictionary = [
   {
     "title": "おじゃま",
     "kana": [
-      "おじゃ",
       "おじゃま"
     ],
     "roman": [
-      "oja",
       "ojama"
     ]
   },
@@ -41942,11 +41010,9 @@ const dictionary = [
   {
     "title": "ねらえ",
     "kana": [
-      "ねら",
       "ねらえ"
     ],
     "roman": [
-      "nera",
       "nerae"
     ]
   },
@@ -41998,11 +41064,9 @@ const dictionary = [
   {
     "title": "なんだかんだ",
     "kana": [
-      "なんだかん",
       "なんだかんだ"
     ],
     "roman": [
-      "nandakan",
       "nandakanda"
     ]
   },
@@ -42094,11 +41158,9 @@ const dictionary = [
   {
     "title": "はが",
     "kana": [
-      "は",
       "はが"
     ],
     "roman": [
-      "ha",
       "haga"
     ]
   },
@@ -42177,11 +41239,9 @@ const dictionary = [
   {
     "title": "くすくす",
     "kana": [
-      "くすく",
       "くすくす"
     ],
     "roman": [
-      "kusuku",
       "kusukusu"
     ]
   },
@@ -42224,11 +41284,9 @@ const dictionary = [
   {
     "title": "わざわざ",
     "kana": [
-      "わざわ",
       "わざわざ"
     ],
     "roman": [
-      "wazawa",
       "wazawaza"
     ]
   },
@@ -42316,11 +41374,9 @@ const dictionary = [
   {
     "title": "しま",
     "kana": [
-      "し",
       "しま"
     ],
     "roman": [
-      "shi",
       "shima"
     ]
   },
@@ -42435,11 +41491,11 @@ const dictionary = [
   {
     "title": "お笑い",
     "kana": [
-      "お笑",
+      "お笑い",
       "おわらい"
     ],
     "roman": [
-      "o笑",
+      "o笑i",
       "owarai"
     ]
   },
@@ -42536,11 +41592,9 @@ const dictionary = [
   {
     "title": "あらわ",
     "kana": [
-      "あら",
       "あらわ"
     ],
     "roman": [
-      "ara",
       "arawa"
     ]
   },
@@ -42601,11 +41655,9 @@ const dictionary = [
   {
     "title": "あわ",
     "kana": [
-      "あ",
       "あわ"
     ],
     "roman": [
-      "a",
       "awa"
     ]
   },
@@ -42747,11 +41799,9 @@ const dictionary = [
   {
     "title": "み",
     "kana": [
-      "",
       "み"
     ],
     "roman": [
-      "",
       "mi"
     ]
   },
@@ -42839,11 +41889,9 @@ const dictionary = [
   {
     "title": "かりに",
     "kana": [
-      "かり",
       "かりに"
     ],
     "roman": [
-      "kari",
       "karini"
     ]
   },
@@ -42985,22 +42033,20 @@ const dictionary = [
   {
     "title": "ほっと",
     "kana": [
-      "ほっ",
       "ほっと"
     ],
     "roman": [
-      "hoxtsu",
       "hotto"
     ]
   },
   {
     "title": "うつ伏せ",
     "kana": [
-      "うつ伏",
+      "うつ伏せ",
       "うつぶせ"
     ],
     "roman": [
-      "utsu伏",
+      "utsu伏se",
       "utsubuse"
     ]
   },
@@ -43025,11 +42071,9 @@ const dictionary = [
   {
     "title": "しっとり",
     "kana": [
-      "しっと",
       "しっとり"
     ],
     "roman": [
-      "shitto",
       "shittori"
     ]
   },
@@ -43189,11 +42233,9 @@ const dictionary = [
   {
     "title": "おとうさん",
     "kana": [
-      "おとうさ",
       "おとうさん"
     ],
     "roman": [
-      "otousa",
       "otousan"
     ]
   },
@@ -43227,11 +42269,9 @@ const dictionary = [
   {
     "title": "こんなに",
     "kana": [
-      "こんな",
       "こんなに"
     ],
     "roman": [
-      "konna",
       "konnani"
     ]
   },
@@ -43274,11 +42314,9 @@ const dictionary = [
   {
     "title": "やたら",
     "kana": [
-      "やた",
       "やたら"
     ],
     "roman": [
-      "yata",
       "yatara"
     ]
   },
@@ -43366,11 +42404,9 @@ const dictionary = [
   {
     "title": "つ",
     "kana": [
-      "",
       "つ"
     ],
     "roman": [
-      "",
       "tsu"
     ]
   },
@@ -43489,11 +42525,9 @@ const dictionary = [
   {
     "title": "おもに",
     "kana": [
-      "おも",
       "おもに"
     ],
     "roman": [
-      "omo",
       "omoni"
     ]
   },
@@ -43572,22 +42606,18 @@ const dictionary = [
   {
     "title": "しょうもな",
     "kana": [
-      "しょうも",
       "しょうもな"
     ],
     "roman": [
-      "shoumo",
       "shoumona"
     ]
   },
   {
     "title": "ほとんど",
     "kana": [
-      "ほとん",
       "ほとんど"
     ],
     "roman": [
-      "hoton",
       "hotondo"
     ]
   },
@@ -43648,11 +42678,9 @@ const dictionary = [
   {
     "title": "そこ",
     "kana": [
-      "そ",
       "そこ"
     ],
     "roman": [
-      "so",
       "soko"
     ]
   },
@@ -43695,11 +42723,9 @@ const dictionary = [
   {
     "title": "ふるさと",
     "kana": [
-      "ふるさ",
       "ふるさと"
     ],
     "roman": [
-      "furusa",
       "furusato"
     ]
   },
@@ -43876,11 +42902,9 @@ const dictionary = [
   {
     "title": "いとも",
     "kana": [
-      "いと",
       "いとも"
     ],
     "roman": [
-      "ito",
       "itomo"
     ]
   },
@@ -43905,11 +42929,9 @@ const dictionary = [
   {
     "title": "あり",
     "kana": [
-      "あ",
       "あり"
     ],
     "roman": [
-      "a",
       "ari"
     ]
   },
@@ -43981,11 +43003,9 @@ const dictionary = [
   {
     "title": "ほむ",
     "kana": [
-      "ほ",
       "ほむ"
     ],
     "roman": [
-      "ho",
       "homu"
     ]
   },
@@ -44136,11 +43156,9 @@ const dictionary = [
   {
     "title": "ほれ",
     "kana": [
-      "ほ",
       "ほれ"
     ],
     "roman": [
-      "ho",
       "hore"
     ]
   },
@@ -44176,11 +43194,11 @@ const dictionary = [
   {
     "title": "ご苦労",
     "kana": [
-      "ご苦",
+      "ご苦労",
       "ごくろう"
     ],
     "roman": [
-      "go苦",
+      "go苦労",
       "gokurou"
     ]
   },
@@ -44223,11 +43241,9 @@ const dictionary = [
   {
     "title": "あの",
     "kana": [
-      "あ",
       "あの"
     ],
     "roman": [
-      "a",
       "ano"
     ]
   },
@@ -44364,11 +43380,9 @@ const dictionary = [
   {
     "title": "とも",
     "kana": [
-      "と",
       "とも"
     ],
     "roman": [
-      "to",
       "tomo"
     ]
   },
@@ -44404,11 +43418,9 @@ const dictionary = [
   {
     "title": "わり",
     "kana": [
-      "わ",
       "わり"
     ],
     "roman": [
-      "wa",
       "wari"
     ]
   },
@@ -44471,11 +43483,9 @@ const dictionary = [
   {
     "title": "かたち",
     "kana": [
-      "かた",
       "かたち"
     ],
     "roman": [
-      "kata",
       "katachi"
     ]
   },
@@ -44700,11 +43710,9 @@ const dictionary = [
   {
     "title": "しれっと",
     "kana": [
-      "しれっ",
       "しれっと"
     ],
     "roman": [
-      "shirextsu",
       "shiretto"
     ]
   },
@@ -44774,11 +43782,9 @@ const dictionary = [
   {
     "title": "いやしくも",
     "kana": [
-      "いやしく",
       "いやしくも"
     ],
     "roman": [
-      "iyashiku",
       "iyashikumo"
     ]
   },
@@ -44803,11 +43809,9 @@ const dictionary = [
   {
     "title": "よわ",
     "kana": [
-      "よ",
       "よわ"
     ],
     "roman": [
-      "yo",
       "yowa"
     ]
   },
@@ -44823,11 +43827,9 @@ const dictionary = [
   {
     "title": "きれい",
     "kana": [
-      "きれ",
       "きれい"
     ],
     "roman": [
-      "kire",
       "kirei"
     ]
   },
@@ -44897,22 +43899,18 @@ const dictionary = [
   {
     "title": "ちゃん",
     "kana": [
-      "ちゃ",
       "ちゃん"
     ],
     "roman": [
-      "cha",
       "chan"
     ]
   },
   {
     "title": "から",
     "kana": [
-      "か",
       "から"
     ],
     "roman": [
-      "ka",
       "kara"
     ]
   },
@@ -45045,11 +44043,9 @@ const dictionary = [
   {
     "title": "こんな",
     "kana": [
-      "こん",
       "こんな"
     ],
     "roman": [
-      "kon",
       "konna"
     ]
   },
@@ -45119,22 +44115,18 @@ const dictionary = [
   {
     "title": "よいしょ",
     "kana": [
-      "よいし",
       "よいしょ"
     ],
     "roman": [
-      "yoishi",
       "yoisho"
     ]
   },
   {
     "title": "しか",
     "kana": [
-      "し",
       "しか"
     ],
     "roman": [
-      "shi",
       "shika"
     ]
   },
@@ -45188,11 +44180,9 @@ const dictionary = [
   {
     "title": "しっと",
     "kana": [
-      "しっ",
       "しっと"
     ],
     "roman": [
-      "shixtsu",
       "shitto"
     ]
   },
@@ -45280,11 +44270,9 @@ const dictionary = [
   {
     "title": "いかつ",
     "kana": [
-      "いか",
       "いかつ"
     ],
     "roman": [
-      "ika",
       "ikatsu"
     ]
   },
@@ -45300,11 +44288,9 @@ const dictionary = [
   {
     "title": "わいわい",
     "kana": [
-      "わいわ",
       "わいわい"
     ],
     "roman": [
-      "waiwa",
       "waiwai"
     ]
   },
@@ -45347,11 +44333,11 @@ const dictionary = [
   {
     "title": "あっという間",
     "kana": [
-      "あっという",
+      "あっという間",
       "あっというま"
     ],
     "roman": [
-      "attoiu",
+      "attoiu間",
       "attoiuma"
     ]
   },
@@ -45403,11 +44389,9 @@ const dictionary = [
   {
     "title": "あさって",
     "kana": [
-      "あさっ",
       "あさって"
     ],
     "roman": [
-      "asaxtsu",
       "asatte"
     ]
   },
@@ -45441,9 +44425,11 @@ const dictionary = [
   {
     "title": "み*",
     "kana": [
+      "み*",
       "み"
     ],
     "roman": [
+      "mi*",
       "mi"
     ]
   },
@@ -45486,11 +44472,9 @@ const dictionary = [
   {
     "title": "つられ",
     "kana": [
-      "つら",
       "つられ"
     ],
     "roman": [
-      "tsura",
       "tsurare"
     ]
   },
@@ -45524,22 +44508,18 @@ const dictionary = [
   {
     "title": "や",
     "kana": [
-      "",
       "や"
     ],
     "roman": [
-      "",
       "ya"
     ]
   },
   {
     "title": "ままならず",
     "kana": [
-      "ままなら",
       "ままならず"
     ],
     "roman": [
-      "mamanara",
       "mamanarazu"
     ]
   },
@@ -45699,22 +44679,18 @@ const dictionary = [
   {
     "title": "ひえっ",
     "kana": [
-      "ひえ",
       "ひえっ"
     ],
     "roman": [
-      "hie",
       "hiextsu"
     ]
   },
   {
     "title": "どっか",
     "kana": [
-      "どっ",
       "どっか"
     ],
     "roman": [
-      "doxtsu",
       "dokka"
     ]
   },
@@ -45739,11 +44715,9 @@ const dictionary = [
   {
     "title": "だらけ",
     "kana": [
-      "だら",
       "だらけ"
     ],
     "roman": [
-      "dara",
       "darake"
     ]
   },
@@ -45768,11 +44742,11 @@ const dictionary = [
   {
     "title": "させる",
     "kana": [
-      "させ",
+      "させる",
       "させよ"
     ],
     "roman": [
-      "sase",
+      "saseru",
       "saseyo"
     ]
   },
@@ -45869,22 +44843,18 @@ const dictionary = [
   {
     "title": "まるっきり",
     "kana": [
-      "まるっき",
       "まるっきり"
     ],
     "roman": [
-      "marukki",
       "marukkiri"
     ]
   },
   {
     "title": "へん",
     "kana": [
-      "へ",
       "へん"
     ],
     "roman": [
-      "he",
       "hen"
     ]
   },
@@ -45963,22 +44933,20 @@ const dictionary = [
   {
     "title": "いけ",
     "kana": [
-      "い",
       "いけ"
     ],
     "roman": [
-      "i",
       "ike"
     ]
   },
   {
     "title": "すっ飛",
     "kana": [
-      "すっ",
+      "すっ飛",
       "すっと"
     ],
     "roman": [
-      "suxtsu",
+      "suxtsu飛",
       "sutto"
     ]
   },
@@ -46012,11 +44980,9 @@ const dictionary = [
   {
     "title": "た",
     "kana": [
-      "",
       "た"
     ],
     "roman": [
-      "",
       "ta"
     ]
   },
@@ -46115,11 +45081,9 @@ const dictionary = [
   {
     "title": "けっして",
     "kana": [
-      "けっし",
       "けっして"
     ],
     "roman": [
-      "kesshi",
       "kesshite"
     ]
   },
@@ -46153,11 +45117,9 @@ const dictionary = [
   {
     "title": "きたん",
     "kana": [
-      "きた",
       "きたん"
     ],
     "roman": [
-      "kita",
       "kitan"
     ]
   },
@@ -46247,11 +45209,9 @@ const dictionary = [
   {
     "title": "じっくり",
     "kana": [
-      "じっく",
       "じっくり"
     ],
     "roman": [
-      "jikku",
       "jikkuri"
     ]
   },
@@ -46339,11 +45299,9 @@ const dictionary = [
   {
     "title": "ふろ",
     "kana": [
-      "ふ",
       "ふろ"
     ],
     "roman": [
-      "fu",
       "furo"
     ]
   },
@@ -46368,11 +45326,9 @@ const dictionary = [
   {
     "title": "かし",
     "kana": [
-      "か",
       "かし"
     ],
     "roman": [
-      "ka",
       "kashi"
     ]
   },
@@ -46565,22 +45521,18 @@ const dictionary = [
   {
     "title": "まま",
     "kana": [
-      "ま",
       "まま"
     ],
     "roman": [
-      "ma",
       "mama"
     ]
   },
   {
     "title": "さまよ",
     "kana": [
-      "さま",
       "さまよ"
     ],
     "roman": [
-      "sama",
       "samayo"
     ]
   },
@@ -46641,11 +45593,11 @@ const dictionary = [
   {
     "title": "お嬢さん",
     "kana": [
-      "お嬢さ",
+      "お嬢さん",
       "おじょうさん"
     ],
     "roman": [
-      "o嬢sa",
+      "o嬢san",
       "ojousan"
     ]
   },
@@ -46747,11 +45699,9 @@ const dictionary = [
   {
     "title": "よーく",
     "kana": [
-      "よー",
       "よーく"
     ],
     "roman": [
-      "yo-",
       "yo-ku"
     ]
   },
@@ -47066,11 +46016,9 @@ const dictionary = [
   {
     "title": "がむしゃら",
     "kana": [
-      "がむしゃ",
       "がむしゃら"
     ],
     "roman": [
-      "gamusha",
       "gamushara"
     ]
   },
@@ -47086,11 +46034,9 @@ const dictionary = [
   {
     "title": "するする",
     "kana": [
-      "するす",
       "するする"
     ],
     "roman": [
-      "surusu",
       "surusuru"
     ]
   },
@@ -47178,11 +46124,9 @@ const dictionary = [
   {
     "title": "よ",
     "kana": [
-      "",
       "よ"
     ],
     "roman": [
-      "",
       "yo"
     ]
   },
@@ -47198,11 +46142,9 @@ const dictionary = [
   {
     "title": "おけ",
     "kana": [
-      "お",
       "おけ"
     ],
     "roman": [
-      "o",
       "oke"
     ]
   },
@@ -47301,11 +46243,9 @@ const dictionary = [
   {
     "title": "としごろ",
     "kana": [
-      "としご",
       "としごろ"
     ],
     "roman": [
-      "toshigo",
       "toshigoro"
     ]
   },
@@ -47348,11 +46288,9 @@ const dictionary = [
   {
     "title": "うし",
     "kana": [
-      "う",
       "うし"
     ],
     "roman": [
-      "u",
       "ushi"
     ]
   },
@@ -47480,11 +46418,9 @@ const dictionary = [
   {
     "title": "なぞ",
     "kana": [
-      "な",
       "なぞ"
     ],
     "roman": [
-      "na",
       "nazo"
     ]
   },
@@ -47934,11 +46870,9 @@ const dictionary = [
   {
     "title": "げっそり",
     "kana": [
-      "げっそ",
       "げっそり"
     ],
     "roman": [
-      "gesso",
       "gessori"
     ]
   },
@@ -48003,11 +46937,9 @@ const dictionary = [
   {
     "title": "もやし",
     "kana": [
-      "もや",
       "もやし"
     ],
     "roman": [
-      "moya",
       "moyashi"
     ]
   },
@@ -48023,22 +46955,18 @@ const dictionary = [
   {
     "title": "やんわり",
     "kana": [
-      "やんわ",
       "やんわり"
     ],
     "roman": [
-      "yanwa",
       "yanwari"
     ]
   },
   {
     "title": "なか",
     "kana": [
-      "な",
       "なか"
     ],
     "roman": [
-      "na",
       "naka"
     ]
   },
@@ -48099,11 +47027,9 @@ const dictionary = [
   {
     "title": "なで",
     "kana": [
-      "な",
       "なで"
     ],
     "roman": [
-      "na",
       "nade"
     ]
   },
@@ -48204,22 +47130,18 @@ const dictionary = [
   {
     "title": "やりきれな",
     "kana": [
-      "やりきれ",
       "やりきれな"
     ],
     "roman": [
-      "yarikire",
       "yarikirena"
     ]
   },
   {
     "title": "くつろ",
     "kana": [
-      "くつ",
       "くつろ"
     ],
     "roman": [
-      "kutsu",
       "kutsuro"
     ]
   },
@@ -48435,22 +47357,18 @@ const dictionary = [
   {
     "title": "ぽんぽん",
     "kana": [
-      "ぽんぽ",
       "ぽんぽん"
     ],
     "roman": [
-      "ponpo",
       "ponpon"
     ]
   },
   {
     "title": "すこぶる",
     "kana": [
-      "すこぶ",
       "すこぶる"
     ],
     "roman": [
-      "sukobu",
       "sukoburu"
     ]
   },
@@ -48475,11 +47393,9 @@ const dictionary = [
   {
     "title": "ひっつか",
     "kana": [
-      "ひっつ",
       "ひっつか"
     ],
     "roman": [
-      "hittsu",
       "hittsuka"
     ]
   },
@@ -48495,22 +47411,18 @@ const dictionary = [
   {
     "title": "あけ",
     "kana": [
-      "あ",
       "あけ"
     ],
     "roman": [
-      "a",
       "ake"
     ]
   },
   {
     "title": "あま",
     "kana": [
-      "あ",
       "あま"
     ],
     "roman": [
-      "a",
       "ama"
     ]
   },
@@ -48580,11 +47492,9 @@ const dictionary = [
   {
     "title": "しろ",
     "kana": [
-      "し",
       "しろ"
     ],
     "roman": [
-      "shi",
       "shiro"
     ]
   },
@@ -48627,11 +47537,9 @@ const dictionary = [
   {
     "title": "へこたれ",
     "kana": [
-      "へこた",
       "へこたれ"
     ],
     "roman": [
-      "hekota",
       "hekotare"
     ]
   },
@@ -48656,11 +47564,9 @@ const dictionary = [
   {
     "title": "しれない",
     "kana": [
-      "しれな",
       "しれない"
     ],
     "roman": [
-      "shirena",
       "shirenai"
     ]
   },
@@ -48694,11 +47600,9 @@ const dictionary = [
   {
     "title": "うつうつ",
     "kana": [
-      "うつう",
       "うつうつ"
     ],
     "roman": [
-      "utsuu",
       "utsuutsu"
     ]
   },
@@ -48858,11 +47762,11 @@ const dictionary = [
   {
     "title": "お出かけ",
     "kana": [
-      "お出か",
+      "お出かけ",
       "おでかけ"
     ],
     "roman": [
-      "o出ka",
+      "o出kake",
       "odekake"
     ]
   },
@@ -48896,11 +47800,9 @@ const dictionary = [
   {
     "title": "じたばた",
     "kana": [
-      "じたば",
       "じたばた"
     ],
     "roman": [
-      "jitaba",
       "jitabata"
     ]
   },
@@ -49064,11 +47966,9 @@ const dictionary = [
   {
     "title": "ほんとに",
     "kana": [
-      "ほんと",
       "ほんとに"
     ],
     "roman": [
-      "honto",
       "hontoni"
     ]
   },
@@ -49111,22 +48011,18 @@ const dictionary = [
   {
     "title": "つつがな",
     "kana": [
-      "つつが",
       "つつがな"
     ],
     "roman": [
-      "tsutsuga",
       "tsutsugana"
     ]
   },
   {
     "title": "おさめ",
     "kana": [
-      "おさ",
       "おさめ"
     ],
     "roman": [
-      "osa",
       "osame"
     ]
   },
@@ -49151,11 +48047,9 @@ const dictionary = [
   {
     "title": "こども",
     "kana": [
-      "こど",
       "こども"
     ],
     "roman": [
-      "kodo",
       "kodomo"
     ]
   },
@@ -49209,11 +48103,9 @@ const dictionary = [
   {
     "title": "どれほど",
     "kana": [
-      "どれほ",
       "どれほど"
     ],
     "roman": [
-      "doreho",
       "dorehodo"
     ]
   },
@@ -49229,11 +48121,9 @@ const dictionary = [
   {
     "title": "かご",
     "kana": [
-      "か",
       "かご"
     ],
     "roman": [
-      "ka",
       "kago"
     ]
   },
@@ -49314,11 +48204,9 @@ const dictionary = [
   {
     "title": "どなた",
     "kana": [
-      "どな",
       "どなた"
     ],
     "roman": [
-      "dona",
       "donata"
     ]
   },
@@ -49343,11 +48231,11 @@ const dictionary = [
   {
     "title": "か細",
     "kana": [
-      "か",
+      "か細",
       "かぼそ"
     ],
     "roman": [
-      "ka",
+      "ka細",
       "kaboso"
     ]
   },
@@ -49417,11 +48305,9 @@ const dictionary = [
   {
     "title": "いえる",
     "kana": [
-      "いえ",
       "いえる"
     ],
     "roman": [
-      "ie",
       "ieru"
     ]
   },
@@ -49448,11 +48334,9 @@ const dictionary = [
   {
     "title": "ひろ",
     "kana": [
-      "ひ",
       "ひろ"
     ],
     "roman": [
-      "hi",
       "hiro"
     ]
   },
@@ -49625,11 +48509,9 @@ const dictionary = [
   {
     "title": "かた",
     "kana": [
-      "か",
       "かた"
     ],
     "roman": [
-      "ka",
       "kata"
     ]
   },
@@ -49654,11 +48536,9 @@ const dictionary = [
   {
     "title": "ひど",
     "kana": [
-      "ひ",
       "ひど"
     ],
     "roman": [
-      "hi",
       "hido"
     ]
   },
@@ -49705,11 +48585,9 @@ const dictionary = [
   {
     "title": "あれこれ",
     "kana": [
-      "あれこ",
       "あれこれ"
     ],
     "roman": [
-      "areko",
       "arekore"
     ]
   },
@@ -49734,11 +48612,9 @@ const dictionary = [
   {
     "title": "ぱりぱり",
     "kana": [
-      "ぱりぱ",
       "ぱりぱり"
     ],
     "roman": [
-      "paripa",
       "paripari"
     ]
   },
@@ -49947,11 +48823,9 @@ const dictionary = [
   {
     "title": "たた",
     "kana": [
-      "た",
       "たた"
     ],
     "roman": [
-      "ta",
       "tata"
     ]
   },
@@ -49976,11 +48850,9 @@ const dictionary = [
   {
     "title": "やまし",
     "kana": [
-      "やま",
       "やまし"
     ],
     "roman": [
-      "yama",
       "yamashi"
     ]
   },
@@ -50005,11 +48877,9 @@ const dictionary = [
   {
     "title": "あお",
     "kana": [
-      "あ",
       "あお"
     ],
     "roman": [
-      "a",
       "ao"
     ]
   },
@@ -50025,11 +48895,9 @@ const dictionary = [
   {
     "title": "ちゃーん",
     "kana": [
-      "ちゃー",
       "ちゃーん"
     ],
     "roman": [
-      "cha-",
       "cha-n"
     ]
   },
@@ -50054,11 +48922,9 @@ const dictionary = [
   {
     "title": "こっそり",
     "kana": [
-      "こっそ",
       "こっそり"
     ],
     "roman": [
-      "kosso",
       "kossori"
     ]
   },
@@ -50074,22 +48940,20 @@ const dictionary = [
   {
     "title": "じわりじわり",
     "kana": [
-      "じわりじわ",
       "じわりじわり"
     ],
     "roman": [
-      "jiwarijiwa",
       "jiwarijiwari"
     ]
   },
   {
     "title": "ご存じ",
     "kana": [
-      "ご存",
+      "ご存じ",
       "ごぞんじ"
     ],
     "roman": [
-      "go存",
+      "go存ji",
       "gozonji"
     ]
   },
@@ -50105,11 +48969,9 @@ const dictionary = [
   {
     "title": "つい",
     "kana": [
-      "つ",
       "つい"
     ],
     "roman": [
-      "tsu",
       "tsui"
     ]
   },
@@ -50174,11 +49036,9 @@ const dictionary = [
   {
     "title": "ちょうだい",
     "kana": [
-      "ちょうだ",
       "ちょうだい"
     ],
     "roman": [
-      "chouda",
       "choudai"
     ]
   },
@@ -50212,11 +49072,9 @@ const dictionary = [
   {
     "title": "ぴたり",
     "kana": [
-      "ぴた",
       "ぴたり"
     ],
     "roman": [
-      "pita",
       "pitari"
     ]
   },
@@ -50277,22 +49135,18 @@ const dictionary = [
   {
     "title": "すま",
     "kana": [
-      "す",
       "すま"
     ],
     "roman": [
-      "su",
       "suma"
     ]
   },
   {
     "title": "しなやか",
     "kana": [
-      "しなや",
       "しなやか"
     ],
     "roman": [
-      "shinaya",
       "shinayaka"
     ]
   },
@@ -50346,11 +49200,9 @@ const dictionary = [
   {
     "title": "むけ",
     "kana": [
-      "む",
       "むけ"
     ],
     "roman": [
-      "mu",
       "muke"
     ]
   },
@@ -50393,11 +49245,9 @@ const dictionary = [
   {
     "title": "あた",
     "kana": [
-      "あ",
       "あた"
     ],
     "roman": [
-      "a",
       "ata"
     ]
   },
@@ -50413,22 +49263,18 @@ const dictionary = [
   {
     "title": "そ",
     "kana": [
-      "",
       "そ"
     ],
     "roman": [
-      "",
       "so"
     ]
   },
   {
     "title": "はだけ",
     "kana": [
-      "はだ",
       "はだけ"
     ],
     "roman": [
-      "hada",
       "hadake"
     ]
   },
@@ -50480,11 +49326,9 @@ const dictionary = [
   {
     "title": "しがみつ",
     "kana": [
-      "しがみ",
       "しがみつ"
     ],
     "roman": [
-      "shigami",
       "shigamitsu"
     ]
   },
@@ -50509,11 +49353,9 @@ const dictionary = [
   {
     "title": "いっぱい",
     "kana": [
-      "いっぱ",
       "いっぱい"
     ],
     "roman": [
-      "ippa",
       "ippai"
     ]
   },
@@ -50693,11 +49535,9 @@ const dictionary = [
   {
     "title": "むしろ",
     "kana": [
-      "むし",
       "むしろ"
     ],
     "roman": [
-      "mushi",
       "mushiro"
     ]
   },
@@ -50760,11 +49600,9 @@ const dictionary = [
   {
     "title": "せめて",
     "kana": [
-      "せめ",
       "せめて"
     ],
     "roman": [
-      "seme",
       "semete"
     ]
   },
@@ -50980,11 +49818,9 @@ const dictionary = [
   {
     "title": "なあに",
     "kana": [
-      "なあ",
       "なあに"
     ],
     "roman": [
-      "naa",
       "naani"
     ]
   },
@@ -51063,11 +49899,11 @@ const dictionary = [
   {
     "title": "お辞儀",
     "kana": [
-      "お辞",
+      "お辞儀",
       "おじぎ"
     ],
     "roman": [
-      "o辞",
+      "o辞儀",
       "ojigi"
     ]
   },
@@ -51083,22 +49919,18 @@ const dictionary = [
   {
     "title": "きょとん",
     "kana": [
-      "きょと",
       "きょとん"
     ],
     "roman": [
-      "kyoto",
       "kyoton"
     ]
   },
   {
     "title": "たのし",
     "kana": [
-      "たの",
       "たのし"
     ],
     "roman": [
-      "tano",
       "tanoshi"
     ]
   },
@@ -51132,11 +49964,9 @@ const dictionary = [
   {
     "title": "なる",
     "kana": [
-      "な",
       "なる"
     ],
     "roman": [
-      "na",
       "naru"
     ]
   },
@@ -51215,11 +50045,9 @@ const dictionary = [
   {
     "title": "えぐ",
     "kana": [
-      "え",
       "えぐ"
     ],
     "roman": [
-      "e",
       "egu"
     ]
   },
@@ -51253,11 +50081,11 @@ const dictionary = [
   {
     "title": "お父さん",
     "kana": [
-      "お父さ",
+      "お父さん",
       "おとうさん"
     ],
     "roman": [
-      "o父sa",
+      "o父san",
       "otousan"
     ]
   },
@@ -51273,11 +50101,9 @@ const dictionary = [
   {
     "title": "いーかげん",
     "kana": [
-      "いーかげ",
       "いーかげん"
     ],
     "roman": [
-      "i-kage",
       "i-kagen"
     ]
   },
@@ -51311,11 +50137,9 @@ const dictionary = [
   {
     "title": "ぽろり",
     "kana": [
-      "ぽろ",
       "ぽろり"
     ],
     "roman": [
-      "poro",
       "porori"
     ]
   },
@@ -51340,11 +50164,9 @@ const dictionary = [
   {
     "title": "うなされ",
     "kana": [
-      "うなさ",
       "うなされ"
     ],
     "roman": [
-      "unasa",
       "unasare"
     ]
   },
@@ -51432,11 +50254,9 @@ const dictionary = [
   {
     "title": "いよう",
     "kana": [
-      "いよ",
       "いよう"
     ],
     "roman": [
-      "iyo",
       "iyou"
     ]
   },
@@ -51506,11 +50326,9 @@ const dictionary = [
   {
     "title": "しらじらし",
     "kana": [
-      "しらじら",
       "しらじらし"
     ],
     "roman": [
-      "shirajira",
       "shirajirashi"
     ]
   },
@@ -51544,11 +50362,9 @@ const dictionary = [
   {
     "title": "わずか",
     "kana": [
-      "わず",
       "わずか"
     ],
     "roman": [
-      "wazu",
       "wazuka"
     ]
   },
@@ -51674,11 +50490,9 @@ const dictionary = [
   {
     "title": "ひとまず",
     "kana": [
-      "ひとま",
       "ひとまず"
     ],
     "roman": [
-      "hitoma",
       "hitomazu"
     ]
   },
@@ -51712,11 +50526,9 @@ const dictionary = [
   {
     "title": "かせ",
     "kana": [
-      "か",
       "かせ"
     ],
     "roman": [
-      "ka",
       "kase"
     ]
   },
@@ -51768,11 +50580,9 @@ const dictionary = [
   {
     "title": "ゆうゆう",
     "kana": [
-      "ゆうゆ",
       "ゆうゆう"
     ],
     "roman": [
-      "yuuyu",
       "yuuyuu"
     ]
   },
@@ -51869,11 +50679,9 @@ const dictionary = [
   {
     "title": "しり",
     "kana": [
-      "し",
       "しり"
     ],
     "roman": [
-      "shi",
       "shiri"
     ]
   },
@@ -51889,11 +50697,9 @@ const dictionary = [
   {
     "title": "おかけ",
     "kana": [
-      "おか",
       "おかけ"
     ],
     "roman": [
-      "oka",
       "okake"
     ]
   },
@@ -52118,11 +50924,11 @@ const dictionary = [
   {
     "title": "もう少し",
     "kana": [
-      "もう少",
+      "もう少し",
       "もうすこし"
     ],
     "roman": [
-      "mou少",
+      "mou少shi",
       "mousukoshi"
     ]
   },
@@ -52156,11 +50962,9 @@ const dictionary = [
   {
     "title": "ひめ",
     "kana": [
-      "ひ",
       "ひめ"
     ],
     "roman": [
-      "hi",
       "hime"
     ]
   },
@@ -52194,11 +50998,9 @@ const dictionary = [
   {
     "title": "にやけ",
     "kana": [
-      "にや",
       "にやけ"
     ],
     "roman": [
-      "niya",
       "niyake"
     ]
   },
@@ -52358,11 +51160,9 @@ const dictionary = [
   {
     "title": "ぐち",
     "kana": [
-      "ぐ",
       "ぐち"
     ],
     "roman": [
-      "gu",
       "guchi"
     ]
   },
@@ -52468,11 +51268,9 @@ const dictionary = [
   {
     "title": "けし",
     "kana": [
-      "け",
       "けし"
     ],
     "roman": [
-      "ke",
       "keshi"
     ]
   },
@@ -52625,11 +51423,9 @@ const dictionary = [
   {
     "title": "めちゃめちゃ",
     "kana": [
-      "めちゃめち",
       "めちゃめちゃ"
     ],
     "roman": [
-      "mechamechi",
       "mechamecha"
     ]
   },
@@ -52672,11 +51468,9 @@ const dictionary = [
   {
     "title": "ゆったり",
     "kana": [
-      "ゆった",
       "ゆったり"
     ],
     "roman": [
-      "yutta",
       "yuttari"
     ]
   },
@@ -52728,11 +51522,9 @@ const dictionary = [
   {
     "title": "すやすや",
     "kana": [
-      "すやす",
       "すやすや"
     ],
     "roman": [
-      "suyasu",
       "suyasuya"
     ]
   },
@@ -52811,22 +51603,18 @@ const dictionary = [
   {
     "title": "ちり",
     "kana": [
-      "ち",
       "ちり"
     ],
     "roman": [
-      "chi",
       "chiri"
     ]
   },
   {
     "title": "おそろし",
     "kana": [
-      "おそろ",
       "おそろし"
     ],
     "roman": [
-      "osoro",
       "osoroshi"
     ]
   },
@@ -52968,11 +51756,9 @@ const dictionary = [
   {
     "title": "あふれ",
     "kana": [
-      "あふ",
       "あふれ"
     ],
     "roman": [
-      "afu",
       "afure"
     ]
   },
@@ -53098,11 +51884,9 @@ const dictionary = [
   {
     "title": "ことです",
     "kana": [
-      "ことで",
       "ことです"
     ],
     "roman": [
-      "kotode",
       "kotodesu"
     ]
   },
@@ -53172,11 +51956,9 @@ const dictionary = [
   {
     "title": "つわり",
     "kana": [
-      "つわ",
       "つわり"
     ],
     "roman": [
-      "tsuwa",
       "tsuwari"
     ]
   },
@@ -53228,11 +52010,9 @@ const dictionary = [
   {
     "title": "のほほん",
     "kana": [
-      "のほほ",
       "のほほん"
     ],
     "roman": [
-      "nohoho",
       "nohohon"
     ]
   },
@@ -53320,11 +52100,9 @@ const dictionary = [
   {
     "title": "とめ",
     "kana": [
-      "と",
       "とめ"
     ],
     "roman": [
-      "to",
       "tome"
     ]
   },
@@ -53396,11 +52174,9 @@ const dictionary = [
   {
     "title": "けわし",
     "kana": [
-      "けわ",
       "けわし"
     ],
     "roman": [
-      "kewa",
       "kewashi"
     ]
   },
@@ -53425,11 +52201,11 @@ const dictionary = [
   {
     "title": "お久しぶり",
     "kana": [
-      "お久しぶ",
+      "お久しぶり",
       "おひさしぶり"
     ],
     "roman": [
-      "o久shibu",
+      "o久shiburi",
       "ohisashiburi"
     ]
   },
@@ -53573,11 +52349,9 @@ const dictionary = [
   {
     "title": "ふさ",
     "kana": [
-      "ふ",
       "ふさ"
     ],
     "roman": [
-      "fu",
       "fusa"
     ]
   },
@@ -53800,11 +52574,9 @@ const dictionary = [
   {
     "title": "ゆき",
     "kana": [
-      "ゆ",
       "ゆき"
     ],
     "roman": [
-      "yu",
       "yuki"
     ]
   },
@@ -53874,11 +52646,9 @@ const dictionary = [
   {
     "title": "おっかな",
     "kana": [
-      "おっか",
       "おっかな"
     ],
     "roman": [
-      "okka",
       "okkana"
     ]
   },
@@ -53950,11 +52720,9 @@ const dictionary = [
   {
     "title": "なおさら",
     "kana": [
-      "なおさ",
       "なおさら"
     ],
     "roman": [
-      "naosa",
       "naosara"
     ]
   },
@@ -54015,11 +52783,9 @@ const dictionary = [
   {
     "title": "やりとり",
     "kana": [
-      "やりと",
       "やりとり"
     ],
     "roman": [
-      "yarito",
       "yaritori"
     ]
   },
@@ -54323,11 +53089,9 @@ const dictionary = [
   {
     "title": "ほっぺた",
     "kana": [
-      "ほっぺ",
       "ほっぺた"
     ],
     "roman": [
-      "hoppe",
       "hoppeta"
     ]
   },
@@ -54388,9 +53152,11 @@ const dictionary = [
   {
     "title": "いられ*",
     "kana": [
+      "いられ*",
       "いられ"
     ],
     "roman": [
+      "irare*",
       "irare"
     ]
   },
@@ -54451,11 +53217,11 @@ const dictionary = [
   {
     "title": "もう一度",
     "kana": [
-      "もう一",
+      "もう一度",
       "もういちど"
     ],
     "roman": [
-      "mou一",
+      "mou一度",
       "mouichido"
     ]
   },
@@ -54502,11 +53268,9 @@ const dictionary = [
   {
     "title": "たより",
     "kana": [
-      "たよ",
       "たより"
     ],
     "roman": [
-      "tayo",
       "tayori"
     ]
   },
@@ -54666,11 +53430,9 @@ const dictionary = [
   {
     "title": "ところで",
     "kana": [
-      "ところ",
       "ところで"
     ],
     "roman": [
-      "tokoro",
       "tokorode"
     ]
   },
@@ -54850,11 +53612,9 @@ const dictionary = [
   {
     "title": "にこり",
     "kana": [
-      "にこ",
       "にこり"
     ],
     "roman": [
-      "niko",
       "nikori"
     ]
   },
@@ -54969,11 +53729,9 @@ const dictionary = [
   {
     "title": "やがて",
     "kana": [
-      "やが",
       "やがて"
     ],
     "roman": [
-      "yaga",
       "yagate"
     ]
   },
@@ -54989,11 +53747,9 @@ const dictionary = [
   {
     "title": "がっしり",
     "kana": [
-      "がっし",
       "がっしり"
     ],
     "roman": [
-      "gasshi",
       "gasshiri"
     ]
   },
@@ -55263,11 +54019,9 @@ const dictionary = [
   {
     "title": "ざわざわ",
     "kana": [
-      "ざわざ",
       "ざわざわ"
     ],
     "roman": [
-      "zawaza",
       "zawazawa"
     ]
   },
@@ -55328,11 +54082,9 @@ const dictionary = [
   {
     "title": "ように",
     "kana": [
-      "よう",
       "ように"
     ],
     "roman": [
-      "you",
       "youni"
     ]
   },
@@ -55620,31 +54372,29 @@ const dictionary = [
   {
     "title": "やす",
     "kana": [
-      "や",
       "やす"
     ],
     "roman": [
-      "ya",
       "yasu"
     ]
   },
   {
     "title": "いな*",
     "kana": [
+      "いな*",
       "いな"
     ],
     "roman": [
+      "ina*",
       "ina"
     ]
   },
   {
     "title": "ほんま",
     "kana": [
-      "ほん",
       "ほんま"
     ],
     "roman": [
-      "hon",
       "honma"
     ]
   },
@@ -55741,11 +54491,9 @@ const dictionary = [
   {
     "title": "はっきり",
     "kana": [
-      "はっき",
       "はっきり"
     ],
     "roman": [
-      "hakki",
       "hakkiri"
     ]
   },
@@ -55880,11 +54628,9 @@ const dictionary = [
   {
     "title": "まわりくど",
     "kana": [
-      "まわりく",
       "まわりくど"
     ],
     "roman": [
-      "mawariku",
       "mawarikudo"
     ]
   },
@@ -55909,11 +54655,9 @@ const dictionary = [
   {
     "title": "てん",
     "kana": [
-      "て",
       "てん"
     ],
     "roman": [
-      "te",
       "ten"
     ]
   },
@@ -55929,11 +54673,9 @@ const dictionary = [
   {
     "title": "いと",
     "kana": [
-      "い",
       "いと"
     ],
     "roman": [
-      "i",
       "ito"
     ]
   },
@@ -56039,11 +54781,9 @@ const dictionary = [
   {
     "title": "ぐらり",
     "kana": [
-      "ぐら",
       "ぐらり"
     ],
     "roman": [
-      "gura",
       "gurari"
     ]
   },
@@ -56059,11 +54799,9 @@ const dictionary = [
   {
     "title": "ばり",
     "kana": [
-      "ば",
       "ばり"
     ],
     "roman": [
-      "ba",
       "bari"
     ]
   },
@@ -56128,11 +54866,9 @@ const dictionary = [
   {
     "title": "そら",
     "kana": [
-      "そ",
       "そら"
     ],
     "roman": [
-      "so",
       "sora"
     ]
   },
@@ -56148,11 +54884,9 @@ const dictionary = [
   {
     "title": "あなた",
     "kana": [
-      "あな",
       "あなた"
     ],
     "roman": [
-      "ana",
       "anata"
     ]
   },
@@ -56177,11 +54911,9 @@ const dictionary = [
   {
     "title": "ひっぱ",
     "kana": [
-      "ひっ",
       "ひっぱ"
     ],
     "roman": [
-      "hixtsu",
       "hippa"
     ]
   },
@@ -56260,11 +54992,9 @@ const dictionary = [
   {
     "title": "これから",
     "kana": [
-      "これか",
       "これから"
     ],
     "roman": [
-      "koreka",
       "korekara"
     ]
   },
@@ -56410,11 +55140,9 @@ const dictionary = [
   {
     "title": "ゆう",
     "kana": [
-      "ゆ",
       "ゆう"
     ],
     "roman": [
-      "yu",
       "yuu"
     ]
   },
@@ -56466,11 +55194,9 @@ const dictionary = [
   {
     "title": "ちょい",
     "kana": [
-      "ちょ",
       "ちょい"
     ],
     "roman": [
-      "cho",
       "choi"
     ]
   },
@@ -56495,11 +55221,9 @@ const dictionary = [
   {
     "title": "あんま",
     "kana": [
-      "あん",
       "あんま"
     ],
     "roman": [
-      "an",
       "anma"
     ]
   },
@@ -56749,11 +55473,9 @@ const dictionary = [
   {
     "title": "さして",
     "kana": [
-      "さし",
       "さして"
     ],
     "roman": [
-      "sashi",
       "sashite"
     ]
   },
@@ -56769,22 +55491,20 @@ const dictionary = [
   {
     "title": "もれなく",
     "kana": [
-      "もれな",
       "もれなく"
     ],
     "roman": [
-      "morena",
       "morenaku"
     ]
   },
   {
     "title": "ひな人形",
     "kana": [
-      "ひな人",
+      "ひな人形",
       "ひなにんぎょう"
     ],
     "roman": [
-      "hina人",
+      "hina人形",
       "hinaningyou"
     ]
   },
@@ -56818,22 +55538,20 @@ const dictionary = [
   {
     "title": "お過ごし",
     "kana": [
-      "お過ご",
+      "お過ごし",
       "おすごし"
     ],
     "roman": [
-      "o過go",
+      "o過goshi",
       "osugoshi"
     ]
   },
   {
     "title": "がらり",
     "kana": [
-      "がら",
       "がらり"
     ],
     "roman": [
-      "gara",
       "garari"
     ]
   },
@@ -56876,11 +55594,9 @@ const dictionary = [
   {
     "title": "つかま",
     "kana": [
-      "つか",
       "つかま"
     ],
     "roman": [
-      "tsuka",
       "tsukama"
     ]
   },
@@ -56914,11 +55630,9 @@ const dictionary = [
   {
     "title": "さっさと",
     "kana": [
-      "さっさ",
       "さっさと"
     ],
     "roman": [
-      "sassa",
       "sassato"
     ]
   },
@@ -56943,11 +55657,9 @@ const dictionary = [
   {
     "title": "ごはん",
     "kana": [
-      "ごは",
       "ごはん"
     ],
     "roman": [
-      "goha",
       "gohan"
     ]
   },
@@ -57127,11 +55839,9 @@ const dictionary = [
   {
     "title": "おもろ",
     "kana": [
-      "おも",
       "おもろ"
     ],
     "roman": [
-      "omo",
       "omoro"
     ]
   },
@@ -57192,11 +55902,9 @@ const dictionary = [
   {
     "title": "そっちのけ",
     "kana": [
-      "そっちの",
       "そっちのけ"
     ],
     "roman": [
-      "sotchino",
       "sotchinoke"
     ]
   },
@@ -57418,11 +56126,9 @@ const dictionary = [
   {
     "title": "もが",
     "kana": [
-      "も",
       "もが"
     ],
     "roman": [
-      "mo",
       "moga"
     ]
   },
@@ -57456,11 +56162,9 @@ const dictionary = [
   {
     "title": "しに",
     "kana": [
-      "し",
       "しに"
     ],
     "roman": [
-      "shi",
       "shini"
     ]
   },
@@ -57485,11 +56189,9 @@ const dictionary = [
   {
     "title": "さもし",
     "kana": [
-      "さも",
       "さもし"
     ],
     "roman": [
-      "samo",
       "samoshi"
     ]
   },
@@ -57586,22 +56288,18 @@ const dictionary = [
   {
     "title": "っぱなし",
     "kana": [
-      "っぱな",
       "っぱなし"
     ],
     "roman": [
-      "ppana",
       "ppanashi"
     ]
   },
   {
     "title": "とく",
     "kana": [
-      "と",
       "とく"
     ],
     "roman": [
-      "to",
       "toku"
     ]
   },
@@ -57716,20 +56414,20 @@ const dictionary = [
   {
     "title": "ざわめ",
     "kana": [
-      "ざわ",
       "ざわめ"
     ],
     "roman": [
-      "zawa",
       "zawame"
     ]
   },
   {
     "title": "きま*",
     "kana": [
+      "きま*",
       "きま"
     ],
     "roman": [
+      "kima*",
       "kima"
     ]
   },
@@ -57745,11 +56443,9 @@ const dictionary = [
   {
     "title": "そわそわ",
     "kana": [
-      "そわそ",
       "そわそわ"
     ],
     "roman": [
-      "sowaso",
       "sowasowa"
     ]
   },
@@ -57765,11 +56461,9 @@ const dictionary = [
   {
     "title": "むら",
     "kana": [
-      "む",
       "むら"
     ],
     "roman": [
-      "mu",
       "mura"
     ]
   },
@@ -57821,11 +56515,9 @@ const dictionary = [
   {
     "title": "おし",
     "kana": [
-      "お",
       "おし"
     ],
     "roman": [
-      "o",
       "oshi"
     ]
   },
@@ -57924,22 +56616,20 @@ const dictionary = [
   {
     "title": "ぎりぎり",
     "kana": [
-      "ぎりぎ",
       "ぎりぎり"
     ],
     "roman": [
-      "girigi",
       "girigiri"
     ]
   },
   {
     "title": "おくれ毛",
     "kana": [
-      "おくれ",
+      "おくれ毛",
       "おくれげ"
     ],
     "roman": [
-      "okure",
+      "okure毛",
       "okurege"
     ]
   },
@@ -58234,11 +56924,9 @@ const dictionary = [
   {
     "title": "かい",
     "kana": [
-      "か",
       "かい"
     ],
     "roman": [
-      "ka",
       "kai"
     ]
   },
@@ -58371,11 +57059,9 @@ const dictionary = [
   {
     "title": "ちなみに",
     "kana": [
-      "ちなみ",
       "ちなみに"
     ],
     "roman": [
-      "chinami",
       "chinamini"
     ]
   },
@@ -58391,11 +57077,9 @@ const dictionary = [
   {
     "title": "ほぐ",
     "kana": [
-      "ほ",
       "ほぐ"
     ],
     "roman": [
-      "ho",
       "hogu"
     ]
   },
@@ -58476,11 +57160,9 @@ const dictionary = [
   {
     "title": "たけ",
     "kana": [
-      "た",
       "たけ"
     ],
     "roman": [
-      "ta",
       "take"
     ]
   },
@@ -58514,33 +57196,27 @@ const dictionary = [
   {
     "title": "ぐりぐり",
     "kana": [
-      "ぐりぐ",
       "ぐりぐり"
     ],
     "roman": [
-      "gurigu",
       "guriguri"
     ]
   },
   {
     "title": "さっち",
     "kana": [
-      "さっ",
       "さっち"
     ],
     "roman": [
-      "saxtsu",
       "satchi"
     ]
   },
   {
     "title": "ひとし",
     "kana": [
-      "ひと",
       "ひとし"
     ],
     "roman": [
-      "hito",
       "hitoshi"
     ]
   },
@@ -58592,22 +57268,18 @@ const dictionary = [
   {
     "title": "うとうと",
     "kana": [
-      "うとう",
       "うとうと"
     ],
     "roman": [
-      "utou",
       "utouto"
     ]
   },
   {
     "title": "もってこい",
     "kana": [
-      "もってこ",
       "もってこい"
     ],
     "roman": [
-      "motteko",
       "mottekoi"
     ]
   },
@@ -58623,11 +57295,9 @@ const dictionary = [
   {
     "title": "ちゃんと",
     "kana": [
-      "ちゃん",
       "ちゃんと"
     ],
     "roman": [
-      "chan",
       "chanto"
     ]
   },
@@ -58643,11 +57313,9 @@ const dictionary = [
   {
     "title": "まぎらわし",
     "kana": [
-      "まぎらわ",
       "まぎらわし"
     ],
     "roman": [
-      "magirawa",
       "magirawashi"
     ]
   },
@@ -58762,11 +57430,9 @@ const dictionary = [
   {
     "title": "どんなに",
     "kana": [
-      "どんな",
       "どんなに"
     ],
     "roman": [
-      "donna",
       "donnani"
     ]
   },
@@ -58820,11 +57486,9 @@ const dictionary = [
   {
     "title": "よし",
     "kana": [
-      "よ",
       "よし"
     ],
     "roman": [
-      "yo",
       "yoshi"
     ]
   },
@@ -58840,22 +57504,18 @@ const dictionary = [
   {
     "title": "ゆで",
     "kana": [
-      "ゆ",
       "ゆで"
     ],
     "roman": [
-      "yu",
       "yude"
     ]
   },
   {
     "title": "のびのび",
     "kana": [
-      "のびの",
       "のびのび"
     ],
     "roman": [
-      "nobino",
       "nobinobi"
     ]
   },
@@ -59019,11 +57679,9 @@ const dictionary = [
   {
     "title": "もど",
     "kana": [
-      "も",
       "もど"
     ],
     "roman": [
-      "mo",
       "modo"
     ]
   },
@@ -59111,11 +57769,9 @@ const dictionary = [
   {
     "title": "そんなに",
     "kana": [
-      "そんな",
       "そんなに"
     ],
     "roman": [
-      "sonna",
       "sonnani"
     ]
   },
@@ -59140,11 +57796,9 @@ const dictionary = [
   {
     "title": "ずる",
     "kana": [
-      "ず",
       "ずる"
     ],
     "roman": [
-      "zu",
       "zuru"
     ]
   },
@@ -59259,11 +57913,11 @@ const dictionary = [
   {
     "title": "お好み焼き",
     "kana": [
-      "お好み焼",
+      "お好み焼き",
       "おこのみやき"
     ],
     "roman": [
-      "o好mi焼",
+      "o好mi焼ki",
       "okonomiyaki"
     ]
   },
@@ -59486,11 +58140,9 @@ const dictionary = [
   {
     "title": "のっぴきならな",
     "kana": [
-      "のっぴきなら",
       "のっぴきならな"
     ],
     "roman": [
-      "noppikinara",
       "noppikinarana"
     ]
   },
@@ -59544,11 +58196,9 @@ const dictionary = [
   {
     "title": "ずばり",
     "kana": [
-      "ずば",
       "ずばり"
     ],
     "roman": [
-      "zuba",
       "zubari"
     ]
   },
@@ -59593,11 +58243,9 @@ const dictionary = [
   {
     "title": "ことば",
     "kana": [
-      "こと",
       "ことば"
     ],
     "roman": [
-      "koto",
       "kotoba"
     ]
   },
@@ -59703,11 +58351,9 @@ const dictionary = [
   {
     "title": "かに",
     "kana": [
-      "か",
       "かに"
     ],
     "roman": [
-      "ka",
       "kani"
     ]
   },
@@ -59795,11 +58441,9 @@ const dictionary = [
   {
     "title": "うそ",
     "kana": [
-      "う",
       "うそ"
     ],
     "roman": [
-      "u",
       "uso"
     ]
   },
@@ -59835,11 +58479,9 @@ const dictionary = [
   {
     "title": "げに",
     "kana": [
-      "げ",
       "げに"
     ],
     "roman": [
-      "ge",
       "geni"
     ]
   },
@@ -59873,11 +58515,9 @@ const dictionary = [
   {
     "title": "まで",
     "kana": [
-      "ま",
       "まで"
     ],
     "roman": [
-      "ma",
       "made"
     ]
   },
@@ -59967,11 +58607,9 @@ const dictionary = [
   {
     "title": "せっせ",
     "kana": [
-      "せっ",
       "せっせ"
     ],
     "roman": [
-      "sextsu",
       "sesse"
     ]
   },
@@ -60034,11 +58672,9 @@ const dictionary = [
   {
     "title": "くるり",
     "kana": [
-      "くる",
       "くるり"
     ],
     "roman": [
-      "kuru",
       "kururi"
     ]
   },
@@ -60131,11 +58767,9 @@ const dictionary = [
   {
     "title": "ひらり",
     "kana": [
-      "ひら",
       "ひらり"
     ],
     "roman": [
-      "hira",
       "hirari"
     ]
   },
@@ -60178,11 +58812,9 @@ const dictionary = [
   {
     "title": "はい",
     "kana": [
-      "は",
       "はい"
     ],
     "roman": [
-      "ha",
       "hai"
     ]
   },
@@ -60265,11 +58897,9 @@ const dictionary = [
   {
     "title": "ぶつ",
     "kana": [
-      "ぶ",
       "ぶつ"
     ],
     "roman": [
-      "bu",
       "butsu"
     ]
   },
@@ -60354,11 +58984,9 @@ const dictionary = [
   {
     "title": "いくぶん",
     "kana": [
-      "いくぶ",
       "いくぶん"
     ],
     "roman": [
-      "ikubu",
       "ikubun"
     ]
   },
@@ -60509,22 +59137,18 @@ const dictionary = [
   {
     "title": "おき",
     "kana": [
-      "お",
       "おき"
     ],
     "roman": [
-      "o",
       "oki"
     ]
   },
   {
     "title": "はん",
     "kana": [
-      "は",
       "はん"
     ],
     "roman": [
-      "ha",
       "han"
     ]
   },
@@ -60549,9 +59173,11 @@ const dictionary = [
   {
     "title": "き*",
     "kana": [
+      "き*",
       "き"
     ],
     "roman": [
+      "ki*",
       "ki"
     ]
   },
@@ -60785,11 +59411,9 @@ const dictionary = [
   {
     "title": "まったく",
     "kana": [
-      "まった",
       "まったく"
     ],
     "roman": [
-      "matta",
       "mattaku"
     ]
   },
@@ -61012,11 +59636,9 @@ const dictionary = [
   {
     "title": "ふたつ",
     "kana": [
-      "ふた",
       "ふたつ"
     ],
     "roman": [
-      "futa",
       "futatsu"
     ]
   },
@@ -61059,11 +59681,9 @@ const dictionary = [
   {
     "title": "それぞれ",
     "kana": [
-      "それぞ",
       "それぞれ"
     ],
     "roman": [
-      "sorezo",
       "sorezore"
     ]
   },
@@ -61117,11 +59737,9 @@ const dictionary = [
   {
     "title": "だと",
     "kana": [
-      "だ",
       "だと"
     ],
     "roman": [
-      "da",
       "dato"
     ]
   },
@@ -61200,11 +59818,9 @@ const dictionary = [
   {
     "title": "ふしぎ",
     "kana": [
-      "ふし",
       "ふしぎ"
     ],
     "roman": [
-      "fushi",
       "fushigi"
     ]
   },
@@ -61330,11 +59946,9 @@ const dictionary = [
   {
     "title": "おかず",
     "kana": [
-      "おか",
       "おかず"
     ],
     "roman": [
-      "oka",
       "okazu"
     ]
   },
@@ -61377,11 +59991,11 @@ const dictionary = [
   {
     "title": "ぶち壊",
     "kana": [
-      "ぶち",
+      "ぶち壊",
       "ぶちこわ"
     ],
     "roman": [
-      "buchi",
+      "buchi壊",
       "buchikowa"
     ]
   },
@@ -61435,11 +60049,9 @@ const dictionary = [
   {
     "title": "ごちゃごちゃ",
     "kana": [
-      "ごちゃごち",
       "ごちゃごちゃ"
     ],
     "roman": [
-      "gochagochi",
       "gochagocha"
     ]
   },
@@ -61500,22 +60112,18 @@ const dictionary = [
   {
     "title": "なさけな",
     "kana": [
-      "なさけ",
       "なさけな"
     ],
     "roman": [
-      "nasake",
       "nasakena"
     ]
   },
   {
     "title": "すばらし",
     "kana": [
-      "すばら",
       "すばらし"
     ],
     "roman": [
-      "subara",
       "subarashi"
     ]
   },
@@ -61729,11 +60337,9 @@ const dictionary = [
   {
     "title": "しぐさ",
     "kana": [
-      "しぐ",
       "しぐさ"
     ],
     "roman": [
-      "shigu",
       "shigusa"
     ]
   },
@@ -61859,11 +60465,9 @@ const dictionary = [
   {
     "title": "つね",
     "kana": [
-      "つ",
       "つね"
     ],
     "roman": [
-      "tsu",
       "tsune"
     ]
   },
@@ -61969,11 +60573,9 @@ const dictionary = [
   {
     "title": "めまい",
     "kana": [
-      "めま",
       "めまい"
     ],
     "roman": [
-      "mema",
       "memai"
     ]
   },
@@ -62034,11 +60636,9 @@ const dictionary = [
   {
     "title": "こだわり",
     "kana": [
-      "こだわ",
       "こだわり"
     ],
     "roman": [
-      "kodawa",
       "kodawari"
     ]
   },
@@ -62257,22 +60857,20 @@ const dictionary = [
   {
     "title": "お詫び",
     "kana": [
-      "お詫",
+      "お詫び",
       "おわび"
     ],
     "roman": [
-      "o詫",
+      "o詫bi",
       "owabi"
     ]
   },
   {
     "title": "すけ",
     "kana": [
-      "す",
       "すけ"
     ],
     "roman": [
-      "su",
       "suke"
     ]
   },
@@ -62306,11 +60904,9 @@ const dictionary = [
   {
     "title": "ぱっと",
     "kana": [
-      "ぱっ",
       "ぱっと"
     ],
     "roman": [
-      "paxtsu",
       "patto"
     ]
   },
@@ -62337,11 +60933,9 @@ const dictionary = [
   {
     "title": "あめ",
     "kana": [
-      "あ",
       "あめ"
     ],
     "roman": [
-      "a",
       "ame"
     ]
   },
@@ -62366,11 +60960,11 @@ const dictionary = [
   {
     "title": "お手上げ",
     "kana": [
-      "お手上",
+      "お手上げ",
       "おてあげ"
     ],
     "roman": [
-      "o手上",
+      "o手上ge",
       "oteage"
     ]
   },
@@ -62451,11 +61045,9 @@ const dictionary = [
   {
     "title": "かねて",
     "kana": [
-      "かね",
       "かねて"
     ],
     "roman": [
-      "kane",
       "kanete"
     ]
   },
@@ -62561,11 +61153,11 @@ const dictionary = [
   {
     "title": "さ迷",
     "kana": [
-      "さ",
+      "さ迷",
       "さまよ"
     ],
     "roman": [
-      "sa",
+      "sa迷",
       "samayo"
     ]
   },
@@ -62698,11 +61290,9 @@ const dictionary = [
   {
     "title": "しゃがみこ",
     "kana": [
-      "しゃがみ",
       "しゃがみこ"
     ],
     "roman": [
-      "shagami",
       "shagamiko"
     ]
   },
@@ -62745,11 +61335,9 @@ const dictionary = [
   {
     "title": "もら",
     "kana": [
-      "も",
       "もら"
     ],
     "roman": [
-      "mo",
       "mora"
     ]
   },
@@ -62846,11 +61434,9 @@ const dictionary = [
   {
     "title": "のぞまし",
     "kana": [
-      "のぞま",
       "のぞまし"
     ],
     "roman": [
-      "nozoma",
       "nozomashi"
     ]
   },
@@ -62933,11 +61519,9 @@ const dictionary = [
   {
     "title": "かじりつ",
     "kana": [
-      "かじり",
       "かじりつ"
     ],
     "roman": [
-      "kajiri",
       "kajiritsu"
     ]
   },
@@ -62971,11 +61555,9 @@ const dictionary = [
   {
     "title": "いれ",
     "kana": [
-      "い",
       "いれ"
     ],
     "roman": [
-      "i",
       "ire"
     ]
   },
@@ -63072,11 +61654,9 @@ const dictionary = [
   {
     "title": "いっこ",
     "kana": [
-      "いっ",
       "いっこ"
     ],
     "roman": [
-      "ixtsu",
       "ikko"
     ]
   },
@@ -63151,33 +61731,27 @@ const dictionary = [
   {
     "title": "だけ",
     "kana": [
-      "だ",
       "だけ"
     ],
     "roman": [
-      "da",
       "dake"
     ]
   },
   {
     "title": "まろ",
     "kana": [
-      "ま",
       "まろ"
     ],
     "roman": [
-      "ma",
       "maro"
     ]
   },
   {
     "title": "さて",
     "kana": [
-      "さ",
       "さて"
     ],
     "roman": [
-      "sa",
       "sate"
     ]
   },
@@ -63193,11 +61767,9 @@ const dictionary = [
   {
     "title": "ちょっと",
     "kana": [
-      "ちょっ",
       "ちょっと"
     ],
     "roman": [
-      "choxtsu",
       "chotto"
     ]
   },
@@ -63213,22 +61785,18 @@ const dictionary = [
   {
     "title": "ずんずん",
     "kana": [
-      "ずんず",
       "ずんずん"
     ],
     "roman": [
-      "zunzu",
       "zunzun"
     ]
   },
   {
     "title": "つつまし",
     "kana": [
-      "つつま",
       "つつまし"
     ],
     "roman": [
-      "tsutsuma",
       "tsutsumashi"
     ]
   },
@@ -63325,11 +61893,9 @@ const dictionary = [
   {
     "title": "にぎやか",
     "kana": [
-      "にぎや",
       "にぎやか"
     ],
     "roman": [
-      "nigiya",
       "nigiyaka"
     ]
   },
@@ -63444,11 +62010,9 @@ const dictionary = [
   {
     "title": "かぶさ",
     "kana": [
-      "かぶ",
       "かぶさ"
     ],
     "roman": [
-      "kabu",
       "kabusa"
     ]
   },
@@ -63464,11 +62028,9 @@ const dictionary = [
   {
     "title": "さわ",
     "kana": [
-      "さ",
       "さわ"
     ],
     "roman": [
-      "sa",
       "sawa"
     ]
   },
@@ -63538,11 +62100,9 @@ const dictionary = [
   {
     "title": "いってき",
     "kana": [
-      "いって",
       "いってき"
     ],
     "roman": [
-      "itte",
       "itteki"
     ]
   },
@@ -63632,11 +62192,9 @@ const dictionary = [
   {
     "title": "まし",
     "kana": [
-      "ま",
       "まし"
     ],
     "roman": [
-      "ma",
       "mashi"
     ]
   },
@@ -63672,11 +62230,9 @@ const dictionary = [
   {
     "title": "なんぼ",
     "kana": [
-      "なん",
       "なんぼ"
     ],
     "roman": [
-      "nan",
       "nanbo"
     ]
   },
@@ -63782,11 +62338,9 @@ const dictionary = [
   {
     "title": "どう",
     "kana": [
-      "ど",
       "どう"
     ],
     "roman": [
-      "do",
       "dou"
     ]
   },
@@ -63838,11 +62392,9 @@ const dictionary = [
   {
     "title": "はらはら",
     "kana": [
-      "はらは",
       "はらはら"
     ],
     "roman": [
-      "haraha",
       "harahara"
     ]
   },
@@ -63885,11 +62437,9 @@ const dictionary = [
   {
     "title": "いやらし",
     "kana": [
-      "いやら",
       "いやらし"
     ],
     "roman": [
-      "iyara",
       "iyarashi"
     ]
   },
@@ -63950,22 +62500,20 @@ const dictionary = [
   {
     "title": "よろず",
     "kana": [
-      "よろ",
       "よろず"
     ],
     "roman": [
-      "yoro",
       "yorozu"
     ]
   },
   {
     "title": "この世",
     "kana": [
-      "この",
+      "この世",
       "このよ"
     ],
     "roman": [
-      "kono",
+      "kono世",
       "konoyo"
     ]
   },
@@ -64044,11 +62592,11 @@ const dictionary = [
   {
     "title": "ほほ笑",
     "kana": [
-      "ほほ",
+      "ほほ笑",
       "ほほえ"
     ],
     "roman": [
-      "hoho",
+      "hoho笑",
       "hohoe"
     ]
   },
@@ -64064,11 +62612,9 @@ const dictionary = [
   {
     "title": "なび",
     "kana": [
-      "な",
       "なび"
     ],
     "roman": [
-      "na",
       "nabi"
     ]
   },
@@ -64120,11 +62666,9 @@ const dictionary = [
   {
     "title": "なんと",
     "kana": [
-      "なん",
       "なんと"
     ],
     "roman": [
-      "nan",
       "nanto"
     ]
   },
@@ -64194,11 +62738,9 @@ const dictionary = [
   {
     "title": "べき",
     "kana": [
-      "べ",
       "べき"
     ],
     "roman": [
-      "be",
       "beki"
     ]
   },
@@ -64315,11 +62857,9 @@ const dictionary = [
   {
     "title": "あきれ",
     "kana": [
-      "あき",
       "あきれ"
     ],
     "roman": [
-      "aki",
       "akire"
     ]
   },
@@ -64434,11 +62974,9 @@ const dictionary = [
   {
     "title": "どうぞ",
     "kana": [
-      "どう",
       "どうぞ"
     ],
     "roman": [
-      "dou",
       "douzo"
     ]
   },
@@ -64526,11 +63064,9 @@ const dictionary = [
   {
     "title": "ふたり",
     "kana": [
-      "ふた",
       "ふたり"
     ],
     "roman": [
-      "futa",
       "futari"
     ]
   },
@@ -64546,11 +63082,9 @@ const dictionary = [
   {
     "title": "ひらひら",
     "kana": [
-      "ひらひ",
       "ひらひら"
     ],
     "roman": [
-      "hirahi",
       "hirahira"
     ]
   },
@@ -64667,22 +63201,18 @@ const dictionary = [
   {
     "title": "かしまし",
     "kana": [
-      "かしま",
       "かしまし"
     ],
     "roman": [
-      "kashima",
       "kashimashi"
     ]
   },
   {
     "title": "いくらか",
     "kana": [
-      "いくら",
       "いくらか"
     ],
     "roman": [
-      "ikura",
       "ikuraka"
     ]
   },
@@ -64752,11 +63282,11 @@ const dictionary = [
   {
     "title": "くじ引き",
     "kana": [
-      "くじ引",
+      "くじ引き",
       "くじびき"
     ],
     "roman": [
-      "kuji引",
+      "kuji引ki",
       "kujibiki"
     ]
   },
@@ -64817,11 +63347,9 @@ const dictionary = [
   {
     "title": "つき",
     "kana": [
-      "つ",
       "つき"
     ],
     "roman": [
-      "tsu",
       "tsuki"
     ]
   },
@@ -64833,33 +63361,27 @@ const dictionary = [
   {
     "title": "ほんのり",
     "kana": [
-      "ほんの",
       "ほんのり"
     ],
     "roman": [
-      "honno",
       "honnori"
     ]
   },
   {
     "title": "つもり",
     "kana": [
-      "つも",
       "つもり"
     ],
     "roman": [
-      "tsumo",
       "tsumori"
     ]
   },
   {
     "title": "はや",
     "kana": [
-      "は",
       "はや"
     ],
     "roman": [
-      "ha",
       "haya"
     ]
   },
@@ -64960,11 +63482,11 @@ const dictionary = [
   {
     "title": "ある程度",
     "kana": [
-      "ある程",
+      "ある程度",
       "あるていど"
     ],
     "roman": [
-      "aru程",
+      "aru程度",
       "aruteido"
     ]
   },
@@ -65117,11 +63639,9 @@ const dictionary = [
   {
     "title": "きっと",
     "kana": [
-      "きっ",
       "きっと"
     ],
     "roman": [
-      "kixtsu",
       "kitto"
     ]
   },
@@ -65272,11 +63792,9 @@ const dictionary = [
   {
     "title": "おどろおどろし",
     "kana": [
-      "おどろおどろ",
       "おどろおどろし"
     ],
     "roman": [
-      "odoroodoro",
       "odoroodoroshi"
     ]
   },
@@ -65418,11 +63936,9 @@ const dictionary = [
   {
     "title": "りす",
     "kana": [
-      "り",
       "りす"
     ],
     "roman": [
-      "ri",
       "risu"
     ]
   },
@@ -65532,11 +64048,11 @@ const dictionary = [
   {
     "title": "お茶",
     "kana": [
-      "お",
+      "お茶",
       "おちゃ"
     ],
     "roman": [
-      "o",
+      "o茶",
       "ocha"
     ]
   },
@@ -65588,11 +64104,9 @@ const dictionary = [
   {
     "title": "まんま",
     "kana": [
-      "まん",
       "まんま"
     ],
     "roman": [
-      "man",
       "manma"
     ]
   },
@@ -65736,11 +64250,9 @@ const dictionary = [
   {
     "title": "しだいに",
     "kana": [
-      "しだい",
       "しだいに"
     ],
     "roman": [
-      "shidai",
       "shidaini"
     ]
   },
@@ -65828,22 +64340,18 @@ const dictionary = [
   {
     "title": "ぎょっと",
     "kana": [
-      "ぎょっ",
       "ぎょっと"
     ],
     "roman": [
-      "gyoxtsu",
       "gyotto"
     ]
   },
   {
     "title": "やっつけ",
     "kana": [
-      "やっつ",
       "やっつけ"
     ],
     "roman": [
-      "yattsu",
       "yattsuke"
     ]
   },
@@ -65897,11 +64405,9 @@ const dictionary = [
   {
     "title": "つっこ",
     "kana": [
-      "つっ",
       "つっこ"
     ],
     "roman": [
-      "tsuxtsu",
       "tsukko"
     ]
   },
@@ -65935,9 +64441,11 @@ const dictionary = [
   {
     "title": "こ*",
     "kana": [
+      "こ*",
       "こ"
     ],
     "roman": [
+      "ko*",
       "ko"
     ]
   },
@@ -65998,11 +64506,9 @@ const dictionary = [
   {
     "title": "ひったく",
     "kana": [
-      "ひった",
       "ひったく"
     ],
     "roman": [
-      "hitta",
       "hittaku"
     ]
   },
@@ -66018,11 +64524,9 @@ const dictionary = [
   {
     "title": "ひとしきり",
     "kana": [
-      "ひとしき",
       "ひとしきり"
     ],
     "roman": [
-      "hitoshiki",
       "hitoshikiri"
     ]
   },
@@ -66065,7 +64569,7 @@ const dictionary = [
   {
     "title": "てる",
     "kana": [
-      "て",
+      "てる",
       "てん",
       "てれ",
       "てろ",
@@ -66073,7 +64577,7 @@ const dictionary = [
       "てよ"
     ],
     "roman": [
-      "te",
+      "teru",
       "ten",
       "tere",
       "tero",
@@ -66185,11 +64689,9 @@ const dictionary = [
   {
     "title": "いただけ",
     "kana": [
-      "いただ",
       "いただけ"
     ],
     "roman": [
-      "itada",
       "itadake"
     ]
   },
@@ -66205,11 +64707,9 @@ const dictionary = [
   {
     "title": "くん",
     "kana": [
-      "く",
       "くん"
     ],
     "roman": [
-      "ku",
       "kun"
     ]
   },
@@ -66243,22 +64743,18 @@ const dictionary = [
   {
     "title": "よろけ",
     "kana": [
-      "よろ",
       "よろけ"
     ],
     "roman": [
-      "yoro",
       "yoroke"
     ]
   },
   {
     "title": "そりゃあ",
     "kana": [
-      "そりゃ",
       "そりゃあ"
     ],
     "roman": [
-      "sorya",
       "soryaa"
     ]
   },
@@ -66355,11 +64851,9 @@ const dictionary = [
   {
     "title": "ふきだ",
     "kana": [
-      "ふき",
       "ふきだ"
     ],
     "roman": [
-      "fuki",
       "fukida"
     ]
   },
@@ -66384,11 +64878,9 @@ const dictionary = [
   {
     "title": "ろう",
     "kana": [
-      "ろ",
       "ろう"
     ],
     "roman": [
-      "ro",
       "rou"
     ]
   },
@@ -66532,11 +65024,11 @@ const dictionary = [
   {
     "title": "お披露目",
     "kana": [
-      "お披露",
+      "お披露目",
       "おひろめ"
     ],
     "roman": [
-      "o披露",
+      "o披露目",
       "ohirome"
     ]
   },
@@ -66561,22 +65053,18 @@ const dictionary = [
   {
     "title": "あれ",
     "kana": [
-      "あ",
       "あれ"
     ],
     "roman": [
-      "a",
       "are"
     ]
   },
   {
     "title": "めげ",
     "kana": [
-      "め",
       "めげ"
     ],
     "roman": [
-      "me",
       "mege"
     ]
   },
@@ -66610,11 +65098,9 @@ const dictionary = [
   {
     "title": "たぶん",
     "kana": [
-      "たぶ",
       "たぶん"
     ],
     "roman": [
-      "tabu",
       "tabun"
     ]
   },
@@ -66789,11 +65275,9 @@ const dictionary = [
   {
     "title": "こころもとな",
     "kana": [
-      "こころもと",
       "こころもとな"
     ],
     "roman": [
-      "kokoromoto",
       "kokoromotona"
     ]
   },
@@ -66921,11 +65405,9 @@ const dictionary = [
   {
     "title": "なるほど",
     "kana": [
-      "なるほ",
       "なるほど"
     ],
     "roman": [
-      "naruho",
       "naruhodo"
     ]
   },
@@ -67033,11 +65515,9 @@ const dictionary = [
   {
     "title": "かかわ",
     "kana": [
-      "かか",
       "かかわ"
     ],
     "roman": [
-      "kaka",
       "kakawa"
     ]
   },
@@ -67053,11 +65533,9 @@ const dictionary = [
   {
     "title": "ず",
     "kana": [
-      "",
       "ず"
     ],
     "roman": [
-      "",
       "zu"
     ]
   },
@@ -67288,11 +65766,9 @@ const dictionary = [
   {
     "title": "どっこいしょ",
     "kana": [
-      "どっこいし",
       "どっこいしょ"
     ],
     "roman": [
-      "dokkoishi",
       "dokkoisho"
     ]
   },
@@ -67317,22 +65793,18 @@ const dictionary = [
   {
     "title": "こぼれ",
     "kana": [
-      "こぼ",
       "こぼれ"
     ],
     "roman": [
-      "kobo",
       "kobore"
     ]
   },
   {
     "title": "しみじみ",
     "kana": [
-      "しみじ",
       "しみじみ"
     ],
     "roman": [
-      "shimiji",
       "shimijimi"
     ]
   },
@@ -67456,11 +65928,9 @@ const dictionary = [
   {
     "title": "は",
     "kana": [
-      "",
       "は"
     ],
     "roman": [
-      "",
       "ha"
     ]
   },
@@ -67476,11 +65946,9 @@ const dictionary = [
   {
     "title": "おどけ",
     "kana": [
-      "おど",
       "おどけ"
     ],
     "roman": [
-      "odo",
       "odoke"
     ]
   },
@@ -67532,11 +66000,11 @@ const dictionary = [
   {
     "title": "ご馳走",
     "kana": [
-      "ご馳",
+      "ご馳走",
       "ごちそう"
     ],
     "roman": [
-      "go馳",
+      "go馳走",
       "gochisou"
     ]
   },
@@ -67570,11 +66038,9 @@ const dictionary = [
   {
     "title": "おおよそ",
     "kana": [
-      "おおよ",
       "おおよそ"
     ],
     "roman": [
-      "ooyo",
       "ooyoso"
     ]
   },
@@ -67590,11 +66056,9 @@ const dictionary = [
   {
     "title": "うまく",
     "kana": [
-      "うま",
       "うまく"
     ],
     "roman": [
-      "uma",
       "umaku"
     ]
   },
@@ -67967,11 +66431,9 @@ const dictionary = [
   {
     "title": "くど",
     "kana": [
-      "く",
       "くど"
     ],
     "roman": [
-      "ku",
       "kudo"
     ]
   },
@@ -68014,11 +66476,9 @@ const dictionary = [
   {
     "title": "きらり",
     "kana": [
-      "きら",
       "きらり"
     ],
     "roman": [
-      "kira",
       "kirari"
     ]
   },
@@ -68106,11 +66566,9 @@ const dictionary = [
   {
     "title": "いい",
     "kana": [
-      "い",
       "いい"
     ],
     "roman": [
-      "i",
       "ii"
     ]
   },
@@ -68135,11 +66593,11 @@ const dictionary = [
   {
     "title": "やり切れな",
     "kana": [
-      "やり切れ",
+      "やり切れな",
       "やりきれな"
     ],
     "roman": [
-      "yari切re",
+      "yari切rena",
       "yarikirena"
     ]
   },
@@ -68173,11 +66631,11 @@ const dictionary = [
   {
     "title": "うすら寒",
     "kana": [
-      "うすら",
+      "うすら寒",
       "うすらさむ"
     ],
     "roman": [
-      "usura",
+      "usura寒",
       "usurasamu"
     ]
   },
@@ -68193,11 +66651,11 @@ const dictionary = [
   {
     "title": "お誘い",
     "kana": [
-      "お誘",
+      "お誘い",
       "おさそい"
     ],
     "roman": [
-      "o誘",
+      "o誘i",
       "osasoi"
     ]
   },
@@ -68249,11 +66707,9 @@ const dictionary = [
   {
     "title": "ぼやけ",
     "kana": [
-      "ぼや",
       "ぼやけ"
     ],
     "roman": [
-      "boya",
       "boyake"
     ]
   },
@@ -68278,11 +66734,9 @@ const dictionary = [
   {
     "title": "ぽかぽか",
     "kana": [
-      "ぽかぽ",
       "ぽかぽか"
     ],
     "roman": [
-      "pokapo",
       "pokapoka"
     ]
   },
@@ -68361,11 +66815,11 @@ const dictionary = [
   {
     "title": "ほど遠",
     "kana": [
-      "ほど",
+      "ほど遠",
       "ほどとお"
     ],
     "roman": [
-      "hodo",
+      "hodo遠",
       "hodotoo"
     ]
   },
@@ -68381,11 +66835,9 @@ const dictionary = [
   {
     "title": "おぼつかな",
     "kana": [
-      "おぼつか",
       "おぼつかな"
     ],
     "roman": [
-      "obotsuka",
       "obotsukana"
     ]
   },
@@ -68509,11 +66961,9 @@ const dictionary = [
   {
     "title": "ほ",
     "kana": [
-      "",
       "ほ"
     ],
     "roman": [
-      "",
       "ho"
     ]
   },
@@ -68529,11 +66979,9 @@ const dictionary = [
   {
     "title": "なにやら",
     "kana": [
-      "なにや",
       "なにやら"
     ],
     "roman": [
-      "naniya",
       "naniyara"
     ]
   },
@@ -68587,11 +67035,9 @@ const dictionary = [
   {
     "title": "さらり",
     "kana": [
-      "さら",
       "さらり"
     ],
     "roman": [
-      "sara",
       "sarari"
     ]
   },
@@ -68661,11 +67107,9 @@ const dictionary = [
   {
     "title": "ややこし",
     "kana": [
-      "ややこ",
       "ややこし"
     ],
     "roman": [
-      "yayako",
       "yayakoshi"
     ]
   },
@@ -68681,11 +67125,9 @@ const dictionary = [
   {
     "title": "からかい",
     "kana": [
-      "からか",
       "からかい"
     ],
     "roman": [
-      "karaka",
       "karakai"
     ]
   },
@@ -68746,11 +67188,9 @@ const dictionary = [
   {
     "title": "とんと",
     "kana": [
-      "とん",
       "とんと"
     ],
     "roman": [
-      "ton",
       "tonto"
     ]
   },
@@ -68775,11 +67215,9 @@ const dictionary = [
   {
     "title": "そっち",
     "kana": [
-      "そっ",
       "そっち"
     ],
     "roman": [
-      "soxtsu",
       "sotchi"
     ]
   },
@@ -68867,11 +67305,9 @@ const dictionary = [
   {
     "title": "がらん",
     "kana": [
-      "がら",
       "がらん"
     ],
     "roman": [
-      "gara",
       "garan"
     ]
   },
@@ -68932,22 +67368,18 @@ const dictionary = [
   {
     "title": "ござ",
     "kana": [
-      "ご",
       "ござ"
     ],
     "roman": [
-      "go",
       "goza"
     ]
   },
   {
     "title": "という",
     "kana": [
-      "とい",
       "という"
     ],
     "roman": [
-      "toi",
       "toiu"
     ]
   },
@@ -69068,11 +67500,9 @@ const dictionary = [
   {
     "title": "あちこち",
     "kana": [
-      "あちこ",
       "あちこち"
     ],
     "roman": [
-      "achiko",
       "achikochi"
     ]
   },
@@ -69187,11 +67617,9 @@ const dictionary = [
   {
     "title": "てきぱき",
     "kana": [
-      "てきぱ",
       "てきぱき"
     ],
     "roman": [
-      "tekipa",
       "tekipaki"
     ]
   },
@@ -69225,11 +67653,11 @@ const dictionary = [
   {
     "title": "あっという間に",
     "kana": [
-      "あっという間",
+      "あっという間に",
       "あっというまに"
     ],
     "roman": [
-      "attoiu間",
+      "attoiu間ni",
       "attoiumani"
     ]
   },
@@ -69245,11 +67673,9 @@ const dictionary = [
   {
     "title": "めい",
     "kana": [
-      "め",
       "めい"
     ],
     "roman": [
-      "me",
       "mei"
     ]
   },
@@ -69474,11 +67900,9 @@ const dictionary = [
   {
     "title": "ながらく",
     "kana": [
-      "ながら",
       "ながらく"
     ],
     "roman": [
-      "nagara",
       "nagaraku"
     ]
   },
@@ -69530,11 +67954,9 @@ const dictionary = [
   {
     "title": "こんにちは",
     "kana": [
-      "こんにち",
       "こんにちは"
     ],
     "roman": [
-      "konnichi",
       "konnichiha"
     ]
   },
@@ -69658,11 +68080,9 @@ const dictionary = [
   {
     "title": "それなり",
     "kana": [
-      "それな",
       "それなり"
     ],
     "roman": [
-      "sorena",
       "sorenari"
     ]
   },
@@ -69727,11 +68147,9 @@ const dictionary = [
   {
     "title": "またまた",
     "kana": [
-      "またま",
       "またまた"
     ],
     "roman": [
-      "matama",
       "matamata"
     ]
   },
@@ -69747,11 +68165,9 @@ const dictionary = [
   {
     "title": "うつ",
     "kana": [
-      "う",
       "うつ"
     ],
     "roman": [
-      "u",
       "utsu"
     ]
   },
@@ -69897,11 +68313,9 @@ const dictionary = [
   {
     "title": "どのみち",
     "kana": [
-      "どのみ",
       "どのみち"
     ],
     "roman": [
-      "donomi",
       "donomichi"
     ]
   },
@@ -69935,11 +68349,11 @@ const dictionary = [
   {
     "title": "か国",
     "kana": [
-      "か",
+      "か国",
       "かこく"
     ],
     "roman": [
-      "ka",
+      "ka国",
       "kakoku"
     ]
   },
@@ -70038,11 +68452,9 @@ const dictionary = [
   {
     "title": "うつむ",
     "kana": [
-      "うつ",
       "うつむ"
     ],
     "roman": [
-      "utsu",
       "utsumu"
     ]
   },
@@ -70076,11 +68488,9 @@ const dictionary = [
   {
     "title": "とおく",
     "kana": [
-      "とお",
       "とおく"
     ],
     "roman": [
-      "too",
       "tooku"
     ]
   },
@@ -70150,11 +68560,11 @@ const dictionary = [
   {
     "title": "お決まり",
     "kana": [
-      "お決ま",
+      "お決まり",
       "おきまり"
     ],
     "roman": [
-      "o決ma",
+      "o決mari",
       "okimari"
     ]
   },
@@ -70224,11 +68634,11 @@ const dictionary = [
   {
     "title": "お知らせ",
     "kana": [
-      "お知ら",
+      "お知らせ",
       "おしらせ"
     ],
     "roman": [
-      "o知ra",
+      "o知rase",
       "oshirase"
     ]
   },
@@ -70397,11 +68807,9 @@ const dictionary = [
   {
     "title": "くれぐれも",
     "kana": [
-      "くれぐれ",
       "くれぐれも"
     ],
     "roman": [
-      "kuregure",
       "kureguremo"
     ]
   },
@@ -70473,11 +68881,9 @@ const dictionary = [
   {
     "title": "ごくごく",
     "kana": [
-      "ごくご",
       "ごくごく"
     ],
     "roman": [
-      "gokugo",
       "gokugoku"
     ]
   },
@@ -70520,11 +68926,9 @@ const dictionary = [
   {
     "title": "それだけ",
     "kana": [
-      "それだ",
       "それだけ"
     ],
     "roman": [
-      "soreda",
       "soredake"
     ]
   },
@@ -70576,11 +68980,9 @@ const dictionary = [
   {
     "title": "あんな",
     "kana": [
-      "あん",
       "あんな"
     ],
     "roman": [
-      "an",
       "anna"
     ]
   },
@@ -70614,11 +69016,9 @@ const dictionary = [
   {
     "title": "してや",
     "kana": [
-      "して",
       "してや"
     ],
     "roman": [
-      "shite",
       "shiteya"
     ]
   },
@@ -70661,11 +69061,9 @@ const dictionary = [
   {
     "title": "がく",
     "kana": [
-      "が",
       "がく"
     ],
     "roman": [
-      "ga",
       "gaku"
     ]
   },
@@ -70681,11 +69079,9 @@ const dictionary = [
   {
     "title": "それら",
     "kana": [
-      "それ",
       "それら"
     ],
     "roman": [
-      "sore",
       "sorera"
     ]
   },
@@ -70777,11 +69173,9 @@ const dictionary = [
   {
     "title": "くわえ",
     "kana": [
-      "くわ",
       "くわえ"
     ],
     "roman": [
-      "kuwa",
       "kuwae"
     ]
   },
@@ -71076,11 +69470,9 @@ const dictionary = [
   {
     "title": "きません",
     "kana": [
-      "きませ",
       "きません"
     ],
     "roman": [
-      "kimase",
       "kimasen"
     ]
   },
@@ -71096,22 +69488,18 @@ const dictionary = [
   {
     "title": "めずらし",
     "kana": [
-      "めずら",
       "めずらし"
     ],
     "roman": [
-      "mezura",
       "mezurashi"
     ]
   },
   {
     "title": "なぜ",
     "kana": [
-      "な",
       "なぜ"
     ],
     "roman": [
-      "na",
       "naze"
     ]
   },
@@ -71145,11 +69533,9 @@ const dictionary = [
   {
     "title": "かるた",
     "kana": [
-      "かる",
       "かるた"
     ],
     "roman": [
-      "karu",
       "karuta"
     ]
   },
@@ -71183,20 +69569,20 @@ const dictionary = [
   {
     "title": "おと",
     "kana": [
-      "お",
       "おと"
     ],
     "roman": [
-      "o",
       "oto"
     ]
   },
   {
     "title": "やぶ",
     "kana": [
+      "やぶ",
       "や"
     ],
     "roman": [
+      "yabu",
       "ya"
     ]
   },
@@ -71230,11 +69616,9 @@ const dictionary = [
   {
     "title": "だ",
     "kana": [
-      "",
       "だ"
     ],
     "roman": [
-      "",
       "da"
     ]
   },
@@ -71313,11 +69697,9 @@ const dictionary = [
   {
     "title": "とっとと",
     "kana": [
-      "とっと",
       "とっとと"
     ],
     "roman": [
-      "totto",
       "tottoto"
     ]
   },
@@ -71486,11 +69868,9 @@ const dictionary = [
   {
     "title": "なく",
     "kana": [
-      "な",
       "なく"
     ],
     "roman": [
-      "na",
       "naku"
     ]
   },
@@ -71515,11 +69895,9 @@ const dictionary = [
   {
     "title": "みるみる",
     "kana": [
-      "みるみ",
       "みるみる"
     ],
     "roman": [
-      "mirumi",
       "mirumiru"
     ]
   },
@@ -71544,33 +69922,29 @@ const dictionary = [
   {
     "title": "お絵描き",
     "kana": [
-      "お絵描",
+      "お絵描き",
       "おえかき"
     ],
     "roman": [
-      "o絵描",
+      "o絵描ki",
       "oekaki"
     ]
   },
   {
     "title": "にかけて",
     "kana": [
-      "にかけ",
       "にかけて"
     ],
     "roman": [
-      "nikake",
       "nikakete"
     ]
   },
   {
     "title": "な",
     "kana": [
-      "",
       "な"
     ],
     "roman": [
-      "",
       "na"
     ]
   },
@@ -71883,11 +70257,9 @@ const dictionary = [
   {
     "title": "いまや",
     "kana": [
-      "いま",
       "いまや"
     ],
     "roman": [
-      "ima",
       "imaya"
     ]
   },
@@ -72305,11 +70677,9 @@ const dictionary = [
   {
     "title": "うち",
     "kana": [
-      "う",
       "うち"
     ],
     "roman": [
-      "u",
       "uchi"
     ]
   },
@@ -72489,11 +70859,9 @@ const dictionary = [
   {
     "title": "にこやか",
     "kana": [
-      "にこや",
       "にこやか"
     ],
     "roman": [
-      "nikoya",
       "nikoyaka"
     ]
   },
@@ -72563,22 +70931,18 @@ const dictionary = [
   {
     "title": "ならい",
     "kana": [
-      "なら",
       "ならい"
     ],
     "roman": [
-      "nara",
       "narai"
     ]
   },
   {
     "title": "かっこよ",
     "kana": [
-      "かっこ",
       "かっこよ"
     ],
     "roman": [
-      "kakko",
       "kakkoyo"
     ]
   },
@@ -72713,11 +71077,9 @@ const dictionary = [
   {
     "title": "たい",
     "kana": [
-      "た",
       "たい"
     ],
     "roman": [
-      "ta",
       "tai"
     ]
   },
@@ -72796,11 +71158,9 @@ const dictionary = [
   {
     "title": "だらり",
     "kana": [
-      "だら",
       "だらり"
     ],
     "roman": [
-      "dara",
       "darari"
     ]
   },
@@ -72825,11 +71185,9 @@ const dictionary = [
   {
     "title": "ふわっと",
     "kana": [
-      "ふわっ",
       "ふわっと"
     ],
     "roman": [
-      "fuwaxtsu",
       "fuwatto"
     ]
   },
@@ -72863,11 +71221,9 @@ const dictionary = [
   {
     "title": "たち",
     "kana": [
-      "た",
       "たち"
     ],
     "roman": [
-      "ta",
       "tachi"
     ]
   },
@@ -73045,11 +71401,9 @@ const dictionary = [
   {
     "title": "はさ",
     "kana": [
-      "は",
       "はさ"
     ],
     "roman": [
-      "ha",
       "hasa"
     ]
   },
@@ -73092,11 +71446,9 @@ const dictionary = [
   {
     "title": "いたずらに",
     "kana": [
-      "いたずら",
       "いたずらに"
     ],
     "roman": [
-      "itazura",
       "itazurani"
     ]
   },
@@ -73148,11 +71500,9 @@ const dictionary = [
   {
     "title": "やかん",
     "kana": [
-      "やか",
       "やかん"
     ],
     "roman": [
-      "yaka",
       "yakan"
     ]
   },
@@ -73357,11 +71707,9 @@ const dictionary = [
   {
     "title": "さい",
     "kana": [
-      "さ",
       "さい"
     ],
     "roman": [
-      "sa",
       "sai"
     ]
   },
@@ -73575,11 +71923,9 @@ const dictionary = [
   {
     "title": "ぴったし",
     "kana": [
-      "ぴった",
       "ぴったし"
     ],
     "roman": [
-      "pitta",
       "pittashi"
     ]
   },
@@ -73720,11 +72066,9 @@ const dictionary = [
   {
     "title": "きます",
     "kana": [
-      "きま",
       "きます"
     ],
     "roman": [
-      "kima",
       "kimasu"
     ]
   },
@@ -73740,11 +72084,9 @@ const dictionary = [
   {
     "title": "ない",
     "kana": [
-      "な",
       "ない"
     ],
     "roman": [
-      "na",
       "nai"
     ]
   },
@@ -73814,11 +72156,9 @@ const dictionary = [
   {
     "title": "ごく",
     "kana": [
-      "ご",
       "ごく"
     ],
     "roman": [
-      "go",
       "goku"
     ]
   },
@@ -73870,11 +72210,9 @@ const dictionary = [
   {
     "title": "どこ",
     "kana": [
-      "ど",
       "どこ"
     ],
     "roman": [
-      "do",
       "doko"
     ]
   },
@@ -74027,11 +72365,9 @@ const dictionary = [
   {
     "title": "ちょこっと",
     "kana": [
-      "ちょこっ",
       "ちょこっと"
     ],
     "roman": [
-      "chokoxtsu",
       "chokotto"
     ]
   },
@@ -74047,11 +72383,9 @@ const dictionary = [
   {
     "title": "なさ",
     "kana": [
-      "な",
       "なさ"
     ],
     "roman": [
-      "na",
       "nasa"
     ]
   },
@@ -74139,11 +72473,9 @@ const dictionary = [
   {
     "title": "ぴんと",
     "kana": [
-      "ぴん",
       "ぴんと"
     ],
     "roman": [
-      "pin",
       "pinto"
     ]
   },
@@ -74312,11 +72644,9 @@ const dictionary = [
   {
     "title": "きかせ",
     "kana": [
-      "きか",
       "きかせ"
     ],
     "roman": [
-      "kika",
       "kikase"
     ]
   },
@@ -74415,11 +72745,9 @@ const dictionary = [
   {
     "title": "ふざけ",
     "kana": [
-      "ふざ",
       "ふざけ"
     ],
     "roman": [
-      "fuza",
       "fuzake"
     ]
   },
@@ -74453,22 +72781,20 @@ const dictionary = [
   {
     "title": "ぐらぐら",
     "kana": [
-      "ぐらぐ",
       "ぐらぐら"
     ],
     "roman": [
-      "guragu",
       "guragura"
     ]
   },
   {
     "title": "お姉さん",
     "kana": [
-      "お姉さ",
+      "お姉さん",
       "おねえさん"
     ],
     "roman": [
-      "o姉sa",
+      "o姉san",
       "oneesan"
     ]
   },
@@ -74623,11 +72949,9 @@ const dictionary = [
   {
     "title": "あわや",
     "kana": [
-      "あわ",
       "あわや"
     ],
     "roman": [
-      "awa",
       "awaya"
     ]
   },
@@ -74787,11 +73111,9 @@ const dictionary = [
   {
     "title": "なので",
     "kana": [
-      "なの",
       "なので"
     ],
     "roman": [
-      "nano",
       "nanode"
     ]
   },
@@ -74845,11 +73167,9 @@ const dictionary = [
   {
     "title": "みな",
     "kana": [
-      "み",
       "みな"
     ],
     "roman": [
-      "mi",
       "mina"
     ]
   },
@@ -74910,11 +73230,9 @@ const dictionary = [
   {
     "title": "よじ",
     "kana": [
-      "よ",
       "よじ"
     ],
     "roman": [
-      "yo",
       "yoji"
     ]
   },
@@ -75033,22 +73351,18 @@ const dictionary = [
   {
     "title": "おちゃらけ",
     "kana": [
-      "おちゃら",
       "おちゃらけ"
     ],
     "roman": [
-      "ochara",
       "ocharake"
     ]
   },
   {
     "title": "ので",
     "kana": [
-      "の",
       "ので"
     ],
     "roman": [
-      "no",
       "node"
     ]
   },
@@ -75127,11 +73441,9 @@ const dictionary = [
   {
     "title": "だらし",
     "kana": [
-      "だら",
       "だらし"
     ],
     "roman": [
-      "dara",
       "darashi"
     ]
   },
@@ -75210,11 +73522,9 @@ const dictionary = [
   {
     "title": "ふう",
     "kana": [
-      "ふ",
       "ふう"
     ],
     "roman": [
-      "fu",
       "fuu"
     ]
   },
@@ -75293,11 +73603,9 @@ const dictionary = [
   {
     "title": "で",
     "kana": [
-      "",
       "で"
     ],
     "roman": [
-      "",
       "de"
     ]
   },
@@ -75412,11 +73720,11 @@ const dictionary = [
   {
     "title": "ご用",
     "kana": [
-      "ご",
+      "ご用",
       "ごよう"
     ],
     "roman": [
-      "go",
+      "go用",
       "goyou"
     ]
   },
@@ -75587,11 +73895,9 @@ const dictionary = [
   {
     "title": "が",
     "kana": [
-      "",
       "が"
     ],
     "roman": [
-      "",
       "ga"
     ]
   },
@@ -75607,22 +73913,18 @@ const dictionary = [
   {
     "title": "おか",
     "kana": [
-      "お",
       "おか"
     ],
     "roman": [
-      "o",
       "oka"
     ]
   },
   {
     "title": "るる",
     "kana": [
-      "る",
       "るる"
     ],
     "roman": [
-      "ru",
       "ruru"
     ]
   },
@@ -75737,22 +74039,18 @@ const dictionary = [
   {
     "title": "ささやか",
     "kana": [
-      "ささや",
       "ささやか"
     ],
     "roman": [
-      "sasaya",
       "sasayaka"
     ]
   },
   {
     "title": "ぽっかり",
     "kana": [
-      "ぽっか",
       "ぽっかり"
     ],
     "roman": [
-      "pokka",
       "pokkari"
     ]
   },
@@ -75768,11 +74066,9 @@ const dictionary = [
   {
     "title": "もじ",
     "kana": [
-      "も",
       "もじ"
     ],
     "roman": [
-      "mo",
       "moji"
     ]
   },
@@ -75824,11 +74120,9 @@ const dictionary = [
   {
     "title": "よっぽど",
     "kana": [
-      "よっぽ",
       "よっぽど"
     ],
     "roman": [
-      "yoppo",
       "yoppodo"
     ]
   },
@@ -75862,11 +74156,11 @@ const dictionary = [
   {
     "title": "お寺",
     "kana": [
-      "お",
+      "お寺",
       "おてら"
     ],
     "roman": [
-      "o",
+      "o寺",
       "otera"
     ]
   },
@@ -75882,33 +74176,27 @@ const dictionary = [
   {
     "title": "ん",
     "kana": [
-      "",
       "ん"
     ],
     "roman": [
-      "",
       "n"
     ]
   },
   {
     "title": "ほくほく",
     "kana": [
-      "ほくほ",
       "ほくほく"
     ],
     "roman": [
-      "hokuho",
       "hokuhoku"
     ]
   },
   {
     "title": "しております",
     "kana": [
-      "しておりま",
       "しております"
     ],
     "roman": [
-      "shiteorima",
       "shiteorimasu"
     ]
   },
@@ -76032,11 +74320,9 @@ const dictionary = [
   {
     "title": "おおきに",
     "kana": [
-      "おおき",
       "おおきに"
     ],
     "roman": [
-      "ooki",
       "ookini"
     ]
   },
@@ -76106,11 +74392,9 @@ const dictionary = [
   {
     "title": "ふわふわ",
     "kana": [
-      "ふわふ",
       "ふわふわ"
     ],
     "roman": [
-      "fuwafu",
       "fuwafuwa"
     ]
   },
@@ -76270,11 +74554,9 @@ const dictionary = [
   {
     "title": "ろうし",
     "kana": [
-      "ろう",
       "ろうし"
     ],
     "roman": [
-      "rou",
       "roushi"
     ]
   },
@@ -76299,11 +74581,9 @@ const dictionary = [
   {
     "title": "いら",
     "kana": [
-      "い",
       "いら"
     ],
     "roman": [
-      "i",
       "ira"
     ]
   },
@@ -76391,11 +74671,9 @@ const dictionary = [
   {
     "title": "いち",
     "kana": [
-      "い",
       "いち"
     ],
     "roman": [
-      "i",
       "ichi"
     ]
   },
@@ -76449,11 +74727,9 @@ const dictionary = [
   {
     "title": "なんとも",
     "kana": [
-      "なんと",
       "なんとも"
     ],
     "roman": [
-      "nanto",
       "nantomo"
     ]
   },
@@ -76680,11 +74956,11 @@ const dictionary = [
   {
     "title": "に対して",
     "kana": [
-      "に対し",
+      "に対して",
       "にたいして"
     ],
     "roman": [
-      "ni対shi",
+      "ni対shite",
       "nitaishite"
     ]
   },
@@ -76700,11 +74976,9 @@ const dictionary = [
   {
     "title": "べた",
     "kana": [
-      "べ",
       "べた"
     ],
     "roman": [
-      "be",
       "beta"
     ]
   },
@@ -76882,11 +75156,9 @@ const dictionary = [
   {
     "title": "とり",
     "kana": [
-      "と",
       "とり"
     ],
     "roman": [
-      "to",
       "tori"
     ]
   },
@@ -76976,11 +75248,9 @@ const dictionary = [
   {
     "title": "いくら",
     "kana": [
-      "いく",
       "いくら"
     ],
     "roman": [
-      "iku",
       "ikura"
     ]
   },
@@ -77032,11 +75302,9 @@ const dictionary = [
   {
     "title": "めちゃくちゃ",
     "kana": [
-      "めちゃくち",
       "めちゃくちゃ"
     ],
     "roman": [
-      "mechakuchi",
       "mechakucha"
     ]
   },
@@ -77229,11 +75497,9 @@ const dictionary = [
   {
     "title": "さすが",
     "kana": [
-      "さす",
       "さすが"
     ],
     "roman": [
-      "sasu",
       "sasuga"
     ]
   },
@@ -77276,11 +75542,9 @@ const dictionary = [
   {
     "title": "まね",
     "kana": [
-      "ま",
       "まね"
     ],
     "roman": [
-      "ma",
       "mane"
     ]
   },
@@ -77314,11 +75578,9 @@ const dictionary = [
   {
     "title": "どれ",
     "kana": [
-      "ど",
       "どれ"
     ],
     "roman": [
-      "do",
       "dore"
     ]
   },
@@ -77343,11 +75605,9 @@ const dictionary = [
   {
     "title": "そっぽ",
     "kana": [
-      "そっ",
       "そっぽ"
     ],
     "roman": [
-      "soxtsu",
       "soppo"
     ]
   },
@@ -77489,11 +75749,9 @@ const dictionary = [
   {
     "title": "さく",
     "kana": [
-      "さ",
       "さく"
     ],
     "roman": [
-      "sa",
       "saku"
     ]
   },
@@ -77709,11 +75967,9 @@ const dictionary = [
   {
     "title": "か",
     "kana": [
-      "",
       "か"
     ],
     "roman": [
-      "",
       "ka"
     ]
   },
@@ -77738,11 +75994,9 @@ const dictionary = [
   {
     "title": "とうとう",
     "kana": [
-      "とうと",
       "とうとう"
     ],
     "roman": [
-      "touto",
       "toutou"
     ]
   },
@@ -77767,11 +76021,9 @@ const dictionary = [
   {
     "title": "ばか",
     "kana": [
-      "ば",
       "ばか"
     ],
     "roman": [
-      "ba",
       "baka"
     ]
   },
@@ -77805,11 +76057,9 @@ const dictionary = [
   {
     "title": "ございません",
     "kana": [
-      "ございませ",
       "ございません"
     ],
     "roman": [
-      "gozaimase",
       "gozaimasen"
     ]
   },
@@ -77915,11 +76165,9 @@ const dictionary = [
   {
     "title": "そり",
     "kana": [
-      "そ",
       "そり"
     ],
     "roman": [
-      "so",
       "sori"
     ]
   },
@@ -78043,22 +76291,18 @@ const dictionary = [
   {
     "title": "のけ",
     "kana": [
-      "の",
       "のけ"
     ],
     "roman": [
-      "no",
       "noke"
     ]
   },
   {
     "title": "ありあり",
     "kana": [
-      "ありあ",
       "ありあり"
     ],
     "roman": [
-      "aria",
       "ariari"
     ]
   },
@@ -78229,11 +76473,9 @@ const dictionary = [
   {
     "title": "だぶだぶ",
     "kana": [
-      "だぶだ",
       "だぶだぶ"
     ],
     "roman": [
-      "dabuda",
       "dabudabu"
     ]
   },
@@ -78357,11 +76599,9 @@ const dictionary = [
   {
     "title": "ひとり",
     "kana": [
-      "ひと",
       "ひとり"
     ],
     "roman": [
-      "hito",
       "hitori"
     ]
   },
@@ -78404,11 +76644,9 @@ const dictionary = [
   {
     "title": "よみ",
     "kana": [
-      "よ",
       "よみ"
     ],
     "roman": [
-      "yo",
       "yomi"
     ]
   },
@@ -78478,11 +76716,9 @@ const dictionary = [
   {
     "title": "いっか",
     "kana": [
-      "いっ",
       "いっか"
     ],
     "roman": [
-      "ixtsu",
       "ikka"
     ]
   },
@@ -78507,11 +76743,9 @@ const dictionary = [
   {
     "title": "くすり",
     "kana": [
-      "くす",
       "くすり"
     ],
     "roman": [
-      "kusu",
       "kusuri"
     ]
   },
@@ -78563,11 +76797,9 @@ const dictionary = [
   {
     "title": "みせ",
     "kana": [
-      "み",
       "みせ"
     ],
     "roman": [
-      "mi",
       "mise"
     ]
   },
@@ -78727,11 +76959,9 @@ const dictionary = [
   {
     "title": "だんだん",
     "kana": [
-      "だんだ",
       "だんだん"
     ],
     "roman": [
-      "danda",
       "dandan"
     ]
   },
@@ -78814,11 +77044,9 @@ const dictionary = [
   {
     "title": "ちゃり",
     "kana": [
-      "ちゃ",
       "ちゃり"
     ],
     "roman": [
-      "cha",
       "chari"
     ]
   },
@@ -78998,11 +77226,9 @@ const dictionary = [
   {
     "title": "ちら",
     "kana": [
-      "ち",
       "ちら"
     ],
     "roman": [
-      "chi",
       "chira"
     ]
   },
@@ -79144,11 +77370,9 @@ const dictionary = [
   {
     "title": "ぶらり",
     "kana": [
-      "ぶら",
       "ぶらり"
     ],
     "roman": [
-      "bura",
       "burari"
     ]
   },
@@ -79263,22 +77487,18 @@ const dictionary = [
   {
     "title": "くさ",
     "kana": [
-      "く",
       "くさ"
     ],
     "roman": [
-      "ku",
       "kusa"
     ]
   },
   {
     "title": "かねてから",
     "kana": [
-      "かねてか",
       "かねてから"
     ],
     "roman": [
-      "kaneteka",
       "kanetekara"
     ]
   },
@@ -79618,11 +77838,9 @@ const dictionary = [
   {
     "title": "くっつけ",
     "kana": [
-      "くっつ",
       "くっつけ"
     ],
     "roman": [
-      "kuttsu",
       "kuttsuke"
     ]
   },
@@ -79656,11 +77874,9 @@ const dictionary = [
   {
     "title": "あわよくば",
     "kana": [
-      "あわよく",
       "あわよくば"
     ],
     "roman": [
-      "awayoku",
       "awayokuba"
     ]
   },
@@ -79919,11 +78135,9 @@ const dictionary = [
   {
     "title": "ちらほら",
     "kana": [
-      "ちらほ",
       "ちらほら"
     ],
     "roman": [
-      "chiraho",
       "chirahora"
     ]
   },
@@ -79966,11 +78180,9 @@ const dictionary = [
   {
     "title": "あんまり",
     "kana": [
-      "あんま",
       "あんまり"
     ],
     "roman": [
-      "anma",
       "anmari"
     ]
   },
@@ -80193,11 +78405,9 @@ const dictionary = [
   {
     "title": "やけど",
     "kana": [
-      "やけ",
       "やけど"
     ],
     "roman": [
-      "yake",
       "yakedo"
     ]
   },
@@ -80294,11 +78504,9 @@ const dictionary = [
   {
     "title": "とどま",
     "kana": [
-      "とど",
       "とどま"
     ],
     "roman": [
-      "todo",
       "todoma"
     ]
   },
@@ -80377,11 +78585,9 @@ const dictionary = [
   {
     "title": "けた",
     "kana": [
-      "け",
       "けた"
     ],
     "roman": [
-      "ke",
       "keta"
     ]
   },
@@ -80397,11 +78603,9 @@ const dictionary = [
   {
     "title": "どことなく",
     "kana": [
-      "どことな",
       "どことなく"
     ],
     "roman": [
-      "dokotona",
       "dokotonaku"
     ]
   },
@@ -80426,11 +78630,9 @@ const dictionary = [
   {
     "title": "やくざ",
     "kana": [
-      "やく",
       "やくざ"
     ],
     "roman": [
-      "yaku",
       "yakuza"
     ]
   },
@@ -80482,11 +78684,9 @@ const dictionary = [
   {
     "title": "むなし",
     "kana": [
-      "むな",
       "むなし"
     ],
     "roman": [
-      "muna",
       "munashi"
     ]
   },
@@ -80520,11 +78720,9 @@ const dictionary = [
   {
     "title": "れんく",
     "kana": [
-      "れん",
       "れんく"
     ],
     "roman": [
-      "ren",
       "renku"
     ]
   },
@@ -80594,11 +78792,9 @@ const dictionary = [
   {
     "title": "あどけな",
     "kana": [
-      "あどけ",
       "あどけな"
     ],
     "roman": [
-      "adoke",
       "adokena"
     ]
   },
@@ -80616,11 +78812,9 @@ const dictionary = [
   {
     "title": "いえ",
     "kana": [
-      "い",
       "いえ"
     ],
     "roman": [
-      "i",
       "ie"
     ]
   },
@@ -80676,11 +78870,11 @@ const dictionary = [
   {
     "title": "つま先立",
     "kana": [
-      "つま先",
+      "つま先立",
       "つまさきだ"
     ],
     "roman": [
-      "tsuma先",
+      "tsuma先立",
       "tsumasakida"
     ]
   },
@@ -80732,22 +78926,18 @@ const dictionary = [
   {
     "title": "きわめて",
     "kana": [
-      "きわめ",
       "きわめて"
     ],
     "roman": [
-      "kiwame",
       "kiwamete"
     ]
   },
   {
     "title": "なだめ",
     "kana": [
-      "なだ",
       "なだめ"
     ],
     "roman": [
-      "nada",
       "nadame"
     ]
   },
@@ -80840,11 +79030,9 @@ const dictionary = [
   {
     "title": "あな",
     "kana": [
-      "あ",
       "あな"
     ],
     "roman": [
-      "a",
       "ana"
     ]
   },
@@ -80869,11 +79057,9 @@ const dictionary = [
   {
     "title": "いません",
     "kana": [
-      "いませ",
       "いません"
     ],
     "roman": [
-      "imase",
       "imasen"
     ]
   },
@@ -80889,22 +79075,18 @@ const dictionary = [
   {
     "title": "むか",
     "kana": [
-      "む",
       "むか"
     ],
     "roman": [
-      "mu",
       "muka"
     ]
   },
   {
     "title": "すらり",
     "kana": [
-      "すら",
       "すらり"
     ],
     "roman": [
-      "sura",
       "surari"
     ]
   },
@@ -80947,11 +79129,9 @@ const dictionary = [
   {
     "title": "おのずと",
     "kana": [
-      "おのず",
       "おのずと"
     ],
     "roman": [
-      "onozu",
       "onozuto"
     ]
   },
@@ -81095,11 +79275,9 @@ const dictionary = [
   {
     "title": "い",
     "kana": [
-      "",
       "い"
     ],
     "roman": [
-      "",
       "i"
     ]
   },
@@ -81160,11 +79338,9 @@ const dictionary = [
   {
     "title": "あに",
     "kana": [
-      "あ",
       "あに"
     ],
     "roman": [
-      "a",
       "ani"
     ]
   },
@@ -81182,22 +79358,18 @@ const dictionary = [
   {
     "title": "なけなし",
     "kana": [
-      "なけな",
       "なけなし"
     ],
     "roman": [
-      "nakena",
       "nakenashi"
     ]
   },
   {
     "title": "ぜん",
     "kana": [
-      "ぜ",
       "ぜん"
     ],
     "roman": [
-      "ze",
       "zen"
     ]
   },
@@ -81285,22 +79457,18 @@ const dictionary = [
   {
     "title": "まわ",
     "kana": [
-      "ま",
       "まわ"
     ],
     "roman": [
-      "ma",
       "mawa"
     ]
   },
   {
     "title": "らく",
     "kana": [
-      "ら",
       "らく"
     ],
     "roman": [
-      "ra",
       "raku"
     ]
   },
@@ -81433,11 +79601,9 @@ const dictionary = [
   {
     "title": "げんなり",
     "kana": [
-      "げんな",
       "げんなり"
     ],
     "roman": [
-      "genna",
       "gennari"
     ]
   },
@@ -81498,11 +79664,9 @@ const dictionary = [
   {
     "title": "れい",
     "kana": [
-      "れ",
       "れい"
     ],
     "roman": [
-      "re",
       "rei"
     ]
   },
@@ -81520,11 +79684,9 @@ const dictionary = [
   {
     "title": "おっき",
     "kana": [
-      "おっ",
       "おっき"
     ],
     "roman": [
-      "oxtsu",
       "okki"
     ]
   },
@@ -81720,11 +79882,9 @@ const dictionary = [
   {
     "title": "ね",
     "kana": [
-      "",
       "ね"
     ],
     "roman": [
-      "",
       "ne"
     ]
   },
@@ -81884,11 +80044,9 @@ const dictionary = [
   {
     "title": "まあだ",
     "kana": [
-      "まあ",
       "まあだ"
     ],
     "roman": [
-      "maa",
       "maada"
     ]
   },
@@ -81960,11 +80118,9 @@ const dictionary = [
   {
     "title": "ゆず",
     "kana": [
-      "ゆ",
       "ゆず"
     ],
     "roman": [
-      "yu",
       "yuzu"
     ]
   },
@@ -82083,11 +80239,9 @@ const dictionary = [
   {
     "title": "ばたばた",
     "kana": [
-      "ばたば",
       "ばたばた"
     ],
     "roman": [
-      "bataba",
       "batabata"
     ]
   },
@@ -82121,11 +80275,9 @@ const dictionary = [
   {
     "title": "こだわ",
     "kana": [
-      "こだ",
       "こだわ"
     ],
     "roman": [
-      "koda",
       "kodawa"
     ]
   },
@@ -82159,11 +80311,9 @@ const dictionary = [
   {
     "title": "おめでた",
     "kana": [
-      "おめで",
       "おめでた"
     ],
     "roman": [
-      "omede",
       "omedeta"
     ]
   },
@@ -82251,11 +80401,11 @@ const dictionary = [
   {
     "title": "よじ登",
     "kana": [
-      "よじ",
+      "よじ登",
       "よじのぼ"
     ],
     "roman": [
-      "yoji",
+      "yoji登",
       "yojinobo"
     ]
   },
@@ -82334,11 +80484,9 @@ const dictionary = [
   {
     "title": "そっけ",
     "kana": [
-      "そっ",
       "そっけ"
     ],
     "roman": [
-      "soxtsu",
       "sokke"
     ]
   },
@@ -82372,11 +80520,9 @@ const dictionary = [
   {
     "title": "ばら",
     "kana": [
-      "ば",
       "ばら"
     ],
     "roman": [
-      "ba",
       "bara"
     ]
   },
@@ -82446,11 +80592,9 @@ const dictionary = [
   {
     "title": "もう",
     "kana": [
-      "も",
       "もう"
     ],
     "roman": [
-      "mo",
       "mou"
     ]
   },
@@ -82484,11 +80628,9 @@ const dictionary = [
   {
     "title": "とことん",
     "kana": [
-      "とこと",
       "とことん"
     ],
     "roman": [
-      "tokoto",
       "tokoton"
     ]
   },
@@ -82567,11 +80709,9 @@ const dictionary = [
   {
     "title": "ゆえ",
     "kana": [
-      "ゆ",
       "ゆえ"
     ],
     "roman": [
-      "yu",
       "yue"
     ]
   },
@@ -82614,11 +80754,9 @@ const dictionary = [
   {
     "title": "とっさ",
     "kana": [
-      "とっ",
       "とっさ"
     ],
     "roman": [
-      "toxtsu",
       "tossa"
     ]
   },
@@ -82634,11 +80772,9 @@ const dictionary = [
   {
     "title": "す",
     "kana": [
-      "",
       "す"
     ],
     "roman": [
-      "",
       "su"
     ]
   },
@@ -82762,11 +80898,11 @@ const dictionary = [
   {
     "title": "お気",
     "kana": [
-      "お",
+      "お気",
       "おき"
     ],
     "roman": [
-      "o",
+      "o気",
       "oki"
     ]
   },
@@ -82802,11 +80938,9 @@ const dictionary = [
   {
     "title": "かる",
     "kana": [
-      "か",
       "かる"
     ],
     "roman": [
-      "ka",
       "karu"
     ]
   },
@@ -82849,11 +80983,9 @@ const dictionary = [
   {
     "title": "はぐらか",
     "kana": [
-      "はぐら",
       "はぐらか"
     ],
     "roman": [
-      "hagura",
       "haguraka"
     ]
   },
@@ -82905,11 +81037,9 @@ const dictionary = [
   {
     "title": "ごと",
     "kana": [
-      "ご",
       "ごと"
     ],
     "roman": [
-      "go",
       "goto"
     ]
   },
@@ -83105,11 +81235,9 @@ const dictionary = [
   {
     "title": "のぼ",
     "kana": [
-      "の",
       "のぼ"
     ],
     "roman": [
-      "no",
       "nobo"
     ]
   },
@@ -83269,22 +81397,18 @@ const dictionary = [
   {
     "title": "そこはかとな",
     "kana": [
-      "そこはかと",
       "そこはかとな"
     ],
     "roman": [
-      "sokohakato",
       "sokohakatona"
     ]
   },
   {
     "title": "ございました",
     "kana": [
-      "ございまし",
       "ございました"
     ],
     "roman": [
-      "gozaimashi",
       "gozaimashita"
     ]
   },
@@ -83336,22 +81460,18 @@ const dictionary = [
   {
     "title": "ないしょ",
     "kana": [
-      "ないし",
       "ないしょ"
     ],
     "roman": [
-      "naishi",
       "naisho"
     ]
   },
   {
     "title": "かえ",
     "kana": [
-      "か",
       "かえ"
     ],
     "roman": [
-      "ka",
       "kae"
     ]
   },
@@ -83396,11 +81516,9 @@ const dictionary = [
   {
     "title": "せっかく",
     "kana": [
-      "せっか",
       "せっかく"
     ],
     "roman": [
-      "sekka",
       "sekkaku"
     ]
   },
@@ -83454,11 +81572,9 @@ const dictionary = [
   {
     "title": "おそれおお",
     "kana": [
-      "おそれお",
       "おそれおお"
     ],
     "roman": [
-      "osoreo",
       "osoreoo"
     ]
   },
@@ -83618,11 +81734,9 @@ const dictionary = [
   {
     "title": "てんやわんや",
     "kana": [
-      "てんやわん",
       "てんやわんや"
     ],
     "roman": [
-      "tenyawan",
       "tenyawanya"
     ]
   },
@@ -83926,11 +82040,9 @@ const dictionary = [
   {
     "title": "うわ",
     "kana": [
-      "う",
       "うわ"
     ],
     "roman": [
-      "u",
       "uwa"
     ]
   },
@@ -83964,11 +82076,9 @@ const dictionary = [
   {
     "title": "あん",
     "kana": [
-      "あ",
       "あん"
     ],
     "roman": [
-      "a",
       "an"
     ]
   },
@@ -83984,11 +82094,9 @@ const dictionary = [
   {
     "title": "うさ",
     "kana": [
-      "う",
       "うさ"
     ],
     "roman": [
-      "u",
       "usa"
     ]
   },
@@ -84059,11 +82167,9 @@ const dictionary = [
   {
     "title": "はさみ",
     "kana": [
-      "はさ",
       "はさみ"
     ],
     "roman": [
-      "hasa",
       "hasami"
     ]
   },
@@ -84124,20 +82230,20 @@ const dictionary = [
   {
     "title": "こられ*",
     "kana": [
+      "こられ*",
       "こられ"
     ],
     "roman": [
+      "korare*",
       "korare"
     ]
   },
   {
     "title": "がかり",
     "kana": [
-      "がか",
       "がかり"
     ],
     "roman": [
-      "gaka",
       "gakari"
     ]
   },
@@ -84191,11 +82297,9 @@ const dictionary = [
   {
     "title": "がん",
     "kana": [
-      "が",
       "がん"
     ],
     "roman": [
-      "ga",
       "gan"
     ]
   },
@@ -84211,11 +82315,9 @@ const dictionary = [
   {
     "title": "あが",
     "kana": [
-      "あ",
       "あが"
     ],
     "roman": [
-      "a",
       "aga"
     ]
   },
@@ -84267,11 +82369,9 @@ const dictionary = [
   {
     "title": "ふつふつ",
     "kana": [
-      "ふつふ",
       "ふつふつ"
     ],
     "roman": [
-      "futsufu",
       "futsufutsu"
     ]
   },
@@ -84287,11 +82387,11 @@ const dictionary = [
   {
     "title": "ご無沙汰",
     "kana": [
-      "ご無沙",
+      "ご無沙汰",
       "ごぶさた"
     ],
     "roman": [
-      "go無沙",
+      "go無沙汰",
       "gobusata"
     ]
   },
@@ -84307,11 +82407,9 @@ const dictionary = [
   {
     "title": "なさい",
     "kana": [
-      "なさ",
       "なさい"
     ],
     "roman": [
-      "nasa",
       "nasai"
     ]
   },
@@ -84390,11 +82488,9 @@ const dictionary = [
   {
     "title": "はきだ",
     "kana": [
-      "はき",
       "はきだ"
     ],
     "roman": [
-      "haki",
       "hakida"
     ]
   },
@@ -84482,11 +82578,9 @@ const dictionary = [
   {
     "title": "つと",
     "kana": [
-      "つ",
       "つと"
     ],
     "roman": [
-      "tsu",
       "tsuto"
     ]
   },
@@ -84592,11 +82686,9 @@ const dictionary = [
   {
     "title": "つづけ",
     "kana": [
-      "つづ",
       "つづけ"
     ],
     "roman": [
-      "tsudu",
       "tsuduke"
     ]
   },
@@ -84711,11 +82803,9 @@ const dictionary = [
   {
     "title": "しています",
     "kana": [
-      "していま",
       "しています"
     ],
     "roman": [
-      "shiteima",
       "shiteimasu"
     ]
   },
@@ -84776,11 +82866,9 @@ const dictionary = [
   {
     "title": "ひっきりなしに",
     "kana": [
-      "ひっきりなし",
       "ひっきりなしに"
     ],
     "roman": [
-      "hikkirinashi",
       "hikkirinashini"
     ]
   },
@@ -84814,11 +82902,9 @@ const dictionary = [
   {
     "title": "あくび",
     "kana": [
-      "あく",
       "あくび"
     ],
     "roman": [
-      "aku",
       "akubi"
     ]
   },
@@ -84852,22 +82938,18 @@ const dictionary = [
   {
     "title": "こめかみ",
     "kana": [
-      "こめか",
       "こめかみ"
     ],
     "roman": [
-      "komeka",
       "komekami"
     ]
   },
   {
     "title": "まず",
     "kana": [
-      "ま",
       "まず"
     ],
     "roman": [
-      "ma",
       "mazu"
     ]
   },
@@ -85096,11 +83178,9 @@ const dictionary = [
   {
     "title": "かね",
     "kana": [
-      "か",
       "かね"
     ],
     "roman": [
-      "ka",
       "kane"
     ]
   },
@@ -85145,11 +83225,9 @@ const dictionary = [
   {
     "title": "いわゆる",
     "kana": [
-      "いわゆ",
       "いわゆる"
     ],
     "roman": [
-      "iwayu",
       "iwayuru"
     ]
   },
@@ -85165,11 +83243,9 @@ const dictionary = [
   {
     "title": "のように",
     "kana": [
-      "のよう",
       "のように"
     ],
     "roman": [
-      "noyou",
       "noyouni"
     ]
   },
@@ -85286,11 +83362,9 @@ const dictionary = [
   {
     "title": "ちく",
     "kana": [
-      "ち",
       "ちく"
     ],
     "roman": [
-      "chi",
       "chiku"
     ]
   },
@@ -85686,11 +83760,9 @@ const dictionary = [
   {
     "title": "こころ",
     "kana": [
-      "ここ",
       "こころ"
     ],
     "roman": [
-      "koko",
       "kokoro"
     ]
   },
@@ -85870,22 +83942,18 @@ const dictionary = [
   {
     "title": "そのもの",
     "kana": [
-      "そのも",
       "そのもの"
     ],
     "roman": [
-      "sonomo",
       "sonomono"
     ]
   },
   {
     "title": "みずみずし",
     "kana": [
-      "みずみず",
       "みずみずし"
     ],
     "roman": [
-      "mizumizu",
       "mizumizushi"
     ]
   },
@@ -86065,11 +84133,9 @@ const dictionary = [
   {
     "title": "もりもり",
     "kana": [
-      "もりも",
       "もりもり"
     ],
     "roman": [
-      "morimo",
       "morimori"
     ]
   },
@@ -86130,11 +84196,9 @@ const dictionary = [
   {
     "title": "こっち",
     "kana": [
-      "こっ",
       "こっち"
     ],
     "roman": [
-      "koxtsu",
       "kotchi"
     ]
   },
@@ -86186,11 +84250,9 @@ const dictionary = [
   {
     "title": "ばっさり",
     "kana": [
-      "ばっさ",
       "ばっさり"
     ],
     "roman": [
-      "bassa",
       "bassari"
     ]
   },
@@ -86433,11 +84495,9 @@ const dictionary = [
   {
     "title": "せわしな",
     "kana": [
-      "せわし",
       "せわしな"
     ],
     "roman": [
-      "sewashi",
       "sewashina"
     ]
   },
@@ -86507,11 +84567,9 @@ const dictionary = [
   {
     "title": "ぶっきらぼう",
     "kana": [
-      "ぶっきらぼ",
       "ぶっきらぼう"
     ],
     "roman": [
-      "bukkirabo",
       "bukkirabou"
     ]
   },
@@ -86612,11 +84670,9 @@ const dictionary = [
   {
     "title": "たじろ",
     "kana": [
-      "たじ",
       "たじろ"
     ],
     "roman": [
-      "taji",
       "tajiro"
     ]
   },
@@ -86704,11 +84760,9 @@ const dictionary = [
   {
     "title": "まとわりつ",
     "kana": [
-      "まとわり",
       "まとわりつ"
     ],
     "roman": [
-      "matowari",
       "matowaritsu"
     ]
   },
@@ -86742,11 +84796,9 @@ const dictionary = [
   {
     "title": "はしゃ",
     "kana": [
-      "はし",
       "はしゃ"
     ],
     "roman": [
-      "hashi",
       "hasha"
     ]
   },
@@ -86780,11 +84832,11 @@ const dictionary = [
   {
     "title": "お先",
     "kana": [
-      "お",
+      "お先",
       "おさき"
     ],
     "roman": [
-      "o",
+      "o先",
       "osaki"
     ]
   },
@@ -86827,11 +84879,9 @@ const dictionary = [
   {
     "title": "しめ",
     "kana": [
-      "し",
       "しめ"
     ],
     "roman": [
-      "shi",
       "shime"
     ]
   },
@@ -86856,11 +84906,9 @@ const dictionary = [
   {
     "title": "まとめ",
     "kana": [
-      "まと",
       "まとめ"
     ],
     "roman": [
-      "mato",
       "matome"
     ]
   },
@@ -86939,11 +84987,9 @@ const dictionary = [
   {
     "title": "こよな",
     "kana": [
-      "こよ",
       "こよな"
     ],
     "roman": [
-      "koyo",
       "koyona"
     ]
   },
@@ -87013,11 +85059,9 @@ const dictionary = [
   {
     "title": "かならずしも",
     "kana": [
-      "かならずし",
       "かならずしも"
     ],
     "roman": [
-      "kanarazushi",
       "kanarazushimo"
     ]
   },
@@ -87197,11 +85241,11 @@ const dictionary = [
   {
     "title": "お客",
     "kana": [
-      "お",
+      "お客",
       "おきゃく"
     ],
     "roman": [
-      "o",
+      "o客",
       "okyaku"
     ]
   },
@@ -87217,11 +85261,9 @@ const dictionary = [
   {
     "title": "ことごとく",
     "kana": [
-      "ことごと",
       "ことごとく"
     ],
     "roman": [
-      "kotogoto",
       "kotogotoku"
     ]
   },
@@ -87246,11 +85288,11 @@ const dictionary = [
   {
     "title": "お気に入り",
     "kana": [
-      "お気に入",
+      "お気に入り",
       "おきにいり"
     ],
     "roman": [
-      "o気ni入",
+      "o気ni入ri",
       "okiniiri"
     ]
   },
@@ -87488,11 +85530,9 @@ const dictionary = [
   {
     "title": "いろんな",
     "kana": [
-      "いろん",
       "いろんな"
     ],
     "roman": [
-      "iron",
       "ironna"
     ]
   },
@@ -87654,11 +85694,9 @@ const dictionary = [
   {
     "title": "またも",
     "kana": [
-      "また",
       "またも"
     ],
     "roman": [
-      "mata",
       "matamo"
     ]
   },
@@ -87883,11 +85921,9 @@ const dictionary = [
   {
     "title": "やらか",
     "kana": [
-      "やら",
       "やらか"
     ],
     "roman": [
-      "yara",
       "yaraka"
     ]
   },
@@ -87993,11 +86029,11 @@ const dictionary = [
   {
     "title": "お花",
     "kana": [
-      "お",
+      "お花",
       "おはな"
     ],
     "roman": [
-      "o",
+      "o花",
       "ohana"
     ]
   },
@@ -88022,11 +86058,9 @@ const dictionary = [
   {
     "title": "いつのまにか",
     "kana": [
-      "いつのまに",
       "いつのまにか"
     ],
     "roman": [
-      "itsunomani",
       "itsunomanika"
     ]
   },
@@ -88051,11 +86085,9 @@ const dictionary = [
   {
     "title": "しかして",
     "kana": [
-      "しかし",
       "しかして"
     ],
     "roman": [
-      "shikashi",
       "shikashite"
     ]
   },
@@ -88071,11 +86103,11 @@ const dictionary = [
   {
     "title": "お願い",
     "kana": [
-      "お願",
+      "お願い",
       "おねがい"
     ],
     "roman": [
-      "o願",
+      "o願i",
       "onegai"
     ]
   },
@@ -88118,11 +86150,9 @@ const dictionary = [
   {
     "title": "こみあげ",
     "kana": [
-      "こみあ",
       "こみあげ"
     ],
     "roman": [
-      "komia",
       "komiage"
     ]
   },
@@ -88675,11 +86705,9 @@ const dictionary = [
   {
     "title": "ぱくぱく",
     "kana": [
-      "ぱくぱ",
       "ぱくぱく"
     ],
     "roman": [
-      "pakupa",
       "pakupaku"
     ]
   },
@@ -88704,11 +86732,9 @@ const dictionary = [
   {
     "title": "あえ",
     "kana": [
-      "あ",
       "あえ"
     ],
     "roman": [
-      "a",
       "ae"
     ]
   },
@@ -88879,33 +86905,27 @@ const dictionary = [
   {
     "title": "さほど",
     "kana": [
-      "さほ",
       "さほど"
     ],
     "roman": [
-      "saho",
       "sahodo"
     ]
   },
   {
     "title": "びび",
     "kana": [
-      "び",
       "びび"
     ],
     "roman": [
-      "bi",
       "bibi"
     ]
   },
   {
     "title": "に",
     "kana": [
-      "",
       "に"
     ],
     "roman": [
-      "",
       "ni"
     ]
   },
@@ -89094,11 +87114,9 @@ const dictionary = [
   {
     "title": "ぷくぷく",
     "kana": [
-      "ぷくぷ",
       "ぷくぷく"
     ],
     "roman": [
-      "pukupu",
       "pukupuku"
     ]
   },
@@ -89145,11 +87163,9 @@ const dictionary = [
   {
     "title": "おいで",
     "kana": [
-      "おい",
       "おいで"
     ],
     "roman": [
-      "oi",
       "oide"
     ]
   },
@@ -89237,11 +87253,9 @@ const dictionary = [
   {
     "title": "ぱっちり",
     "kana": [
-      "ぱっち",
       "ぱっちり"
     ],
     "roman": [
-      "patchi",
       "patchiri"
     ]
   },
@@ -89320,22 +87334,18 @@ const dictionary = [
   {
     "title": "またが",
     "kana": [
-      "また",
       "またが"
     ],
     "roman": [
-      "mata",
       "mataga"
     ]
   },
   {
     "title": "ゆかり",
     "kana": [
-      "ゆか",
       "ゆかり"
     ],
     "roman": [
-      "yuka",
       "yukari"
     ]
   },
@@ -89387,11 +87397,9 @@ const dictionary = [
   {
     "title": "おろ",
     "kana": [
-      "お",
       "おろ"
     ],
     "roman": [
-      "o",
       "oro"
     ]
   },
@@ -89497,11 +87505,9 @@ const dictionary = [
   {
     "title": "ぶるぶる",
     "kana": [
-      "ぶるぶ",
       "ぶるぶる"
     ],
     "roman": [
-      "burubu",
       "buruburu"
     ]
   },
@@ -89598,11 +87604,9 @@ const dictionary = [
   {
     "title": "いっせい",
     "kana": [
-      "いっせ",
       "いっせい"
     ],
     "roman": [
-      "isse",
       "issei"
     ]
   },
@@ -89710,22 +87714,20 @@ const dictionary = [
   {
     "title": "いまさら",
     "kana": [
-      "いまさ",
       "いまさら"
     ],
     "roman": [
-      "imasa",
       "imasara"
     ]
   },
   {
     "title": "のけ反",
     "kana": [
-      "のけ",
+      "のけ反",
       "のけぞ"
     ],
     "roman": [
-      "noke",
+      "noke反",
       "nokezo"
     ]
   },
@@ -89759,11 +87761,9 @@ const dictionary = [
   {
     "title": "ざわつ",
     "kana": [
-      "ざわ",
       "ざわつ"
     ],
     "roman": [
-      "zawa",
       "zawatsu"
     ]
   },
@@ -89779,11 +87779,9 @@ const dictionary = [
   {
     "title": "ついに",
     "kana": [
-      "つい",
       "ついに"
     ],
     "roman": [
-      "tsui",
       "tsuini"
     ]
   },
@@ -89817,11 +87815,9 @@ const dictionary = [
   {
     "title": "つぎつぎ",
     "kana": [
-      "つぎつ",
       "つぎつぎ"
     ],
     "roman": [
-      "tsugitsu",
       "tsugitsugi"
     ]
   },
@@ -89837,11 +87833,9 @@ const dictionary = [
   {
     "title": "たしか",
     "kana": [
-      "たし",
       "たしか"
     ],
     "roman": [
-      "tashi",
       "tashika"
     ]
   },
@@ -89940,11 +87934,9 @@ const dictionary = [
   {
     "title": "おじいちゃん",
     "kana": [
-      "おじいちゃ",
       "おじいちゃん"
     ],
     "roman": [
-      "ojiicha",
       "ojiichan"
     ]
   },
@@ -89987,11 +87979,9 @@ const dictionary = [
   {
     "title": "あからさま",
     "kana": [
-      "あからさ",
       "あからさま"
     ],
     "roman": [
-      "akarasa",
       "akarasama"
     ]
   },
@@ -90025,11 +88015,9 @@ const dictionary = [
   {
     "title": "ちな",
     "kana": [
-      "ち",
       "ちな"
     ],
     "roman": [
-      "chi",
       "china"
     ]
   },
@@ -90119,11 +88107,11 @@ const dictionary = [
   {
     "title": "やり直",
     "kana": [
-      "やり",
+      "やり直",
       "やりなお"
     ],
     "roman": [
-      "yari",
+      "yari直",
       "yarinao"
     ]
   },
@@ -90139,11 +88127,9 @@ const dictionary = [
   {
     "title": "ちらちら",
     "kana": [
-      "ちらち",
       "ちらちら"
     ],
     "roman": [
-      "chirachi",
       "chirachira"
     ]
   },
@@ -90177,11 +88163,9 @@ const dictionary = [
   {
     "title": "するため",
     "kana": [
-      "するた",
       "するため"
     ],
     "roman": [
-      "suruta",
       "surutame"
     ]
   },
@@ -90206,11 +88190,9 @@ const dictionary = [
   {
     "title": "なんだか",
     "kana": [
-      "なんだ",
       "なんだか"
     ],
     "roman": [
-      "nanda",
       "nandaka"
     ]
   },
@@ -90226,11 +88208,9 @@ const dictionary = [
   {
     "title": "きびし",
     "kana": [
-      "きび",
       "きびし"
     ],
     "roman": [
-      "kibi",
       "kibishi"
     ]
   },
@@ -90264,11 +88244,9 @@ const dictionary = [
   {
     "title": "ぶつくさ",
     "kana": [
-      "ぶつく",
       "ぶつくさ"
     ],
     "roman": [
-      "butsuku",
       "butsukusa"
     ]
   },
@@ -90338,11 +88316,11 @@ const dictionary = [
   {
     "title": "お揃いで",
     "kana": [
-      "お揃い",
+      "お揃いで",
       "おそろいで"
     ],
     "roman": [
-      "o揃i",
+      "o揃ide",
       "osoroide"
     ]
   },
@@ -90439,11 +88417,9 @@ const dictionary = [
   {
     "title": "さら",
     "kana": [
-      "さ",
       "さら"
     ],
     "roman": [
-      "sa",
       "sara"
     ]
   },
@@ -90524,11 +88500,9 @@ const dictionary = [
   {
     "title": "はか",
     "kana": [
-      "は",
       "はか"
     ],
     "roman": [
-      "ha",
       "haka"
     ]
   },
@@ -90609,22 +88583,18 @@ const dictionary = [
   {
     "title": "ひそめ",
     "kana": [
-      "ひそ",
       "ひそめ"
     ],
     "roman": [
-      "hiso",
       "hisome"
     ]
   },
   {
     "title": "こらえ",
     "kana": [
-      "こら",
       "こらえ"
     ],
     "roman": [
-      "kora",
       "korae"
     ]
   },
@@ -90759,11 +88729,9 @@ const dictionary = [
   {
     "title": "しょっぱ",
     "kana": [
-      "しょっ",
       "しょっぱ"
     ],
     "roman": [
-      "shoxtsu",
       "shoppa"
     ]
   },
@@ -90828,11 +88796,11 @@ const dictionary = [
   {
     "title": "に対する",
     "kana": [
-      "に対す",
+      "に対する",
       "にたいする"
     ],
     "roman": [
-      "ni対su",
+      "ni対suru",
       "nitaisuru"
     ]
   },
@@ -90848,11 +88816,9 @@ const dictionary = [
   {
     "title": "くく",
     "kana": [
-      "く",
       "くく"
     ],
     "roman": [
-      "ku",
       "kuku"
     ]
   },
@@ -91084,11 +89050,9 @@ const dictionary = [
   {
     "title": "いそいそ",
     "kana": [
-      "いそい",
       "いそいそ"
     ],
     "roman": [
-      "isoi",
       "isoiso"
     ]
   },
@@ -91149,11 +89113,9 @@ const dictionary = [
   {
     "title": "ぜんぜん",
     "kana": [
-      "ぜんぜ",
       "ぜんぜん"
     ],
     "roman": [
-      "zenze",
       "zenzen"
     ]
   },
@@ -91344,11 +89306,9 @@ const dictionary = [
   {
     "title": "うさぎ",
     "kana": [
-      "うさ",
       "うさぎ"
     ],
     "roman": [
-      "usa",
       "usagi"
     ]
   },
@@ -91454,11 +89414,9 @@ const dictionary = [
   {
     "title": "しぶしぶ",
     "kana": [
-      "しぶし",
       "しぶしぶ"
     ],
     "roman": [
-      "shibushi",
       "shibushibu"
     ]
   },
@@ -91521,11 +89479,9 @@ const dictionary = [
   {
     "title": "っぷり",
     "kana": [
-      "っぷ",
       "っぷり"
     ],
     "roman": [
-      "ppu",
       "ppuri"
     ]
   },
@@ -91590,11 +89546,9 @@ const dictionary = [
   {
     "title": "ろくに",
     "kana": [
-      "ろく",
       "ろくに"
     ],
     "roman": [
-      "roku",
       "rokuni"
     ]
   },
@@ -91718,11 +89672,9 @@ const dictionary = [
   {
     "title": "くれ",
     "kana": [
-      "く",
       "くれ"
     ],
     "roman": [
-      "ku",
       "kure"
     ]
   },
@@ -91783,22 +89735,18 @@ const dictionary = [
   {
     "title": "ほっぺ",
     "kana": [
-      "ほっ",
       "ほっぺ"
     ],
     "roman": [
-      "hoxtsu",
       "hoppe"
     ]
   },
   {
     "title": "とは",
     "kana": [
-      "と",
       "とは"
     ],
     "roman": [
-      "to",
       "toha"
     ]
   },
@@ -91888,11 +89836,9 @@ const dictionary = [
   {
     "title": "わがまま",
     "kana": [
-      "わがま",
       "わがまま"
     ],
     "roman": [
-      "wagama",
       "wagamama"
     ]
   },
@@ -91971,11 +89917,9 @@ const dictionary = [
   {
     "title": "ふさわし",
     "kana": [
-      "ふさわ",
       "ふさわし"
     ],
     "roman": [
-      "fusawa",
       "fusawashi"
     ]
   },
@@ -92027,11 +89971,9 @@ const dictionary = [
   {
     "title": "でしょう",
     "kana": [
-      "でしょ",
       "でしょう"
     ],
     "roman": [
-      "desho",
       "deshou"
     ]
   },
@@ -92056,22 +89998,18 @@ const dictionary = [
   {
     "title": "いつしか",
     "kana": [
-      "いつし",
       "いつしか"
     ],
     "roman": [
-      "itsushi",
       "itsushika"
     ]
   },
   {
     "title": "ください",
     "kana": [
-      "くださ",
       "ください"
     ],
     "roman": [
-      "kudasa",
       "kudasai"
     ]
   },
@@ -92096,11 +90034,9 @@ const dictionary = [
   {
     "title": "いちはやく",
     "kana": [
-      "いちはや",
       "いちはやく"
     ],
     "roman": [
-      "ichihaya",
       "ichihayaku"
     ]
   },
@@ -92197,11 +90133,9 @@ const dictionary = [
   {
     "title": "はんなり",
     "kana": [
-      "はんな",
       "はんなり"
     ],
     "roman": [
-      "hanna",
       "hannari"
     ]
   },
@@ -92226,11 +90160,9 @@ const dictionary = [
   {
     "title": "も",
     "kana": [
-      "",
       "も"
     ],
     "roman": [
-      "",
       "mo"
     ]
   },
@@ -92282,11 +90214,9 @@ const dictionary = [
   {
     "title": "あんなに",
     "kana": [
-      "あんな",
       "あんなに"
     ],
     "roman": [
-      "anna",
       "annani"
     ]
   },
@@ -92338,11 +90268,9 @@ const dictionary = [
   {
     "title": "ぞろぞろ",
     "kana": [
-      "ぞろぞ",
       "ぞろぞろ"
     ],
     "roman": [
-      "zorozo",
       "zorozoro"
     ]
   },
@@ -92376,11 +90304,9 @@ const dictionary = [
   {
     "title": "ただ",
     "kana": [
-      "た",
       "ただ"
     ],
     "roman": [
-      "ta",
       "tada"
     ]
   },
@@ -92396,11 +90322,9 @@ const dictionary = [
   {
     "title": "ぼけ",
     "kana": [
-      "ぼ",
       "ぼけ"
     ],
     "roman": [
-      "bo",
       "boke"
     ]
   },
@@ -92425,22 +90349,18 @@ const dictionary = [
   {
     "title": "ぐるみ",
     "kana": [
-      "ぐる",
       "ぐるみ"
     ],
     "roman": [
-      "guru",
       "gurumi"
     ]
   },
   {
     "title": "そのうえ",
     "kana": [
-      "そのう",
       "そのうえ"
     ],
     "roman": [
-      "sonou",
       "sonoue"
     ]
   },
@@ -92620,11 +90540,9 @@ const dictionary = [
   {
     "title": "ちゃっかり",
     "kana": [
-      "ちゃっか",
       "ちゃっかり"
     ],
     "roman": [
-      "chakka",
       "chakkari"
     ]
   },
@@ -92712,11 +90630,9 @@ const dictionary = [
   {
     "title": "みち",
     "kana": [
-      "み",
       "みち"
     ],
     "roman": [
-      "mi",
       "michi"
     ]
   },
@@ -92822,11 +90738,9 @@ const dictionary = [
   {
     "title": "ごろ",
     "kana": [
-      "ご",
       "ごろ"
     ],
     "roman": [
-      "go",
       "goro"
     ]
   },
@@ -92941,11 +90855,9 @@ const dictionary = [
   {
     "title": "はた",
     "kana": [
-      "は",
       "はた"
     ],
     "roman": [
-      "ha",
       "hata"
     ]
   },
@@ -93078,11 +90990,9 @@ const dictionary = [
   {
     "title": "がた",
     "kana": [
-      "が",
       "がた"
     ],
     "roman": [
-      "ga",
       "gata"
     ]
   },
@@ -93161,11 +91071,9 @@ const dictionary = [
   {
     "title": "かしこま",
     "kana": [
-      "かしこ",
       "かしこま"
     ],
     "roman": [
-      "kashiko",
       "kashikoma"
     ]
   },
@@ -93226,11 +91134,9 @@ const dictionary = [
   {
     "title": "ぐいぐい",
     "kana": [
-      "ぐいぐ",
       "ぐいぐい"
     ],
     "roman": [
-      "guigu",
       "guigui"
     ]
   },
@@ -93255,11 +91161,9 @@ const dictionary = [
   {
     "title": "ふん",
     "kana": [
-      "ふ",
       "ふん"
     ],
     "roman": [
-      "fu",
       "fun"
     ]
   },
@@ -93284,11 +91188,9 @@ const dictionary = [
   {
     "title": "おさま",
     "kana": [
-      "おさ",
       "おさま"
     ],
     "roman": [
-      "osa",
       "osama"
     ]
   },
@@ -93345,22 +91247,18 @@ const dictionary = [
   {
     "title": "わく",
     "kana": [
-      "わ",
       "わく"
     ],
     "roman": [
-      "wa",
       "waku"
     ]
   },
   {
     "title": "やから",
     "kana": [
-      "やか",
       "やから"
     ],
     "roman": [
-      "yaka",
       "yakara"
     ]
   },
@@ -93403,11 +91301,9 @@ const dictionary = [
   {
     "title": "めったに",
     "kana": [
-      "めった",
       "めったに"
     ],
     "roman": [
-      "metta",
       "mettani"
     ]
   },
@@ -93423,20 +91319,20 @@ const dictionary = [
   {
     "title": "くださ",
     "kana": [
-      "くだ",
       "くださ"
     ],
     "roman": [
-      "kuda",
       "kudasa"
     ]
   },
   {
     "title": "いづら*",
     "kana": [
+      "いづら*",
       "いづら"
     ],
     "roman": [
+      "idura*",
       "idura"
     ]
   },
@@ -93470,11 +91366,9 @@ const dictionary = [
   {
     "title": "すか",
     "kana": [
-      "す",
       "すか"
     ],
     "roman": [
-      "su",
       "suka"
     ]
   },
@@ -93607,11 +91501,9 @@ const dictionary = [
   {
     "title": "おい",
     "kana": [
-      "お",
       "おい"
     ],
     "roman": [
-      "o",
       "oi"
     ]
   },
@@ -93627,11 +91519,9 @@ const dictionary = [
   {
     "title": "いちいち",
     "kana": [
-      "いちい",
       "いちいち"
     ],
     "roman": [
-      "ichii",
       "ichiichi"
     ]
   },
@@ -93719,11 +91609,9 @@ const dictionary = [
   {
     "title": "たんに",
     "kana": [
-      "たん",
       "たんに"
     ],
     "roman": [
-      "tan",
       "tanni"
     ]
   },
@@ -93793,11 +91681,9 @@ const dictionary = [
   {
     "title": "おかあさん",
     "kana": [
-      "おかあさ",
       "おかあさん"
     ],
     "roman": [
-      "okaasa",
       "okaasan"
     ]
   },
@@ -93849,11 +91735,9 @@ const dictionary = [
   {
     "title": "くたびれ",
     "kana": [
-      "くたび",
       "くたびれ"
     ],
     "roman": [
-      "kutabi",
       "kutabire"
     ]
   },
@@ -94087,11 +91971,9 @@ const dictionary = [
   {
     "title": "おしまい",
     "kana": [
-      "おしま",
       "おしまい"
     ],
     "roman": [
-      "oshima",
       "oshimai"
     ]
   },
@@ -94116,11 +91998,9 @@ const dictionary = [
   {
     "title": "について",
     "kana": [
-      "につい",
       "について"
     ],
     "roman": [
-      "nitsui",
       "nitsuite"
     ]
   },
@@ -94259,22 +92139,18 @@ const dictionary = [
   {
     "title": "とう",
     "kana": [
-      "と",
       "とう"
     ],
     "roman": [
-      "to",
       "tou"
     ]
   },
   {
     "title": "うるさ",
     "kana": [
-      "うる",
       "うるさ"
     ],
     "roman": [
-      "uru",
       "urusa"
     ]
   },
@@ -94506,11 +92382,9 @@ const dictionary = [
   {
     "title": "しぶと",
     "kana": [
-      "しぶ",
       "しぶと"
     ],
     "roman": [
-      "shibu",
       "shibuto"
     ]
   },
@@ -94571,14 +92445,12 @@ const dictionary = [
   {
     "title": "いる",
     "kana": [
-      "い",
       "いる",
       "いれ",
       "いよ",
       "いろ"
     ],
     "roman": [
-      "i",
       "iru",
       "ire",
       "iyo",
@@ -94615,11 +92487,9 @@ const dictionary = [
   {
     "title": "つめ",
     "kana": [
-      "つ",
       "つめ"
     ],
     "roman": [
-      "tsu",
       "tsume"
     ]
   },
@@ -94707,11 +92577,11 @@ const dictionary = [
   {
     "title": "その他",
     "kana": [
-      "その",
+      "その他",
       "そのた"
     ],
     "roman": [
-      "sono",
+      "sono他",
       "sonota"
     ]
   },
@@ -94792,11 +92662,9 @@ const dictionary = [
   {
     "title": "おお",
     "kana": [
-      "お",
       "おお"
     ],
     "roman": [
-      "o",
       "oo"
     ]
   },
@@ -95014,33 +92882,29 @@ const dictionary = [
   {
     "title": "ひっくり返",
     "kana": [
-      "ひっくり",
+      "ひっくり返",
       "ひっくりかえ"
     ],
     "roman": [
-      "hikkuri",
+      "hikkuri返",
       "hikkurikae"
     ]
   },
   {
     "title": "とこ",
     "kana": [
-      "と",
       "とこ"
     ],
     "roman": [
-      "to",
       "toko"
     ]
   },
   {
     "title": "うんざり",
     "kana": [
-      "うんざ",
       "うんざり"
     ],
     "roman": [
-      "unza",
       "unzari"
     ]
   },
@@ -95074,11 +92938,11 @@ const dictionary = [
   {
     "title": "お年玉",
     "kana": [
-      "お年",
+      "お年玉",
       "おとしだま"
     ],
     "roman": [
-      "o年",
+      "o年玉",
       "otoshidama"
     ]
   },
@@ -95121,11 +92985,11 @@ const dictionary = [
   {
     "title": "ぶら下が",
     "kana": [
-      "ぶら下",
+      "ぶら下が",
       "ぶらさが"
     ],
     "roman": [
-      "bura下",
+      "bura下ga",
       "burasaga"
     ]
   },
@@ -95141,9 +93005,11 @@ const dictionary = [
   {
     "title": "どな",
     "kana": [
+      "どな",
       "ど"
     ],
     "roman": [
+      "dona",
       "do"
     ]
   },
@@ -95195,11 +93061,9 @@ const dictionary = [
   {
     "title": "ひいては",
     "kana": [
-      "ひいて",
       "ひいては"
     ],
     "roman": [
-      "hiite",
       "hiiteha"
     ]
   },
@@ -95215,11 +93079,9 @@ const dictionary = [
   {
     "title": "あっけらかん",
     "kana": [
-      "あっけらか",
       "あっけらかん"
     ],
     "roman": [
-      "akkeraka",
       "akkerakan"
     ]
   },
@@ -95244,11 +93106,9 @@ const dictionary = [
   {
     "title": "あす",
     "kana": [
-      "あ",
       "あす"
     ],
     "roman": [
-      "a",
       "asu"
     ]
   },
@@ -95282,14 +93142,16 @@ const dictionary = [
   {
     "title": "くれる",
     "kana": [
-      "くれ",
+      "くれる",
       "くれれ",
-      "くん"
+      "くん",
+      "くれ"
     ],
     "roman": [
-      "kure",
+      "kureru",
       "kurere",
-      "kun"
+      "kun",
+      "kure"
     ]
   },
   {
@@ -95322,11 +93184,9 @@ const dictionary = [
   {
     "title": "おおっ",
     "kana": [
-      "おお",
       "おおっ"
     ],
     "roman": [
-      "oo",
       "ooxtsu"
     ]
   },
@@ -95378,11 +93238,9 @@ const dictionary = [
   {
     "title": "ちらつ",
     "kana": [
-      "ちら",
       "ちらつ"
     ],
     "roman": [
-      "chira",
       "chiratsu"
     ]
   },
@@ -95443,11 +93301,9 @@ const dictionary = [
   {
     "title": "ならでは",
     "kana": [
-      "ならで",
       "ならでは"
     ],
     "roman": [
-      "narade",
       "naradeha"
     ]
   },
@@ -95580,11 +93436,9 @@ const dictionary = [
   {
     "title": "いっぺん",
     "kana": [
-      "いっぺ",
       "いっぺん"
     ],
     "roman": [
-      "ippe",
       "ippen"
     ]
   },
@@ -95645,11 +93499,9 @@ const dictionary = [
   {
     "title": "よもや",
     "kana": [
-      "よも",
       "よもや"
     ],
     "roman": [
-      "yomo",
       "yomoya"
     ]
   },
@@ -95710,11 +93562,9 @@ const dictionary = [
   {
     "title": "たとえ",
     "kana": [
-      "たと",
       "たとえ"
     ],
     "roman": [
-      "tato",
       "tatoe"
     ]
   },
@@ -95739,11 +93589,9 @@ const dictionary = [
   {
     "title": "しきりに",
     "kana": [
-      "しきり",
       "しきりに"
     ],
     "roman": [
-      "shikiri",
       "shikirini"
     ]
   },
@@ -95804,11 +93652,9 @@ const dictionary = [
   {
     "title": "やら",
     "kana": [
-      "や",
       "やら"
     ],
     "roman": [
-      "ya",
       "yara"
     ]
   },
@@ -95956,11 +93802,9 @@ const dictionary = [
   {
     "title": "たまに",
     "kana": [
-      "たま",
       "たまに"
     ],
     "roman": [
-      "tama",
       "tamani"
     ]
   },
@@ -95985,11 +93829,9 @@ const dictionary = [
   {
     "title": "ゆり",
     "kana": [
-      "ゆ",
       "ゆり"
     ],
     "roman": [
-      "yu",
       "yuri"
     ]
   },
@@ -96158,11 +94000,9 @@ const dictionary = [
   {
     "title": "すぐ",
     "kana": [
-      "す",
       "すぐ"
     ],
     "roman": [
-      "su",
       "sugu"
     ]
   },
@@ -96187,11 +94027,11 @@ const dictionary = [
   {
     "title": "その間",
     "kana": [
-      "その",
+      "その間",
       "そのかん"
     ],
     "roman": [
-      "sono",
+      "sono間",
       "sonokan"
     ]
   },
@@ -96234,11 +94074,9 @@ const dictionary = [
   {
     "title": "ならない",
     "kana": [
-      "ならな",
       "ならない"
     ],
     "roman": [
-      "narana",
       "naranai"
     ]
   },
@@ -96263,11 +94101,9 @@ const dictionary = [
   {
     "title": "とばっちり",
     "kana": [
-      "とばっち",
       "とばっちり"
     ],
     "roman": [
-      "tobatchi",
       "tobatchiri"
     ]
   },
@@ -96283,11 +94119,9 @@ const dictionary = [
   {
     "title": "けっこう",
     "kana": [
-      "けっこ",
       "けっこう"
     ],
     "roman": [
-      "kekko",
       "kekkou"
     ]
   },
@@ -96532,11 +94366,9 @@ const dictionary = [
   {
     "title": "くま",
     "kana": [
-      "く",
       "くま"
     ],
     "roman": [
-      "ku",
       "kuma"
     ]
   },
@@ -96572,11 +94404,9 @@ const dictionary = [
   {
     "title": "ぜったい",
     "kana": [
-      "ぜった",
       "ぜったい"
     ],
     "roman": [
-      "zetta",
       "zettai"
     ]
   },
@@ -96594,22 +94424,18 @@ const dictionary = [
   {
     "title": "しまい",
     "kana": [
-      "しま",
       "しまい"
     ],
     "roman": [
-      "shima",
       "shimai"
     ]
   },
   {
     "title": "あっち",
     "kana": [
-      "あっ",
       "あっち"
     ],
     "roman": [
-      "axtsu",
       "atchi"
     ]
   },
@@ -96719,11 +94545,11 @@ const dictionary = [
   {
     "title": "ひじ掛け",
     "kana": [
-      "ひじ掛",
+      "ひじ掛け",
       "ひじかけ"
     ],
     "roman": [
-      "hiji掛",
+      "hiji掛ke",
       "hijikake"
     ]
   },
@@ -96748,33 +94574,27 @@ const dictionary = [
   {
     "title": "つぶや",
     "kana": [
-      "つぶ",
       "つぶや"
     ],
     "roman": [
-      "tsubu",
       "tsubuya"
     ]
   },
   {
     "title": "ひと",
     "kana": [
-      "ひ",
       "ひと"
     ],
     "roman": [
-      "hi",
       "hito"
     ]
   },
   {
     "title": "どうしても",
     "kana": [
-      "どうして",
       "どうしても"
     ],
     "roman": [
-      "doushite",
       "doushitemo"
     ]
   },
@@ -96871,22 +94691,18 @@ const dictionary = [
   {
     "title": "いったい",
     "kana": [
-      "いった",
       "いったい"
     ],
     "roman": [
-      "itta",
       "ittai"
     ]
   },
   {
     "title": "しわ",
     "kana": [
-      "し",
       "しわ"
     ],
     "roman": [
-      "shi",
       "shiwa"
     ]
   },
@@ -96911,11 +94727,9 @@ const dictionary = [
   {
     "title": "いらっしゃ",
     "kana": [
-      "いらっし",
       "いらっしゃ"
     ],
     "roman": [
-      "irasshi",
       "irassha"
     ]
   },
@@ -96931,11 +94745,9 @@ const dictionary = [
   {
     "title": "とともに",
     "kana": [
-      "ととも",
       "とともに"
     ],
     "roman": [
-      "totomo",
       "totomoni"
     ]
   },
@@ -97020,11 +94832,11 @@ const dictionary = [
   {
     "title": "お構い",
     "kana": [
-      "お構",
+      "お構い",
       "おかまい"
     ],
     "roman": [
-      "o構",
+      "o構i",
       "okamai"
     ]
   },
@@ -97112,11 +94924,9 @@ const dictionary = [
   {
     "title": "とおり",
     "kana": [
-      "とお",
       "とおり"
     ],
     "roman": [
-      "too",
       "toori"
     ]
   },
@@ -97258,11 +95068,9 @@ const dictionary = [
   {
     "title": "ぼや",
     "kana": [
-      "ぼ",
       "ぼや"
     ],
     "roman": [
-      "bo",
       "boya"
     ]
   },
@@ -97323,11 +95131,9 @@ const dictionary = [
   {
     "title": "もみ",
     "kana": [
-      "も",
       "もみ"
     ],
     "roman": [
-      "mo",
       "momi"
     ]
   },
@@ -97453,11 +95259,9 @@ const dictionary = [
   {
     "title": "よなよな",
     "kana": [
-      "よなよ",
       "よなよな"
     ],
     "roman": [
-      "yonayo",
       "yonayona"
     ]
   },
@@ -97482,11 +95286,9 @@ const dictionary = [
   {
     "title": "ほのぼの",
     "kana": [
-      "ほのぼ",
       "ほのぼの"
     ],
     "roman": [
-      "honobo",
       "honobono"
     ]
   },
@@ -97511,11 +95313,9 @@ const dictionary = [
   {
     "title": "うっかり",
     "kana": [
-      "うっか",
       "うっかり"
     ],
     "roman": [
-      "ukka",
       "ukkari"
     ]
   },
@@ -97540,11 +95340,9 @@ const dictionary = [
   {
     "title": "ばかばかし",
     "kana": [
-      "ばかばか",
       "ばかばかし"
     ],
     "roman": [
-      "bakabaka",
       "bakabakashi"
     ]
   },
@@ -97686,11 +95484,9 @@ const dictionary = [
   {
     "title": "せり",
     "kana": [
-      "せ",
       "せり"
     ],
     "roman": [
-      "se",
       "seri"
     ]
   },
@@ -97760,11 +95556,9 @@ const dictionary = [
   {
     "title": "さっき",
     "kana": [
-      "さっ",
       "さっき"
     ],
     "roman": [
-      "saxtsu",
       "sakki"
     ]
   },
@@ -97852,11 +95646,9 @@ const dictionary = [
   {
     "title": "どきりと",
     "kana": [
-      "どきり",
       "どきりと"
     ],
     "roman": [
-      "dokiri",
       "dokirito"
     ]
   },
@@ -97872,11 +95664,9 @@ const dictionary = [
   {
     "title": "すす",
     "kana": [
-      "す",
       "すす"
     ],
     "roman": [
-      "su",
       "susu"
     ]
   },
@@ -98108,11 +95898,9 @@ const dictionary = [
   {
     "title": "もしかして",
     "kana": [
-      "もしかし",
       "もしかして"
     ],
     "roman": [
-      "moshikashi",
       "moshikashite"
     ]
   },
@@ -98254,11 +96042,9 @@ const dictionary = [
   {
     "title": "ふんだんに",
     "kana": [
-      "ふんだん",
       "ふんだんに"
     ],
     "roman": [
-      "fundan",
       "fundanni"
     ]
   },
@@ -98382,11 +96168,9 @@ const dictionary = [
   {
     "title": "ような",
     "kana": [
-      "よう",
       "ような"
     ],
     "roman": [
-      "you",
       "youna"
     ]
   },
@@ -98501,11 +96285,9 @@ const dictionary = [
   {
     "title": "ひょうきん",
     "kana": [
-      "ひょうき",
       "ひょうきん"
     ],
     "roman": [
-      "hyouki",
       "hyoukin"
     ]
   },
@@ -98532,11 +96314,9 @@ const dictionary = [
   {
     "title": "やはり",
     "kana": [
-      "やは",
       "やはり"
     ],
     "roman": [
-      "yaha",
       "yahari"
     ]
   },
@@ -98570,11 +96350,9 @@ const dictionary = [
   {
     "title": "うた",
     "kana": [
-      "う",
       "うた"
     ],
     "roman": [
-      "u",
       "uta"
     ]
   },
@@ -98680,11 +96458,9 @@ const dictionary = [
   {
     "title": "あい",
     "kana": [
-      "あ",
       "あい"
     ],
     "roman": [
-      "a",
       "ai"
     ]
   },
@@ -98709,11 +96485,9 @@ const dictionary = [
   {
     "title": "みだりに",
     "kana": [
-      "みだり",
       "みだりに"
     ],
     "roman": [
-      "midari",
       "midarini"
     ]
   },
@@ -98729,11 +96503,9 @@ const dictionary = [
   {
     "title": "わんわん",
     "kana": [
-      "わんわ",
       "わんわん"
     ],
     "roman": [
-      "wanwa",
       "wanwan"
     ]
   },
@@ -98749,44 +96521,36 @@ const dictionary = [
   {
     "title": "めんどくさ",
     "kana": [
-      "めんどく",
       "めんどくさ"
     ],
     "roman": [
-      "mendoku",
       "mendokusa"
     ]
   },
   {
     "title": "しどけな",
     "kana": [
-      "しどけ",
       "しどけな"
     ],
     "roman": [
-      "shidoke",
       "shidokena"
     ]
   },
   {
     "title": "あくまで",
     "kana": [
-      "あくま",
       "あくまで"
     ],
     "roman": [
-      "akuma",
       "akumade"
     ]
   },
   {
     "title": "みっともな",
     "kana": [
-      "みっとも",
       "みっともな"
     ],
     "roman": [
-      "mittomo",
       "mittomona"
     ]
   },
@@ -98820,22 +96584,18 @@ const dictionary = [
   {
     "title": "つぶやき",
     "kana": [
-      "つぶや",
       "つぶやき"
     ],
     "roman": [
-      "tsubuya",
       "tsubuyaki"
     ]
   },
   {
     "title": "いつ",
     "kana": [
-      "い",
       "いつ"
     ],
     "roman": [
-      "i",
       "itsu"
     ]
   },
@@ -98862,11 +96622,9 @@ const dictionary = [
   {
     "title": "なめ",
     "kana": [
-      "な",
       "なめ"
     ],
     "roman": [
-      "na",
       "name"
     ]
   },
@@ -99023,9 +96781,11 @@ const dictionary = [
   {
     "title": "でき*",
     "kana": [
+      "でき*",
       "でき"
     ],
     "roman": [
+      "deki*",
       "deki"
     ]
   },
@@ -99086,11 +96846,9 @@ const dictionary = [
   {
     "title": "しれ",
     "kana": [
-      "し",
       "しれ"
     ],
     "roman": [
-      "shi",
       "shire"
     ]
   },
@@ -99124,11 +96882,9 @@ const dictionary = [
   {
     "title": "ふみ",
     "kana": [
-      "ふ",
       "ふみ"
     ],
     "roman": [
-      "fu",
       "fumi"
     ]
   },
@@ -99308,11 +97064,9 @@ const dictionary = [
   {
     "title": "かちあ",
     "kana": [
-      "かち",
       "かちあ"
     ],
     "roman": [
-      "kachi",
       "kachia"
     ]
   },
@@ -99370,11 +97124,9 @@ const dictionary = [
   {
     "title": "うつくし",
     "kana": [
-      "うつく",
       "うつくし"
     ],
     "roman": [
-      "utsuku",
       "utsukushi"
     ]
   },
@@ -99390,11 +97142,11 @@ const dictionary = [
   {
     "title": "お世話",
     "kana": [
-      "お世",
+      "お世話",
       "おせわ"
     ],
     "roman": [
-      "o世",
+      "o世話",
       "osewa"
     ]
   },
@@ -99428,11 +97180,9 @@ const dictionary = [
   {
     "title": "けい",
     "kana": [
-      "け",
       "けい"
     ],
     "roman": [
-      "ke",
       "kei"
     ]
   },
@@ -99466,11 +97216,9 @@ const dictionary = [
   {
     "title": "さながら",
     "kana": [
-      "さなが",
       "さながら"
     ],
     "roman": [
-      "sanaga",
       "sanagara"
     ]
   },
@@ -99486,11 +97234,9 @@ const dictionary = [
   {
     "title": "ひねもす",
     "kana": [
-      "ひねも",
       "ひねもす"
     ],
     "roman": [
-      "hinemo",
       "hinemosu"
     ]
   },
@@ -99571,11 +97317,9 @@ const dictionary = [
   {
     "title": "すばや",
     "kana": [
-      "すば",
       "すばや"
     ],
     "roman": [
-      "suba",
       "subaya"
     ]
   },
@@ -99636,22 +97380,18 @@ const dictionary = [
   {
     "title": "はては",
     "kana": [
-      "はて",
       "はては"
     ],
     "roman": [
-      "hate",
       "hateha"
     ]
   },
   {
     "title": "はぐれ",
     "kana": [
-      "はぐ",
       "はぐれ"
     ],
     "roman": [
-      "hagu",
       "hagure"
     ]
   },
@@ -99730,11 +97470,9 @@ const dictionary = [
   {
     "title": "すぎ",
     "kana": [
-      "す",
       "すぎ"
     ],
     "roman": [
-      "su",
       "sugi"
     ]
   },
@@ -99774,11 +97512,9 @@ const dictionary = [
   {
     "title": "まことに",
     "kana": [
-      "まこと",
       "まことに"
     ],
     "roman": [
-      "makoto",
       "makotoni"
     ]
   },
@@ -99794,11 +97530,9 @@ const dictionary = [
   {
     "title": "つれづれ",
     "kana": [
-      "つれづ",
       "つれづれ"
     ],
     "roman": [
-      "tsuredu",
       "tsuredure"
     ]
   },
@@ -99814,23 +97548,21 @@ const dictionary = [
   {
     "title": "ぐしゃぐしゃ",
     "kana": [
-      "ぐしゃぐし",
       "ぐしゃぐしゃ"
     ],
     "roman": [
-      "gushagushi",
       "gushagusha"
     ]
   },
   {
     "title": "つける",
     "kana": [
-      "つけ",
+      "つける",
       "つけろ",
       "つけよ"
     ],
     "roman": [
-      "tsuke",
+      "tsukeru",
       "tsukero",
       "tsukeyo"
     ]
@@ -99903,11 +97635,9 @@ const dictionary = [
   {
     "title": "れ",
     "kana": [
-      "",
       "れ"
     ],
     "roman": [
-      "",
       "re"
     ]
   },
@@ -99952,22 +97682,18 @@ const dictionary = [
   {
     "title": "もて",
     "kana": [
-      "も",
       "もて"
     ],
     "roman": [
-      "mo",
       "mote"
     ]
   },
   {
     "title": "きっちり",
     "kana": [
-      "きっち",
       "きっちり"
     ],
     "roman": [
-      "kitchi",
       "kitchiri"
     ]
   },
@@ -100023,11 +97749,9 @@ const dictionary = [
   {
     "title": "しょ",
     "kana": [
-      "し",
       "しょ"
     ],
     "roman": [
-      "shi",
       "sho"
     ]
   },
@@ -100187,11 +97911,9 @@ const dictionary = [
   {
     "title": "もどかし",
     "kana": [
-      "もどか",
       "もどかし"
     ],
     "roman": [
-      "modoka",
       "modokashi"
     ]
   },
@@ -100243,11 +97965,9 @@ const dictionary = [
   {
     "title": "あやし",
     "kana": [
-      "あや",
       "あやし"
     ],
     "roman": [
-      "aya",
       "ayashi"
     ]
   },
@@ -100454,11 +98174,9 @@ const dictionary = [
   {
     "title": "ごめん",
     "kana": [
-      "ごめ",
       "ごめん"
     ],
     "roman": [
-      "gome",
       "gomen"
     ]
   },
@@ -100519,11 +98237,9 @@ const dictionary = [
   {
     "title": "くだらな",
     "kana": [
-      "くだら",
       "くだらな"
     ],
     "roman": [
-      "kudara",
       "kudarana"
     ]
   },
@@ -100539,11 +98255,11 @@ const dictionary = [
   {
     "title": "お嬢様",
     "kana": [
-      "お嬢",
+      "お嬢様",
       "おじょうさま"
     ],
     "roman": [
-      "o嬢",
+      "o嬢様",
       "ojousama"
     ]
   },
@@ -100559,22 +98275,18 @@ const dictionary = [
   {
     "title": "がんば",
     "kana": [
-      "がん",
       "がんば"
     ],
     "roman": [
-      "gan",
       "ganba"
     ]
   },
   {
     "title": "ところ",
     "kana": [
-      "とこ",
       "ところ"
     ],
     "roman": [
-      "toko",
       "tokoro"
     ]
   },
@@ -100590,11 +98302,9 @@ const dictionary = [
   {
     "title": "すくめ",
     "kana": [
-      "すく",
       "すくめ"
     ],
     "roman": [
-      "suku",
       "sukume"
     ]
   },
@@ -100637,11 +98347,9 @@ const dictionary = [
   {
     "title": "なかなか",
     "kana": [
-      "なかな",
       "なかなか"
     ],
     "roman": [
-      "nakana",
       "nakanaka"
     ]
   },
@@ -100980,11 +98688,9 @@ const dictionary = [
   {
     "title": "なお",
     "kana": [
-      "な",
       "なお"
     ],
     "roman": [
-      "na",
       "nao"
     ]
   },
@@ -101063,11 +98769,9 @@ const dictionary = [
   {
     "title": "すんなり",
     "kana": [
-      "すんな",
       "すんなり"
     ],
     "roman": [
-      "sunna",
       "sunnari"
     ]
   },
@@ -101101,11 +98805,9 @@ const dictionary = [
   {
     "title": "どうにも",
     "kana": [
-      "どうに",
       "どうにも"
     ],
     "roman": [
-      "douni",
       "dounimo"
     ]
   },
@@ -101157,11 +98859,9 @@ const dictionary = [
   {
     "title": "だる",
     "kana": [
-      "だ",
       "だる"
     ],
     "roman": [
-      "da",
       "daru"
     ]
   },
@@ -101213,11 +98913,11 @@ const dictionary = [
   {
     "title": "お腹",
     "kana": [
-      "お",
+      "お腹",
       "おなか"
     ],
     "roman": [
-      "o",
+      "o腹",
       "onaka"
     ]
   },
@@ -101467,11 +99167,9 @@ const dictionary = [
   {
     "title": "そのまま",
     "kana": [
-      "そのま",
       "そのまま"
     ],
     "roman": [
-      "sonoma",
       "sonomama"
     ]
   },
@@ -101568,11 +99266,9 @@ const dictionary = [
   {
     "title": "ぎこちな",
     "kana": [
-      "ぎこち",
       "ぎこちな"
     ],
     "roman": [
-      "gikochi",
       "gikochina"
     ]
   },
@@ -101597,11 +99293,9 @@ const dictionary = [
   {
     "title": "ちいさ",
     "kana": [
-      "ちい",
       "ちいさ"
     ],
     "roman": [
-      "chii",
       "chiisa"
     ]
   },
@@ -101646,11 +99340,9 @@ const dictionary = [
   {
     "title": "めっきり",
     "kana": [
-      "めっき",
       "めっきり"
     ],
     "roman": [
-      "mekki",
       "mekkiri"
     ]
   },
@@ -101684,11 +99376,9 @@ const dictionary = [
   {
     "title": "よりによって",
     "kana": [
-      "よりによっ",
       "よりによって"
     ],
     "roman": [
-      "yoriniyoxtsu",
       "yoriniyotte"
     ]
   },
@@ -101713,11 +99403,9 @@ const dictionary = [
   {
     "title": "しと",
     "kana": [
-      "し",
       "しと"
     ],
     "roman": [
-      "shi",
       "shito"
     ]
   },
@@ -101778,11 +99466,9 @@ const dictionary = [
   {
     "title": "ずらりと",
     "kana": [
-      "ずらり",
       "ずらりと"
     ],
     "roman": [
-      "zurari",
       "zurarito"
     ]
   },
@@ -101825,11 +99511,9 @@ const dictionary = [
   {
     "title": "はちみつ",
     "kana": [
-      "はちみ",
       "はちみつ"
     ],
     "roman": [
-      "hachimi",
       "hachimitsu"
     ]
   },
@@ -101854,11 +99538,9 @@ const dictionary = [
   {
     "title": "ぎん",
     "kana": [
-      "ぎ",
       "ぎん"
     ],
     "roman": [
-      "gi",
       "gin"
     ]
   },
@@ -101892,11 +99574,9 @@ const dictionary = [
   {
     "title": "まんべんなく",
     "kana": [
-      "まんべんな",
       "まんべんなく"
     ],
     "roman": [
-      "manbenna",
       "manbennaku"
     ]
   },
@@ -101921,11 +99601,11 @@ const dictionary = [
   {
     "title": "なだれ込",
     "kana": [
-      "なだれ",
+      "なだれ込",
       "なだれこ"
     ],
     "roman": [
-      "nadare",
+      "nadare込",
       "nadareko"
     ]
   },
@@ -101995,11 +99675,9 @@ const dictionary = [
   {
     "title": "よろし",
     "kana": [
-      "よろ",
       "よろし"
     ],
     "roman": [
-      "yoro",
       "yoroshi"
     ]
   },
@@ -102026,11 +99704,9 @@ const dictionary = [
   {
     "title": "べったり",
     "kana": [
-      "べった",
       "べったり"
     ],
     "roman": [
-      "betta",
       "bettari"
     ]
   },
@@ -102302,12 +99978,12 @@ const dictionary = [
   {
     "title": "かわい",
     "kana": [
-      "かわ",
-      "かわい"
+      "かわい",
+      "かわ"
     ],
     "roman": [
-      "kawa",
-      "kawai"
+      "kawai",
+      "kawa"
     ]
   },
   {
@@ -102426,9 +100102,11 @@ const dictionary = [
   {
     "title": "これ*",
     "kana": [
+      "これ*",
       "これ"
     ],
     "roman": [
+      "kore*",
       "kore"
     ]
   },
@@ -102489,11 +100167,11 @@ const dictionary = [
   {
     "title": "お湯",
     "kana": [
-      "お",
+      "お湯",
       "おゆ"
     ],
     "roman": [
-      "o",
+      "o湯",
       "oyu"
     ]
   },
@@ -102554,11 +100232,9 @@ const dictionary = [
   {
     "title": "まして",
     "kana": [
-      "まし",
       "まして"
     ],
     "roman": [
-      "mashi",
       "mashite"
     ]
   },
@@ -102720,11 +100396,9 @@ const dictionary = [
   {
     "title": "あとがき",
     "kana": [
-      "あとが",
       "あとがき"
     ],
     "roman": [
-      "atoga",
       "atogaki"
     ]
   },
@@ -102758,11 +100432,9 @@ const dictionary = [
   {
     "title": "そもそも",
     "kana": [
-      "そもそ",
       "そもそも"
     ],
     "roman": [
-      "somoso",
       "somosomo"
     ]
   },
@@ -102823,11 +100495,9 @@ const dictionary = [
   {
     "title": "まとま",
     "kana": [
-      "まと",
       "まとま"
     ],
     "roman": [
-      "mato",
       "matoma"
     ]
   },
@@ -102872,11 +100542,9 @@ const dictionary = [
   {
     "title": "つまらな",
     "kana": [
-      "つまら",
       "つまらな"
     ],
     "roman": [
-      "tsumara",
       "tsumarana"
     ]
   },
@@ -103029,22 +100697,18 @@ const dictionary = [
   {
     "title": "ざらざら",
     "kana": [
-      "ざらざ",
       "ざらざら"
     ],
     "roman": [
-      "zaraza",
       "zarazara"
     ]
   },
   {
     "title": "かけっこ",
     "kana": [
-      "かけっ",
       "かけっこ"
     ],
     "roman": [
-      "kakextsu",
       "kakekko"
     ]
   },
@@ -103156,22 +100820,18 @@ const dictionary = [
   {
     "title": "かわ",
     "kana": [
-      "か",
       "かわ"
     ],
     "roman": [
-      "ka",
       "kawa"
     ]
   },
   {
     "title": "ばからし",
     "kana": [
-      "ばから",
       "ばからし"
     ],
     "roman": [
-      "bakara",
       "bakarashi"
     ]
   },
@@ -103187,22 +100847,18 @@ const dictionary = [
   {
     "title": "つぶ",
     "kana": [
-      "つ",
       "つぶ"
     ],
     "roman": [
-      "tsu",
       "tsubu"
     ]
   },
   {
     "title": "すり",
     "kana": [
-      "す",
       "すり"
     ],
     "roman": [
-      "su",
       "suri"
     ]
   },
@@ -103245,22 +100901,18 @@ const dictionary = [
   {
     "title": "つま",
     "kana": [
-      "つ",
       "つま"
     ],
     "roman": [
-      "tsu",
       "tsuma"
     ]
   },
   {
     "title": "あらかじめ",
     "kana": [
-      "あらかじ",
       "あらかじめ"
     ],
     "roman": [
-      "arakaji",
       "arakajime"
     ]
   },
@@ -103476,11 +101128,9 @@ const dictionary = [
   {
     "title": "たいそう",
     "kana": [
-      "たいそ",
       "たいそう"
     ],
     "roman": [
-      "taiso",
       "taisou"
     ]
   },
@@ -103532,11 +101182,9 @@ const dictionary = [
   {
     "title": "ですが",
     "kana": [
-      "です",
       "ですが"
     ],
     "roman": [
-      "desu",
       "desuga"
     ]
   },
@@ -103617,11 +101265,9 @@ const dictionary = [
   {
     "title": "かんな",
     "kana": [
-      "かん",
       "かんな"
     ],
     "roman": [
-      "kan",
       "kanna"
     ]
   },
@@ -103749,22 +101395,18 @@ const dictionary = [
   {
     "title": "らい",
     "kana": [
-      "ら",
       "らい"
     ],
     "roman": [
-      "ra",
       "rai"
     ]
   },
   {
     "title": "おおむね",
     "kana": [
-      "おおむ",
       "おおむね"
     ],
     "roman": [
-      "oomu",
       "oomune"
     ]
   },
@@ -103825,11 +101467,9 @@ const dictionary = [
   {
     "title": "なし",
     "kana": [
-      "な",
       "なし"
     ],
     "roman": [
-      "na",
       "nashi"
     ]
   },
@@ -103856,11 +101496,9 @@ const dictionary = [
   {
     "title": "おまえ",
     "kana": [
-      "おま",
       "おまえ"
     ],
     "roman": [
-      "oma",
       "omae"
     ]
   },
@@ -103885,11 +101523,9 @@ const dictionary = [
   {
     "title": "どおり",
     "kana": [
-      "どお",
       "どおり"
     ],
     "roman": [
-      "doo",
       "doori"
     ]
   },
@@ -103923,11 +101559,9 @@ const dictionary = [
   {
     "title": "ともな",
     "kana": [
-      "とも",
       "ともな"
     ],
     "roman": [
-      "tomo",
       "tomona"
     ]
   },
@@ -103943,11 +101577,9 @@ const dictionary = [
   {
     "title": "のど",
     "kana": [
-      "の",
       "のど"
     ],
     "roman": [
-      "no",
       "nodo"
     ]
   },
@@ -103990,11 +101622,9 @@ const dictionary = [
   {
     "title": "いったん",
     "kana": [
-      "いった",
       "いったん"
     ],
     "roman": [
-      "itta",
       "ittan"
     ]
   },
@@ -104010,11 +101640,9 @@ const dictionary = [
   {
     "title": "さくら",
     "kana": [
-      "さく",
       "さくら"
     ],
     "roman": [
-      "saku",
       "sakura"
     ]
   },
@@ -104030,11 +101658,9 @@ const dictionary = [
   {
     "title": "あたり",
     "kana": [
-      "あた",
       "あたり"
     ],
     "roman": [
-      "ata",
       "atari"
     ]
   },
@@ -104203,11 +101829,9 @@ const dictionary = [
   {
     "title": "やっと",
     "kana": [
-      "やっ",
       "やっと"
     ],
     "roman": [
-      "yaxtsu",
       "yatto"
     ]
   },
@@ -104223,11 +101847,9 @@ const dictionary = [
   {
     "title": "もみくちゃ",
     "kana": [
-      "もみくち",
       "もみくちゃ"
     ],
     "roman": [
-      "momikuchi",
       "momikucha"
     ]
   },
@@ -104290,11 +101912,11 @@ const dictionary = [
   {
     "title": "あり方",
     "kana": [
-      "あり",
+      "あり方",
       "ありかた"
     ],
     "roman": [
-      "ari",
+      "ari方",
       "arikata"
     ]
   },
@@ -104310,11 +101932,9 @@ const dictionary = [
   {
     "title": "じゃ",
     "kana": [
-      "じ",
       "じゃ"
     ],
     "roman": [
-      "ji",
       "ja"
     ]
   },
@@ -104447,11 +102067,9 @@ const dictionary = [
   {
     "title": "たえ",
     "kana": [
-      "た",
       "たえ"
     ],
     "roman": [
-      "ta",
       "tae"
     ]
   },
@@ -104467,11 +102085,9 @@ const dictionary = [
   {
     "title": "くっつ",
     "kana": [
-      "くっ",
       "くっつ"
     ],
     "roman": [
-      "kuxtsu",
       "kuttsu"
     ]
   },
@@ -104541,22 +102157,18 @@ const dictionary = [
   {
     "title": "はく",
     "kana": [
-      "は",
       "はく"
     ],
     "roman": [
-      "ha",
       "haku"
     ]
   },
   {
     "title": "かつて",
     "kana": [
-      "かつ",
       "かつて"
     ],
     "roman": [
-      "katsu",
       "katsute"
     ]
   },
@@ -104581,11 +102193,11 @@ const dictionary = [
   {
     "title": "やり返",
     "kana": [
-      "やり",
+      "やり返",
       "やりかえ"
     ],
     "roman": [
-      "yari",
+      "yari返",
       "yarikae"
     ]
   },
@@ -104664,11 +102276,9 @@ const dictionary = [
   {
     "title": "あきらか",
     "kana": [
-      "あきら",
       "あきらか"
     ],
     "roman": [
-      "akira",
       "akiraka"
     ]
   },
@@ -104810,11 +102420,9 @@ const dictionary = [
   {
     "title": "めく",
     "kana": [
-      "め",
       "めく"
     ],
     "roman": [
-      "me",
       "meku"
     ]
   },
@@ -104940,11 +102548,9 @@ const dictionary = [
   {
     "title": "いた",
     "kana": [
-      "い",
       "いた"
     ],
     "roman": [
-      "i",
       "ita"
     ]
   },
@@ -104960,11 +102566,9 @@ const dictionary = [
   {
     "title": "よぎ",
     "kana": [
-      "よ",
       "よぎ"
     ],
     "roman": [
-      "yo",
       "yogi"
     ]
   },
@@ -105016,11 +102620,9 @@ const dictionary = [
   {
     "title": "するど",
     "kana": [
-      "する",
       "するど"
     ],
     "roman": [
-      "suru",
       "surudo"
     ]
   },
@@ -105054,22 +102656,18 @@ const dictionary = [
   {
     "title": "すらっと",
     "kana": [
-      "すらっ",
       "すらっと"
     ],
     "roman": [
-      "suraxtsu",
       "suratto"
     ]
   },
   {
     "title": "まつげ",
     "kana": [
-      "まつ",
       "まつげ"
     ],
     "roman": [
-      "matsu",
       "matsuge"
     ]
   },
@@ -105202,22 +102800,18 @@ const dictionary = [
   {
     "title": "ぐいと",
     "kana": [
-      "ぐい",
       "ぐいと"
     ],
     "roman": [
-      "gui",
       "guito"
     ]
   },
   {
     "title": "まるで",
     "kana": [
-      "まる",
       "まるで"
     ],
     "roman": [
-      "maru",
       "marude"
     ]
   },
@@ -105415,11 +103009,11 @@ const dictionary = [
   {
     "title": "しかめっ面",
     "kana": [
-      "しかめっ",
+      "しかめっ面",
       "しかめっつら"
     ],
     "roman": [
-      "shikamextsu",
+      "shikamextsu面",
       "shikamettsura"
     ]
   },
@@ -105489,11 +103083,9 @@ const dictionary = [
   {
     "title": "ひとりご",
     "kana": [
-      "ひとり",
       "ひとりご"
     ],
     "roman": [
-      "hitori",
       "hitorigo"
     ]
   },
@@ -105529,11 +103121,9 @@ const dictionary = [
   {
     "title": "やすい",
     "kana": [
-      "やす",
       "やすい"
     ],
     "roman": [
-      "yasu",
       "yasui"
     ]
   },
@@ -105576,11 +103166,9 @@ const dictionary = [
   {
     "title": "すそ",
     "kana": [
-      "す",
       "すそ"
     ],
     "roman": [
-      "su",
       "suso"
     ]
   },
@@ -105659,11 +103247,9 @@ const dictionary = [
   {
     "title": "ばったり",
     "kana": [
-      "ばった",
       "ばったり"
     ],
     "roman": [
-      "batta",
       "battari"
     ]
   },
@@ -105715,11 +103301,9 @@ const dictionary = [
   {
     "title": "うなだれ",
     "kana": [
-      "うなだ",
       "うなだれ"
     ],
     "roman": [
-      "unada",
       "unadare"
     ]
   },
@@ -105762,11 +103346,9 @@ const dictionary = [
   {
     "title": "やるせな",
     "kana": [
-      "やるせ",
       "やるせな"
     ],
     "roman": [
-      "yaruse",
       "yarusena"
     ]
   },
@@ -105820,11 +103402,9 @@ const dictionary = [
   {
     "title": "たと",
     "kana": [
-      "た",
       "たと"
     ],
     "roman": [
-      "ta",
       "tato"
     ]
   },
@@ -106101,11 +103681,9 @@ const dictionary = [
   {
     "title": "たげ",
     "kana": [
-      "た",
       "たげ"
     ],
     "roman": [
-      "ta",
       "tage"
     ]
   },
@@ -106130,11 +103708,9 @@ const dictionary = [
   {
     "title": "いつか",
     "kana": [
-      "いつ",
       "いつか"
     ],
     "roman": [
-      "itsu",
       "itsuka"
     ]
   },
@@ -106168,11 +103744,9 @@ const dictionary = [
   {
     "title": "おんなじ",
     "kana": [
-      "おんな",
       "おんなじ"
     ],
     "roman": [
-      "onna",
       "onnaji"
     ]
   },
@@ -106298,9 +103872,11 @@ const dictionary = [
   {
     "title": "いにく*",
     "kana": [
+      "いにく*",
       "いにく"
     ],
     "roman": [
+      "iniku*",
       "iniku"
     ]
   },
@@ -106525,11 +104101,9 @@ const dictionary = [
   {
     "title": "おそらく",
     "kana": [
-      "おそら",
       "おそらく"
     ],
     "roman": [
-      "osora",
       "osoraku"
     ]
   },
@@ -106581,11 +104155,9 @@ const dictionary = [
   {
     "title": "くじ",
     "kana": [
-      "く",
       "くじ"
     ],
     "roman": [
-      "ku",
       "kuji"
     ]
   },
@@ -106610,22 +104182,18 @@ const dictionary = [
   {
     "title": "きたな",
     "kana": [
-      "きた",
       "きたな"
     ],
     "roman": [
-      "kita",
       "kitana"
     ]
   },
   {
     "title": "きっかけ",
     "kana": [
-      "きっか",
       "きっかけ"
     ],
     "roman": [
-      "kikka",
       "kikkake"
     ]
   },
@@ -106650,11 +104218,9 @@ const dictionary = [
   {
     "title": "そば",
     "kana": [
-      "そ",
       "そば"
     ],
     "roman": [
-      "so",
       "soba"
     ]
   },
@@ -106688,11 +104254,9 @@ const dictionary = [
   {
     "title": "これら",
     "kana": [
-      "これ",
       "これら"
     ],
     "roman": [
-      "kore",
       "korera"
     ]
   },
@@ -106735,22 +104299,20 @@ const dictionary = [
   {
     "title": "お客様",
     "kana": [
-      "お客",
+      "お客様",
       "おきゃくさま"
     ],
     "roman": [
-      "o客",
+      "o客様",
       "okyakusama"
     ]
   },
   {
     "title": "はげし",
     "kana": [
-      "はげ",
       "はげし"
     ],
     "roman": [
-      "hage",
       "hageshi"
     ]
   },
@@ -106775,12 +104337,12 @@ const dictionary = [
   {
     "title": "わた",
     "kana": [
-      "わ",
-      "わた"
+      "わた",
+      "わ"
     ],
     "roman": [
-      "wa",
-      "wata"
+      "wata",
+      "wa"
     ]
   },
   {
@@ -106813,11 +104375,9 @@ const dictionary = [
   {
     "title": "やっぱり",
     "kana": [
-      "やっぱ",
       "やっぱり"
     ],
     "roman": [
-      "yappa",
       "yappari"
     ]
   },
@@ -107033,11 +104593,9 @@ const dictionary = [
   {
     "title": "そむけ",
     "kana": [
-      "そむ",
       "そむけ"
     ],
     "roman": [
-      "somu",
       "somuke"
     ]
   },
@@ -107208,11 +104766,9 @@ const dictionary = [
   {
     "title": "ぐる",
     "kana": [
-      "ぐ",
       "ぐる"
     ],
     "roman": [
-      "gu",
       "guru"
     ]
   },
@@ -107367,11 +104923,9 @@ const dictionary = [
   {
     "title": "ぺろり",
     "kana": [
-      "ぺろ",
       "ぺろり"
     ],
     "roman": [
-      "pero",
       "perori"
     ]
   },
@@ -107387,11 +104941,11 @@ const dictionary = [
   {
     "title": "お家",
     "kana": [
-      "お",
+      "お家",
       "おいえ"
     ],
     "roman": [
-      "o",
+      "o家",
       "oie"
     ]
   },
@@ -107416,22 +104970,18 @@ const dictionary = [
   {
     "title": "っきり",
     "kana": [
-      "っき",
       "っきり"
     ],
     "roman": [
-      "kki",
       "kkiri"
     ]
   },
   {
     "title": "あらゆる",
     "kana": [
-      "あらゆ",
       "あらゆる"
     ],
     "roman": [
-      "arayu",
       "arayuru"
     ]
   },
@@ -107483,11 +105033,9 @@ const dictionary = [
   {
     "title": "いただき",
     "kana": [
-      "いただ",
       "いただき"
     ],
     "roman": [
-      "itada",
       "itadaki"
     ]
   },
@@ -107557,11 +105105,9 @@ const dictionary = [
   {
     "title": "それほど",
     "kana": [
-      "それほ",
       "それほど"
     ],
     "roman": [
-      "soreho",
       "sorehodo"
     ]
   },
@@ -107658,22 +105204,18 @@ const dictionary = [
   {
     "title": "あらあら",
     "kana": [
-      "あらあ",
       "あらあら"
     ],
     "roman": [
-      "araa",
       "araara"
     ]
   },
   {
     "title": "まるごと",
     "kana": [
-      "まるご",
       "まるごと"
     ],
     "roman": [
-      "marugo",
       "marugoto"
     ]
   },
@@ -107806,11 +105348,9 @@ const dictionary = [
   {
     "title": "おろか",
     "kana": [
-      "おろ",
       "おろか"
     ],
     "roman": [
-      "oro",
       "oroka"
     ]
   },
@@ -107889,11 +105429,9 @@ const dictionary = [
   {
     "title": "いかが",
     "kana": [
-      "いか",
       "いかが"
     ],
     "roman": [
-      "ika",
       "ikaga"
     ]
   },
@@ -107958,11 +105496,11 @@ const dictionary = [
   {
     "title": "か弱",
     "kana": [
-      "か",
+      "か弱",
       "かよわ"
     ],
     "roman": [
-      "ka",
+      "ka弱",
       "kayowa"
     ]
   },
@@ -107978,11 +105516,9 @@ const dictionary = [
   {
     "title": "てめえ",
     "kana": [
-      "てめ",
       "てめえ"
     ],
     "roman": [
-      "teme",
       "temee"
     ]
   },
@@ -107998,11 +105534,11 @@ const dictionary = [
   {
     "title": "すれ違い",
     "kana": [
-      "すれ違",
+      "すれ違い",
       "すれちがい"
     ],
     "roman": [
-      "sure違",
+      "sure違i",
       "surechigai"
     ]
   },
@@ -108027,11 +105563,9 @@ const dictionary = [
   {
     "title": "ろか",
     "kana": [
-      "ろ",
       "ろか"
     ],
     "roman": [
-      "ro",
       "roka"
     ]
   },
@@ -108092,22 +105626,20 @@ const dictionary = [
   {
     "title": "かって",
     "kana": [
-      "かっ",
       "かって"
     ],
     "roman": [
-      "kaxtsu",
       "katte"
     ]
   },
   {
     "title": "お爺さん",
     "kana": [
-      "お爺さ",
+      "お爺さん",
       "おじいさん"
     ],
     "roman": [
-      "o爺sa",
+      "o爺san",
       "ojiisan"
     ]
   },
@@ -108224,11 +105756,9 @@ const dictionary = [
   {
     "title": "いつのまに",
     "kana": [
-      "いつのま",
       "いつのまに"
     ],
     "roman": [
-      "itsunoma",
       "itsunomani"
     ]
   },
@@ -108325,11 +105855,9 @@ const dictionary = [
   {
     "title": "ども",
     "kana": [
-      "ど",
       "ども"
     ],
     "roman": [
-      "do",
       "domo"
     ]
   },
@@ -108444,11 +105972,9 @@ const dictionary = [
   {
     "title": "かざ",
     "kana": [
-      "か",
       "かざ"
     ],
     "roman": [
-      "ka",
       "kaza"
     ]
   },
@@ -108527,11 +106053,9 @@ const dictionary = [
   {
     "title": "あらわれ",
     "kana": [
-      "あらわ",
       "あらわれ"
     ],
     "roman": [
-      "arawa",
       "araware"
     ]
   },
@@ -108547,11 +106071,9 @@ const dictionary = [
   {
     "title": "により",
     "kana": [
-      "によ",
       "により"
     ],
     "roman": [
-      "niyo",
       "niyori"
     ]
   },
@@ -108578,9 +106100,11 @@ const dictionary = [
   {
     "title": "いた*",
     "kana": [
+      "いた*",
       "いた"
     ],
     "roman": [
+      "ita*",
       "ita"
     ]
   },
@@ -108731,11 +106255,9 @@ const dictionary = [
   {
     "title": "きた",
     "kana": [
-      "き",
       "きた"
     ],
     "roman": [
-      "ki",
       "kita"
     ]
   },
@@ -108760,11 +106282,9 @@ const dictionary = [
   {
     "title": "いずれ",
     "kana": [
-      "いず",
       "いずれ"
     ],
     "roman": [
-      "izu",
       "izure"
     ]
   },
@@ -108845,11 +106365,9 @@ const dictionary = [
   {
     "title": "いかんせん",
     "kana": [
-      "いかんせ",
       "いかんせん"
     ],
     "roman": [
-      "ikanse",
       "ikansen"
     ]
   },
@@ -109056,11 +106574,9 @@ const dictionary = [
   {
     "title": "いきいき",
     "kana": [
-      "いきい",
       "いきいき"
     ],
     "roman": [
-      "ikii",
       "ikiiki"
     ]
   },
@@ -109220,11 +106736,9 @@ const dictionary = [
   {
     "title": "みたい",
     "kana": [
-      "みた",
       "みたい"
     ],
     "roman": [
-      "mita",
       "mitai"
     ]
   },
@@ -109249,11 +106763,9 @@ const dictionary = [
   {
     "title": "あっけ",
     "kana": [
-      "あっ",
       "あっけ"
     ],
     "roman": [
-      "axtsu",
       "akke"
     ]
   },
@@ -109269,11 +106781,9 @@ const dictionary = [
   {
     "title": "そうです",
     "kana": [
-      "そうで",
       "そうです"
     ],
     "roman": [
-      "soude",
       "soudesu"
     ]
   },
@@ -109325,11 +106835,9 @@ const dictionary = [
   {
     "title": "たかが",
     "kana": [
-      "たか",
       "たかが"
     ],
     "roman": [
-      "taka",
       "takaga"
     ]
   },
@@ -109354,11 +106862,9 @@ const dictionary = [
   {
     "title": "ばつ",
     "kana": [
-      "ば",
       "ばつ"
     ],
     "roman": [
-      "ba",
       "batsu"
     ]
   },
@@ -109401,11 +106907,9 @@ const dictionary = [
   {
     "title": "すく",
     "kana": [
-      "す",
       "すく"
     ],
     "roman": [
-      "su",
       "suku"
     ]
   },
@@ -109466,11 +106970,9 @@ const dictionary = [
   {
     "title": "しかけ",
     "kana": [
-      "しか",
       "しかけ"
     ],
     "roman": [
-      "shika",
       "shikake"
     ]
   },
@@ -109621,11 +107123,9 @@ const dictionary = [
   {
     "title": "すたすた",
     "kana": [
-      "すたす",
       "すたすた"
     ],
     "roman": [
-      "sutasu",
       "sutasuta"
     ]
   },
@@ -109659,11 +107159,9 @@ const dictionary = [
   {
     "title": "せま",
     "kana": [
-      "せ",
       "せま"
     ],
     "roman": [
-      "se",
       "sema"
     ]
   },
@@ -109742,11 +107240,9 @@ const dictionary = [
   {
     "title": "まだ",
     "kana": [
-      "ま",
       "まだ"
     ],
     "roman": [
-      "ma",
       "mada"
     ]
   },
@@ -109762,11 +107258,9 @@ const dictionary = [
   {
     "title": "ごつ",
     "kana": [
-      "ご",
       "ごつ"
     ],
     "roman": [
-      "go",
       "gotsu"
     ]
   },
@@ -109892,11 +107386,9 @@ const dictionary = [
   {
     "title": "たくまし",
     "kana": [
-      "たくま",
       "たくまし"
     ],
     "roman": [
-      "takuma",
       "takumashi"
     ]
   },
@@ -109966,11 +107458,9 @@ const dictionary = [
   {
     "title": "ぬいぐるみ",
     "kana": [
-      "ぬいぐる",
       "ぬいぐるみ"
     ],
     "roman": [
-      "nuiguru",
       "nuigurumi"
     ]
   },
@@ -110026,11 +107516,9 @@ const dictionary = [
   {
     "title": "いくらでも",
     "kana": [
-      "いくらで",
       "いくらでも"
     ],
     "roman": [
-      "ikurade",
       "ikurademo"
     ]
   },
@@ -110046,11 +107534,9 @@ const dictionary = [
   {
     "title": "よろよろ",
     "kana": [
-      "よろよ",
       "よろよろ"
     ],
     "roman": [
-      "yoroyo",
       "yoroyoro"
     ]
   },
@@ -110102,11 +107588,9 @@ const dictionary = [
   {
     "title": "しゃが",
     "kana": [
-      "しゃ",
       "しゃが"
     ],
     "roman": [
-      "sha",
       "shaga"
     ]
   },
@@ -110149,11 +107633,9 @@ const dictionary = [
   {
     "title": "わき",
     "kana": [
-      "わ",
       "わき"
     ],
     "roman": [
-      "wa",
       "waki"
     ]
   },
@@ -110178,11 +107660,9 @@ const dictionary = [
   {
     "title": "とっても",
     "kana": [
-      "とって",
       "とっても"
     ],
     "roman": [
-      "totte",
       "tottemo"
     ]
   },
@@ -110245,11 +107725,9 @@ const dictionary = [
   {
     "title": "みにく",
     "kana": [
-      "みに",
       "みにく"
     ],
     "roman": [
-      "mini",
       "miniku"
     ]
   },
@@ -110393,11 +107871,9 @@ const dictionary = [
   {
     "title": "とけ",
     "kana": [
-      "と",
       "とけ"
     ],
     "roman": [
-      "to",
       "toke"
     ]
   },
@@ -110413,22 +107889,18 @@ const dictionary = [
   {
     "title": "よい",
     "kana": [
-      "よ",
       "よい"
     ],
     "roman": [
-      "yo",
       "yoi"
     ]
   },
   {
     "title": "かわり",
     "kana": [
-      "かわ",
       "かわり"
     ],
     "roman": [
-      "kawa",
       "kawari"
     ]
   },
@@ -110453,11 +107925,9 @@ const dictionary = [
   {
     "title": "へこ",
     "kana": [
-      "へ",
       "へこ"
     ],
     "roman": [
-      "he",
       "heko"
     ]
   },
@@ -110500,22 +107970,18 @@ const dictionary = [
   {
     "title": "それで",
     "kana": [
-      "それ",
       "それで"
     ],
     "roman": [
-      "sore",
       "sorede"
     ]
   },
   {
     "title": "もともと",
     "kana": [
-      "もとも",
       "もともと"
     ],
     "roman": [
-      "motomo",
       "motomoto"
     ]
   },
@@ -110531,11 +107997,9 @@ const dictionary = [
   {
     "title": "つば",
     "kana": [
-      "つ",
       "つば"
     ],
     "roman": [
-      "tsu",
       "tsuba"
     ]
   },
@@ -110618,11 +108082,9 @@ const dictionary = [
   {
     "title": "つんと",
     "kana": [
-      "つん",
       "つんと"
     ],
     "roman": [
-      "tsun",
       "tsunto"
     ]
   },
@@ -110701,11 +108163,9 @@ const dictionary = [
   {
     "title": "かいな",
     "kana": [
-      "かい",
       "かいな"
     ],
     "roman": [
-      "kai",
       "kaina"
     ]
   },
@@ -110833,11 +108293,9 @@ const dictionary = [
   {
     "title": "きっぷ",
     "kana": [
-      "きっ",
       "きっぷ"
     ],
     "roman": [
-      "kixtsu",
       "kippu"
     ]
   },
@@ -111008,11 +108466,9 @@ const dictionary = [
   {
     "title": "とても",
     "kana": [
-      "とて",
       "とても"
     ],
     "roman": [
-      "tote",
       "totemo"
     ]
   },
@@ -111064,11 +108520,9 @@ const dictionary = [
   {
     "title": "きのう",
     "kana": [
-      "きの",
       "きのう"
     ],
     "roman": [
-      "kino",
       "kinou"
     ]
   },
@@ -111084,11 +108538,9 @@ const dictionary = [
   {
     "title": "ひきつ",
     "kana": [
-      "ひき",
       "ひきつ"
     ],
     "roman": [
-      "hiki",
       "hikitsu"
     ]
   },
@@ -111158,11 +108610,9 @@ const dictionary = [
   {
     "title": "わせ",
     "kana": [
-      "わ",
       "わせ"
     ],
     "roman": [
-      "wa",
       "wase"
     ]
   },
@@ -111304,11 +108754,9 @@ const dictionary = [
   {
     "title": "だれ",
     "kana": [
-      "だ",
       "だれ"
     ],
     "roman": [
-      "da",
       "dare"
     ]
   },
@@ -111461,22 +108909,18 @@ const dictionary = [
   {
     "title": "しょっちゅう",
     "kana": [
-      "しょっちゅ",
       "しょっちゅう"
     ],
     "roman": [
-      "shotchu",
       "shotchuu"
     ]
   },
   {
     "title": "におい",
     "kana": [
-      "にお",
       "におい"
     ],
     "roman": [
-      "nio",
       "nioi"
     ]
   },
@@ -111681,11 +109125,9 @@ const dictionary = [
   {
     "title": "みつ",
     "kana": [
-      "み",
       "みつ"
     ],
     "roman": [
-      "mi",
       "mitsu"
     ]
   },
@@ -111719,11 +109161,9 @@ const dictionary = [
   {
     "title": "おっとり",
     "kana": [
-      "おっと",
       "おっとり"
     ],
     "roman": [
-      "otto",
       "ottori"
     ]
   },
@@ -111775,11 +109215,9 @@ const dictionary = [
   {
     "title": "のば",
     "kana": [
-      "の",
       "のば"
     ],
     "roman": [
-      "no",
       "noba"
     ]
   },
@@ -111804,22 +109242,18 @@ const dictionary = [
   {
     "title": "ふた",
     "kana": [
-      "ふ",
       "ふた"
     ],
     "roman": [
-      "fu",
       "futa"
     ]
   },
   {
     "title": "ざく",
     "kana": [
-      "ざ",
       "ざく"
     ],
     "roman": [
-      "za",
       "zaku"
     ]
   },
@@ -111961,11 +109395,9 @@ const dictionary = [
   {
     "title": "いさ",
     "kana": [
-      "い",
       "いさ"
     ],
     "roman": [
-      "i",
       "isa"
     ]
   },
@@ -111990,11 +109422,11 @@ const dictionary = [
   {
     "title": "その後",
     "kana": [
-      "その",
+      "その後",
       "そのご"
     ],
     "roman": [
-      "sono",
+      "sono後",
       "sonogo"
     ]
   },
@@ -112026,33 +109458,27 @@ const dictionary = [
   {
     "title": "あくまでも",
     "kana": [
-      "あくまで",
       "あくまでも"
     ],
     "roman": [
-      "akumade",
       "akumademo"
     ]
   },
   {
     "title": "いかがわし",
     "kana": [
-      "いかがわ",
       "いかがわし"
     ],
     "roman": [
-      "ikagawa",
       "ikagawashi"
     ]
   },
   {
     "title": "もうすぐ",
     "kana": [
-      "もうす",
       "もうすぐ"
     ],
     "roman": [
-      "mousu",
       "mousugu"
     ]
   },
@@ -112396,11 +109822,9 @@ const dictionary = [
   {
     "title": "おや",
     "kana": [
-      "お",
       "おや"
     ],
     "roman": [
-      "o",
       "oya"
     ]
   },
@@ -112425,11 +109849,9 @@ const dictionary = [
   {
     "title": "せい",
     "kana": [
-      "せ",
       "せい"
     ],
     "roman": [
-      "se",
       "sei"
     ]
   },
@@ -112463,11 +109885,9 @@ const dictionary = [
   {
     "title": "しこたま",
     "kana": [
-      "しこた",
       "しこたま"
     ],
     "roman": [
-      "shikota",
       "shikotama"
     ]
   },
@@ -112726,22 +110146,18 @@ const dictionary = [
   {
     "title": "ば",
     "kana": [
-      "",
       "ば"
     ],
     "roman": [
-      "",
       "ba"
     ]
   },
   {
     "title": "すかさず",
     "kana": [
-      "すかさ",
       "すかさず"
     ],
     "roman": [
-      "sukasa",
       "sukasazu"
     ]
   },
@@ -112793,20 +110209,20 @@ const dictionary = [
   {
     "title": "せ*",
     "kana": [
+      "せ*",
       "せ"
     ],
     "roman": [
+      "se*",
       "se"
     ]
   },
   {
     "title": "ただいま",
     "kana": [
-      "ただい",
       "ただいま"
     ],
     "roman": [
-      "tadai",
       "tadaima"
     ]
   },
@@ -112984,11 +110400,9 @@ const dictionary = [
   {
     "title": "だま",
     "kana": [
-      "だ",
       "だま"
     ],
     "roman": [
-      "da",
       "dama"
     ]
   },
@@ -113040,11 +110454,9 @@ const dictionary = [
   {
     "title": "つゆ",
     "kana": [
-      "つ",
       "つゆ"
     ],
     "roman": [
-      "tsu",
       "tsuyu"
     ]
   },
@@ -113060,11 +110472,9 @@ const dictionary = [
   {
     "title": "よる",
     "kana": [
-      "よ",
       "よる"
     ],
     "roman": [
-      "yo",
       "yoru"
     ]
   },
@@ -113116,11 +110526,9 @@ const dictionary = [
   {
     "title": "だせ",
     "kana": [
-      "だ",
       "だせ"
     ],
     "roman": [
-      "da",
       "dase"
     ]
   },
@@ -113219,11 +110627,9 @@ const dictionary = [
   {
     "title": "よろめ",
     "kana": [
-      "よろ",
       "よろめ"
     ],
     "roman": [
-      "yoro",
       "yorome"
     ]
   },
@@ -113266,11 +110672,9 @@ const dictionary = [
   {
     "title": "あたりまえ",
     "kana": [
-      "あたりま",
       "あたりまえ"
     ],
     "roman": [
-      "atarima",
       "atarimae"
     ]
   },
@@ -113396,11 +110800,9 @@ const dictionary = [
   {
     "title": "させ",
     "kana": [
-      "さ",
       "させ"
     ],
     "roman": [
-      "sa",
       "sase"
     ]
   },
@@ -113434,11 +110836,9 @@ const dictionary = [
   {
     "title": "ぜんぶ",
     "kana": [
-      "ぜん",
       "ぜんぶ"
     ],
     "roman": [
-      "zen",
       "zenbu"
     ]
   },
@@ -113607,22 +111007,18 @@ const dictionary = [
   {
     "title": "ゆっくり",
     "kana": [
-      "ゆっく",
       "ゆっくり"
     ],
     "roman": [
-      "yukku",
       "yukkuri"
     ]
   },
   {
     "title": "てこ",
     "kana": [
-      "て",
       "てこ"
     ],
     "roman": [
-      "te",
       "teko"
     ]
   },
@@ -113818,11 +111214,9 @@ const dictionary = [
   {
     "title": "ぽっかぽか",
     "kana": [
-      "ぽっかぽ",
       "ぽっかぽか"
     ],
     "roman": [
-      "pokkapo",
       "pokkapoka"
     ]
   },
@@ -113892,14 +111286,12 @@ const dictionary = [
   {
     "title": "れる",
     "kana": [
-      "れ",
       "れる",
       "れれ",
       "れよ",
       "れん"
     ],
     "roman": [
-      "re",
       "reru",
       "rere",
       "reyo",
@@ -113954,11 +111346,9 @@ const dictionary = [
   {
     "title": "どうにか",
     "kana": [
-      "どうに",
       "どうにか"
     ],
     "roman": [
-      "douni",
       "dounika"
     ]
   },
@@ -114073,11 +111463,9 @@ const dictionary = [
   {
     "title": "にわかに",
     "kana": [
-      "にわか",
       "にわかに"
     ],
     "roman": [
-      "niwaka",
       "niwakani"
     ]
   },
@@ -114102,11 +111490,11 @@ const dictionary = [
   {
     "title": "お似合い",
     "kana": [
-      "お似合",
+      "お似合い",
       "おにあい"
     ],
     "roman": [
-      "o似合",
+      "o似合i",
       "oniai"
     ]
   },
@@ -114196,11 +111584,9 @@ const dictionary = [
   {
     "title": "おもむろに",
     "kana": [
-      "おもむろ",
       "おもむろに"
     ],
     "roman": [
-      "omomuro",
       "omomuroni"
     ]
   },
@@ -114252,11 +111638,9 @@ const dictionary = [
   {
     "title": "さげ",
     "kana": [
-      "さ",
       "さげ"
     ],
     "roman": [
-      "sa",
       "sage"
     ]
   },
@@ -114290,11 +111674,9 @@ const dictionary = [
   {
     "title": "せつな",
     "kana": [
-      "せつ",
       "せつな"
     ],
     "roman": [
-      "setsu",
       "setsuna"
     ]
   },
@@ -114346,11 +111728,9 @@ const dictionary = [
   {
     "title": "つくづく",
     "kana": [
-      "つくづ",
       "つくづく"
     ],
     "roman": [
-      "tsukudu",
       "tsukuduku"
     ]
   },
@@ -114465,11 +111845,9 @@ const dictionary = [
   {
     "title": "いろは",
     "kana": [
-      "いろ",
       "いろは"
     ],
     "roman": [
-      "iro",
       "iroha"
     ]
   },
@@ -114588,11 +111966,9 @@ const dictionary = [
   {
     "title": "なにもかも",
     "kana": [
-      "なにもか",
       "なにもかも"
     ],
     "roman": [
-      "nanimoka",
       "nanimokamo"
     ]
   },
@@ -114653,11 +112029,9 @@ const dictionary = [
   {
     "title": "へ",
     "kana": [
-      "",
       "へ"
     ],
     "roman": [
-      "",
       "he"
     ]
   },
@@ -114763,11 +112137,9 @@ const dictionary = [
   {
     "title": "きま",
     "kana": [
-      "き",
       "きま"
     ],
     "roman": [
-      "ki",
       "kima"
     ]
   },
@@ -114886,11 +112258,9 @@ const dictionary = [
   {
     "title": "とらえ",
     "kana": [
-      "とら",
       "とらえ"
     ],
     "roman": [
-      "tora",
       "torae"
     ]
   },
@@ -114924,22 +112294,18 @@ const dictionary = [
   {
     "title": "ひとたび",
     "kana": [
-      "ひとた",
       "ひとたび"
     ],
     "roman": [
-      "hitota",
       "hitotabi"
     ]
   },
   {
     "title": "こつこつ",
     "kana": [
-      "こつこ",
       "こつこつ"
     ],
     "roman": [
-      "kotsuko",
       "kotsukotsu"
     ]
   },
@@ -114964,22 +112330,18 @@ const dictionary = [
   {
     "title": "がら",
     "kana": [
-      "が",
       "がら"
     ],
     "roman": [
-      "ga",
       "gara"
     ]
   },
   {
     "title": "ごい",
     "kana": [
-      "ご",
       "ごい"
     ],
     "roman": [
-      "go",
       "goi"
     ]
   },
@@ -115013,11 +112375,9 @@ const dictionary = [
   {
     "title": "かえって",
     "kana": [
-      "かえっ",
       "かえって"
     ],
     "roman": [
-      "kaextsu",
       "kaette"
     ]
   },
@@ -115123,11 +112483,9 @@ const dictionary = [
   {
     "title": "そう",
     "kana": [
-      "そ",
       "そう"
     ],
     "roman": [
-      "so",
       "sou"
     ]
   },
@@ -115305,11 +112663,9 @@ const dictionary = [
   {
     "title": "ちらっと",
     "kana": [
-      "ちらっ",
       "ちらっと"
     ],
     "roman": [
-      "chiraxtsu",
       "chiratto"
     ]
   },
@@ -115397,11 +112753,9 @@ const dictionary = [
   {
     "title": "なるべく",
     "kana": [
-      "なるべ",
       "なるべく"
     ],
     "roman": [
-      "narube",
       "narubeku"
     ]
   },
@@ -115417,22 +112771,18 @@ const dictionary = [
   {
     "title": "ございます",
     "kana": [
-      "ございま",
       "ございます"
     ],
     "roman": [
-      "gozaima",
       "gozaimasu"
     ]
   },
   {
     "title": "しかた",
     "kana": [
-      "しか",
       "しかた"
     ],
     "roman": [
-      "shika",
       "shikata"
     ]
   },
@@ -115581,11 +112931,9 @@ const dictionary = [
   {
     "title": "どっと",
     "kana": [
-      "どっ",
       "どっと"
     ],
     "roman": [
-      "doxtsu",
       "dotto"
     ]
   },
@@ -115637,33 +112985,27 @@ const dictionary = [
   {
     "title": "もん",
     "kana": [
-      "も",
       "もん"
     ],
     "roman": [
-      "mo",
       "mon"
     ]
   },
   {
     "title": "ゆらり",
     "kana": [
-      "ゆら",
       "ゆらり"
     ],
     "roman": [
-      "yura",
       "yurari"
     ]
   },
   {
     "title": "きみ",
     "kana": [
-      "き",
       "きみ"
     ],
     "roman": [
-      "ki",
       "kimi"
     ]
   },
@@ -115715,11 +113057,9 @@ const dictionary = [
   {
     "title": "つかれ",
     "kana": [
-      "つか",
       "つかれ"
     ],
     "roman": [
-      "tsuka",
       "tsukare"
     ]
   },
@@ -115744,11 +113084,9 @@ const dictionary = [
   {
     "title": "はなはだし",
     "kana": [
-      "はなはだ",
       "はなはだし"
     ],
     "roman": [
-      "hanahada",
       "hanahadashi"
     ]
   },
@@ -115800,11 +113138,9 @@ const dictionary = [
   {
     "title": "いし",
     "kana": [
-      "い",
       "いし"
     ],
     "roman": [
-      "i",
       "ishi"
     ]
   },
@@ -115896,11 +113232,9 @@ const dictionary = [
   {
     "title": "しかく",
     "kana": [
-      "しか",
       "しかく"
     ],
     "roman": [
-      "shika",
       "shikaku"
     ]
   },
@@ -115916,11 +113250,9 @@ const dictionary = [
   {
     "title": "ごろりと",
     "kana": [
-      "ごろり",
       "ごろりと"
     ],
     "roman": [
-      "gorori",
       "gororito"
     ]
   },
@@ -115936,11 +113268,9 @@ const dictionary = [
   {
     "title": "ふらり",
     "kana": [
-      "ふら",
       "ふらり"
     ],
     "roman": [
-      "fura",
       "furari"
     ]
   },
@@ -116138,11 +113468,9 @@ const dictionary = [
   {
     "title": "うべ",
     "kana": [
-      "う",
       "うべ"
     ],
     "roman": [
-      "u",
       "ube"
     ]
   },
@@ -116293,11 +113621,9 @@ const dictionary = [
   {
     "title": "しっし",
     "kana": [
-      "しっ",
       "しっし"
     ],
     "roman": [
-      "shixtsu",
       "shisshi"
     ]
   },
@@ -116394,11 +113720,9 @@ const dictionary = [
   {
     "title": "もつ",
     "kana": [
-      "も",
       "もつ"
     ],
     "roman": [
-      "mo",
       "motsu"
     ]
   },
@@ -116495,11 +113819,9 @@ const dictionary = [
   {
     "title": "け",
     "kana": [
-      "",
       "け"
     ],
     "roman": [
-      "",
       "ke"
     ]
   },
@@ -116551,11 +113873,9 @@ const dictionary = [
   {
     "title": "いのち",
     "kana": [
-      "いの",
       "いのち"
     ],
     "roman": [
-      "ino",
       "inochi"
     ]
   },
@@ -116672,22 +113992,18 @@ const dictionary = [
   {
     "title": "すげ",
     "kana": [
-      "す",
       "すげ"
     ],
     "roman": [
-      "su",
       "suge"
     ]
   },
   {
     "title": "すっご",
     "kana": [
-      "すっ",
       "すっご"
     ],
     "roman": [
-      "suxtsu",
       "suggo"
     ]
   },
@@ -116721,11 +114037,9 @@ const dictionary = [
   {
     "title": "かけ",
     "kana": [
-      "か",
       "かけ"
     ],
     "roman": [
-      "ka",
       "kake"
     ]
   },
@@ -116743,11 +114057,9 @@ const dictionary = [
   {
     "title": "きつ",
     "kana": [
-      "き",
       "きつ"
     ],
     "roman": [
-      "ki",
       "kitsu"
     ]
   },
@@ -116873,11 +114185,9 @@ const dictionary = [
   {
     "title": "くしゃくしゃ",
     "kana": [
-      "くしゃくし",
       "くしゃくしゃ"
     ],
     "roman": [
-      "kushakushi",
       "kushakusha"
     ]
   },
@@ -116922,11 +114232,9 @@ const dictionary = [
   {
     "title": "はず",
     "kana": [
-      "は",
       "はず"
     ],
     "roman": [
-      "ha",
       "hazu"
     ]
   },
@@ -116942,11 +114250,11 @@ const dictionary = [
   {
     "title": "かき混ぜ",
     "kana": [
-      "かき混",
+      "かき混ぜ",
       "かきまぜ"
     ],
     "roman": [
-      "kaki混",
+      "kaki混ze",
       "kakimaze"
     ]
   },
@@ -116962,22 +114270,18 @@ const dictionary = [
   {
     "title": "ぐず",
     "kana": [
-      "ぐ",
       "ぐず"
     ],
     "roman": [
-      "gu",
       "guzu"
     ]
   },
   {
     "title": "なんにも",
     "kana": [
-      "なんに",
       "なんにも"
     ],
     "roman": [
-      "nanni",
       "nannimo"
     ]
   },
@@ -117002,11 +114306,9 @@ const dictionary = [
   {
     "title": "ぱたり",
     "kana": [
-      "ぱた",
       "ぱたり"
     ],
     "roman": [
-      "pata",
       "patari"
     ]
   },
@@ -117049,11 +114351,9 @@ const dictionary = [
   {
     "title": "ありがとう",
     "kana": [
-      "ありがと",
       "ありがとう"
     ],
     "roman": [
-      "arigato",
       "arigatou"
     ]
   },
@@ -117280,11 +114580,9 @@ const dictionary = [
   {
     "title": "もぞもぞ",
     "kana": [
-      "もぞも",
       "もぞもぞ"
     ],
     "roman": [
-      "mozomo",
       "mozomozo"
     ]
   },
@@ -117345,11 +114643,9 @@ const dictionary = [
   {
     "title": "おも",
     "kana": [
-      "お",
       "おも"
     ],
     "roman": [
-      "o",
       "omo"
     ]
   },
@@ -117374,11 +114670,9 @@ const dictionary = [
   {
     "title": "うま",
     "kana": [
-      "う",
       "うま"
     ],
     "roman": [
-      "u",
       "uma"
     ]
   },
@@ -117414,11 +114708,9 @@ const dictionary = [
   {
     "title": "だらだら",
     "kana": [
-      "だらだ",
       "だらだら"
     ],
     "roman": [
-      "darada",
       "daradara"
     ]
   },
@@ -117546,11 +114838,9 @@ const dictionary = [
   {
     "title": "いささか",
     "kana": [
-      "いささ",
       "いささか"
     ],
     "roman": [
-      "isasa",
       "isasaka"
     ]
   },
@@ -117575,11 +114865,9 @@ const dictionary = [
   {
     "title": "めん",
     "kana": [
-      "め",
       "めん"
     ],
     "roman": [
-      "me",
       "men"
     ]
   },
@@ -117660,11 +114948,9 @@ const dictionary = [
   {
     "title": "かすか",
     "kana": [
-      "かす",
       "かすか"
     ],
     "roman": [
-      "kasu",
       "kasuka"
     ]
   },
@@ -117779,11 +115065,9 @@ const dictionary = [
   {
     "title": "つる",
     "kana": [
-      "つ",
       "つる"
     ],
     "roman": [
-      "tsu",
       "tsuru"
     ]
   },
@@ -118073,11 +115357,9 @@ const dictionary = [
   {
     "title": "にらめっこ",
     "kana": [
-      "にらめっ",
       "にらめっこ"
     ],
     "roman": [
-      "niramextsu",
       "niramekko"
     ]
   },
@@ -118093,22 +115375,18 @@ const dictionary = [
   {
     "title": "がち",
     "kana": [
-      "が",
       "がち"
     ],
     "roman": [
-      "ga",
       "gachi"
     ]
   },
   {
     "title": "ほどよ",
     "kana": [
-      "ほど",
       "ほどよ"
     ],
     "roman": [
-      "hodo",
       "hodoyo"
     ]
   },
@@ -118263,11 +115541,9 @@ const dictionary = [
   {
     "title": "いくばく",
     "kana": [
-      "いくば",
       "いくばく"
     ],
     "roman": [
-      "ikuba",
       "ikubaku"
     ]
   },
@@ -118573,11 +115849,9 @@ const dictionary = [
   {
     "title": "はるか",
     "kana": [
-      "はる",
       "はるか"
     ],
     "roman": [
-      "haru",
       "haruka"
     ]
   },
@@ -118631,11 +115905,9 @@ const dictionary = [
   {
     "title": "うり",
     "kana": [
-      "う",
       "うり"
     ],
     "roman": [
-      "u",
       "uri"
     ]
   },
@@ -118660,11 +115932,9 @@ const dictionary = [
   {
     "title": "いっしょ",
     "kana": [
-      "いっし",
       "いっしょ"
     ],
     "roman": [
-      "isshi",
       "issho"
     ]
   },
@@ -118707,9 +115977,11 @@ const dictionary = [
   {
     "title": "やす*",
     "kana": [
+      "やす*",
       "やす"
     ],
     "roman": [
+      "yasu*",
       "yasu"
     ]
   },
@@ -118725,11 +115997,9 @@ const dictionary = [
   {
     "title": "ひそか",
     "kana": [
-      "ひそ",
       "ひそか"
     ],
     "roman": [
-      "hiso",
       "hisoka"
     ]
   },
@@ -118745,11 +116015,9 @@ const dictionary = [
   {
     "title": "ただただ",
     "kana": [
-      "ただた",
       "ただただ"
     ],
     "roman": [
-      "tadata",
       "tadatada"
     ]
   },
@@ -118864,11 +116132,9 @@ const dictionary = [
   {
     "title": "ばかり",
     "kana": [
-      "ばか",
       "ばかり"
     ],
     "roman": [
-      "baka",
       "bakari"
     ]
   },
@@ -118911,11 +116177,11 @@ const dictionary = [
   {
     "title": "はみ出",
     "kana": [
-      "はみ",
+      "はみ出",
       "はみだ"
     ],
     "roman": [
-      "hami",
+      "hami出",
       "hamida"
     ]
   },
@@ -118951,11 +116217,9 @@ const dictionary = [
   {
     "title": "かり",
     "kana": [
-      "か",
       "かり"
     ],
     "roman": [
-      "ka",
       "kari"
     ]
   },
@@ -119162,9 +116426,11 @@ const dictionary = [
   {
     "title": "い*",
     "kana": [
+      "い*",
       "い"
     ],
     "roman": [
+      "i*",
       "i"
     ]
   },
@@ -119243,22 +116509,18 @@ const dictionary = [
   {
     "title": "ぐんと",
     "kana": [
-      "ぐん",
       "ぐんと"
     ],
     "roman": [
-      "gun",
       "gunto"
     ]
   },
   {
     "title": "むろん",
     "kana": [
-      "むろ",
       "むろん"
     ],
     "roman": [
-      "muro",
       "muron"
     ]
   },
@@ -119471,11 +116733,9 @@ const dictionary = [
   {
     "title": "ぎゅうっと",
     "kana": [
-      "ぎゅうっ",
       "ぎゅうっと"
     ],
     "roman": [
-      "gyuuxtsu",
       "gyuutto"
     ]
   },
@@ -119527,11 +116787,9 @@ const dictionary = [
   {
     "title": "ほったらか",
     "kana": [
-      "ほったら",
       "ほったらか"
     ],
     "roman": [
-      "hottara",
       "hottaraka"
     ]
   },
@@ -119567,11 +116825,9 @@ const dictionary = [
   {
     "title": "なん",
     "kana": [
-      "な",
       "なん"
     ],
     "roman": [
-      "na",
       "nan"
     ]
   },
@@ -119625,11 +116881,9 @@ const dictionary = [
   {
     "title": "ふつ",
     "kana": [
-      "ふ",
       "ふつ"
     ],
     "roman": [
-      "fu",
       "futsu"
     ]
   },
@@ -119674,11 +116928,9 @@ const dictionary = [
   {
     "title": "わずらわし",
     "kana": [
-      "わずらわ",
       "わずらわし"
     ],
     "roman": [
-      "wazurawa",
       "wazurawashi"
     ]
   },
@@ -119793,11 +117045,9 @@ const dictionary = [
   {
     "title": "けろけろ",
     "kana": [
-      "けろけ",
       "けろけろ"
     ],
     "roman": [
-      "keroke",
       "kerokero"
     ]
   },
@@ -119822,11 +117072,9 @@ const dictionary = [
   {
     "title": "いよいよ",
     "kana": [
-      "いよい",
       "いよいよ"
     ],
     "roman": [
-      "iyoi",
       "iyoiyo"
     ]
   },
@@ -119878,11 +117126,9 @@ const dictionary = [
   {
     "title": "ぼく",
     "kana": [
-      "ぼ",
       "ぼく"
     ],
     "roman": [
-      "bo",
       "boku"
     ]
   },
@@ -119898,11 +117144,9 @@ const dictionary = [
   {
     "title": "てら",
     "kana": [
-      "て",
       "てら"
     ],
     "roman": [
-      "te",
       "tera"
     ]
   },
@@ -120044,11 +117288,9 @@ const dictionary = [
   {
     "title": "うえ",
     "kana": [
-      "う",
       "うえ"
     ],
     "roman": [
-      "u",
       "ue"
     ]
   },
@@ -120082,11 +117324,9 @@ const dictionary = [
   {
     "title": "いや",
     "kana": [
-      "い",
       "いや"
     ],
     "roman": [
-      "i",
       "iya"
     ]
   },
@@ -120147,11 +117387,9 @@ const dictionary = [
   {
     "title": "まみれ",
     "kana": [
-      "まみ",
       "まみれ"
     ],
     "roman": [
-      "mami",
       "mamire"
     ]
   },
@@ -120185,11 +117423,9 @@ const dictionary = [
   {
     "title": "ちょっぴり",
     "kana": [
-      "ちょっぴ",
       "ちょっぴり"
     ],
     "roman": [
-      "choppi",
       "choppiri"
     ]
   },
@@ -120241,11 +117477,9 @@ const dictionary = [
   {
     "title": "まっとう",
     "kana": [
-      "まっと",
       "まっとう"
     ],
     "roman": [
-      "matto",
       "mattou"
     ]
   },
@@ -120315,11 +117549,9 @@ const dictionary = [
   {
     "title": "なでおろ",
     "kana": [
-      "なでお",
       "なでおろ"
     ],
     "roman": [
-      "nadeo",
       "nadeoro"
     ]
   },
@@ -120344,11 +117576,9 @@ const dictionary = [
   {
     "title": "と共に",
     "kana": [
-      "と共",
       "と共に"
     ],
     "roman": [
-      "to共",
       "to共ni"
     ]
   },
@@ -120550,11 +117780,9 @@ const dictionary = [
   {
     "title": "こも",
     "kana": [
-      "こ",
       "こも"
     ],
     "roman": [
-      "ko",
       "komo"
     ]
   },
@@ -120817,11 +118045,9 @@ const dictionary = [
   {
     "title": "これぞ",
     "kana": [
-      "これ",
       "これぞ"
     ],
     "roman": [
-      "kore",
       "korezo"
     ]
   },
@@ -120837,11 +118063,9 @@ const dictionary = [
   {
     "title": "なつかし",
     "kana": [
-      "なつか",
       "なつかし"
     ],
     "roman": [
-      "natsuka",
       "natsukashi"
     ]
   },
@@ -120922,11 +118146,9 @@ const dictionary = [
   {
     "title": "さわやか",
     "kana": [
-      "さわや",
       "さわやか"
     ],
     "roman": [
-      "sawaya",
       "sawayaka"
     ]
   },
@@ -120960,22 +118182,18 @@ const dictionary = [
   {
     "title": "おでん",
     "kana": [
-      "おで",
       "おでん"
     ],
     "roman": [
-      "ode",
       "oden"
     ]
   },
   {
     "title": "よこ",
     "kana": [
-      "よ",
       "よこ"
     ],
     "roman": [
-      "yo",
       "yoko"
     ]
   },
@@ -121151,11 +118369,11 @@ const dictionary = [
   {
     "title": "いい加減",
     "kana": [
-      "いい加",
+      "いい加減",
       "いいかげん"
     ],
     "roman": [
-      "ii加",
+      "ii加減",
       "iikagen"
     ]
   },
@@ -121191,11 +118409,9 @@ const dictionary = [
   {
     "title": "あちら",
     "kana": [
-      "あち",
       "あちら"
     ],
     "roman": [
-      "achi",
       "achira"
     ]
   },
@@ -121247,11 +118463,9 @@ const dictionary = [
   {
     "title": "くしゃみ",
     "kana": [
-      "くしゃ",
       "くしゃみ"
     ],
     "roman": [
-      "kusha",
       "kushami"
     ]
   },
@@ -121303,11 +118517,9 @@ const dictionary = [
   {
     "title": "もったいな",
     "kana": [
-      "もったい",
       "もったいな"
     ],
     "roman": [
-      "mottai",
       "mottaina"
     ]
   },
@@ -121413,11 +118625,9 @@ const dictionary = [
   {
     "title": "ねこ",
     "kana": [
-      "ね",
       "ねこ"
     ],
     "roman": [
-      "ne",
       "neko"
     ]
   },
@@ -121516,11 +118726,9 @@ const dictionary = [
   {
     "title": "こいつ",
     "kana": [
-      "こい",
       "こいつ"
     ],
     "roman": [
-      "koi",
       "koitsu"
     ]
   },
@@ -121655,11 +118863,9 @@ const dictionary = [
   {
     "title": "つきあ",
     "kana": [
-      "つき",
       "つきあ"
     ],
     "roman": [
-      "tsuki",
       "tsukia"
     ]
   },
@@ -121675,24 +118881,22 @@ const dictionary = [
   {
     "title": "なに",
     "kana": [
-      "な",
       "なに"
     ],
     "roman": [
-      "na",
       "nani"
     ]
   },
   {
     "title": "みる",
     "kana": [
-      "み",
+      "みる",
       "みれ",
       "みよ",
       "みろ"
     ],
     "roman": [
-      "mi",
+      "miru",
       "mire",
       "miyo",
       "miro"
@@ -121782,11 +118986,9 @@ const dictionary = [
   {
     "title": "まぶた",
     "kana": [
-      "まぶ",
       "まぶた"
     ],
     "roman": [
-      "mabu",
       "mabuta"
     ]
   },
@@ -121802,11 +119004,9 @@ const dictionary = [
   {
     "title": "て",
     "kana": [
-      "",
       "て"
     ],
     "roman": [
-      "",
       "te"
     ]
   },
@@ -121822,11 +119022,9 @@ const dictionary = [
   {
     "title": "そっと",
     "kana": [
-      "そっ",
       "そっと"
     ],
     "roman": [
-      "soxtsu",
       "sotto"
     ]
   },
@@ -122219,11 +119417,9 @@ const dictionary = [
   {
     "title": "みこ",
     "kana": [
-      "み",
       "みこ"
     ],
     "roman": [
-      "mi",
       "miko"
     ]
   },
@@ -122295,11 +119491,11 @@ const dictionary = [
   {
     "title": "お盆",
     "kana": [
-      "お",
+      "お盆",
       "おぼん"
     ],
     "roman": [
-      "o",
+      "o盆",
       "obon"
     ]
   },
@@ -122414,11 +119610,11 @@ const dictionary = [
   {
     "title": "お母さん",
     "kana": [
-      "お母さ",
+      "お母さん",
       "おかあさん"
     ],
     "roman": [
-      "o母sa",
+      "o母san",
       "okaasan"
     ]
   },
@@ -122488,11 +119684,9 @@ const dictionary = [
   {
     "title": "かばん",
     "kana": [
-      "かば",
       "かばん"
     ],
     "roman": [
-      "kaba",
       "kaban"
     ]
   },
@@ -122535,11 +119729,9 @@ const dictionary = [
   {
     "title": "ちゃ",
     "kana": [
-      "ち",
       "ちゃ"
     ],
     "roman": [
-      "chi",
       "cha"
     ]
   },
@@ -122672,11 +119864,9 @@ const dictionary = [
   {
     "title": "こないだ",
     "kana": [
-      "こない",
       "こないだ"
     ],
     "roman": [
-      "konai",
       "konaida"
     ]
   },
@@ -122701,11 +119891,9 @@ const dictionary = [
   {
     "title": "すき",
     "kana": [
-      "す",
       "すき"
     ],
     "roman": [
-      "su",
       "suki"
     ]
   },
@@ -122874,11 +120062,9 @@ const dictionary = [
   {
     "title": "つう",
     "kana": [
-      "つ",
       "つう"
     ],
     "roman": [
-      "tsu",
       "tsuu"
     ]
   },
@@ -123013,11 +120199,9 @@ const dictionary = [
   {
     "title": "きり",
     "kana": [
-      "き",
       "きり"
     ],
     "roman": [
-      "ki",
       "kiri"
     ]
   },
@@ -123264,11 +120448,9 @@ const dictionary = [
   {
     "title": "じろじろ",
     "kana": [
-      "じろじ",
       "じろじろ"
     ],
     "roman": [
-      "jiroji",
       "jirojiro"
     ]
   },
@@ -123311,11 +120493,9 @@ const dictionary = [
   {
     "title": "いそがし",
     "kana": [
-      "いそが",
       "いそがし"
     ],
     "roman": [
-      "isoga",
       "isogashi"
     ]
   },
@@ -123434,11 +120614,9 @@ const dictionary = [
   {
     "title": "そのうち",
     "kana": [
-      "そのう",
       "そのうち"
     ],
     "roman": [
-      "sonou",
       "sonouchi"
     ]
   },
@@ -123499,11 +120677,9 @@ const dictionary = [
   {
     "title": "それから",
     "kana": [
-      "それか",
       "それから"
     ],
     "roman": [
-      "soreka",
       "sorekara"
     ]
   },
@@ -123657,11 +120833,9 @@ const dictionary = [
   {
     "title": "とどめ",
     "kana": [
-      "とど",
       "とどめ"
     ],
     "roman": [
-      "todo",
       "todome"
     ]
   },
@@ -123875,11 +121049,9 @@ const dictionary = [
   {
     "title": "こうした",
     "kana": [
-      "こうし",
       "こうした"
     ],
     "roman": [
-      "koushi",
       "koushita"
     ]
   },
@@ -123904,11 +121076,9 @@ const dictionary = [
   {
     "title": "ゆるやか",
     "kana": [
-      "ゆるや",
       "ゆるやか"
     ],
     "roman": [
-      "yuruya",
       "yuruyaka"
     ]
   },
@@ -123933,11 +121103,11 @@ const dictionary = [
   {
     "title": "お返し",
     "kana": [
-      "お返",
+      "お返し",
       "おかえし"
     ],
     "roman": [
-      "o返",
+      "o返shi",
       "okaeshi"
     ]
   },
@@ -124072,11 +121242,9 @@ const dictionary = [
   {
     "title": "つなが",
     "kana": [
-      "つな",
       "つなが"
     ],
     "roman": [
-      "tsuna",
       "tsunaga"
     ]
   },
@@ -124110,11 +121278,9 @@ const dictionary = [
   {
     "title": "たいへん",
     "kana": [
-      "たいへ",
       "たいへん"
     ],
     "roman": [
-      "taihe",
       "taihen"
     ]
   },
@@ -124166,11 +121332,9 @@ const dictionary = [
   {
     "title": "ひょんなことから",
     "kana": [
-      "ひょんなことか",
       "ひょんなことから"
     ],
     "roman": [
-      "hyonnakotoka",
       "hyonnakotokara"
     ]
   },
@@ -124287,11 +121451,9 @@ const dictionary = [
   {
     "title": "すでに",
     "kana": [
-      "すで",
       "すでに"
     ],
     "roman": [
-      "sude",
       "sudeni"
     ]
   },
@@ -124525,11 +121687,9 @@ const dictionary = [
   {
     "title": "いたたまれな",
     "kana": [
-      "いたたまれ",
       "いたたまれな"
     ],
     "roman": [
-      "itatamare",
       "itatamarena"
     ]
   },
@@ -124554,11 +121714,9 @@ const dictionary = [
   {
     "title": "ほんと",
     "kana": [
-      "ほん",
       "ほんと"
     ],
     "roman": [
-      "hon",
       "honto"
     ]
   },
@@ -124574,9 +121732,11 @@ const dictionary = [
   {
     "title": "いれ*",
     "kana": [
+      "いれ*",
       "いれ"
     ],
     "roman": [
+      "ire*",
       "ire"
     ]
   },
@@ -124601,11 +121761,11 @@ const dictionary = [
   {
     "title": "か所",
     "kana": [
-      "か",
+      "か所",
       "かしょ"
     ],
     "roman": [
-      "ka",
+      "ka所",
       "kasho"
     ]
   },
@@ -124630,22 +121790,18 @@ const dictionary = [
   {
     "title": "おいおい",
     "kana": [
-      "おいお",
       "おいおい"
     ],
     "roman": [
-      "oio",
       "oioi"
     ]
   },
   {
     "title": "はめ",
     "kana": [
-      "は",
       "はめ"
     ],
     "roman": [
-      "ha",
       "hame"
     ]
   },
@@ -124841,11 +121997,9 @@ const dictionary = [
   {
     "title": "くすぐ",
     "kana": [
-      "くす",
       "くすぐ"
     ],
     "roman": [
-      "kusu",
       "kusugu"
     ]
   },
@@ -124897,22 +122051,18 @@ const dictionary = [
   {
     "title": "ゆるゆる",
     "kana": [
-      "ゆるゆ",
       "ゆるゆる"
     ],
     "roman": [
-      "yuruyu",
       "yuruyuru"
     ]
   },
   {
     "title": "おっしゃ",
     "kana": [
-      "おっし",
       "おっしゃ"
     ],
     "roman": [
-      "osshi",
       "ossha"
     ]
   },
@@ -124982,11 +122132,9 @@ const dictionary = [
   {
     "title": "こけ",
     "kana": [
-      "こ",
       "こけ"
     ],
     "roman": [
-      "ko",
       "koke"
     ]
   },
@@ -125011,11 +122159,9 @@ const dictionary = [
   {
     "title": "ようです",
     "kana": [
-      "ようで",
       "ようです"
     ],
     "roman": [
-      "youde",
       "youdesu"
     ]
   },
@@ -125130,11 +122276,9 @@ const dictionary = [
   {
     "title": "ずっと",
     "kana": [
-      "ずっ",
       "ずっと"
     ],
     "roman": [
-      "zuxtsu",
       "zutto"
     ]
   },
@@ -125159,22 +122303,18 @@ const dictionary = [
   {
     "title": "やけ",
     "kana": [
-      "や",
       "やけ"
     ],
     "roman": [
-      "ya",
       "yake"
     ]
   },
   {
     "title": "しらす",
     "kana": [
-      "しら",
       "しらす"
     ],
     "roman": [
-      "shira",
       "shirasu"
     ]
   },
@@ -125199,11 +122339,9 @@ const dictionary = [
   {
     "title": "とる",
     "kana": [
-      "と",
       "とる"
     ],
     "roman": [
-      "to",
       "toru"
     ]
   },
@@ -125246,11 +122384,9 @@ const dictionary = [
   {
     "title": "どうも",
     "kana": [
-      "どう",
       "どうも"
     ],
     "roman": [
-      "dou",
       "doumo"
     ]
   },
@@ -125266,11 +122402,9 @@ const dictionary = [
   {
     "title": "ふと",
     "kana": [
-      "ふ",
       "ふと"
     ],
     "roman": [
-      "fu",
       "futo"
     ]
   },
@@ -125340,11 +122474,9 @@ const dictionary = [
   {
     "title": "いいわけ",
     "kana": [
-      "いいわ",
       "いいわけ"
     ],
     "roman": [
-      "iiwa",
       "iiwake"
     ]
   },
@@ -125396,11 +122528,9 @@ const dictionary = [
   {
     "title": "だけど",
     "kana": [
-      "だけ",
       "だけど"
     ],
     "roman": [
-      "dake",
       "dakedo"
     ]
   },
@@ -125611,11 +122741,11 @@ const dictionary = [
   {
     "title": "お姫様",
     "kana": [
-      "お姫",
+      "お姫様",
       "おひめさま"
     ],
     "roman": [
-      "o姫",
+      "o姫様",
       "ohimesama"
     ]
   },
@@ -125730,11 +122860,9 @@ const dictionary = [
   {
     "title": "づ",
     "kana": [
-      "",
       "づ"
     ],
     "roman": [
-      "",
       "du"
     ]
   },
@@ -125849,11 +122977,9 @@ const dictionary = [
   {
     "title": "おもしろ",
     "kana": [
-      "おもし",
       "おもしろ"
     ],
     "roman": [
-      "omoshi",
       "omoshiro"
     ]
   },
@@ -125887,11 +123013,9 @@ const dictionary = [
   {
     "title": "もやもや",
     "kana": [
-      "もやも",
       "もやもや"
     ],
     "roman": [
-      "moyamo",
       "moyamoya"
     ]
   },
@@ -125916,11 +123040,9 @@ const dictionary = [
   {
     "title": "けら",
     "kana": [
-      "け",
       "けら"
     ],
     "roman": [
-      "ke",
       "kera"
     ]
   },
@@ -126073,11 +123195,11 @@ const dictionary = [
   {
     "title": "ずぶ濡れ",
     "kana": [
-      "ずぶ濡",
+      "ずぶ濡れ",
       "ずぶぬれ"
     ],
     "roman": [
-      "zubu濡",
+      "zubu濡re",
       "zubunure"
     ]
   },
@@ -126147,11 +123269,9 @@ const dictionary = [
   {
     "title": "つんのめ",
     "kana": [
-      "つんの",
       "つんのめ"
     ],
     "roman": [
-      "tsunno",
       "tsunnome"
     ]
   },
@@ -126203,11 +123323,9 @@ const dictionary = [
   {
     "title": "では",
     "kana": [
-      "で",
       "では"
     ],
     "roman": [
-      "de",
       "deha"
     ]
   },
@@ -126304,11 +123422,9 @@ const dictionary = [
   {
     "title": "どぎつ",
     "kana": [
-      "どぎ",
       "どぎつ"
     ],
     "roman": [
-      "dogi",
       "dogitsu"
     ]
   },
@@ -126414,11 +123530,9 @@ const dictionary = [
   {
     "title": "まあ",
     "kana": [
-      "ま",
       "まあ"
     ],
     "roman": [
-      "ma",
       "maa"
     ]
   },
@@ -126452,11 +123566,11 @@ const dictionary = [
   {
     "title": "ため息",
     "kana": [
-      "ため",
+      "ため息",
       "ためいき"
     ],
     "roman": [
-      "tame",
+      "tame息",
       "tameiki"
     ]
   },
@@ -126625,11 +123739,9 @@ const dictionary = [
   {
     "title": "ついていけ",
     "kana": [
-      "ついてい",
       "ついていけ"
     ],
     "roman": [
-      "tsuitei",
       "tsuiteike"
     ]
   },
@@ -126791,11 +123903,9 @@ const dictionary = [
   {
     "title": "したがって",
     "kana": [
-      "したがっ",
       "したがって"
     ],
     "roman": [
-      "shitagaxtsu",
       "shitagatte"
     ]
   },
@@ -126928,11 +124038,11 @@ const dictionary = [
   {
     "title": "うたた寝",
     "kana": [
-      "うたた",
+      "うたた寝",
       "うたたね"
     ],
     "roman": [
-      "utata",
+      "utata寝",
       "utatane"
     ]
   },
@@ -126948,11 +124058,9 @@ const dictionary = [
   {
     "title": "したが",
     "kana": [
-      "した",
       "したが"
     ],
     "roman": [
-      "shita",
       "shitaga"
     ]
   },
@@ -127058,22 +124166,18 @@ const dictionary = [
   {
     "title": "すっぴん",
     "kana": [
-      "すっぴ",
       "すっぴん"
     ],
     "roman": [
-      "suppi",
       "suppin"
     ]
   },
   {
     "title": "くりだ",
     "kana": [
-      "くり",
       "くりだ"
     ],
     "roman": [
-      "kuri",
       "kurida"
     ]
   },
@@ -127224,25 +124328,21 @@ const dictionary = [
   {
     "title": "など",
     "kana": [
-      "な",
       "など"
     ],
     "roman": [
-      "na",
       "nado"
     ]
   },
   {
     "title": "せる",
     "kana": [
-      "せ",
       "せる",
       "せよ",
       "せれ",
       "せろ"
     ],
     "roman": [
-      "se",
       "seru",
       "seyo",
       "sere",
@@ -127252,11 +124352,9 @@ const dictionary = [
   {
     "title": "おおき",
     "kana": [
-      "おお",
       "おおき"
     ],
     "roman": [
-      "oo",
       "ooki"
     ]
   },
@@ -127364,11 +124462,9 @@ const dictionary = [
   {
     "title": "そそっかし",
     "kana": [
-      "そそっか",
       "そそっかし"
     ],
     "roman": [
-      "sosokka",
       "sosokkashi"
     ]
   },
@@ -127384,11 +124480,9 @@ const dictionary = [
   {
     "title": "むべ",
     "kana": [
-      "む",
       "むべ"
     ],
     "roman": [
-      "mu",
       "mube"
     ]
   },
@@ -127431,11 +124525,9 @@ const dictionary = [
   {
     "title": "とにかく",
     "kana": [
-      "とにか",
       "とにかく"
     ],
     "roman": [
-      "tonika",
       "tonikaku"
     ]
   },
@@ -127534,11 +124626,9 @@ const dictionary = [
   {
     "title": "うなじ",
     "kana": [
-      "うな",
       "うなじ"
     ],
     "roman": [
-      "una",
       "unaji"
     ]
   },
@@ -127626,22 +124716,20 @@ const dictionary = [
   {
     "title": "りりし",
     "kana": [
-      "りり",
       "りりし"
     ],
     "roman": [
-      "riri",
       "ririshi"
     ]
   },
   {
     "title": "わかり易",
     "kana": [
-      "わかり",
+      "わかり易",
       "わかりやす"
     ],
     "roman": [
-      "wakari",
+      "wakari易",
       "wakariyasu"
     ]
   },
@@ -127720,11 +124808,9 @@ const dictionary = [
   {
     "title": "あわて",
     "kana": [
-      "あわ",
       "あわて"
     ],
     "roman": [
-      "awa",
       "awate"
     ]
   },
@@ -127794,11 +124880,9 @@ const dictionary = [
   {
     "title": "とたん",
     "kana": [
-      "とた",
       "とたん"
     ],
     "roman": [
-      "tota",
       "totan"
     ]
   },
@@ -127913,11 +124997,9 @@ const dictionary = [
   {
     "title": "ここら",
     "kana": [
-      "ここ",
       "ここら"
     ],
     "roman": [
-      "koko",
       "kokora"
     ]
   },
@@ -127987,11 +125069,9 @@ const dictionary = [
   {
     "title": "くねくね",
     "kana": [
-      "くねく",
       "くねくね"
     ],
     "roman": [
-      "kuneku",
       "kunekune"
     ]
   },
@@ -128025,11 +125105,9 @@ const dictionary = [
   {
     "title": "さま",
     "kana": [
-      "さ",
       "さま"
     ],
     "roman": [
-      "sa",
       "sama"
     ]
   },
@@ -128144,11 +125222,9 @@ const dictionary = [
   {
     "title": "たっぷり",
     "kana": [
-      "たっぷ",
       "たっぷり"
     ],
     "roman": [
-      "tappu",
       "tappuri"
     ]
   },
@@ -128164,22 +125240,20 @@ const dictionary = [
   {
     "title": "まん丸",
     "kana": [
-      "まん",
+      "まん丸",
       "まんまる"
     ],
     "roman": [
-      "man",
+      "man丸",
       "manmaru"
     ]
   },
   {
     "title": "まにまに",
     "kana": [
-      "まにま",
       "まにまに"
     ],
     "roman": [
-      "manima",
       "manimani"
     ]
   },
@@ -128249,11 +125323,9 @@ const dictionary = [
   {
     "title": "めっちゃ",
     "kana": [
-      "めっち",
       "めっちゃ"
     ],
     "roman": [
-      "metchi",
       "metcha"
     ]
   },
@@ -128388,11 +125460,9 @@ const dictionary = [
   {
     "title": "どん",
     "kana": [
-      "ど",
       "どん"
     ],
     "roman": [
-      "do",
       "don"
     ]
   },
@@ -128644,11 +125714,9 @@ const dictionary = [
   {
     "title": "まり",
     "kana": [
-      "ま",
       "まり"
     ],
     "roman": [
-      "ma",
       "mari"
     ]
   },
@@ -128691,11 +125759,9 @@ const dictionary = [
   {
     "title": "はま",
     "kana": [
-      "は",
       "はま"
     ],
     "roman": [
-      "ha",
       "hama"
     ]
   },
@@ -128747,11 +125813,9 @@ const dictionary = [
   {
     "title": "つぶさに",
     "kana": [
-      "つぶさ",
       "つぶさに"
     ],
     "roman": [
-      "tsubusa",
       "tsubusani"
     ]
   },
@@ -128776,11 +125840,9 @@ const dictionary = [
   {
     "title": "ぼん",
     "kana": [
-      "ぼ",
       "ぼん"
     ],
     "roman": [
-      "bo",
       "bon"
     ]
   },
@@ -128796,11 +125858,9 @@ const dictionary = [
   {
     "title": "くたくた",
     "kana": [
-      "くたく",
       "くたくた"
     ],
     "roman": [
-      "kutaku",
       "kutakuta"
     ]
   },
@@ -128834,11 +125894,9 @@ const dictionary = [
   {
     "title": "ながら",
     "kana": [
-      "なが",
       "ながら"
     ],
     "roman": [
-      "naga",
       "nagara"
     ]
   },
@@ -128872,11 +125930,9 @@ const dictionary = [
   {
     "title": "なが",
     "kana": [
-      "な",
       "なが"
     ],
     "roman": [
-      "na",
       "naga"
     ]
   },
@@ -129031,11 +126087,9 @@ const dictionary = [
   {
     "title": "ちょっかい",
     "kana": [
-      "ちょっか",
       "ちょっかい"
     ],
     "roman": [
-      "chokka",
       "chokkai"
     ]
   },
@@ -129087,11 +126141,9 @@ const dictionary = [
   {
     "title": "おかげ",
     "kana": [
-      "おか",
       "おかげ"
     ],
     "roman": [
-      "oka",
       "okage"
     ]
   },
@@ -129152,11 +126204,9 @@ const dictionary = [
   {
     "title": "たらし",
     "kana": [
-      "たら",
       "たらし"
     ],
     "roman": [
-      "tara",
       "tarashi"
     ]
   },
@@ -129208,22 +126258,18 @@ const dictionary = [
   {
     "title": "おそ",
     "kana": [
-      "お",
       "おそ"
     ],
     "roman": [
-      "o",
       "oso"
     ]
   },
   {
     "title": "みつけ",
     "kana": [
-      "みつ",
       "みつけ"
     ],
     "roman": [
-      "mitsu",
       "mitsuke"
     ]
   },
@@ -129376,11 +126422,9 @@ const dictionary = [
   {
     "title": "すこし",
     "kana": [
-      "すこ",
       "すこし"
     ],
     "roman": [
-      "suko",
       "sukoshi"
     ]
   },
@@ -129598,11 +126642,9 @@ const dictionary = [
   {
     "title": "こうじ",
     "kana": [
-      "こう",
       "こうじ"
     ],
     "roman": [
-      "kou",
       "kouji"
     ]
   },
@@ -129645,11 +126687,9 @@ const dictionary = [
   {
     "title": "そそくさ",
     "kana": [
-      "そそく",
       "そそくさ"
     ],
     "roman": [
-      "sosoku",
       "sosokusa"
     ]
   },
@@ -129703,11 +126743,9 @@ const dictionary = [
   {
     "title": "まわり",
     "kana": [
-      "まわ",
       "まわり"
     ],
     "roman": [
-      "mawa",
       "mawari"
     ]
   },
@@ -129723,11 +126761,9 @@ const dictionary = [
   {
     "title": "おれ",
     "kana": [
-      "お",
       "おれ"
     ],
     "roman": [
-      "o",
       "ore"
     ]
   },
@@ -129923,22 +126959,18 @@ const dictionary = [
   {
     "title": "さも",
     "kana": [
-      "さ",
       "さも"
     ],
     "roman": [
-      "sa",
       "samo"
     ]
   },
   {
     "title": "もろ",
     "kana": [
-      "も",
       "もろ"
     ],
     "roman": [
-      "mo",
       "moro"
     ]
   },
@@ -130053,22 +127085,20 @@ const dictionary = [
   {
     "title": "ぶん投げ",
     "kana": [
-      "ぶん投",
+      "ぶん投げ",
       "ぶんなげ"
     ],
     "roman": [
-      "bun投",
+      "bun投ge",
       "bunnage"
     ]
   },
   {
     "title": "ある",
     "kana": [
-      "あ",
       "ある"
     ],
     "roman": [
-      "a",
       "aru"
     ]
   },
@@ -130084,11 +127114,9 @@ const dictionary = [
   {
     "title": "ねだ",
     "kana": [
-      "ね",
       "ねだ"
     ],
     "roman": [
-      "ne",
       "neda"
     ]
   },
@@ -130140,11 +127168,9 @@ const dictionary = [
   {
     "title": "まぜ",
     "kana": [
-      "ま",
       "まぜ"
     ],
     "roman": [
-      "ma",
       "maze"
     ]
   },
@@ -130205,11 +127231,9 @@ const dictionary = [
   {
     "title": "いいよ",
     "kana": [
-      "いい",
       "いいよ"
     ],
     "roman": [
-      "ii",
       "iiyo"
     ]
   },
@@ -130225,11 +127249,9 @@ const dictionary = [
   {
     "title": "しい",
     "kana": [
-      "し",
       "しい"
     ],
     "roman": [
-      "shi",
       "shii"
     ]
   },
@@ -130254,11 +127276,9 @@ const dictionary = [
   {
     "title": "いちおう",
     "kana": [
-      "いちお",
       "いちおう"
     ],
     "roman": [
-      "ichio",
       "ichiou"
     ]
   },
@@ -130274,11 +127294,9 @@ const dictionary = [
   {
     "title": "さん",
     "kana": [
-      "さ",
       "さん"
     ],
     "roman": [
-      "sa",
       "san"
     ]
   },
@@ -130294,11 +127312,9 @@ const dictionary = [
   {
     "title": "ゆるめ",
     "kana": [
-      "ゆる",
       "ゆるめ"
     ],
     "roman": [
-      "yuru",
       "yurume"
     ]
   },
@@ -130415,11 +127431,9 @@ const dictionary = [
   {
     "title": "どぉ",
     "kana": [
-      "ど",
       "どぉ"
     ],
     "roman": [
-      "do",
       "dwo"
     ]
   },
@@ -130624,11 +127638,11 @@ const dictionary = [
   {
     "title": "お開き",
     "kana": [
-      "お開",
+      "お開き",
       "おひらき"
     ],
     "roman": [
-      "o開",
+      "o開ki",
       "ohiraki"
     ]
   },
@@ -130653,11 +127667,9 @@ const dictionary = [
   {
     "title": "いね",
     "kana": [
-      "い",
       "いね"
     ],
     "roman": [
-      "i",
       "ine"
     ]
   },
@@ -130702,11 +127714,9 @@ const dictionary = [
   {
     "title": "かぜ",
     "kana": [
-      "か",
       "かぜ"
     ],
     "roman": [
-      "ka",
       "kaze"
     ]
   },
@@ -130731,11 +127741,11 @@ const dictionary = [
   {
     "title": "もの凄",
     "kana": [
-      "もの",
+      "もの凄",
       "ものすご"
     ],
     "roman": [
-      "mono",
+      "mono凄",
       "monosugo"
     ]
   },
@@ -130751,11 +127761,9 @@ const dictionary = [
   {
     "title": "あほらし",
     "kana": [
-      "あほら",
       "あほらし"
     ],
     "roman": [
-      "ahora",
       "ahorashi"
     ]
   },
@@ -130780,11 +127788,9 @@ const dictionary = [
   {
     "title": "びっしり",
     "kana": [
-      "びっし",
       "びっしり"
     ],
     "roman": [
-      "bisshi",
       "bisshiri"
     ]
   },
@@ -130809,11 +127815,9 @@ const dictionary = [
   {
     "title": "すすめ",
     "kana": [
-      "すす",
       "すすめ"
     ],
     "roman": [
-      "susu",
       "susume"
     ]
   },
@@ -131029,11 +128033,9 @@ const dictionary = [
   {
     "title": "この",
     "kana": [
-      "こ",
       "この"
     ],
     "roman": [
-      "ko",
       "kono"
     ]
   },
@@ -131103,11 +128105,9 @@ const dictionary = [
   {
     "title": "ついつい",
     "kana": [
-      "ついつ",
       "ついつい"
     ],
     "roman": [
-      "tsuitsu",
       "tsuitsui"
     ]
   },
@@ -131242,11 +128242,9 @@ const dictionary = [
   {
     "title": "あそ",
     "kana": [
-      "あ",
       "あそ"
     ],
     "roman": [
-      "a",
       "aso"
     ]
   },
@@ -131527,11 +128525,9 @@ const dictionary = [
   {
     "title": "ぜんじ",
     "kana": [
-      "ぜん",
       "ぜんじ"
     ],
     "roman": [
-      "zen",
       "zenji"
     ]
   },
@@ -131646,11 +128642,9 @@ const dictionary = [
   {
     "title": "あたたか",
     "kana": [
-      "あたた",
       "あたたか"
     ],
     "roman": [
-      "atata",
       "atataka"
     ]
   },
@@ -131702,11 +128696,9 @@ const dictionary = [
   {
     "title": "ちっさ",
     "kana": [
-      "ちっ",
       "ちっさ"
     ],
     "roman": [
-      "chixtsu",
       "chissa"
     ]
   },
@@ -131740,11 +128732,9 @@ const dictionary = [
   {
     "title": "まれ",
     "kana": [
-      "ま",
       "まれ"
     ],
     "roman": [
-      "ma",
       "mare"
     ]
   },
@@ -131845,11 +128835,9 @@ const dictionary = [
   {
     "title": "すいすい",
     "kana": [
-      "すいす",
       "すいすい"
     ],
     "roman": [
-      "suisu",
       "suisui"
     ]
   },
@@ -131928,22 +128916,18 @@ const dictionary = [
   {
     "title": "あいさつ",
     "kana": [
-      "あいさ",
       "あいさつ"
     ],
     "roman": [
-      "aisa",
       "aisatsu"
     ]
   },
   {
     "title": "たび",
     "kana": [
-      "た",
       "たび"
     ],
     "roman": [
-      "ta",
       "tabi"
     ]
   },
@@ -132022,11 +129006,9 @@ const dictionary = [
   {
     "title": "において",
     "kana": [
-      "におい",
       "において"
     ],
     "roman": [
-      "nioi",
       "nioite"
     ]
   },
@@ -132123,22 +129105,20 @@ const dictionary = [
   {
     "title": "のび",
     "kana": [
-      "の",
       "のび"
     ],
     "roman": [
-      "no",
       "nobi"
     ]
   },
   {
     "title": "お隣",
     "kana": [
-      "お",
+      "お隣",
       "おとなり"
     ],
     "roman": [
-      "o",
+      "o隣",
       "otonari"
     ]
   },
@@ -132208,11 +129188,9 @@ const dictionary = [
   {
     "title": "きれ",
     "kana": [
-      "き",
       "きれ"
     ],
     "roman": [
-      "ki",
       "kire"
     ]
   },
@@ -132284,11 +129262,9 @@ const dictionary = [
   {
     "title": "たまたま",
     "kana": [
-      "たまた",
       "たまたま"
     ],
     "roman": [
-      "tamata",
       "tamatama"
     ]
   },
@@ -132369,11 +129345,11 @@ const dictionary = [
   {
     "title": "やむを得な",
     "kana": [
-      "やむを得",
+      "やむを得な",
       "やむをえな"
     ],
     "roman": [
-      "yamuwo得",
+      "yamuwo得na",
       "yamuwoena"
     ]
   },
@@ -132407,11 +129383,9 @@ const dictionary = [
   {
     "title": "ほぼ",
     "kana": [
-      "ほ",
       "ほぼ"
     ],
     "roman": [
-      "ho",
       "hobo"
     ]
   },
@@ -132427,11 +129401,9 @@ const dictionary = [
   {
     "title": "ぽつり",
     "kana": [
-      "ぽつ",
       "ぽつり"
     ],
     "roman": [
-      "potsu",
       "potsuri"
     ]
   },
@@ -132474,11 +129446,9 @@ const dictionary = [
   {
     "title": "ほか",
     "kana": [
-      "ほ",
       "ほか"
     ],
     "roman": [
-      "ho",
       "hoka"
     ]
   },
@@ -132496,11 +129466,9 @@ const dictionary = [
   {
     "title": "ますます",
     "kana": [
-      "ますま",
       "ますます"
     ],
     "roman": [
-      "masuma",
       "masumasu"
     ]
   },
@@ -132579,11 +129547,11 @@ const dictionary = [
   {
     "title": "お仕置き",
     "kana": [
-      "お仕置",
+      "お仕置き",
       "おしおき"
     ],
     "roman": [
-      "o仕置",
+      "o仕置ki",
       "oshioki"
     ]
   },
@@ -132617,20 +129585,20 @@ const dictionary = [
   {
     "title": "こい*",
     "kana": [
+      "こい*",
       "こい"
     ],
     "roman": [
+      "koi*",
       "koi"
     ]
   },
   {
     "title": "ろ",
     "kana": [
-      "",
       "ろ"
     ],
     "roman": [
-      "",
       "ro"
     ]
   },
@@ -132711,11 +129679,9 @@ const dictionary = [
   {
     "title": "たとえば",
     "kana": [
-      "たとえ",
       "たとえば"
     ],
     "roman": [
-      "tatoe",
       "tatoeba"
     ]
   },
@@ -132749,11 +129715,9 @@ const dictionary = [
   {
     "title": "かぼちゃ",
     "kana": [
-      "かぼち",
       "かぼちゃ"
     ],
     "roman": [
-      "kabochi",
       "kabocha"
     ]
   },
@@ -132843,11 +129807,9 @@ const dictionary = [
   {
     "title": "すっぽり",
     "kana": [
-      "すっぽ",
       "すっぽり"
     ],
     "roman": [
-      "suppo",
       "suppori"
     ]
   },
@@ -132908,11 +129870,9 @@ const dictionary = [
   {
     "title": "ぶつぶつ",
     "kana": [
-      "ぶつぶ",
       "ぶつぶつ"
     ],
     "roman": [
-      "butsubu",
       "butsubutsu"
     ]
   },
@@ -133099,9 +130059,11 @@ const dictionary = [
   {
     "title": "ん*",
     "kana": [
+      "ん*",
       "ん"
     ],
     "roman": [
+      "n*",
       "n"
     ]
   },
@@ -133239,11 +130201,9 @@ const dictionary = [
   {
     "title": "まぎれ",
     "kana": [
-      "まぎ",
       "まぎれ"
     ],
     "roman": [
-      "magi",
       "magire"
     ]
   },
@@ -133259,11 +130219,11 @@ const dictionary = [
   {
     "title": "やり取り",
     "kana": [
-      "やり取",
+      "やり取り",
       "やりとり"
     ],
     "roman": [
-      "yari取",
+      "yari取ri",
       "yaritori"
     ]
   },
@@ -133627,11 +130587,9 @@ const dictionary = [
   {
     "title": "やまと",
     "kana": [
-      "やま",
       "やまと"
     ],
     "roman": [
-      "yama",
       "yamato"
     ]
   },
@@ -133712,12 +130670,12 @@ const dictionary = [
   {
     "title": "やめる",
     "kana": [
-      "やめ",
+      "やめる",
       "やめろ",
       "やめよ"
     ],
     "roman": [
-      "yame",
+      "yameru",
       "yamero",
       "yameyo"
     ]
@@ -133725,11 +130683,9 @@ const dictionary = [
   {
     "title": "しがな",
     "kana": [
-      "しが",
       "しがな"
     ],
     "roman": [
-      "shiga",
       "shigana"
     ]
   },
@@ -133790,11 +130746,9 @@ const dictionary = [
   {
     "title": "こね",
     "kana": [
-      "こ",
       "こね"
     ],
     "roman": [
-      "ko",
       "kone"
     ]
   },
@@ -133855,11 +130809,9 @@ const dictionary = [
   {
     "title": "とてつもな",
     "kana": [
-      "とてつも",
       "とてつもな"
     ],
     "roman": [
-      "totetsumo",
       "totetsumona"
     ]
   },
@@ -134010,22 +130962,18 @@ const dictionary = [
   {
     "title": "または",
     "kana": [
-      "また",
       "または"
     ],
     "roman": [
-      "mata",
       "mataha"
     ]
   },
   {
     "title": "あさまし",
     "kana": [
-      "あさま",
       "あさまし"
     ],
     "roman": [
-      "asama",
       "asamashi"
     ]
   },
@@ -134070,11 +131018,9 @@ const dictionary = [
   {
     "title": "ものの",
     "kana": [
-      "もの",
       "ものの"
     ],
     "roman": [
-      "mono",
       "monono"
     ]
   },
@@ -134108,11 +131054,9 @@ const dictionary = [
   {
     "title": "どうして",
     "kana": [
-      "どうし",
       "どうして"
     ],
     "roman": [
-      "doushi",
       "doushite"
     ]
   },
@@ -134164,33 +131108,27 @@ const dictionary = [
   {
     "title": "ぞう",
     "kana": [
-      "ぞ",
       "ぞう"
     ],
     "roman": [
-      "zo",
       "zou"
     ]
   },
   {
     "title": "どっぷり",
     "kana": [
-      "どっぷ",
       "どっぷり"
     ],
     "roman": [
-      "doppu",
       "doppuri"
     ]
   },
   {
     "title": "かな",
     "kana": [
-      "か",
       "かな"
     ],
     "roman": [
-      "ka",
       "kana"
     ]
   },
@@ -134388,11 +131326,11 @@ const dictionary = [
   {
     "title": "ほうじ茶",
     "kana": [
-      "ほうじ",
+      "ほうじ茶",
       "ほうじちゃ"
     ],
     "roman": [
-      "houji",
+      "houji茶",
       "houjicha"
     ]
   },
@@ -134489,12 +131427,12 @@ const dictionary = [
   {
     "title": "にじ",
     "kana": [
-      "に",
-      "にじ"
+      "にじ",
+      "に"
     ],
     "roman": [
-      "ni",
-      "niji"
+      "niji",
+      "ni"
     ]
   },
   {
@@ -134527,11 +131465,11 @@ const dictionary = [
   {
     "title": "い辛*",
     "kana": [
-      "い辛",
+      "い辛*",
       "いづら"
     ],
     "roman": [
-      "i辛",
+      "i辛*",
       "idura"
     ]
   },
@@ -134677,11 +131615,9 @@ const dictionary = [
   {
     "title": "め",
     "kana": [
-      "",
       "め"
     ],
     "roman": [
-      "",
       "me"
     ]
   },
@@ -134715,11 +131651,9 @@ const dictionary = [
   {
     "title": "ぽつんと",
     "kana": [
-      "ぽつん",
       "ぽつんと"
     ],
     "roman": [
-      "potsun",
       "potsunto"
     ]
   },
@@ -134770,11 +131704,9 @@ const dictionary = [
   {
     "title": "がま",
     "kana": [
-      "が",
       "がま"
     ],
     "roman": [
-      "ga",
       "gama"
     ]
   },
@@ -134844,22 +131776,20 @@ const dictionary = [
   {
     "title": "ひたすら",
     "kana": [
-      "ひたす",
       "ひたすら"
     ],
     "roman": [
-      "hitasu",
       "hitasura"
     ]
   },
   {
     "title": "すり抜け",
     "kana": [
-      "すり抜",
+      "すり抜け",
       "すりぬけ"
     ],
     "roman": [
-      "suri抜",
+      "suri抜ke",
       "surinuke"
     ]
   },
@@ -134884,11 +131814,9 @@ const dictionary = [
   {
     "title": "ぐるっと",
     "kana": [
-      "ぐるっ",
       "ぐるっと"
     ],
     "roman": [
-      "guruxtsu",
       "gurutto"
     ]
   },
@@ -134922,11 +131850,9 @@ const dictionary = [
   {
     "title": "ありがた",
     "kana": [
-      "ありが",
       "ありがた"
     ],
     "roman": [
-      "ariga",
       "arigata"
     ]
   },
@@ -134942,22 +131868,18 @@ const dictionary = [
   {
     "title": "もろに",
     "kana": [
-      "もろ",
       "もろに"
     ],
     "roman": [
-      "moro",
       "moroni"
     ]
   },
   {
     "title": "もらえ",
     "kana": [
-      "もら",
       "もらえ"
     ],
     "roman": [
-      "mora",
       "morae"
     ]
   },
@@ -134973,11 +131895,9 @@ const dictionary = [
   {
     "title": "かよわ",
     "kana": [
-      "かよ",
       "かよわ"
     ],
     "roman": [
-      "kayo",
       "kayowa"
     ]
   },
@@ -135047,22 +131967,18 @@ const dictionary = [
   {
     "title": "ちん",
     "kana": [
-      "ち",
       "ちん"
     ],
     "roman": [
-      "chi",
       "chin"
     ]
   },
   {
     "title": "しな",
     "kana": [
-      "し",
       "しな"
     ],
     "roman": [
-      "shi",
       "shina"
     ]
   },
@@ -135170,11 +132086,9 @@ const dictionary = [
   {
     "title": "いるか",
     "kana": [
-      "いる",
       "いるか"
     ],
     "roman": [
-      "iru",
       "iruka"
     ]
   },
@@ -135217,11 +132131,9 @@ const dictionary = [
   {
     "title": "まえ",
     "kana": [
-      "ま",
       "まえ"
     ],
     "roman": [
-      "ma",
       "mae"
     ]
   },
@@ -135282,22 +132194,18 @@ const dictionary = [
   {
     "title": "つな",
     "kana": [
-      "つ",
       "つな"
     ],
     "roman": [
-      "tsu",
       "tsuna"
     ]
   },
   {
     "title": "そんな",
     "kana": [
-      "そん",
       "そんな"
     ],
     "roman": [
-      "son",
       "sonna"
     ]
   },
@@ -135394,11 +132302,9 @@ const dictionary = [
   {
     "title": "おでこ",
     "kana": [
-      "おで",
       "おでこ"
     ],
     "roman": [
-      "ode",
       "odeko"
     ]
   },
@@ -135432,11 +132338,9 @@ const dictionary = [
   {
     "title": "あわせ",
     "kana": [
-      "あわ",
       "あわせ"
     ],
     "roman": [
-      "awa",
       "awase"
     ]
   },
@@ -135470,11 +132374,9 @@ const dictionary = [
   {
     "title": "かま",
     "kana": [
-      "か",
       "かま"
     ],
     "roman": [
-      "ka",
       "kama"
     ]
   },
@@ -135517,11 +132419,9 @@ const dictionary = [
   {
     "title": "きょろきょろ",
     "kana": [
-      "きょろきょ",
       "きょろきょろ"
     ],
     "roman": [
-      "kyorokyo",
       "kyorokyoro"
     ]
   },
@@ -135568,11 +132468,9 @@ const dictionary = [
   {
     "title": "さんざん",
     "kana": [
-      "さんざ",
       "さんざん"
     ],
     "roman": [
-      "sanza",
       "sanzan"
     ]
   },
@@ -135615,11 +132513,9 @@ const dictionary = [
   {
     "title": "かしこ",
     "kana": [
-      "かし",
       "かしこ"
     ],
     "roman": [
-      "kashi",
       "kashiko"
     ]
   },
@@ -135860,11 +132756,9 @@ const dictionary = [
   {
     "title": "ぶちまけ",
     "kana": [
-      "ぶちま",
       "ぶちまけ"
     ],
     "roman": [
-      "buchima",
       "buchimake"
     ]
   },
@@ -135934,11 +132828,9 @@ const dictionary = [
   {
     "title": "にやにや",
     "kana": [
-      "にやに",
       "にやにや"
     ],
     "roman": [
-      "niyani",
       "niyaniya"
     ]
   },
@@ -136050,11 +132942,9 @@ const dictionary = [
   {
     "title": "ぶん",
     "kana": [
-      "ぶ",
       "ぶん"
     ],
     "roman": [
-      "bu",
       "bun"
     ]
   },
@@ -136097,11 +132987,9 @@ const dictionary = [
   {
     "title": "しょうが",
     "kana": [
-      "しょう",
       "しょうが"
     ],
     "roman": [
-      "shou",
       "shouga"
     ]
   },
@@ -136164,23 +133052,19 @@ const dictionary = [
   {
     "title": "ころころ",
     "kana": [
-      "ころこ",
       "ころころ"
     ],
     "roman": [
-      "koroko",
       "korokoro"
     ]
   },
   {
     "title": "あ",
     "kana": [
-      "",
       "あ",
       "あり"
     ],
     "roman": [
-      "",
       "a",
       "ari"
     ]
@@ -136226,11 +133110,9 @@ const dictionary = [
   {
     "title": "あやめ",
     "kana": [
-      "あや",
       "あやめ"
     ],
     "roman": [
-      "aya",
       "ayame"
     ]
   },
@@ -136309,11 +133191,9 @@ const dictionary = [
   {
     "title": "ああ",
     "kana": [
-      "あ",
       "ああ"
     ],
     "roman": [
-      "a",
       "aa"
     ]
   },
@@ -136338,11 +133218,9 @@ const dictionary = [
   {
     "title": "あや",
     "kana": [
-      "あ",
       "あや"
     ],
     "roman": [
-      "a",
       "aya"
     ]
   },
@@ -136403,22 +133281,18 @@ const dictionary = [
   {
     "title": "おかし",
     "kana": [
-      "おか",
       "おかし"
     ],
     "roman": [
-      "oka",
       "okashi"
     ]
   },
   {
     "title": "まち",
     "kana": [
-      "ま",
       "まち"
     ],
     "roman": [
-      "ma",
       "machi"
     ]
   },
@@ -136517,11 +133391,11 @@ const dictionary = [
   {
     "title": "やむを得ず",
     "kana": [
-      "やむを得",
+      "やむを得ず",
       "やむをえず"
     ],
     "roman": [
-      "yamuwo得",
+      "yamuwo得zu",
       "yamuwoezu"
     ]
   },
@@ -136591,11 +133465,9 @@ const dictionary = [
   {
     "title": "だから",
     "kana": [
-      "だか",
       "だから"
     ],
     "roman": [
-      "daka",
       "dakara"
     ]
   },
@@ -136611,11 +133483,9 @@ const dictionary = [
   {
     "title": "ぐんぐん",
     "kana": [
-      "ぐんぐ",
       "ぐんぐん"
     ],
     "roman": [
-      "gungu",
       "gungun"
     ]
   },
@@ -136640,11 +133510,9 @@ const dictionary = [
   {
     "title": "そうですか",
     "kana": [
-      "そうです",
       "そうですか"
     ],
     "roman": [
-      "soudesu",
       "soudesuka"
     ]
   },
@@ -136705,11 +133573,9 @@ const dictionary = [
   {
     "title": "やつ",
     "kana": [
-      "や",
       "やつ"
     ],
     "roman": [
-      "ya",
       "yatsu"
     ]
   },
@@ -136806,11 +133672,9 @@ const dictionary = [
   {
     "title": "じっとり",
     "kana": [
-      "じっと",
       "じっとり"
     ],
     "roman": [
-      "jitto",
       "jittori"
     ]
   },
@@ -136916,11 +133780,9 @@ const dictionary = [
   {
     "title": "ずれ",
     "kana": [
-      "ず",
       "ずれ"
     ],
     "roman": [
-      "zu",
       "zure"
     ]
   },
@@ -136981,11 +133843,9 @@ const dictionary = [
   {
     "title": "がんばれ",
     "kana": [
-      "がんば",
       "がんばれ"
     ],
     "roman": [
-      "ganba",
       "ganbare"
     ]
   },
@@ -137084,11 +133944,9 @@ const dictionary = [
   {
     "title": "ふっくら",
     "kana": [
-      "ふっく",
       "ふっくら"
     ],
     "roman": [
-      "fukku",
       "fukkura"
     ]
   },
@@ -137299,22 +134157,18 @@ const dictionary = [
   {
     "title": "なかよし",
     "kana": [
-      "なかよ",
       "なかよし"
     ],
     "roman": [
-      "nakayo",
       "nakayoshi"
     ]
   },
   {
     "title": "おわ",
     "kana": [
-      "お",
       "おわ"
     ],
     "roman": [
-      "o",
       "owa"
     ]
   },
@@ -137330,11 +134184,9 @@ const dictionary = [
   {
     "title": "まんが",
     "kana": [
-      "まん",
       "まんが"
     ],
     "roman": [
-      "man",
       "manga"
     ]
   },
@@ -137388,11 +134240,9 @@ const dictionary = [
   {
     "title": "かれ",
     "kana": [
-      "か",
       "かれ"
     ],
     "roman": [
-      "ka",
       "kare"
     ]
   },
@@ -137493,22 +134343,18 @@ const dictionary = [
   {
     "title": "ひょっとしたら",
     "kana": [
-      "ひょっとした",
       "ひょっとしたら"
     ],
     "roman": [
-      "hyottoshita",
       "hyottoshitara"
     ]
   },
   {
     "title": "いなさい",
     "kana": [
-      "いなさ",
       "いなさい"
     ],
     "roman": [
-      "inasa",
       "inasai"
     ]
   },
@@ -137578,11 +134424,9 @@ const dictionary = [
   {
     "title": "ら",
     "kana": [
-      "",
       "ら"
     ],
     "roman": [
-      "",
       "ra"
     ]
   },
@@ -137598,11 +134442,9 @@ const dictionary = [
   {
     "title": "こな",
     "kana": [
-      "こ",
       "こな"
     ],
     "roman": [
-      "ko",
       "kona"
     ]
   },
@@ -137728,11 +134570,9 @@ const dictionary = [
   {
     "title": "ひっかけ",
     "kana": [
-      "ひっか",
       "ひっかけ"
     ],
     "roman": [
-      "hikka",
       "hikkake"
     ]
   },
@@ -137748,11 +134588,11 @@ const dictionary = [
   {
     "title": "ほろ酔い",
     "kana": [
-      "ほろ酔",
+      "ほろ酔い",
       "ほろよい"
     ],
     "roman": [
-      "horo酔",
+      "horo酔i",
       "horoyoi"
     ]
   },
@@ -137908,11 +134748,9 @@ const dictionary = [
   {
     "title": "すっきり",
     "kana": [
-      "すっき",
       "すっきり"
     ],
     "roman": [
-      "sukki",
       "sukkiri"
     ]
   },
@@ -137955,11 +134793,9 @@ const dictionary = [
   {
     "title": "こんばんは",
     "kana": [
-      "こんばん",
       "こんばんは"
     ],
     "roman": [
-      "konban",
       "konbanha"
     ]
   },
@@ -138004,11 +134840,9 @@ const dictionary = [
   {
     "title": "くる",
     "kana": [
-      "く",
       "くる"
     ],
     "roman": [
-      "ku",
       "kuru"
     ]
   },
@@ -138123,11 +134957,9 @@ const dictionary = [
   {
     "title": "だいたい",
     "kana": [
-      "だいた",
       "だいたい"
     ],
     "roman": [
-      "daita",
       "daitai"
     ]
   },
@@ -138289,11 +135121,9 @@ const dictionary = [
   {
     "title": "つづれ",
     "kana": [
-      "つづ",
       "つづれ"
     ],
     "roman": [
-      "tsudu",
       "tsudure"
     ]
   },
@@ -138421,11 +135251,9 @@ const dictionary = [
   {
     "title": "むずかし",
     "kana": [
-      "むずか",
       "むずかし"
     ],
     "roman": [
-      "muzuka",
       "muzukashi"
     ]
   },
@@ -138459,11 +135287,9 @@ const dictionary = [
   {
     "title": "こくこく",
     "kana": [
-      "こくこ",
       "こくこく"
     ],
     "roman": [
-      "kokuko",
       "kokukoku"
     ]
   },
@@ -138488,11 +135314,9 @@ const dictionary = [
   {
     "title": "がたがた",
     "kana": [
-      "がたが",
       "がたがた"
     ],
     "roman": [
-      "gataga",
       "gatagata"
     ]
   },
@@ -138526,11 +135350,9 @@ const dictionary = [
   {
     "title": "あいつ",
     "kana": [
-      "あい",
       "あいつ"
     ],
     "roman": [
-      "ai",
       "aitsu"
     ]
   },
@@ -138654,11 +135476,9 @@ const dictionary = [
   {
     "title": "うさんくさ",
     "kana": [
-      "うさんく",
       "うさんくさ"
     ],
     "roman": [
-      "usanku",
       "usankusa"
     ]
   },
@@ -138674,11 +135494,9 @@ const dictionary = [
   {
     "title": "ことに",
     "kana": [
-      "こと",
       "ことに"
     ],
     "roman": [
-      "koto",
       "kotoni"
     ]
   },
@@ -138892,11 +135710,9 @@ const dictionary = [
   {
     "title": "ふつう",
     "kana": [
-      "ふつ",
       "ふつう"
     ],
     "roman": [
-      "futsu",
       "futsuu"
     ]
   },
@@ -139222,11 +136038,9 @@ const dictionary = [
   {
     "title": "ひも",
     "kana": [
-      "ひ",
       "ひも"
     ],
     "roman": [
-      "hi",
       "himo"
     ]
   },
@@ -139314,11 +136128,9 @@ const dictionary = [
   {
     "title": "そん",
     "kana": [
-      "そ",
       "そん"
     ],
     "roman": [
-      "so",
       "son"
     ]
   },
@@ -139363,22 +136175,18 @@ const dictionary = [
   {
     "title": "ちっちゃ",
     "kana": [
-      "ちっち",
       "ちっちゃ"
     ],
     "roman": [
-      "chitchi",
       "chitcha"
     ]
   },
   {
     "title": "おっちゃん",
     "kana": [
-      "おっちゃ",
       "おっちゃん"
     ],
     "roman": [
-      "otcha",
       "otchan"
     ]
   },
@@ -139583,11 +136391,9 @@ const dictionary = [
   {
     "title": "めがけ",
     "kana": [
-      "めが",
       "めがけ"
     ],
     "roman": [
-      "mega",
       "megake"
     ]
   },
@@ -139621,11 +136427,11 @@ const dictionary = [
   {
     "title": "に関して",
     "kana": [
-      "に関し",
+      "に関して",
       "にかんして"
     ],
     "roman": [
-      "ni関shi",
+      "ni関shite",
       "nikanshite"
     ]
   },
@@ -139641,11 +136447,9 @@ const dictionary = [
   {
     "title": "ひまわり",
     "kana": [
-      "ひまわ",
       "ひまわり"
     ],
     "roman": [
-      "himawa",
       "himawari"
     ]
   },
@@ -139670,11 +136474,9 @@ const dictionary = [
   {
     "title": "ちと",
     "kana": [
-      "ち",
       "ちと"
     ],
     "roman": [
-      "chi",
       "chito"
     ]
   },
@@ -139699,11 +136501,9 @@ const dictionary = [
   {
     "title": "かなし",
     "kana": [
-      "かな",
       "かなし"
     ],
     "roman": [
-      "kana",
       "kanashi"
     ]
   },
@@ -139755,11 +136555,11 @@ const dictionary = [
   {
     "title": "お預け",
     "kana": [
-      "お預",
+      "お預け",
       "おあづけ"
     ],
     "roman": [
-      "o預",
+      "o預ke",
       "oaduke"
     ]
   },
@@ -139804,11 +136604,9 @@ const dictionary = [
   {
     "title": "だんまり",
     "kana": [
-      "だんま",
       "だんまり"
     ],
     "roman": [
-      "danma",
       "danmari"
     ]
   },
@@ -139824,11 +136622,9 @@ const dictionary = [
   {
     "title": "ぬる",
     "kana": [
-      "ぬ",
       "ぬる"
     ],
     "roman": [
-      "nu",
       "nuru"
     ]
   },
@@ -140035,11 +136831,9 @@ const dictionary = [
   {
     "title": "あたし",
     "kana": [
-      "あた",
       "あたし"
     ],
     "roman": [
-      "ata",
       "atashi"
     ]
   },
@@ -140144,11 +136938,9 @@ const dictionary = [
   {
     "title": "そろえ",
     "kana": [
-      "そろ",
       "そろえ"
     ],
     "roman": [
-      "soro",
       "soroe"
     ]
   },
@@ -140200,11 +136992,9 @@ const dictionary = [
   {
     "title": "たしょう",
     "kana": [
-      "たしょ",
       "たしょう"
     ],
     "roman": [
-      "tasho",
       "tashou"
     ]
   },
@@ -140319,11 +137109,9 @@ const dictionary = [
   {
     "title": "もしか",
     "kana": [
-      "もし",
       "もしか"
     ],
     "roman": [
-      "moshi",
       "moshika"
     ]
   },
@@ -140339,11 +137127,9 @@ const dictionary = [
   {
     "title": "ぴちぴち",
     "kana": [
-      "ぴちぴ",
       "ぴちぴち"
     ],
     "roman": [
-      "pichipi",
       "pichipichi"
     ]
   },
@@ -140368,11 +137154,9 @@ const dictionary = [
   {
     "title": "ぎっしり",
     "kana": [
-      "ぎっし",
       "ぎっしり"
     ],
     "roman": [
-      "gisshi",
       "gisshiri"
     ]
   },
@@ -140451,11 +137235,9 @@ const dictionary = [
   {
     "title": "あそこ",
     "kana": [
-      "あそ",
       "あそこ"
     ],
     "roman": [
-      "aso",
       "asoko"
     ]
   },
@@ -140489,11 +137271,9 @@ const dictionary = [
   {
     "title": "はて",
     "kana": [
-      "は",
       "はて"
     ],
     "roman": [
-      "ha",
       "hate"
     ]
   },
@@ -140554,11 +137334,9 @@ const dictionary = [
   {
     "title": "たんか",
     "kana": [
-      "たん",
       "たんか"
     ],
     "roman": [
-      "tan",
       "tanka"
     ]
   },
@@ -140574,11 +137352,9 @@ const dictionary = [
   {
     "title": "おります",
     "kana": [
-      "おりま",
       "おります"
     ],
     "roman": [
-      "orima",
       "orimasu"
     ]
   },
@@ -140612,11 +137388,9 @@ const dictionary = [
   {
     "title": "がけ",
     "kana": [
-      "が",
       "がけ"
     ],
     "roman": [
-      "ga",
       "gake"
     ]
   },
@@ -140659,11 +137433,9 @@ const dictionary = [
   {
     "title": "みづら",
     "kana": [
-      "みづ",
       "みづら"
     ],
     "roman": [
-      "midu",
       "midura"
     ]
   },
@@ -140706,11 +137478,9 @@ const dictionary = [
   {
     "title": "やかまし",
     "kana": [
-      "やかま",
       "やかまし"
     ],
     "roman": [
-      "yakama",
       "yakamashi"
     ]
   },
@@ -140852,11 +137622,9 @@ const dictionary = [
   {
     "title": "うずめ",
     "kana": [
-      "うず",
       "うずめ"
     ],
     "roman": [
-      "uzu",
       "uzume"
     ]
   },
@@ -141034,11 +137802,9 @@ const dictionary = [
   {
     "title": "ち",
     "kana": [
-      "",
       "ち"
     ],
     "roman": [
-      "",
       "chi"
     ]
   },
@@ -141063,11 +137829,9 @@ const dictionary = [
   {
     "title": "つか",
     "kana": [
-      "つ",
       "つか"
     ],
     "roman": [
-      "tsu",
       "tsuka"
     ]
   },
@@ -141220,11 +137984,9 @@ const dictionary = [
   {
     "title": "どんどん",
     "kana": [
-      "どんど",
       "どんどん"
     ],
     "roman": [
-      "dondo",
       "dondon"
     ]
   },
@@ -141260,11 +138022,9 @@ const dictionary = [
   {
     "title": "はじま",
     "kana": [
-      "はじ",
       "はじま"
     ],
     "roman": [
-      "haji",
       "hajima"
     ]
   },
@@ -141394,11 +138154,9 @@ const dictionary = [
   {
     "title": "そろそろ",
     "kana": [
-      "そろそ",
       "そろそろ"
     ],
     "roman": [
-      "soroso",
       "sorosoro"
     ]
   },
@@ -141457,11 +138215,9 @@ const dictionary = [
   {
     "title": "みかん",
     "kana": [
-      "みか",
       "みかん"
     ],
     "roman": [
-      "mika",
       "mikan"
     ]
   },
@@ -141477,11 +138233,9 @@ const dictionary = [
   {
     "title": "のんびり",
     "kana": [
-      "のんび",
       "のんびり"
     ],
     "roman": [
-      "nonbi",
       "nonbiri"
     ]
   },
@@ -141578,11 +138332,9 @@ const dictionary = [
   {
     "title": "ぽん",
     "kana": [
-      "ぽ",
       "ぽん"
     ],
     "roman": [
-      "po",
       "pon"
     ]
   },
@@ -141695,11 +138447,9 @@ const dictionary = [
   {
     "title": "おぼし",
     "kana": [
-      "おぼ",
       "おぼし"
     ],
     "roman": [
-      "obo",
       "oboshi"
     ]
   },
@@ -141751,11 +138501,9 @@ const dictionary = [
   {
     "title": "いまだ",
     "kana": [
-      "いま",
       "いまだ"
     ],
     "roman": [
-      "ima",
       "imada"
     ]
   },
@@ -141852,11 +138600,9 @@ const dictionary = [
   {
     "title": "ずり",
     "kana": [
-      "ず",
       "ずり"
     ],
     "roman": [
-      "zu",
       "zuri"
     ]
   },
@@ -141971,11 +138717,9 @@ const dictionary = [
   {
     "title": "おこ",
     "kana": [
-      "お",
       "おこ"
     ],
     "roman": [
-      "o",
       "oko"
     ]
   },
@@ -142036,11 +138780,9 @@ const dictionary = [
   {
     "title": "きちん",
     "kana": [
-      "きち",
       "きちん"
     ],
     "roman": [
-      "kichi",
       "kichin"
     ]
   },
@@ -142083,11 +138825,11 @@ const dictionary = [
   {
     "title": "お祝い",
     "kana": [
-      "お祝",
+      "お祝い",
       "おいわい"
     ],
     "roman": [
-      "o祝",
+      "o祝i",
       "oiwai"
     ]
   },
@@ -142130,11 +138872,9 @@ const dictionary = [
   {
     "title": "くわし",
     "kana": [
-      "くわ",
       "くわし"
     ],
     "roman": [
-      "kuwa",
       "kuwashi"
     ]
   },
@@ -142263,11 +139003,9 @@ const dictionary = [
   {
     "title": "かろうじて",
     "kana": [
-      "かろうじ",
       "かろうじて"
     ],
     "roman": [
-      "karouji",
       "karoujite"
     ]
   },
@@ -142301,11 +139039,9 @@ const dictionary = [
   {
     "title": "そぐわな",
     "kana": [
-      "そぐわ",
       "そぐわな"
     ],
     "roman": [
-      "soguwa",
       "soguwana"
     ]
   },
@@ -142339,11 +139075,9 @@ const dictionary = [
   {
     "title": "あまた",
     "kana": [
-      "あま",
       "あまた"
     ],
     "roman": [
-      "ama",
       "amata"
     ]
   },
@@ -142489,11 +139223,9 @@ const dictionary = [
   {
     "title": "じょうぶ",
     "kana": [
-      "じょう",
       "じょうぶ"
     ],
     "roman": [
-      "jou",
       "joubu"
     ]
   },
@@ -142718,11 +139450,9 @@ const dictionary = [
   {
     "title": "ときおり",
     "kana": [
-      "ときお",
       "ときおり"
     ],
     "roman": [
-      "tokio",
       "tokiori"
     ]
   },
@@ -142765,11 +139495,9 @@ const dictionary = [
   {
     "title": "おのおの",
     "kana": [
-      "おのお",
       "おのおの"
     ],
     "roman": [
-      "onoo",
       "onoono"
     ]
   },
@@ -143072,11 +139800,9 @@ const dictionary = [
   {
     "title": "おもちゃ",
     "kana": [
-      "おもち",
       "おもちゃ"
     ],
     "roman": [
-      "omochi",
       "omocha"
     ]
   },
@@ -143101,11 +139827,9 @@ const dictionary = [
   {
     "title": "しかめ",
     "kana": [
-      "しか",
       "しかめ"
     ],
     "roman": [
-      "shika",
       "shikame"
     ]
   },
@@ -143139,11 +139863,9 @@ const dictionary = [
   {
     "title": "かっと",
     "kana": [
-      "かっ",
       "かっと"
     ],
     "roman": [
-      "kaxtsu",
       "katto"
     ]
   },
@@ -143195,11 +139917,9 @@ const dictionary = [
   {
     "title": "うきうき",
     "kana": [
-      "うきう",
       "うきうき"
     ],
     "roman": [
-      "ukiu",
       "ukiuki"
     ]
   },
@@ -143260,11 +139980,9 @@ const dictionary = [
   {
     "title": "やわらか",
     "kana": [
-      "やわら",
       "やわらか"
     ],
     "roman": [
-      "yawara",
       "yawaraka"
     ]
   },
@@ -143393,11 +140111,9 @@ const dictionary = [
   {
     "title": "ため",
     "kana": [
-      "た",
       "ため"
     ],
     "roman": [
-      "ta",
       "tame"
     ]
   },
@@ -143467,11 +140183,9 @@ const dictionary = [
   {
     "title": "ぎらつ",
     "kana": [
-      "ぎら",
       "ぎらつ"
     ],
     "roman": [
-      "gira",
       "giratsu"
     ]
   },
@@ -143507,11 +140221,9 @@ const dictionary = [
   {
     "title": "りょう",
     "kana": [
-      "りょ",
       "りょう"
     ],
     "roman": [
-      "ryo",
       "ryou"
     ]
   },
@@ -143563,11 +140275,9 @@ const dictionary = [
   {
     "title": "ならびに",
     "kana": [
-      "ならび",
       "ならびに"
     ],
     "roman": [
-      "narabi",
       "narabini"
     ]
   },
@@ -143682,11 +140392,9 @@ const dictionary = [
   {
     "title": "たくさん",
     "kana": [
-      "たくさ",
       "たくさん"
     ],
     "roman": [
-      "takusa",
       "takusan"
     ]
   },
@@ -143758,11 +140466,9 @@ const dictionary = [
   {
     "title": "ざわめき",
     "kana": [
-      "ざわめ",
       "ざわめき"
     ],
     "roman": [
-      "zawame",
       "zawameki"
     ]
   },
@@ -143931,11 +140637,9 @@ const dictionary = [
   {
     "title": "けれども",
     "kana": [
-      "けれど",
       "けれども"
     ],
     "roman": [
-      "keredo",
       "keredomo"
     ]
   },
@@ -144077,11 +140781,9 @@ const dictionary = [
   {
     "title": "に対し",
     "kana": [
-      "に対",
       "に対し"
     ],
     "roman": [
-      "ni対",
       "ni対shi"
     ]
   },
@@ -144186,11 +140888,9 @@ const dictionary = [
   {
     "title": "はっと",
     "kana": [
-      "はっ",
       "はっと"
     ],
     "roman": [
-      "haxtsu",
       "hatto"
     ]
   },
@@ -144280,11 +140980,9 @@ const dictionary = [
   {
     "title": "おくび",
     "kana": [
-      "おく",
       "おくび"
     ],
     "roman": [
-      "oku",
       "okubi"
     ]
   },
@@ -144327,22 +141025,18 @@ const dictionary = [
   {
     "title": "とろけ",
     "kana": [
-      "とろ",
       "とろけ"
     ],
     "roman": [
-      "toro",
       "toroke"
     ]
   },
   {
     "title": "なんせ",
     "kana": [
-      "なん",
       "なんせ"
     ],
     "roman": [
-      "nan",
       "nanse"
     ]
   },
@@ -144358,11 +141052,9 @@ const dictionary = [
   {
     "title": "きたならし",
     "kana": [
-      "きたなら",
       "きたならし"
     ],
     "roman": [
-      "kitanara",
       "kitanarashi"
     ]
   },
@@ -144423,11 +141115,9 @@ const dictionary = [
   {
     "title": "よそ",
     "kana": [
-      "よ",
       "よそ"
     ],
     "roman": [
-      "yo",
       "yoso"
     ]
   },
@@ -144443,11 +141133,9 @@ const dictionary = [
   {
     "title": "てっきり",
     "kana": [
-      "てっき",
       "てっきり"
     ],
     "roman": [
-      "tekki",
       "tekkiri"
     ]
   },
@@ -144463,11 +141151,9 @@ const dictionary = [
   {
     "title": "みえ",
     "kana": [
-      "み",
       "みえ"
     ],
     "roman": [
-      "mi",
       "mie"
     ]
   },
@@ -144519,11 +141205,9 @@ const dictionary = [
   {
     "title": "まつ",
     "kana": [
-      "ま",
       "まつ"
     ],
     "roman": [
-      "ma",
       "matsu"
     ]
   },
@@ -144548,11 +141232,9 @@ const dictionary = [
   {
     "title": "ときには",
     "kana": [
-      "ときに",
       "ときには"
     ],
     "roman": [
-      "tokini",
       "tokiniha"
     ]
   },
@@ -144577,11 +141259,9 @@ const dictionary = [
   {
     "title": "しかし",
     "kana": [
-      "しか",
       "しかし"
     ],
     "roman": [
-      "shika",
       "shikashi"
     ]
   },
@@ -144626,11 +141306,9 @@ const dictionary = [
   {
     "title": "しかも",
     "kana": [
-      "しか",
       "しかも"
     ],
     "roman": [
-      "shika",
       "shikamo"
     ]
   },
@@ -144646,11 +141324,9 @@ const dictionary = [
   {
     "title": "うずくま",
     "kana": [
-      "うずく",
       "うずくま"
     ],
     "roman": [
-      "uzuku",
       "uzukuma"
     ]
   },
@@ -144702,11 +141378,9 @@ const dictionary = [
   {
     "title": "しばし",
     "kana": [
-      "しば",
       "しばし"
     ],
     "roman": [
-      "shiba",
       "shibashi"
     ]
   },
@@ -144785,11 +141459,11 @@ const dictionary = [
   {
     "title": "どす黒",
     "kana": [
-      "どす",
+      "どす黒",
       "どすぐろ"
     ],
     "roman": [
-      "dosu",
+      "dosu黒",
       "dosuguro"
     ]
   },
@@ -144922,11 +141596,9 @@ const dictionary = [
   {
     "title": "ただし",
     "kana": [
-      "ただ",
       "ただし"
     ],
     "roman": [
-      "tada",
       "tadashi"
     ]
   },
@@ -145104,11 +141776,9 @@ const dictionary = [
   {
     "title": "わけ",
     "kana": [
-      "わ",
       "わけ"
     ],
     "roman": [
-      "wa",
       "wake"
     ]
   },
@@ -145124,11 +141794,9 @@ const dictionary = [
   {
     "title": "もどき",
     "kana": [
-      "もど",
       "もどき"
     ],
     "roman": [
-      "modo",
       "modoki"
     ]
   },
@@ -145153,11 +141821,9 @@ const dictionary = [
   {
     "title": "おびただし",
     "kana": [
-      "おびただ",
       "おびただし"
     ],
     "roman": [
-      "obitada",
       "obitadashi"
     ]
   },
@@ -145299,11 +141965,9 @@ const dictionary = [
   {
     "title": "さっぱり",
     "kana": [
-      "さっぱ",
       "さっぱり"
     ],
     "roman": [
-      "sappa",
       "sappari"
     ]
   },
@@ -145368,22 +142032,18 @@ const dictionary = [
   {
     "title": "せいぜい",
     "kana": [
-      "せいぜ",
       "せいぜい"
     ],
     "roman": [
-      "seize",
       "seizei"
     ]
   },
   {
     "title": "えら",
     "kana": [
-      "え",
       "えら"
     ],
     "roman": [
-      "e",
       "era"
     ]
   },
@@ -145399,11 +142059,9 @@ const dictionary = [
   {
     "title": "みじか",
     "kana": [
-      "みじ",
       "みじか"
     ],
     "roman": [
-      "miji",
       "mijika"
     ]
   },
@@ -145446,22 +142104,18 @@ const dictionary = [
   {
     "title": "いかに",
     "kana": [
-      "いか",
       "いかに"
     ],
     "roman": [
-      "ika",
       "ikani"
     ]
   },
   {
     "title": "もとづ",
     "kana": [
-      "もと",
       "もとづ"
     ],
     "roman": [
-      "moto",
       "motodu"
     ]
   },
@@ -145661,11 +142315,9 @@ const dictionary = [
   {
     "title": "ひょっこり",
     "kana": [
-      "ひょっこ",
       "ひょっこり"
     ],
     "roman": [
-      "hyokko",
       "hyokkori"
     ]
   },
@@ -145681,11 +142333,9 @@ const dictionary = [
   {
     "title": "くら",
     "kana": [
-      "く",
       "くら"
     ],
     "roman": [
-      "ku",
       "kura"
     ]
   },
@@ -145719,11 +142369,9 @@ const dictionary = [
   {
     "title": "でか",
     "kana": [
-      "で",
       "でか"
     ],
     "roman": [
-      "de",
       "deka"
     ]
   },
@@ -145948,22 +142596,18 @@ const dictionary = [
   {
     "title": "され",
     "kana": [
-      "さ",
       "され"
     ],
     "roman": [
-      "sa",
       "sare"
     ]
   },
   {
     "title": "ひっぱた",
     "kana": [
-      "ひっぱ",
       "ひっぱた"
     ],
     "roman": [
-      "hippa",
       "hippata"
     ]
   },
@@ -146015,11 +142659,9 @@ const dictionary = [
   {
     "title": "できるだけ",
     "kana": [
-      "できるだ",
       "できるだけ"
     ],
     "roman": [
-      "dekiruda",
       "dekirudake"
     ]
   },
@@ -146062,11 +142704,9 @@ const dictionary = [
   {
     "title": "ちかごろ",
     "kana": [
-      "ちかご",
       "ちかごろ"
     ],
     "roman": [
-      "chikago",
       "chikagoro"
     ]
   },
@@ -146104,11 +142744,9 @@ const dictionary = [
   {
     "title": "かられ",
     "kana": [
-      "から",
       "かられ"
     ],
     "roman": [
-      "kara",
       "karare"
     ]
   },
@@ -146232,22 +142870,18 @@ const dictionary = [
   {
     "title": "ぶれ",
     "kana": [
-      "ぶ",
       "ぶれ"
     ],
     "roman": [
-      "bu",
       "bure"
     ]
   },
   {
     "title": "あした",
     "kana": [
-      "あし",
       "あした"
     ],
     "roman": [
-      "ashi",
       "ashita"
     ]
   },
@@ -146290,11 +142924,9 @@ const dictionary = [
   {
     "title": "にこにこ",
     "kana": [
-      "にこに",
       "にこにこ"
     ],
     "roman": [
-      "nikoni",
       "nikoniko"
     ]
   },
@@ -146454,33 +143086,29 @@ const dictionary = [
   {
     "title": "ひねくれ",
     "kana": [
-      "ひねく",
       "ひねくれ"
     ],
     "roman": [
-      "hineku",
       "hinekure"
     ]
   },
   {
     "title": "ほほえまし",
     "kana": [
-      "ほほえま",
       "ほほえまし"
     ],
     "roman": [
-      "hohoema",
       "hohoemashi"
     ]
   },
   {
     "title": "お供",
     "kana": [
-      "お",
+      "お供",
       "おとも"
     ],
     "roman": [
-      "o",
+      "o供",
       "otomo"
     ]
   },
@@ -146568,11 +143196,9 @@ const dictionary = [
   {
     "title": "そいつ",
     "kana": [
-      "そい",
       "そいつ"
     ],
     "roman": [
-      "soi",
       "soitsu"
     ]
   },
@@ -146766,11 +143392,9 @@ const dictionary = [
   {
     "title": "じい",
     "kana": [
-      "じ",
       "じい"
     ],
     "roman": [
-      "ji",
       "jii"
     ]
   },
@@ -146813,22 +143437,20 @@ const dictionary = [
   {
     "title": "お陰",
     "kana": [
-      "お",
+      "お陰",
       "おかげ"
     ],
     "roman": [
-      "o",
+      "o陰",
       "okage"
     ]
   },
   {
     "title": "しっか",
     "kana": [
-      "しっ",
       "しっか"
     ],
     "roman": [
-      "shixtsu",
       "shikka"
     ]
   },
@@ -146925,11 +143547,9 @@ const dictionary = [
   {
     "title": "まかせ",
     "kana": [
-      "まか",
       "まかせ"
     ],
     "roman": [
-      "maka",
       "makase"
     ]
   },
@@ -146976,11 +143596,9 @@ const dictionary = [
   {
     "title": "う",
     "kana": [
-      "",
       "う"
     ],
     "roman": [
-      "",
       "u"
     ]
   },
@@ -147077,22 +143695,18 @@ const dictionary = [
   {
     "title": "ばんばん",
     "kana": [
-      "ばんば",
       "ばんばん"
     ],
     "roman": [
-      "banba",
       "banban"
     ]
   },
   {
     "title": "よほど",
     "kana": [
-      "よほ",
       "よほど"
     ],
     "roman": [
-      "yoho",
       "yohodo"
     ]
   },
@@ -147126,11 +143740,11 @@ const dictionary = [
   {
     "title": "つき合",
     "kana": [
-      "つき",
+      "つき合",
       "つきあ"
     ],
     "roman": [
-      "tsuki",
+      "tsuki合",
       "tsukia"
     ]
   },
@@ -147272,11 +143886,9 @@ const dictionary = [
   {
     "title": "まばら",
     "kana": [
-      "まば",
       "まばら"
     ],
     "roman": [
-      "maba",
       "mabara"
     ]
   },
@@ -147564,11 +144176,9 @@ const dictionary = [
   {
     "title": "どこら",
     "kana": [
-      "どこ",
       "どこら"
     ],
     "roman": [
-      "doko",
       "dokora"
     ]
   },
@@ -147584,11 +144194,9 @@ const dictionary = [
   {
     "title": "いじまし",
     "kana": [
-      "いじま",
       "いじまし"
     ],
     "roman": [
-      "ijima",
       "ijimashi"
     ]
   },
@@ -147649,11 +144257,9 @@ const dictionary = [
   {
     "title": "だめ",
     "kana": [
-      "だ",
       "だめ"
     ],
     "roman": [
-      "da",
       "dame"
     ]
   },
@@ -147669,12 +144275,10 @@ const dictionary = [
   {
     "title": "る",
     "kana": [
-      "",
       "る",
       "ん"
     ],
     "roman": [
-      "",
       "ru",
       "n"
     ]
@@ -147718,11 +144322,9 @@ const dictionary = [
   {
     "title": "ぜひ",
     "kana": [
-      "ぜ",
       "ぜひ"
     ],
     "roman": [
-      "ze",
       "zehi"
     ]
   },
@@ -147776,9 +144378,11 @@ const dictionary = [
   {
     "title": "な*",
     "kana": [
+      "な*",
       "な"
     ],
     "roman": [
+      "na*",
       "na"
     ]
   },
@@ -147803,11 +144407,9 @@ const dictionary = [
   {
     "title": "さしあたり",
     "kana": [
-      "さしあた",
       "さしあたり"
     ],
     "roman": [
-      "sashiata",
       "sashiatari"
     ]
   },
@@ -147886,22 +144488,20 @@ const dictionary = [
   {
     "title": "ごちそうさま",
     "kana": [
-      "ごちそうさ",
       "ごちそうさま"
     ],
     "roman": [
-      "gochisousa",
       "gochisousama"
     ]
   },
   {
     "title": "お袋",
     "kana": [
-      "お",
+      "お袋",
       "おふくろ"
     ],
     "roman": [
-      "o",
+      "o袋",
       "ofukuro"
     ]
   },
@@ -148000,11 +144600,9 @@ const dictionary = [
   {
     "title": "つねに",
     "kana": [
-      "つね",
       "つねに"
     ],
     "roman": [
-      "tsune",
       "tsuneni"
     ]
   },
@@ -148056,11 +144654,9 @@ const dictionary = [
   {
     "title": "やば",
     "kana": [
-      "や",
       "やば"
     ],
     "roman": [
-      "ya",
       "yaba"
     ]
   },
@@ -148274,11 +144870,9 @@ const dictionary = [
   {
     "title": "むせ",
     "kana": [
-      "む",
       "むせ"
     ],
     "roman": [
-      "mu",
       "muse"
     ]
   },
@@ -148330,11 +144924,9 @@ const dictionary = [
   {
     "title": "ほし",
     "kana": [
-      "ほ",
       "ほし"
     ],
     "roman": [
-      "ho",
       "hoshi"
     ]
   },
@@ -148406,22 +144998,20 @@ const dictionary = [
   {
     "title": "むっちゃ",
     "kana": [
-      "むっち",
       "むっちゃ"
     ],
     "roman": [
-      "mutchi",
       "mutcha"
     ]
   },
   {
     "title": "こみ上げ",
     "kana": [
-      "こみ上",
+      "こみ上げ",
       "こみあげ"
     ],
     "roman": [
-      "komi上",
+      "komi上ge",
       "komiage"
     ]
   },
@@ -148545,11 +145135,9 @@ const dictionary = [
   {
     "title": "いました",
     "kana": [
-      "いまし",
       "いました"
     ],
     "roman": [
-      "imashi",
       "imashita"
     ]
   },
@@ -148583,11 +145171,9 @@ const dictionary = [
   {
     "title": "における",
     "kana": [
-      "におけ",
       "における"
     ],
     "roman": [
-      "nioke",
       "niokeru"
     ]
   },
@@ -148630,11 +145216,11 @@ const dictionary = [
   {
     "title": "お化け",
     "kana": [
-      "お化",
+      "お化け",
       "おばけ"
     ],
     "roman": [
-      "o化",
+      "o化ke",
       "obake"
     ]
   },
@@ -148677,11 +145263,9 @@ const dictionary = [
   {
     "title": "とんでも",
     "kana": [
-      "とんで",
       "とんでも"
     ],
     "roman": [
-      "tonde",
       "tondemo"
     ]
   },
@@ -148724,22 +145308,18 @@ const dictionary = [
   {
     "title": "かっこ",
     "kana": [
-      "かっ",
       "かっこ"
     ],
     "roman": [
-      "kaxtsu",
       "kakko"
     ]
   },
   {
     "title": "これ",
     "kana": [
-      "こ",
       "これ"
     ],
     "roman": [
-      "ko",
       "kore"
     ]
   },
@@ -148755,11 +145335,9 @@ const dictionary = [
   {
     "title": "じっと",
     "kana": [
-      "じっ",
       "じっと"
     ],
     "roman": [
-      "jixtsu",
       "jitto"
     ]
   },
@@ -148820,11 +145398,9 @@ const dictionary = [
   {
     "title": "あえな",
     "kana": [
-      "あえ",
       "あえな"
     ],
     "roman": [
-      "ae",
       "aena"
     ]
   },
@@ -148885,11 +145461,9 @@ const dictionary = [
   {
     "title": "もちろん",
     "kana": [
-      "もちろ",
       "もちろん"
     ],
     "roman": [
-      "mochiro",
       "mochiron"
     ]
   },
@@ -149022,11 +145596,9 @@ const dictionary = [
   {
     "title": "あたふた",
     "kana": [
-      "あたふ",
       "あたふた"
     ],
     "roman": [
-      "atafu",
       "atafuta"
     ]
   },
@@ -149051,11 +145623,9 @@ const dictionary = [
   {
     "title": "きらら",
     "kana": [
-      "きら",
       "きらら"
     ],
     "roman": [
-      "kira",
       "kirara"
     ]
   },
@@ -149221,11 +145791,9 @@ const dictionary = [
   {
     "title": "ぶつか",
     "kana": [
-      "ぶつ",
       "ぶつか"
     ],
     "roman": [
-      "butsu",
       "butsuka"
     ]
   },
@@ -149322,11 +145890,9 @@ const dictionary = [
   {
     "title": "ひな",
     "kana": [
-      "ひ",
       "ひな"
     ],
     "roman": [
-      "hi",
       "hina"
     ]
   },
@@ -149344,11 +145910,9 @@ const dictionary = [
   {
     "title": "つとに",
     "kana": [
-      "つと",
       "つとに"
     ],
     "roman": [
-      "tsuto",
       "tsutoni"
     ]
   },
@@ -149364,11 +145928,9 @@ const dictionary = [
   {
     "title": "はね",
     "kana": [
-      "は",
       "はね"
     ],
     "roman": [
-      "ha",
       "hane"
     ]
   },
@@ -149483,11 +146045,9 @@ const dictionary = [
   {
     "title": "ひひ",
     "kana": [
-      "ひ",
       "ひひ"
     ],
     "roman": [
-      "hi",
       "hihi"
     ]
   },
@@ -149647,11 +146207,9 @@ const dictionary = [
   {
     "title": "あたかも",
     "kana": [
-      "あたか",
       "あたかも"
     ],
     "roman": [
-      "ataka",
       "atakamo"
     ]
   },
@@ -149712,11 +146270,9 @@ const dictionary = [
   {
     "title": "ちょうど",
     "kana": [
-      "ちょう",
       "ちょうど"
     ],
     "roman": [
-      "chou",
       "choudo"
     ]
   },
@@ -149741,11 +146297,9 @@ const dictionary = [
   {
     "title": "ほんとう",
     "kana": [
-      "ほんと",
       "ほんとう"
     ],
     "roman": [
-      "honto",
       "hontou"
     ]
   },
@@ -149887,11 +146441,9 @@ const dictionary = [
   {
     "title": "こと",
     "kana": [
-      "こ",
       "こと"
     ],
     "roman": [
-      "ko",
       "koto"
     ]
   },
@@ -149954,11 +146506,9 @@ const dictionary = [
   {
     "title": "そんなふうに",
     "kana": [
-      "そんなふう",
       "そんなふうに"
     ],
     "roman": [
-      "sonnafuu",
       "sonnafuuni"
     ]
   },
@@ -150100,11 +146650,9 @@ const dictionary = [
   {
     "title": "とりわけ",
     "kana": [
-      "とりわ",
       "とりわけ"
     ],
     "roman": [
-      "toriwa",
       "toriwake"
     ]
   },
@@ -150120,11 +146668,11 @@ const dictionary = [
   {
     "title": "あっと言う間に",
     "kana": [
-      "あっと言う間",
+      "あっと言う間に",
       "あっというまに"
     ],
     "roman": [
-      "atto言u間",
+      "atto言u間ni",
       "attoiumani"
     ]
   },
@@ -150363,11 +146911,9 @@ const dictionary = [
   {
     "title": "のせ",
     "kana": [
-      "の",
       "のせ"
     ],
     "roman": [
-      "no",
       "nose"
     ]
   },
@@ -150574,11 +147120,9 @@ const dictionary = [
   {
     "title": "の",
     "kana": [
-      "",
       "の"
     ],
     "roman": [
-      "",
       "no"
     ]
   },
@@ -150603,22 +147147,18 @@ const dictionary = [
   {
     "title": "のぞ",
     "kana": [
-      "の",
       "のぞ"
     ],
     "roman": [
-      "no",
       "nozo"
     ]
   },
   {
     "title": "つまり",
     "kana": [
-      "つま",
       "つまり"
     ],
     "roman": [
-      "tsuma",
       "tsumari"
     ]
   },
@@ -150643,11 +147183,9 @@ const dictionary = [
   {
     "title": "はら",
     "kana": [
-      "は",
       "はら"
     ],
     "roman": [
-      "ha",
       "hara"
     ]
   },
@@ -150681,11 +147219,9 @@ const dictionary = [
   {
     "title": "あやう",
     "kana": [
-      "あや",
       "あやう"
     ],
     "roman": [
-      "aya",
       "ayau"
     ]
   },
@@ -150703,11 +147239,9 @@ const dictionary = [
   {
     "title": "おおいに",
     "kana": [
-      "おおい",
       "おおいに"
     ],
     "roman": [
-      "ooi",
       "ooini"
     ]
   },
@@ -150759,11 +147293,9 @@ const dictionary = [
   {
     "title": "ちょこちょこ",
     "kana": [
-      "ちょこちょ",
       "ちょこちょこ"
     ],
     "roman": [
-      "chokocho",
       "chokochoko"
     ]
   },
@@ -150779,11 +147311,11 @@ const dictionary = [
   {
     "title": "もの珍し",
     "kana": [
-      "もの珍",
+      "もの珍し",
       "ものめずらし"
     ],
     "roman": [
-      "mono珍",
+      "mono珍shi",
       "monomezurashi"
     ]
   },
@@ -150817,22 +147349,18 @@ const dictionary = [
   {
     "title": "くるし",
     "kana": [
-      "くる",
       "くるし"
     ],
     "roman": [
-      "kuru",
       "kurushi"
     ]
   },
   {
     "title": "はじめて",
     "kana": [
-      "はじめ",
       "はじめて"
     ],
     "roman": [
-      "hajime",
       "hajimete"
     ]
   },
@@ -150911,11 +147439,11 @@ const dictionary = [
   {
     "title": "お守り",
     "kana": [
-      "お守",
+      "お守り",
       "おまもり"
     ],
     "roman": [
-      "o守",
+      "o守ri",
       "omamori"
     ]
   },
@@ -150994,11 +147522,9 @@ const dictionary = [
   {
     "title": "だし",
     "kana": [
-      "だ",
       "だし"
     ],
     "roman": [
-      "da",
       "dashi"
     ]
   },
@@ -151050,11 +147576,9 @@ const dictionary = [
   {
     "title": "ひっそり",
     "kana": [
-      "ひっそ",
       "ひっそり"
     ],
     "roman": [
-      "hisso",
       "hissori"
     ]
   },
@@ -151322,11 +147846,9 @@ const dictionary = [
   {
     "title": "ふたたび",
     "kana": [
-      "ふたた",
       "ふたたび"
     ],
     "roman": [
-      "futata",
       "futatabi"
     ]
   },
@@ -151387,11 +147909,9 @@ const dictionary = [
   {
     "title": "むかつ",
     "kana": [
-      "むか",
       "むかつ"
     ],
     "roman": [
-      "muka",
       "mukatsu"
     ]
   },
@@ -151407,22 +147927,20 @@ const dictionary = [
   {
     "title": "へらへら",
     "kana": [
-      "へらへ",
       "へらへら"
     ],
     "roman": [
-      "herahe",
       "herahera"
     ]
   },
   {
     "title": "ふんぞり返",
     "kana": [
-      "ふんぞり",
+      "ふんぞり返",
       "ふんぞりかえ"
     ],
     "roman": [
-      "funzori",
+      "funzori返",
       "funzorikae"
     ]
   },
@@ -151465,11 +147983,9 @@ const dictionary = [
   {
     "title": "よせ",
     "kana": [
-      "よ",
       "よせ"
     ],
     "roman": [
-      "yo",
       "yose"
     ]
   },
@@ -151530,11 +148046,9 @@ const dictionary = [
   {
     "title": "がか",
     "kana": [
-      "が",
       "がか"
     ],
     "roman": [
-      "ga",
       "gaka"
     ]
   },
@@ -151707,11 +148221,11 @@ const dictionary = [
   {
     "title": "かき乱",
     "kana": [
-      "かき",
+      "かき乱",
       "かきみだ"
     ],
     "roman": [
-      "kaki",
+      "kaki乱",
       "kakimida"
     ]
   },
@@ -151799,33 +148313,27 @@ const dictionary = [
   {
     "title": "ともだち",
     "kana": [
-      "ともだ",
       "ともだち"
     ],
     "roman": [
-      "tomoda",
       "tomodachi"
     ]
   },
   {
     "title": "きょう",
     "kana": [
-      "きょ",
       "きょう"
     ],
     "roman": [
-      "kyo",
       "kyou"
     ]
   },
   {
     "title": "おっさん",
     "kana": [
-      "おっさ",
       "おっさん"
     ],
     "roman": [
-      "ossa",
       "ossan"
     ]
   },
@@ -152120,11 +148628,9 @@ const dictionary = [
   {
     "title": "ふか",
     "kana": [
-      "ふ",
       "ふか"
     ],
     "roman": [
-      "fu",
       "fuka"
     ]
   },
@@ -152194,11 +148700,9 @@ const dictionary = [
   {
     "title": "しっかと",
     "kana": [
-      "しっか",
       "しっかと"
     ],
     "roman": [
-      "shikka",
       "shikkato"
     ]
   },
@@ -152241,12 +148745,12 @@ const dictionary = [
   {
     "title": "いじ",
     "kana": [
-      "い",
-      "いじ"
+      "いじ",
+      "い"
     ],
     "roman": [
-      "i",
-      "iji"
+      "iji",
+      "i"
     ]
   },
   {
@@ -152333,11 +148837,9 @@ const dictionary = [
   {
     "title": "そして",
     "kana": [
-      "そし",
       "そして"
     ],
     "roman": [
-      "soshi",
       "soshite"
     ]
   },
@@ -152461,11 +148963,9 @@ const dictionary = [
   {
     "title": "うっとり",
     "kana": [
-      "うっと",
       "うっとり"
     ],
     "roman": [
-      "utto",
       "uttori"
     ]
   },
@@ -152580,11 +149080,9 @@ const dictionary = [
   {
     "title": "ばく",
     "kana": [
-      "ば",
       "ばく"
     ],
     "roman": [
-      "ba",
       "baku"
     ]
   },
@@ -152816,11 +149314,9 @@ const dictionary = [
   {
     "title": "てれ",
     "kana": [
-      "て",
       "てれ"
     ],
     "roman": [
-      "te",
       "tere"
     ]
   },
@@ -153054,11 +149550,9 @@ const dictionary = [
   {
     "title": "とつぜん",
     "kana": [
-      "とつぜ",
       "とつぜん"
     ],
     "roman": [
-      "totsuze",
       "totsuzen"
     ]
   },
@@ -153083,11 +149577,9 @@ const dictionary = [
   {
     "title": "ずら",
     "kana": [
-      "ず",
       "ずら"
     ],
     "roman": [
-      "zu",
       "zura"
     ]
   },
@@ -153139,22 +149631,18 @@ const dictionary = [
   {
     "title": "やむなく",
     "kana": [
-      "やむな",
       "やむなく"
     ],
     "roman": [
-      "yamuna",
       "yamunaku"
     ]
   },
   {
     "title": "ただちに",
     "kana": [
-      "ただち",
       "ただちに"
     ],
     "roman": [
-      "tadachi",
       "tadachini"
     ]
   },
@@ -153349,12 +149837,10 @@ const dictionary = [
   {
     "title": "できる",
     "kana": [
-      "でき",
       "できる",
       "できれ"
     ],
     "roman": [
-      "deki",
       "dekiru",
       "dekire"
     ]
@@ -153362,11 +149848,9 @@ const dictionary = [
   {
     "title": "だろう",
     "kana": [
-      "だろ",
       "だろう"
     ],
     "roman": [
-      "daro",
       "darou"
     ]
   },
@@ -153429,22 +149913,18 @@ const dictionary = [
   {
     "title": "ひんやり",
     "kana": [
-      "ひんや",
       "ひんやり"
     ],
     "roman": [
-      "hinya",
       "hinyari"
     ]
   },
   {
     "title": "きしょ",
     "kana": [
-      "きし",
       "きしょ"
     ],
     "roman": [
-      "kishi",
       "kisho"
     ]
   },
@@ -153523,11 +150003,11 @@ const dictionary = [
   {
     "title": "ほくそ笑",
     "kana": [
-      "ほくそ",
+      "ほくそ笑",
       "ほくそえ"
     ],
     "roman": [
-      "hokuso",
+      "hokuso笑",
       "hokusoe"
     ]
   },
@@ -153552,11 +150032,9 @@ const dictionary = [
   {
     "title": "どっかり",
     "kana": [
-      "どっか",
       "どっかり"
     ],
     "roman": [
-      "dokka",
       "dokkari"
     ]
   },
@@ -153702,11 +150180,9 @@ const dictionary = [
   {
     "title": "さまざま",
     "kana": [
-      "さまざ",
       "さまざま"
     ],
     "roman": [
-      "samaza",
       "samazama"
     ]
   },
@@ -153731,22 +150207,18 @@ const dictionary = [
   {
     "title": "かか",
     "kana": [
-      "か",
       "かか"
     ],
     "roman": [
-      "ka",
       "kaka"
     ]
   },
   {
     "title": "くやし",
     "kana": [
-      "くや",
       "くやし"
     ],
     "roman": [
-      "kuya",
       "kuyashi"
     ]
   },
@@ -153950,11 +150422,9 @@ const dictionary = [
   {
     "title": "おいし",
     "kana": [
-      "おい",
       "おいし"
     ],
     "roman": [
-      "oi",
       "oishi"
     ]
   },
@@ -154024,11 +150494,9 @@ const dictionary = [
   {
     "title": "むっつり",
     "kana": [
-      "むっつ",
       "むっつり"
     ],
     "roman": [
-      "muttsu",
       "muttsuri"
     ]
   },
@@ -154134,11 +150602,9 @@ const dictionary = [
   {
     "title": "いて",
     "kana": [
-      "い",
       "いて"
     ],
     "roman": [
-      "i",
       "ite"
     ]
   },
@@ -154298,11 +150764,9 @@ const dictionary = [
   {
     "title": "ぎゅうぎゅう",
     "kana": [
-      "ぎゅうぎゅ",
       "ぎゅうぎゅう"
     ],
     "roman": [
-      "gyuugyu",
       "gyuugyuu"
     ]
   },
@@ -154574,12 +151038,12 @@ const dictionary = [
   {
     "title": "あげる",
     "kana": [
-      "あげ",
+      "あげる",
       "あげよ",
       "あげれ"
     ],
     "roman": [
-      "age",
+      "ageru",
       "ageyo",
       "agere"
     ]
@@ -154686,11 +151150,9 @@ const dictionary = [
   {
     "title": "どうこう",
     "kana": [
-      "どうこ",
       "どうこう"
     ],
     "roman": [
-      "douko",
       "doukou"
     ]
   },
@@ -154760,11 +151222,9 @@ const dictionary = [
   {
     "title": "です",
     "kana": [
-      "で",
       "です"
     ],
     "roman": [
-      "de",
       "desu"
     ]
   },
@@ -154879,11 +151339,9 @@ const dictionary = [
   {
     "title": "おぞまし",
     "kana": [
-      "おぞま",
       "おぞまし"
     ],
     "roman": [
-      "ozoma",
       "ozomashi"
     ]
   },
@@ -155153,11 +151611,11 @@ const dictionary = [
   {
     "title": "か月",
     "kana": [
-      "か",
+      "か月",
       "かげつ"
     ],
     "roman": [
-      "ka",
+      "ka月",
       "kagetsu"
     ]
   },
@@ -155227,11 +151685,9 @@ const dictionary = [
   {
     "title": "にやりと",
     "kana": [
-      "にやり",
       "にやりと"
     ],
     "roman": [
-      "niyari",
       "niyarito"
     ]
   },
@@ -155267,11 +151723,9 @@ const dictionary = [
   {
     "title": "すみません",
     "kana": [
-      "すみませ",
       "すみません"
     ],
     "roman": [
-      "sumimase",
       "sumimasen"
     ]
   },
@@ -155361,22 +151815,18 @@ const dictionary = [
   {
     "title": "すませ",
     "kana": [
-      "すま",
       "すませ"
     ],
     "roman": [
-      "suma",
       "sumase"
     ]
   },
   {
     "title": "こわ",
     "kana": [
-      "こ",
       "こわ"
     ],
     "roman": [
-      "ko",
       "kowa"
     ]
   },
@@ -155482,11 +151932,9 @@ const dictionary = [
   {
     "title": "します",
     "kana": [
-      "しま",
       "します"
     ],
     "roman": [
-      "shima",
       "shimasu"
     ]
   },
@@ -155511,11 +151959,9 @@ const dictionary = [
   {
     "title": "じゅうじゅう",
     "kana": [
-      "じゅうじゅ",
       "じゅうじゅう"
     ],
     "roman": [
-      "juuju",
       "juujuu"
     ]
   },
@@ -155603,11 +152049,9 @@ const dictionary = [
   {
     "title": "たま",
     "kana": [
-      "た",
       "たま"
     ],
     "roman": [
-      "ta",
       "tama"
     ]
   },
@@ -155722,11 +152166,9 @@ const dictionary = [
   {
     "title": "ときどき",
     "kana": [
-      "ときど",
       "ときどき"
     ],
     "roman": [
-      "tokido",
       "tokidoki"
     ]
   },
@@ -155805,11 +152247,9 @@ const dictionary = [
   {
     "title": "ついで",
     "kana": [
-      "つい",
       "ついで"
     ],
     "roman": [
-      "tsui",
       "tsuide"
     ]
   },
@@ -155910,22 +152350,20 @@ const dictionary = [
   {
     "title": "うろうろ",
     "kana": [
-      "うろう",
       "うろうろ"
     ],
     "roman": [
-      "urou",
       "urouro"
     ]
   },
   {
     "title": "いた事",
     "kana": [
-      "いた",
+      "いた事",
       "いたこと"
     ],
     "roman": [
-      "ita",
+      "ita事",
       "itakoto"
     ]
   },
@@ -156013,11 +152451,9 @@ const dictionary = [
   {
     "title": "いくつ",
     "kana": [
-      "いく",
       "いくつ"
     ],
     "roman": [
-      "iku",
       "ikutsu"
     ]
   },
@@ -156096,11 +152532,9 @@ const dictionary = [
   {
     "title": "こぞって",
     "kana": [
-      "こぞっ",
       "こぞって"
     ],
     "roman": [
-      "kozoxtsu",
       "kozotte"
     ]
   },
@@ -156170,11 +152604,11 @@ const dictionary = [
   {
     "title": "お節介",
     "kana": [
-      "お節",
+      "お節介",
       "おせっかい"
     ],
     "roman": [
-      "o節",
+      "o節介",
       "osekkai"
     ]
   },
@@ -156235,11 +152669,9 @@ const dictionary = [
   {
     "title": "ものすご",
     "kana": [
-      "ものす",
       "ものすご"
     ],
     "roman": [
-      "monosu",
       "monosugo"
     ]
   },
@@ -156255,11 +152687,9 @@ const dictionary = [
   {
     "title": "ほのか",
     "kana": [
-      "ほの",
       "ほのか"
     ],
     "roman": [
-      "hono",
       "honoka"
     ]
   },
@@ -156284,22 +152714,18 @@ const dictionary = [
   {
     "title": "ふらふら",
     "kana": [
-      "ふらふ",
       "ふらふら"
     ],
     "roman": [
-      "furafu",
       "furafura"
     ]
   },
   {
     "title": "ぎゃあぎゃあ",
     "kana": [
-      "ぎゃあぎゃ",
       "ぎゃあぎゃあ"
     ],
     "roman": [
-      "gyaagya",
       "gyaagyaa"
     ]
   },
@@ -156324,11 +152750,11 @@ const dictionary = [
   {
     "title": "お兄さん",
     "kana": [
-      "お兄さ",
+      "お兄さん",
       "おにいさん"
     ],
     "roman": [
-      "o兄sa",
+      "o兄san",
       "oniisan"
     ]
   },
@@ -156398,11 +152824,9 @@ const dictionary = [
   {
     "title": "わん",
     "kana": [
-      "わ",
       "わん"
     ],
     "roman": [
-      "wa",
       "wan"
     ]
   },
@@ -156429,11 +152853,9 @@ const dictionary = [
   {
     "title": "はみ",
     "kana": [
-      "は",
       "はみ"
     ],
     "roman": [
-      "ha",
       "hami"
     ]
   },
@@ -156467,11 +152889,9 @@ const dictionary = [
   {
     "title": "でしょうか",
     "kana": [
-      "でしょう",
       "でしょうか"
     ],
     "roman": [
-      "deshou",
       "deshouka"
     ]
   },
@@ -156559,11 +152979,9 @@ const dictionary = [
   {
     "title": "やわ",
     "kana": [
-      "や",
       "やわ"
     ],
     "roman": [
-      "ya",
       "yawa"
     ]
   },
@@ -156660,11 +153078,9 @@ const dictionary = [
   {
     "title": "あげ",
     "kana": [
-      "あ",
       "あげ"
     ],
     "roman": [
-      "a",
       "age"
     ]
   },
@@ -156736,9 +153152,11 @@ const dictionary = [
   {
     "title": "こさ*",
     "kana": [
+      "こさ*",
       "こさ"
     ],
     "roman": [
+      "kosa*",
       "kosa"
     ]
   },
@@ -156754,11 +153172,9 @@ const dictionary = [
   {
     "title": "ころ",
     "kana": [
-      "こ",
       "ころ"
     ],
     "roman": [
-      "ko",
       "koro"
     ]
   },
@@ -157003,11 +153419,9 @@ const dictionary = [
   {
     "title": "ですから",
     "kana": [
-      "ですか",
       "ですから"
     ],
     "roman": [
-      "desuka",
       "desukara"
     ]
   },
@@ -157097,11 +153511,9 @@ const dictionary = [
   {
     "title": "かすれ",
     "kana": [
-      "かす",
       "かすれ"
     ],
     "roman": [
-      "kasu",
       "kasure"
     ]
   },
@@ -157173,11 +153585,9 @@ const dictionary = [
   {
     "title": "ともかく",
     "kana": [
-      "ともか",
       "ともかく"
     ],
     "roman": [
-      "tomoka",
       "tomokaku"
     ]
   },
@@ -157211,22 +153621,18 @@ const dictionary = [
   {
     "title": "ちょ",
     "kana": [
-      "ち",
       "ちょ"
     ],
     "roman": [
-      "chi",
       "cho"
     ]
   },
   {
     "title": "つんつん",
     "kana": [
-      "つんつ",
       "つんつん"
     ],
     "roman": [
-      "tsuntsu",
       "tsuntsun"
     ]
   },
@@ -157536,11 +153942,9 @@ const dictionary = [
   {
     "title": "こんなにも",
     "kana": [
-      "こんなに",
       "こんなにも"
     ],
     "roman": [
-      "konnani",
       "konnanimo"
     ]
   },
@@ -157583,11 +153987,9 @@ const dictionary = [
   {
     "title": "かみしめ",
     "kana": [
-      "かみし",
       "かみしめ"
     ],
     "roman": [
-      "kamishi",
       "kamishime"
     ]
   },
@@ -157639,11 +154041,11 @@ const dictionary = [
   {
     "title": "に関する",
     "kana": [
-      "に関す",
+      "に関する",
       "にかんする"
     ],
     "roman": [
-      "ni関su",
+      "ni関suru",
       "nikansuru"
     ]
   },
@@ -157722,11 +154124,9 @@ const dictionary = [
   {
     "title": "すべて",
     "kana": [
-      "すべ",
       "すべて"
     ],
     "roman": [
-      "sube",
       "subete"
     ]
   },
@@ -157742,11 +154142,9 @@ const dictionary = [
   {
     "title": "あて",
     "kana": [
-      "あ",
       "あて"
     ],
     "roman": [
-      "a",
       "ate"
     ]
   },
@@ -157789,11 +154187,9 @@ const dictionary = [
   {
     "title": "それとなく",
     "kana": [
-      "それとな",
       "それとなく"
     ],
     "roman": [
-      "soretona",
       "soretonaku"
     ]
   },
@@ -157912,11 +154308,9 @@ const dictionary = [
   {
     "title": "どうか",
     "kana": [
-      "どう",
       "どうか"
     ],
     "roman": [
-      "dou",
       "douka"
     ]
   },
@@ -157941,11 +154335,9 @@ const dictionary = [
   {
     "title": "てれくさ",
     "kana": [
-      "てれく",
       "てれくさ"
     ],
     "roman": [
-      "tereku",
       "terekusa"
     ]
   },
@@ -157970,11 +154362,9 @@ const dictionary = [
   {
     "title": "それ",
     "kana": [
-      "そ",
       "それ"
     ],
     "roman": [
-      "so",
       "sore"
     ]
   },
@@ -158062,11 +154452,9 @@ const dictionary = [
   {
     "title": "さびし",
     "kana": [
-      "さび",
       "さびし"
     ],
     "roman": [
-      "sabi",
       "sabishi"
     ]
   },
@@ -158194,11 +154582,9 @@ const dictionary = [
   {
     "title": "おなか",
     "kana": [
-      "おな",
       "おなか"
     ],
     "roman": [
-      "ona",
       "onaka"
     ]
   },
@@ -158277,11 +154663,9 @@ const dictionary = [
   {
     "title": "かならず",
     "kana": [
-      "かなら",
       "かならず"
     ],
     "roman": [
-      "kanara",
       "kanarazu"
     ]
   },
@@ -158342,11 +154726,9 @@ const dictionary = [
   {
     "title": "となり",
     "kana": [
-      "とな",
       "となり"
     ],
     "roman": [
-      "tona",
       "tonari"
     ]
   },
@@ -158425,11 +154807,9 @@ const dictionary = [
   {
     "title": "ひっかか",
     "kana": [
-      "ひっか",
       "ひっかか"
     ],
     "roman": [
-      "hikka",
       "hikkaka"
     ]
   },
@@ -158528,11 +154908,9 @@ const dictionary = [
   {
     "title": "よろしく",
     "kana": [
-      "よろし",
       "よろしく"
     ],
     "roman": [
-      "yoroshi",
       "yoroshiku"
     ]
   },
@@ -158631,11 +155009,9 @@ const dictionary = [
   {
     "title": "あたらし",
     "kana": [
-      "あたら",
       "あたらし"
     ],
     "roman": [
-      "atara",
       "atarashi"
     ]
   },
@@ -158741,11 +155117,9 @@ const dictionary = [
   {
     "title": "お",
     "kana": [
-      "",
       "お"
     ],
     "roman": [
-      "",
       "o"
     ]
   },
@@ -158914,22 +155288,18 @@ const dictionary = [
   {
     "title": "ちらりと",
     "kana": [
-      "ちらり",
       "ちらりと"
     ],
     "roman": [
-      "chirari",
       "chirarito"
     ]
   },
   {
     "title": "まつり",
     "kana": [
-      "まつ",
       "まつり"
     ],
     "roman": [
-      "matsu",
       "matsuri"
     ]
   },
@@ -159046,11 +155416,9 @@ const dictionary = [
   {
     "title": "その",
     "kana": [
-      "そ",
       "その"
     ],
     "roman": [
-      "so",
       "sono"
     ]
   },
@@ -159234,11 +155602,9 @@ const dictionary = [
   {
     "title": "でしょ",
     "kana": [
-      "でし",
       "でしょ"
     ],
     "roman": [
-      "deshi",
       "desho"
     ]
   },
@@ -159308,11 +155674,9 @@ const dictionary = [
   {
     "title": "おば",
     "kana": [
-      "お",
       "おば"
     ],
     "roman": [
-      "o",
       "oba"
     ]
   },
@@ -159456,11 +155820,9 @@ const dictionary = [
   {
     "title": "わたし",
     "kana": [
-      "わた",
       "わたし"
     ],
     "roman": [
-      "wata",
       "watashi"
     ]
   },
@@ -159476,11 +155838,9 @@ const dictionary = [
   {
     "title": "しあさって",
     "kana": [
-      "しあさっ",
       "しあさって"
     ],
     "roman": [
-      "shiasaxtsu",
       "shiasatte"
     ]
   },
@@ -159568,11 +155928,11 @@ const dictionary = [
   {
     "title": "お断り",
     "kana": [
-      "お断",
+      "お断り",
       "おことわり"
     ],
     "roman": [
-      "o断",
+      "o断ri",
       "okotowari"
     ]
   },
@@ -159678,9 +156038,11 @@ const dictionary = [
   {
     "title": "しま*",
     "kana": [
+      "しま*",
       "しま"
     ],
     "roman": [
+      "shima*",
       "shima"
     ]
   },
@@ -159840,11 +156202,9 @@ const dictionary = [
   {
     "title": "とま",
     "kana": [
-      "と",
       "とま"
     ],
     "roman": [
-      "to",
       "toma"
     ]
   },
@@ -159995,11 +156355,9 @@ const dictionary = [
   {
     "title": "わ",
     "kana": [
-      "",
       "わ"
     ],
     "roman": [
-      "",
       "wa"
     ]
   },
@@ -160125,11 +156483,9 @@ const dictionary = [
   {
     "title": "ゆらゆら",
     "kana": [
-      "ゆらゆ",
       "ゆらゆら"
     ],
     "roman": [
-      "yurayu",
       "yurayura"
     ]
   },
@@ -160172,11 +156528,9 @@ const dictionary = [
   {
     "title": "ぼんやり",
     "kana": [
-      "ぼんや",
       "ぼんやり"
     ],
     "roman": [
-      "bonya",
       "bonyari"
     ]
   },
@@ -160219,11 +156573,9 @@ const dictionary = [
   {
     "title": "かぶ",
     "kana": [
-      "か",
       "かぶ"
     ],
     "roman": [
-      "ka",
       "kabu"
     ]
   },
@@ -160239,11 +156591,9 @@ const dictionary = [
   {
     "title": "あっけな",
     "kana": [
-      "あっけ",
       "あっけな"
     ],
     "roman": [
-      "akke",
       "akkena"
     ]
   },
@@ -160414,11 +156764,9 @@ const dictionary = [
   {
     "title": "さっと",
     "kana": [
-      "さっ",
       "さっと"
     ],
     "roman": [
-      "saxtsu",
       "satto"
     ]
   },
@@ -160461,11 +156809,9 @@ const dictionary = [
   {
     "title": "まんまと",
     "kana": [
-      "まんま",
       "まんまと"
     ],
     "roman": [
-      "manma",
       "manmato"
     ]
   },
@@ -160503,11 +156849,9 @@ const dictionary = [
   {
     "title": "まもなく",
     "kana": [
-      "まもな",
       "まもなく"
     ],
     "roman": [
-      "mamona",
       "mamonaku"
     ]
   },
@@ -160541,11 +156885,9 @@ const dictionary = [
   {
     "title": "すさまじ",
     "kana": [
-      "すさま",
       "すさまじ"
     ],
     "roman": [
-      "susama",
       "susamaji"
     ]
   },
@@ -160671,11 +157013,11 @@ const dictionary = [
   {
     "title": "つかの間",
     "kana": [
-      "つかの",
+      "つかの間",
       "つかのま"
     ],
     "roman": [
-      "tsukano",
+      "tsukano間",
       "tsukanoma"
     ]
   },
@@ -160709,11 +157051,9 @@ const dictionary = [
   {
     "title": "こちら",
     "kana": [
-      "こち",
       "こちら"
     ],
     "roman": [
-      "kochi",
       "kochira"
     ]
   },
@@ -160810,22 +157150,18 @@ const dictionary = [
   {
     "title": "なにげな",
     "kana": [
-      "なにげ",
       "なにげな"
     ],
     "roman": [
-      "nanige",
       "nanigena"
     ]
   },
   {
     "title": "ぺこり",
     "kana": [
-      "ぺこ",
       "ぺこり"
     ],
     "roman": [
-      "peko",
       "pekori"
     ]
   },
@@ -160895,22 +157231,18 @@ const dictionary = [
   {
     "title": "かけがえ",
     "kana": [
-      "かけが",
       "かけがえ"
     ],
     "roman": [
-      "kakega",
       "kakegae"
     ]
   },
   {
     "title": "もれ",
     "kana": [
-      "も",
       "もれ"
     ],
     "roman": [
-      "mo",
       "more"
     ]
   },
@@ -160935,22 +157267,18 @@ const dictionary = [
   {
     "title": "いじめ",
     "kana": [
-      "いじ",
       "いじめ"
     ],
     "roman": [
-      "iji",
       "ijime"
     ]
   },
   {
     "title": "います",
     "kana": [
-      "いま",
       "います"
     ],
     "roman": [
-      "ima",
       "imasu"
     ]
   },
@@ -161031,11 +157359,9 @@ const dictionary = [
   {
     "title": "ありのまま",
     "kana": [
-      "ありのま",
       "ありのまま"
     ],
     "roman": [
-      "arinoma",
       "arinomama"
     ]
   },
@@ -161177,11 +157503,9 @@ const dictionary = [
   {
     "title": "わっ",
     "kana": [
-      "わ",
       "わっ"
     ],
     "roman": [
-      "wa",
       "waxtsu"
     ]
   },
@@ -161314,11 +157638,9 @@ const dictionary = [
   {
     "title": "ぎこち",
     "kana": [
-      "ぎこ",
       "ぎこち"
     ],
     "roman": [
-      "giko",
       "gikochi"
     ]
   },
@@ -161343,11 +157665,9 @@ const dictionary = [
   {
     "title": "あしら",
     "kana": [
-      "あし",
       "あしら"
     ],
     "roman": [
-      "ashi",
       "ashira"
     ]
   },
@@ -161471,11 +157791,9 @@ const dictionary = [
   {
     "title": "ちが",
     "kana": [
-      "ち",
       "ちが"
     ],
     "roman": [
-      "chi",
       "chiga"
     ]
   },
@@ -161536,11 +157854,9 @@ const dictionary = [
   {
     "title": "ざ",
     "kana": [
-      "",
       "ざ"
     ],
     "roman": [
-      "",
       "za"
     ]
   },
@@ -161583,11 +157899,11 @@ const dictionary = [
   {
     "title": "やり方",
     "kana": [
-      "やり",
+      "やり方",
       "やりかた"
     ],
     "roman": [
-      "yari",
+      "yari方",
       "yarikata"
     ]
   },
@@ -161603,11 +157919,9 @@ const dictionary = [
   {
     "title": "まざ",
     "kana": [
-      "ま",
       "まざ"
     ],
     "roman": [
-      "ma",
       "maza"
     ]
   },
@@ -161650,11 +157964,9 @@ const dictionary = [
   {
     "title": "いかにも",
     "kana": [
-      "いかに",
       "いかにも"
     ],
     "roman": [
-      "ikani",
       "ikanimo"
     ]
   },
@@ -161791,11 +158103,9 @@ const dictionary = [
   {
     "title": "たて",
     "kana": [
-      "た",
       "たて"
     ],
     "roman": [
-      "ta",
       "tate"
     ]
   },
@@ -161903,11 +158213,9 @@ const dictionary = [
   {
     "title": "つるつる",
     "kana": [
-      "つるつ",
       "つるつる"
     ],
     "roman": [
-      "tsurutsu",
       "tsurutsuru"
     ]
   },
@@ -162112,11 +158420,9 @@ const dictionary = [
   {
     "title": "ともに",
     "kana": [
-      "とも",
       "ともに"
     ],
     "roman": [
-      "tomo",
       "tomoni"
     ]
   },
@@ -162168,11 +158474,9 @@ const dictionary = [
   {
     "title": "ぶ",
     "kana": [
-      "",
       "ぶ"
     ],
     "roman": [
-      "",
       "bu"
     ]
   },
@@ -162197,11 +158501,9 @@ const dictionary = [
   {
     "title": "し",
     "kana": [
-      "",
       "し"
     ],
     "roman": [
-      "",
       "shi"
     ]
   },
@@ -162509,11 +158811,9 @@ const dictionary = [
   {
     "title": "みなさん",
     "kana": [
-      "みなさ",
       "みなさん"
     ],
     "roman": [
-      "minasa",
       "minasan"
     ]
   },
@@ -162556,11 +158856,9 @@ const dictionary = [
   {
     "title": "として",
     "kana": [
-      "とし",
       "として"
     ],
     "roman": [
-      "toshi",
       "toshite"
     ]
   },
@@ -162590,11 +158888,9 @@ const dictionary = [
   {
     "title": "びん",
     "kana": [
-      "び",
       "びん"
     ],
     "roman": [
-      "bi",
       "bin"
     ]
   },
@@ -162664,22 +158960,18 @@ const dictionary = [
   {
     "title": "まさしく",
     "kana": [
-      "まさし",
       "まさしく"
     ],
     "roman": [
-      "masashi",
       "masashiku"
     ]
   },
   {
     "title": "りんご",
     "kana": [
-      "りん",
       "りんご"
     ],
     "roman": [
-      "rin",
       "ringo"
     ]
   },
@@ -162841,11 +159133,9 @@ const dictionary = [
   {
     "title": "かよ",
     "kana": [
-      "か",
       "かよ"
     ],
     "roman": [
-      "ka",
       "kayo"
     ]
   },
@@ -162924,11 +159214,9 @@ const dictionary = [
   {
     "title": "たん",
     "kana": [
-      "た",
       "たん"
     ],
     "roman": [
-      "ta",
       "tan"
     ]
   },
@@ -163099,11 +159387,9 @@ const dictionary = [
   {
     "title": "しよう",
     "kana": [
-      "しよ",
       "しよう"
     ],
     "roman": [
-      "shiyo",
       "shiyou"
     ]
   },
@@ -163128,11 +159414,9 @@ const dictionary = [
   {
     "title": "なるたけ",
     "kana": [
-      "なるた",
       "なるたけ"
     ],
     "roman": [
-      "naruta",
       "narutake"
     ]
   },
@@ -163166,11 +159450,11 @@ const dictionary = [
   {
     "title": "さらけ出",
     "kana": [
-      "さらけ",
+      "さらけ出",
       "さらけだ"
     ],
     "roman": [
-      "sarake",
+      "sarake出",
       "sarakeda"
     ]
   },
@@ -163186,22 +159470,18 @@ const dictionary = [
   {
     "title": "のぞみ",
     "kana": [
-      "のぞ",
       "のぞみ"
     ],
     "roman": [
-      "nozo",
       "nozomi"
     ]
   },
   {
     "title": "ふ",
     "kana": [
-      "",
       "ふ"
     ],
     "roman": [
-      "",
       "fu"
     ]
   },
@@ -163226,11 +159506,11 @@ const dictionary = [
   {
     "title": "いつの間にか",
     "kana": [
-      "いつの間に",
+      "いつの間にか",
       "いつのまにか"
     ],
     "roman": [
-      "itsuno間ni",
+      "itsuno間nika",
       "itsunomanika"
     ]
   },
@@ -163363,11 +159643,9 @@ const dictionary = [
   {
     "title": "どんな",
     "kana": [
-      "どん",
       "どんな"
     ],
     "roman": [
-      "don",
       "donna"
     ]
   },
@@ -163437,11 +159715,9 @@ const dictionary = [
   {
     "title": "ぼう",
     "kana": [
-      "ぼ",
       "ぼう"
     ],
     "roman": [
-      "bo",
       "bou"
     ]
   },
@@ -163457,11 +159733,9 @@ const dictionary = [
   {
     "title": "ごろごろ",
     "kana": [
-      "ごろご",
       "ごろごろ"
     ],
     "roman": [
-      "gorogo",
       "gorogoro"
     ]
   },
@@ -163513,11 +159787,9 @@ const dictionary = [
   {
     "title": "しっくり",
     "kana": [
-      "しっく",
       "しっくり"
     ],
     "roman": [
-      "shikku",
       "shikkuri"
     ]
   },
@@ -163571,22 +159843,18 @@ const dictionary = [
   {
     "title": "かなり",
     "kana": [
-      "かな",
       "かなり"
     ],
     "roman": [
-      "kana",
       "kanari"
     ]
   },
   {
     "title": "いう",
     "kana": [
-      "い",
       "いう"
     ],
     "roman": [
-      "i",
       "iu"
     ]
   },
@@ -163732,11 +160000,9 @@ const dictionary = [
   {
     "title": "わくわく",
     "kana": [
-      "わくわ",
       "わくわく"
     ],
     "roman": [
-      "wakuwa",
       "wakuwaku"
     ]
   },
@@ -163909,11 +160175,9 @@ const dictionary = [
   {
     "title": "おん",
     "kana": [
-      "お",
       "おん"
     ],
     "roman": [
-      "o",
       "on"
     ]
   },
@@ -164066,11 +160330,9 @@ const dictionary = [
   {
     "title": "しょぼ",
     "kana": [
-      "しょ",
       "しょぼ"
     ],
     "roman": [
-      "sho",
       "shobo"
     ]
   },
@@ -164261,11 +160523,9 @@ const dictionary = [
   {
     "title": "あいだ",
     "kana": [
-      "あい",
       "あいだ"
     ],
     "roman": [
-      "ai",
       "aida"
     ]
   },
@@ -164416,22 +160676,18 @@ const dictionary = [
   {
     "title": "ぢ",
     "kana": [
-      "",
       "ぢ"
     ],
     "roman": [
-      "",
       "di"
     ]
   },
   {
     "title": "おじいさん",
     "kana": [
-      "おじいさ",
       "おじいさん"
     ],
     "roman": [
-      "ojiisa",
       "ojiisan"
     ]
   },
@@ -164447,11 +160703,9 @@ const dictionary = [
   {
     "title": "たびたび",
     "kana": [
-      "たびた",
       "たびたび"
     ],
     "roman": [
-      "tabita",
       "tabitabi"
     ]
   },
@@ -164487,11 +160741,11 @@ const dictionary = [
   {
     "title": "いち早",
     "kana": [
-      "いち",
+      "いち早",
       "いちはや"
     ],
     "roman": [
-      "ichi",
+      "ichi早",
       "ichihaya"
     ]
   },
@@ -164615,11 +160869,9 @@ const dictionary = [
   {
     "title": "かくれんぼ",
     "kana": [
-      "かくれん",
       "かくれんぼ"
     ],
     "roman": [
-      "kakuren",
       "kakurenbo"
     ]
   },
@@ -164653,33 +160905,29 @@ const dictionary = [
   {
     "title": "だだっ広",
     "kana": [
-      "だだっ",
+      "だだっ広",
       "だだっぴろ"
     ],
     "roman": [
-      "dadaxtsu",
+      "dadaxtsu広",
       "dadappiro"
     ]
   },
   {
     "title": "めか",
     "kana": [
-      "め",
       "めか"
     ],
     "roman": [
-      "me",
       "meka"
     ]
   },
   {
     "title": "やきもき",
     "kana": [
-      "やきも",
       "やきもき"
     ],
     "roman": [
-      "yakimo",
       "yakimoki"
     ]
   },
@@ -164812,11 +161060,9 @@ const dictionary = [
   {
     "title": "かかる",
     "kana": [
-      "かか",
       "かかる"
     ],
     "roman": [
-      "kaka",
       "kakaru"
     ]
   },
@@ -164832,11 +161078,9 @@ const dictionary = [
   {
     "title": "ことさら",
     "kana": [
-      "ことさ",
       "ことさら"
     ],
     "roman": [
-      "kotosa",
       "kotosara"
     ]
   },
@@ -164861,11 +161105,9 @@ const dictionary = [
   {
     "title": "はし",
     "kana": [
-      "は",
       "はし"
     ],
     "roman": [
-      "ha",
       "hashi"
     ]
   },
@@ -164937,11 +161179,9 @@ const dictionary = [
   {
     "title": "たいして",
     "kana": [
-      "たいし",
       "たいして"
     ],
     "roman": [
-      "taishi",
       "taishite"
     ]
   },
@@ -164957,11 +161197,9 @@ const dictionary = [
   {
     "title": "どきどき",
     "kana": [
-      "どきど",
       "どきどき"
     ],
     "roman": [
-      "dokido",
       "dokidoki"
     ]
   },
@@ -165013,11 +161251,9 @@ const dictionary = [
   {
     "title": "いわく",
     "kana": [
-      "いわ",
       "いわく"
     ],
     "roman": [
-      "iwa",
       "iwaku"
     ]
   },
@@ -165042,11 +161278,9 @@ const dictionary = [
   {
     "title": "うかが",
     "kana": [
-      "うか",
       "うかが"
     ],
     "roman": [
-      "uka",
       "ukaga"
     ]
   },
@@ -165179,11 +161413,9 @@ const dictionary = [
   {
     "title": "がい",
     "kana": [
-      "が",
       "がい"
     ],
     "roman": [
-      "ga",
       "gai"
     ]
   },
@@ -165255,11 +161487,9 @@ const dictionary = [
   {
     "title": "おさえ",
     "kana": [
-      "おさ",
       "おさえ"
     ],
     "roman": [
-      "osa",
       "osae"
     ]
   },
@@ -165293,11 +161523,9 @@ const dictionary = [
   {
     "title": "さらに",
     "kana": [
-      "さら",
       "さらに"
     ],
     "roman": [
-      "sara",
       "sarani"
     ]
   },
@@ -165322,11 +161550,9 @@ const dictionary = [
   {
     "title": "うんと",
     "kana": [
-      "うん",
       "うんと"
     ],
     "roman": [
-      "un",
       "unto"
     ]
   },
@@ -165342,11 +161568,9 @@ const dictionary = [
   {
     "title": "でん",
     "kana": [
-      "で",
       "でん"
     ],
     "roman": [
-      "de",
       "den"
     ]
   },
@@ -165362,11 +161586,11 @@ const dictionary = [
   {
     "title": "ぶん殴",
     "kana": [
-      "ぶん",
+      "ぶん殴",
       "ぶんなぐ"
     ],
     "roman": [
-      "bun",
+      "bun殴",
       "bunnagu"
     ]
   },
@@ -165400,11 +161624,9 @@ const dictionary = [
   {
     "title": "なれ",
     "kana": [
-      "な",
       "なれ"
     ],
     "roman": [
-      "na",
       "nare"
     ]
   },
@@ -165420,22 +161642,18 @@ const dictionary = [
   {
     "title": "なり",
     "kana": [
-      "な",
       "なり"
     ],
     "roman": [
-      "na",
       "nari"
     ]
   },
   {
     "title": "つり",
     "kana": [
-      "つ",
       "つり"
     ],
     "roman": [
-      "tsu",
       "tsuri"
     ]
   },
@@ -165471,11 +161689,9 @@ const dictionary = [
   {
     "title": "ありえ",
     "kana": [
-      "あり",
       "ありえ"
     ],
     "roman": [
-      "ari",
       "arie"
     ]
   },
@@ -165554,11 +161770,9 @@ const dictionary = [
   {
     "title": "ほどなく",
     "kana": [
-      "ほどな",
       "ほどなく"
     ],
     "roman": [
-      "hodona",
       "hodonaku"
     ]
   },
@@ -165610,11 +161824,9 @@ const dictionary = [
   {
     "title": "あんた",
     "kana": [
-      "あん",
       "あんた"
     ],
     "roman": [
-      "an",
       "anta"
     ]
   },
@@ -165864,11 +162076,9 @@ const dictionary = [
   {
     "title": "なくな",
     "kana": [
-      "なく",
       "なくな"
     ],
     "roman": [
-      "naku",
       "nakuna"
     ]
   },
@@ -165893,11 +162103,9 @@ const dictionary = [
   {
     "title": "すべ",
     "kana": [
-      "す",
       "すべ"
     ],
     "roman": [
-      "su",
       "sube"
     ]
   },
@@ -165940,11 +162148,9 @@ const dictionary = [
   {
     "title": "たまらな",
     "kana": [
-      "たまら",
       "たまらな"
     ],
     "roman": [
-      "tamara",
       "tamarana"
     ]
   },
@@ -166014,11 +162220,9 @@ const dictionary = [
   {
     "title": "かん",
     "kana": [
-      "か",
       "かん"
     ],
     "roman": [
-      "ka",
       "kan"
     ]
   },
@@ -166061,11 +162265,9 @@ const dictionary = [
   {
     "title": "おの",
     "kana": [
-      "お",
       "おの"
     ],
     "roman": [
-      "o",
       "ono"
     ]
   },
@@ -166090,11 +162292,9 @@ const dictionary = [
   {
     "title": "すれ",
     "kana": [
-      "す",
       "すれ"
     ],
     "roman": [
-      "su",
       "sure"
     ]
   },
@@ -166247,22 +162447,18 @@ const dictionary = [
   {
     "title": "しれません",
     "kana": [
-      "しれませ",
       "しれません"
     ],
     "roman": [
-      "shiremase",
       "shiremasen"
     ]
   },
   {
     "title": "ゆかし",
     "kana": [
-      "ゆか",
       "ゆかし"
     ],
     "roman": [
-      "yuka",
       "yukashi"
     ]
   },
@@ -166395,11 +162591,9 @@ const dictionary = [
   {
     "title": "ありったけ",
     "kana": [
-      "ありった",
       "ありったけ"
     ],
     "roman": [
-      "aritta",
       "arittake"
     ]
   },
@@ -166415,11 +162609,9 @@ const dictionary = [
   {
     "title": "きゅっと",
     "kana": [
-      "きゅっ",
       "きゅっと"
     ],
     "roman": [
-      "kyuxtsu",
       "kyutto"
     ]
   },
@@ -166482,11 +162674,9 @@ const dictionary = [
   {
     "title": "ときめ",
     "kana": [
-      "とき",
       "ときめ"
     ],
     "roman": [
-      "toki",
       "tokime"
     ]
   },
@@ -166538,11 +162728,9 @@ const dictionary = [
   {
     "title": "せかせか",
     "kana": [
-      "せかせ",
       "せかせか"
     ],
     "roman": [
-      "sekase",
       "sekaseka"
     ]
   },
@@ -166576,22 +162764,18 @@ const dictionary = [
   {
     "title": "おのずから",
     "kana": [
-      "おのずか",
       "おのずから"
     ],
     "roman": [
-      "onozuka",
       "onozukara"
     ]
   },
   {
     "title": "じゅう",
     "kana": [
-      "じゅ",
       "じゅう"
     ],
     "roman": [
-      "ju",
       "juu"
     ]
   },
@@ -166681,22 +162865,18 @@ const dictionary = [
   {
     "title": "うたた",
     "kana": [
-      "うた",
       "うたた"
     ],
     "roman": [
-      "uta",
       "utata"
     ]
   },
   {
     "title": "うまれ",
     "kana": [
-      "うま",
       "うまれ"
     ],
     "roman": [
-      "uma",
       "umare"
     ]
   },
@@ -166793,11 +162973,9 @@ const dictionary = [
   {
     "title": "どど",
     "kana": [
-      "ど",
       "どど"
     ],
     "roman": [
-      "do",
       "dodo"
     ]
   },
@@ -166849,11 +163027,9 @@ const dictionary = [
   {
     "title": "とか",
     "kana": [
-      "と",
       "とか"
     ],
     "roman": [
-      "to",
       "toka"
     ]
   },
@@ -166878,11 +163054,9 @@ const dictionary = [
   {
     "title": "もっと",
     "kana": [
-      "もっ",
       "もっと"
     ],
     "roman": [
-      "moxtsu",
       "motto"
     ]
   },
@@ -166916,11 +163090,9 @@ const dictionary = [
   {
     "title": "と",
     "kana": [
-      "",
       "と"
     ],
     "roman": [
-      "",
       "to"
     ]
   },
@@ -166990,11 +163162,9 @@ const dictionary = [
   {
     "title": "ぬぐ",
     "kana": [
-      "ぬ",
       "ぬぐ"
     ],
     "roman": [
-      "nu",
       "nugu"
     ]
   },
@@ -167201,11 +163371,9 @@ const dictionary = [
   {
     "title": "てんで",
     "kana": [
-      "てん",
       "てんで"
     ],
     "roman": [
-      "ten",
       "tende"
     ]
   },
@@ -167329,22 +163497,18 @@ const dictionary = [
   {
     "title": "おせ",
     "kana": [
-      "お",
       "おせ"
     ],
     "roman": [
-      "o",
       "ose"
     ]
   },
   {
     "title": "ずみ",
     "kana": [
-      "ず",
       "ずみ"
     ],
     "roman": [
-      "zu",
       "zumi"
     ]
   },
@@ -167360,22 +163524,20 @@ const dictionary = [
   {
     "title": "どこぞ",
     "kana": [
-      "どこ",
       "どこぞ"
     ],
     "roman": [
-      "doko",
       "dokozo"
     ]
   },
   {
     "title": "お迎え",
     "kana": [
-      "お迎",
+      "お迎え",
       "おむかえ"
     ],
     "roman": [
-      "o迎",
+      "o迎e",
       "omukae"
     ]
   },
@@ -167391,11 +163553,9 @@ const dictionary = [
   {
     "title": "ふり",
     "kana": [
-      "ふ",
       "ふり"
     ],
     "roman": [
-      "fu",
       "furi"
     ]
   },
@@ -167474,11 +163634,9 @@ const dictionary = [
   {
     "title": "ちま",
     "kana": [
-      "ち",
       "ちま"
     ],
     "roman": [
-      "chi",
       "chima"
     ]
   },
@@ -167514,9 +163672,11 @@ const dictionary = [
   {
     "title": "づら*",
     "kana": [
+      "づら*",
       "づら"
     ],
     "roman": [
+      "dura*",
       "dura"
     ]
   },
@@ -167633,11 +163793,9 @@ const dictionary = [
   {
     "title": "しんみり",
     "kana": [
-      "しんみ",
       "しんみり"
     ],
     "roman": [
-      "shinmi",
       "shinmiri"
     ]
   },
@@ -167680,11 +163838,9 @@ const dictionary = [
   {
     "title": "みんな",
     "kana": [
-      "みん",
       "みんな"
     ],
     "roman": [
-      "min",
       "minna"
     ]
   },
@@ -167837,11 +163993,11 @@ const dictionary = [
   {
     "title": "むき出し",
     "kana": [
-      "むき出",
+      "むき出し",
       "むきだし"
     ],
     "roman": [
-      "muki出",
+      "muki出shi",
       "mukidashi"
     ]
   },
@@ -167902,11 +164058,9 @@ const dictionary = [
   {
     "title": "して",
     "kana": [
-      "し",
       "して"
     ],
     "roman": [
-      "shi",
       "shite"
     ]
   },
@@ -168102,11 +164256,9 @@ const dictionary = [
   {
     "title": "ゆらりと",
     "kana": [
-      "ゆらり",
       "ゆらりと"
     ],
     "roman": [
-      "yurari",
       "yurarito"
     ]
   },
@@ -168203,11 +164355,9 @@ const dictionary = [
   {
     "title": "やさし",
     "kana": [
-      "やさ",
       "やさし"
     ],
     "roman": [
-      "yasa",
       "yasashi"
     ]
   },
@@ -168223,11 +164373,9 @@ const dictionary = [
   {
     "title": "おじさん",
     "kana": [
-      "おじさ",
       "おじさん"
     ],
     "roman": [
-      "ojisa",
       "ojisan"
     ]
   },
@@ -168335,11 +164483,9 @@ const dictionary = [
   {
     "title": "とき",
     "kana": [
-      "と",
       "とき"
     ],
     "roman": [
-      "to",
       "toki"
     ]
   },
@@ -168490,11 +164636,9 @@ const dictionary = [
   {
     "title": "それどころ",
     "kana": [
-      "それどこ",
       "それどころ"
     ],
     "roman": [
-      "soredoko",
       "soredokoro"
     ]
   },
@@ -168591,11 +164735,9 @@ const dictionary = [
   {
     "title": "もつれ",
     "kana": [
-      "もつ",
       "もつれ"
     ],
     "roman": [
-      "motsu",
       "motsure"
     ]
   },
@@ -168764,11 +164906,9 @@ const dictionary = [
   {
     "title": "おら",
     "kana": [
-      "お",
       "おら"
     ],
     "roman": [
-      "o",
       "ora"
     ]
   },
@@ -169000,11 +165140,9 @@ const dictionary = [
   {
     "title": "くるみ",
     "kana": [
-      "くる",
       "くるみ"
     ],
     "roman": [
-      "kuru",
       "kurumi"
     ]
   },
@@ -169310,11 +165448,9 @@ const dictionary = [
   {
     "title": "ひとえに",
     "kana": [
-      "ひとえ",
       "ひとえに"
     ],
     "roman": [
-      "hitoe",
       "hitoeni"
     ]
   },
@@ -169420,11 +165556,9 @@ const dictionary = [
   {
     "title": "ものめずらし",
     "kana": [
-      "ものめずら",
       "ものめずらし"
     ],
     "roman": [
-      "monomezura",
       "monomezurashi"
     ]
   },
@@ -169485,11 +165619,9 @@ const dictionary = [
   {
     "title": "くし",
     "kana": [
-      "く",
       "くし"
     ],
     "roman": [
-      "ku",
       "kushi"
     ]
   },
@@ -169532,11 +165664,9 @@ const dictionary = [
   {
     "title": "なぜだか",
     "kana": [
-      "なぜだ",
       "なぜだか"
     ],
     "roman": [
-      "nazeda",
       "nazedaka"
     ]
   },
@@ -169633,11 +165763,9 @@ const dictionary = [
   {
     "title": "いちばん",
     "kana": [
-      "いちば",
       "いちばん"
     ],
     "roman": [
-      "ichiba",
       "ichiban"
     ]
   },
@@ -169689,11 +165817,9 @@ const dictionary = [
   {
     "title": "かじ",
     "kana": [
-      "か",
       "かじ"
     ],
     "roman": [
-      "ka",
       "kaji"
     ]
   },
@@ -169756,11 +165882,9 @@ const dictionary = [
   {
     "title": "ぴしゃり",
     "kana": [
-      "ぴしゃ",
       "ぴしゃり"
     ],
     "roman": [
-      "pisha",
       "pishari"
     ]
   },
@@ -169803,11 +165927,9 @@ const dictionary = [
   {
     "title": "まばた",
     "kana": [
-      "まば",
       "まばた"
     ],
     "roman": [
-      "maba",
       "mabata"
     ]
   },
@@ -170059,22 +166181,18 @@ const dictionary = [
   {
     "title": "こめ",
     "kana": [
-      "こ",
       "こめ"
     ],
     "roman": [
-      "ko",
       "kome"
     ]
   },
   {
     "title": "やれ",
     "kana": [
-      "や",
       "やれ"
     ],
     "roman": [
-      "ya",
       "yare"
     ]
   },
@@ -170108,11 +166226,9 @@ const dictionary = [
   {
     "title": "もの",
     "kana": [
-      "も",
       "もの"
     ],
     "roman": [
-      "mo",
       "mono"
     ]
   },
@@ -170215,22 +166331,18 @@ const dictionary = [
   {
     "title": "ねむ",
     "kana": [
-      "ね",
       "ねむ"
     ],
     "roman": [
-      "ne",
       "nemu"
     ]
   },
   {
     "title": "だい",
     "kana": [
-      "だ",
       "だい"
     ],
     "roman": [
-      "da",
       "dai"
     ]
   },
@@ -170354,11 +166466,9 @@ const dictionary = [
   {
     "title": "せん",
     "kana": [
-      "せ",
       "せん"
     ],
     "roman": [
-      "se",
       "sen"
     ]
   },
@@ -170374,11 +166484,9 @@ const dictionary = [
   {
     "title": "こぼ",
     "kana": [
-      "こ",
       "こぼ"
     ],
     "roman": [
-      "ko",
       "kobo"
     ]
   },
@@ -170484,11 +166592,9 @@ const dictionary = [
   {
     "title": "われわれ",
     "kana": [
-      "われわ",
       "われわれ"
     ],
     "roman": [
-      "warewa",
       "wareware"
     ]
   },
@@ -170900,11 +167006,9 @@ const dictionary = [
   {
     "title": "とかく",
     "kana": [
-      "とか",
       "とかく"
     ],
     "roman": [
-      "toka",
       "tokaku"
     ]
   },
@@ -170947,11 +167051,9 @@ const dictionary = [
   {
     "title": "ぬくもり",
     "kana": [
-      "ぬくも",
       "ぬくもり"
     ],
     "roman": [
-      "nukumo",
       "nukumori"
     ]
   },
@@ -171003,11 +167105,9 @@ const dictionary = [
   {
     "title": "ま",
     "kana": [
-      "",
       "ま"
     ],
     "roman": [
-      "",
       "ma"
     ]
   },
@@ -171050,11 +167150,9 @@ const dictionary = [
   {
     "title": "より",
     "kana": [
-      "よ",
       "より"
     ],
     "roman": [
-      "yo",
       "yori"
     ]
   },
@@ -171115,11 +167213,9 @@ const dictionary = [
   {
     "title": "ぐずぐず",
     "kana": [
-      "ぐずぐ",
       "ぐずぐず"
     ],
     "roman": [
-      "guzugu",
       "guzuguzu"
     ]
   },
@@ -171414,11 +167510,9 @@ const dictionary = [
   {
     "title": "がっかり",
     "kana": [
-      "がっか",
       "がっかり"
     ],
     "roman": [
-      "gakka",
       "gakkari"
     ]
   },
@@ -171515,11 +167609,9 @@ const dictionary = [
   {
     "title": "おこがまし",
     "kana": [
-      "おこがま",
       "おこがまし"
     ],
     "roman": [
-      "okogama",
       "okogamashi"
     ]
   },
@@ -171699,11 +167791,11 @@ const dictionary = [
   {
     "title": "ぶり返",
     "kana": [
-      "ぶり",
+      "ぶり返",
       "ぶりかえ"
     ],
     "roman": [
-      "buri",
+      "buri返",
       "burikae"
     ]
   },
@@ -171737,11 +167829,9 @@ const dictionary = [
   {
     "title": "すれば",
     "kana": [
-      "すれ",
       "すれば"
     ],
     "roman": [
-      "sure",
       "sureba"
     ]
   },
@@ -171766,11 +167856,9 @@ const dictionary = [
   {
     "title": "しゅう",
     "kana": [
-      "しゅ",
       "しゅう"
     ],
     "roman": [
-      "shu",
       "shuu"
     ]
   },
@@ -171795,11 +167883,9 @@ const dictionary = [
   {
     "title": "もんもん",
     "kana": [
-      "もんも",
       "もんもん"
     ],
     "roman": [
-      "monmo",
       "monmon"
     ]
   },
@@ -172141,11 +168227,9 @@ const dictionary = [
   {
     "title": "とお",
     "kana": [
-      "と",
       "とお"
     ],
     "roman": [
-      "to",
       "too"
     ]
   },
@@ -172170,11 +168254,9 @@ const dictionary = [
   {
     "title": "む",
     "kana": [
-      "",
       "む"
     ],
     "roman": [
-      "",
       "mu"
     ]
   },
@@ -172297,11 +168379,9 @@ const dictionary = [
   {
     "title": "まと",
     "kana": [
-      "ま",
       "まと"
     ],
     "roman": [
-      "ma",
       "mato"
     ]
   },
@@ -172371,11 +168451,9 @@ const dictionary = [
   {
     "title": "つとめ",
     "kana": [
-      "つと",
       "つとめ"
     ],
     "roman": [
-      "tsuto",
       "tsutome"
     ]
   },
@@ -172409,11 +168487,9 @@ const dictionary = [
   {
     "title": "そっくり",
     "kana": [
-      "そっく",
       "そっくり"
     ],
     "roman": [
-      "sokku",
       "sokkuri"
     ]
   },
@@ -172456,11 +168532,11 @@ const dictionary = [
   {
     "title": "お茶の水女子",
     "kana": [
-      "お茶の水女",
+      "お茶の水女子",
       "おちゃのみずじょし"
     ],
     "roman": [
-      "o茶no水女",
+      "o茶no水女子",
       "ochanomizujoshi"
     ]
   },
@@ -172494,11 +168570,9 @@ const dictionary = [
   {
     "title": "のぞかせ",
     "kana": [
-      "のぞか",
       "のぞかせ"
     ],
     "roman": [
-      "nozoka",
       "nozokase"
     ]
   },
@@ -172595,11 +168669,9 @@ const dictionary = [
   {
     "title": "せ",
     "kana": [
-      "",
       "せ"
     ],
     "roman": [
-      "",
       "se"
     ]
   },
@@ -172615,11 +168687,9 @@ const dictionary = [
   {
     "title": "ようだ",
     "kana": [
-      "よう",
       "ようだ"
     ],
     "roman": [
-      "you",
       "youda"
     ]
   },
