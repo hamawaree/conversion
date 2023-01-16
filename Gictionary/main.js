@@ -36,7 +36,7 @@ window.addEventListener('load', () => {
             dlTest(){
                 console.log(distance(this.textInput, "sato"));
                 dictionary.forEach((obj)=>{
-                    obj.dl_found = obj.roman.find(word => distance(this.textInput,word) <= 1)
+                    obj.dl_found = obj.roman.find(word => distance(this.textInput,word) == 1)
                 });
 
                 let filtered = dictionary.filter(obj => obj.dl_found);
@@ -46,8 +46,11 @@ window.addEventListener('load', () => {
 
                 // レーベンシュタインの結果を格納
                 for(i=0;i<filtered.length;i++){
-                    this.dl_result[i] = filtered[i].title;
+                    this.dl_result[i] = filtered[i].kana[0];
                 }
+
+                // 重複を削除
+                this.dl_result = [...new Set(this.dl_result)];
             },
             sokkiSearch(){
                 let regex_befor = ""

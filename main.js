@@ -74,7 +74,7 @@ window.addEventListener('load', () => {
                 let kana_comma = kana.replace(/\s+/g, ",");
 
                 let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + kana_comma;
-                this.prevLength = this.convResultArrayArray.length;
+                this.prevLength = this.convResultArray.length;
 
                 fetch(URL)
                     .then(response => response.text())
