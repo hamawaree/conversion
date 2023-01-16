@@ -44,7 +44,7 @@ window.addEventListener('load', () => {
                 // 前の検索結果を削除
                 this.dl_result.splice(0)
 
-                // レーベンシュタインの結果を格納
+                // レーベンシュタインの結果をかなで格納
                 for(i=0;i<filtered.length;i++){
                     this.dl_result[i] = filtered[i].kana[0];
                 }

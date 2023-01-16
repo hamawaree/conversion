@@ -17,9 +17,25 @@ window.addEventListener('load', () => {
         arr[i] = 0; 
     }
 
-    function dl_search(text){
-        let return_arr = [text+" searched1",text+" searched2",text+" searched3"];
-        return return_arr;
+    function dl_search(romanText){
+        const searchText = romanText;
+
+        // 編集距離1の単語をリストアップ
+        dictionary.forEach((obj)=>{
+            obj.dl_found = obj.roman.find(word => distance(searchText,word) == 1)
+        });
+
+        let filtered = dictionary.filter(obj => obj.dl_found);
+        let dl_result = [];
+        // レーベンシュタインの結果をかなで格納
+        for(i=0;i<filtered.length;i++){
+            dl_result[i] = filtered[i].kana[0];
+        }
+
+        // 重複を削除
+        dl_result = [...new Set(dl_result)];
+
+        return dl_result;
     }
 
 
