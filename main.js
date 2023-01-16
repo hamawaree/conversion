@@ -9,6 +9,9 @@ window.addEventListener('load', () => {
         ["desu.",["です。","デス。","ﾃﾞｽ｡"]]
     ];
 
+    // toHiraganaを使えるようにする
+    let toHiragana = romajiConv.toHiragana;
+
     // 変換結果を管理する配列
     // 例: 'arr[0] = 3'は0番目のデータの変換結果は3番目ということを表す
     let arr = [];
@@ -17,6 +20,7 @@ window.addEventListener('load', () => {
         arr[i] = 0; 
     }
 
+    
     function dl_search(romanText){
         const searchText = romanText;
 
@@ -57,9 +61,10 @@ window.addEventListener('load', () => {
                 fixWindowPositionX: 0,
                 fixWindowPositionY: 0,
                 fixCandidateArray:[],
+                fixCandidateArrayKana:[],
 
                 // 前回の変換の文字数
-                prevLength: 0
+                prevLength: 0,
             }
         },
         methods: {
@@ -97,6 +102,10 @@ window.addEventListener('load', () => {
                 let fixTargetRoman = this.convResultArray[index][0];
                 this.fixCandidateArray = dl_search(fixTargetRoman);
 
+                for(i=0; i<this.fixCandidateArray.length; i++){
+                    this.fixCandidateArrayKana[i]  = toHiragana(this.fixCandidateArray[i]);
+                }
+                
 
                 // ホバーしたアイテムの座標を取得
                 var target_id = "target" + index;
@@ -117,6 +126,42 @@ window.addEventListener('load', () => {
             },
             changeConv(selectedTargetIndex, index){
                 this.convIndex[selectedTargetIndex] = index;
+            },
+
+            changeFix(selectedTargetIndex, index){
+                console.log(this.fixCandidateArray[index]);
+                this.convResultArray[selectedTargetIndex][0] = this.fixCandidateArray[index];
+                console.log(this.convResultArray)
+
+                romaji = this.fixCandidateArray[index];
+
+                let kana = toHiragana(this.fixCandidateArray[index]);
+                console.log(kana);
+
+                let URL = 'https://www.google.com/transliterate?langpair=ja-Hira|ja&text=' + kana;
+
+                fetch(URL)
+                    .then(response => response.text())
+                    .then(data => {
+                        // ここにURLのデータを取得した時の処理
+
+                        json = JSON.parse(data)
+                        //ローマ字を入れる
+                        for (let i = 0; i<json.length; i++){
+                            json[i][0] = romaji;
+                        }
+                        console.log(json);
+
+                        // 変換結果として得られた配列をこれまでの変換結果の該当位置に挿入する
+                        this.convResultArray[selectedTargetIndex] = json[0];
+                        console.log(this.convResultArray);
+
+                        for (let i = this.prevLength; i < this.convResultArray.length; i++){
+                            // 0 で初期化(一番最初の変換候補をとりあえず表示)
+                            this.convIndex[i] = 0; 
+                        }
+                    });
+
             },
 
             // 「変換」ボタンを押したとき呼び出し
