@@ -27,9 +27,9 @@ window.addEventListener('load', () => {
 
         let filtered = dictionary.filter(obj => obj.dl_found);
         let dl_result = [];
-        // レーベンシュタインの結果をかなで格納
+        // レーベンシュタインの結果をローマ字で格納
         for(i=0;i<filtered.length;i++){
-            dl_result[i] = filtered[i].kana[0];
+            dl_result[i] = filtered[i].roman[0];
         }
 
         // 重複を削除
@@ -92,7 +92,7 @@ window.addEventListener('load', () => {
                 // テスト用の修正候補の配列
                 this.fixCandidateArray = ["候補1","候補2","候補3","候補4"]
 
-                // dl_serchにわたす値を出す
+                // dl_serchにローマ字を渡す
                 console.log(this.convResultArray[index][0]);
                 let fixTargetRoman = this.convResultArray[index][0];
                 this.fixCandidateArray = dl_search(fixTargetRoman);
